@@ -19,7 +19,7 @@ s2 { font-size:larger; font-weight: bold; font-style: normal; text-decoration: n
 
 <span style="font-size:smaller;">[back to maratishe.github.io](http://maratishe.github.io/)</span>
 <hdr>Installing Hadoop into multiple Fedora 20 machines</hdr>
-Author: <s2>maratishe@gmail.com</s2> -- created <s1>140710</s1>
+Author: <s2>maratishe@gmail.com</s2> -- created <s1>141028</s1>
 
 Actually, the title should have said **...into mutiple FC20 VMs** but the setup will work on physical machines as well.  If you're testing, then there are several reasons why you actually want to test the Hadoop out in virtual environment.  The biggest one is *being able to go back and repeat step(s) when you fail or otherwise need to start over*. 
 
@@ -159,7 +159,7 @@ The first command will format all filesystem (possibly on all VMs) and the secon
 ```
 systemctl start hadoop-datanode
 
-````
+```
 
 
 
