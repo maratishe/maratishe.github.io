@@ -1,0 +1,127 @@
+<title>Installing Hadoop into multiple Fedora 20 machines</title>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
+<p><style> 
+em { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; } 
+strong { font-size:larger; font-weight: bold; text-decoration: none; }
+h1 { margin: 40px 0px 8px 0px; font-size: 20px; font-weight: bold; color: #000; padding: 3px 3px; border-bottom: 2px solid #000; background-color: #ddd;}
+em code { background-color:#555; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px; font-family: courier; }
+code { background-color:#299; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px; font-family: courier; }
+pre { background-color:#299; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px; font-family: courier;}
+hr { border: 1px solid #999; margin: 5px 0px 10px; }
+blockquote { border-left: 2px solid #555; margin: 5px 0px 5px 20px; padding: 3px 5px; color: #36A; }
+a { color:#f00; font-weight: bold; text-decoration: underline; }
+hdr { font-size: 22px; font-weight: bold; display:block;} /<em> headers </em>/
+pass { font-size: 14px; font-weight: bold; background-color:#49F; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px;} /<em> passwords </em>/
+uline { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; background-color:#ccc; }
+tr { display: block; position: relative; clear: both; height: 3px; }
+img { width: 60%; float: right; height: auto; border:0px; }
+s1 { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; background-color:#ccc; }
+s2 { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; background-color:#EF4; font-family: courier; } /<em> courier yellow bg </em>/
+</style>
+
+</p>
+<p><span style="font-size:smaller;"><a href="http://maratishe.github.io/">back to maratishe.github.io</a></span></p>
+<p><hdr>Installing Hadoop into multiple Fedora 20 machines</hdr>
+Author: <s2>maratishe@gmail.com</s2> -- created <s1>141028</s1></p>
+<p>Actually, the title should have said <strong>...into mutiple FC20 VMs</strong> but the setup will work on physical machines as well.  If you're testing, then there are several reasons why you actually want to test the Hadoop out in virtual environment.  The biggest one is <em>being able to go back and repeat step(s) when you fail or otherwise need to start over</em>. </p>
+<p>I did not arrive at this solution by myself. I built the 
+<a href="http://tinyurl.com/minicsBuild">mini XCP cloud based on MacMini</a> myself  but 
+<a href="http://hackecho.com/2014/04/hadoop-cluster-setup-instruction-with-fedora-20/">Hadoop installation</a> and 
+<a href="http://timothysc.github.io/blog/2013/09/14/hadoop-mapreduce/">the WordCount example MapReduce job</a> were adopted from instructions published by these other two sources.  I do clarify several points which were vague in the original source, in this manual.</p>
+<p>Quick Jumps:</p>
+<ol>
+<li><a href="#makevm">Making a Standard FC20 VM</a></li>
+<li><a href="#preparevm">Preparing the VM: Users, Passwordless SSH</a></li>
+<li><a href="#deploy">Deploy Hadoop on Multiple VMs</a></li>
+<li><a href="#run">Run an Example MapReduce Job (WordCount)</a></li>
+</ol>
+<p><span id="makevm"></span></p>
+<h1 id="making-a-standard-fc20-vm">Making a Standard FC20 VM</h1>
+<p>It is not hard to build a standard FC20 VM. I use a 
+<a href="http://tinyurl.com/minicsBuild">MacMini based XCP1.6 cloud</a> which can host up to 7 VMs. I use <code>xe</code> command line for general management but new VMs are easier installed from <em>XenServer GUI</em>.  You can use a very small 
+<a href="https://dl.fedoraproject.org/pub/fedora/linux/releases/20/Fedora/x86_64/iso/">Fedora-20-x86_64-netinst.iso</a> and 
+<a href="files/kickstart-minimal-fedora20.txt">kickstart file</a> (you need to host it somewhere -- I normally run a temp PHP webserver from command line).  Your param line in <em>New VM</em> GUI is then:</p>
+<pre><code>minimal utf8 nogpt noipv6 ks=http://YOUR.HOST.PATH/kickstart-minimal-fedora20.txt
+</code></pre><p>When ready, it is best if you <code>vm-export</code> it using the <code>xe</code> CLI into an <code>.xva</code> file and store it somewhere save. It will take about <em>2Gbytes</em> and its use via <code>vm-import</code> will take 2-5 minutes on average, but it is still worth to install new VMs from ready <code>.xva</code> templates than do a fresh install each time. </p>
+<p><span id="preparevm"></span></p>
+<h1 id="preparing-the-vm-static-ip-users-passwordless-ssh">Preparing the VM: Static IP, Users, Passwordless SSH</h1>
+<p>If you followed the above instructions, then you have a minimum installation. Bring up the minimum development tools (one line) before walking the preparation procedure below:</p>
+<pre><code>yum install git cmake build-essential libgcrypt11-dev libjson0-dev libcurl4-openssl-dev libexpat1-dev libboost-filesystem-dev libboost-program-options-dev binutils-dev net-tools java php php-mbstring openssl
+</code></pre><p><strong>(1) Static IP</strong> You have to make sure your VM has <em>static IP</em> even if you have DHCP on your network.  This will make automation very easy later on.  I will not show you how to write automation scripts, but will give some hints in that direction.  To set a <em>static IP</em> run these as <code>root</code> (replace large caps with your information):</p>
+<pre><code>ifdown eth0
+ifup eth0
+ifconfig eth0 IPADDRESS netmask MASK
+route add default gw GATEWAY
+echo "nameserver NAMESERVER" > /etc/resolv.conf
+</code></pre><p><strong>(2) Users</strong> Your VM probably has only <code>root</code>. Add a normal user but make it a <em>sudoer</em> with <code>usermod -G wheel ACCOUNT</code>.  We do not have to care about hadoop users as those are installed automatically by <code>yum</code> later on.</p>
+<p><strong>(3) Passwordless SSH</strong> This is actually where VMs are better than physical machines. On The latter you have to send keys in all-to-all combinations (unless you clone your machines).  In VMs, we exchange keys once and they will stay in effect when Hadoop runs on multiple machines. </p>
+<p>To get the key (each for root and ACCOUNT users) -- the command will try to interact with you, just ignore it by clicking SPACES 3 or 4 times:</p>
+<pre><code>ssh-keygen -t rsa
+</code></pre><p>You have your public key in <code>~/.ssh/id_rsa.pub</code>. You need to add it to authorized keys to another user using: </p>
+<pre><code>cat PATH.TO.A's.KEY >> B's.HOME/.ssh/authorized_keys
+</code></pre><p>With <em>A</em> being root and <em>B</em> being the newly created sudoer account, you need to exchange the keys in all combinations: <em>AA</em>, <em>AB</em>, <em>BA</em>, and <em>BB</em>.  Given that <em>B</em> does not have access to root's <code>~/.ssh/</code>, that one key you will have to copy somewhere else. </p>
+<p>SSH is picky about access permissions on keys, so, for each user run:</p>
+<pre><code>chmod 600 ~/.ssh/authorized_keys
+</code></pre><p>Finally, just to be sure, uncomment the following two lines in <code>/etc/ssh/sshd_config</code> (as root):</p>
+<pre><code>RSAAuthentication yes
+PubkeyAuthentication yes
+</code></pre><p>This work does not take too much time, but if you like, you have take a <code>.xva</code> snapshot at this stage as well. I keep these for projects other than Hadoop.</p>
+<p><span id="install"></span></p>
+<h1 id="preparing-the-vm-installing-hadoop">Preparing the VM: Installing Hadoop</h1>
+<p>Finally, <em>install Hadoop</em> -- you need to have your network set up and running to be able to do that:</p>
+<pre><code>yum install hadoop-common hadoop-common-native hadoop-hdfs hadoop-mapreduce hadoop-mapreduce-examples hadoop-yarn
+</code></pre><p>This will change your VM considerably -- install new users, Hadoop and MapReduce software, etc.  Similarly, the following step will introduce irreversible changes. So, it is best if you take an <code>.xva</code> snapshot of this state. Mine are about <em>3Gbytes</em> in size.</p>
+<p><span id="deploy"></span></p>
+<h1 id="deploy-hadoop-on-multiple-vms">Deploy Hadoop on Multiple VMs</h1>
+<p>So, at this point we have a VM template which has Hadoop and has been prepared <strong>but not yet configured</strong> for Hadoop use.  This is what we will do here.</p>
+<p><strong>(1) Drop all firewalls</strong> which are a huge nuisance in recent versions of Fedora.  You can disable <em>firewalld</em> service, but I normally remove it:</p>
+<pre><code>service iptables stop
+service iptables disable
+service firewalld stop
+yum remove firewalld
+</code></pre><p><strong>(2) AUTO: Configure the hosts</strong> Just to be clear, on my side I use a script to accomplish all the below work in one big swoop.  I use a <em>text-hash</em> notation for that. All the below stuff is in this notation. Let us assume that we have <em>3 VMs</em>: one <em>master</em> and two <em>data</em> VMs (<em>data1</em> and <em>data2</em>) which I can define as (ignore <em>section</em> key for now):</p>
+<pre><code>section=hosts,master=192.168.0.10,data1=192.168.0.11,data2=192.168.0.12
+</code></pre><p>Hadoop in recent versions is picky about hostnames and IPs which is why each machine has to register the symbolic names for each other (you can completely replace current contents of all files):</p>
+<ul>
+<li>own name to <code>/etc/hostname</code> (just the name)  and <code>HOSTNAME=master</code> to <code>/etc/sysconfig/network</code> (replace <em>master</em> with <em>data1</em> and others in other VMs)</li>
+<li>mapping of names to IPs for all VMs in format <code>IP [tab] NAME</code> per line to <code>/etc/hosts</code></li>
+</ul>
+<p><strong>(3) AUTO: Setup Hadoop config</strong> which is all in XML files in <code>/etc/hadoop</code>.  We will change 2 files in which we will change values in <code>core-site.xml</code> and <code>mapred-site.xml</code> and will completely rewrite <code>hdfs-site.xml</code>.  The <em>key-value</em> pair in XML files is written in <em>name</em> and <em>value</em> pairs of XML tags (those guys too old to switch to JSON?), while in my setup file I write them in simple <em>text-hash</em>.</p>
+<p>First, I <code>chdir /etc/hadoop</code> and change 2 values in 2 files (<code>chdir</code> and <code>fileedit</code> are the actions for my script): </p>
+<pre><code>section=setup,action=chdir,dir=/etc/hadoop
+section=setup,action=filedit,file=core-site.xml,key=fs.default.name,value=hdfs://master:9000
+section=setup,action=filedit,file=mapred-site.xml,key=mapred.job.tracker,value=hdfs://master:9001
+</code></pre><p>Note that the URLs are in symbolic host names, not IP addresses. Finally, you need to rewrite the <code>hdfs-site.xml</code> file which defines distributed system (hence the wierd URLs) for all nodes:</p>
+<pre><code>section=setup,action=fileadd,clear=yes,file=hdfs-site.xml,key=dfs.replication,value=3
+section=setup,action=fileadd,file=hdfs-site.xml,key=hadoop.tmp.dir,value=/var/cache/hadoop-hdfs/${user.name}
+section=setup,action=fileadd,file=hdfs-site.xml,key=dfs.namenode.name.dir,value=file:///var/cache/hadoop-hdfs/${user.name}/dfs/namenode
+section=setup,action=fileadd,file=hdfs-site.xml,key=dfs.namenode.checkpoint.dir,value=file:///var/cache/hadoop-hdfs/${user.name}/dfs/secondarynamenode
+section=setup,action=fileadd,file=hdfs-site.xml,key=dfs.datanode.data.dir,value=file:///var/cache/hadoop-hdfs/${user.name}/dfs/datanode
+</code></pre><p>Note that the first line has <code>clear=yes</code> to tell the script that it has to remove all current key-values inside the <em>configuration</em> tag.  My script does not actually parse the DOM of XML files, my PHP simple processes it as text -- too much hassle to go into the DOM, in fact I use JSON in my normal programming.</p>
+<p><strong>(4) Hadoop hosts</strong> is similar to system hosts, only this time it is done so that Hadoop can know its hosts.  Obviously, Hadoop hosts can be a subset of all the symbolic names known to the machine.  For this, put <em>master</em> into <code>/etc/hadoop/masters</code> and <em>data1</em> and <em>data2</em> on two lines into <code>/etc/hadoop/slaves</code>.  In my script this is defined as:</p>
+<pre><code>section=setup,action=hosts,masters=master,slaves=data1:data2
+</code></pre><p>For convinience, the entire configuration file is in 
+<a href="files/hadoop.setup.txt">this text file</a> just in case you want to build your own deploy script.</p>
+<p><strong> (5) Run nodes</strong> is the final step to get Hadoop up and running. On <em>master</em> run as <code>root</code>:</p>
+<pre><code>hdfs-create-dirs
+systemctl start hadoop-namenode hadoop-datanode hadoop-nodemanager hadoop-resourcemanager
+</code></pre><p>The first command will format all filesystem (possibly on all VMs) and the second one will start all local services.  On each <em>data1</em> and <em>data1</em> run the simpler single command:</p>
+<pre><code>systemctl start hadoop-datanode
+</code></pre><p><span id="run"></span></p>
+<h1 id="run-an-example-mapreduce-job-wordcount-">Run an Example MapReduce Job (WordCount)</h1>
+<p>On <em>master</em>, as <code>root</code>, download the 
+<a href="files/hadoop-tests.rar">sample MapReduce job</a> (based on US Constitution), open the archive and do the following. You can also get the source directly from its author (not me) using <code>git clone https://github.com/timothysc/hadoop-tests.git</code>.  Let's create filesystem for our jobs first:</p>
+<pre><code>runuser hdfs -s /bin/bash /bin/bash -c "hadoop fs -mkdir /user/platypus"
+runuser hdfs -s /bin/bash /bin/bash -c "hadoop fs -chown platypus /user/platypus"
+</code></pre><p>Assuming that the other (in addition to <code>root</code>) user you created is <code>platypus</code> (this is my own account). Now, login as user <code>su - platypus</code> and run:</p>
+<pre><code>cd hadoop-tests/WordCount
+hadoop fs -put constitution2.txt /user/platypus
+mvn-rpmbuild package 
+hadoop jar wordcount.jar org.myorg.WordCount /user/platypus /user/platypus/output
+</code></pre><p>The output should go to <code>/user/platypus/output</code> but that directory exists in the virtual Hadoop filesystem, from which you need to extract it using <code>hadoop fs -get /user/platypus/output</code>, after which the folder will land in your current directory. See <code>output/part_*</code> for results in plain text.</p>
+<p>Other useful command (setting global replication ratio and checking how your file is distributed):</p>
+<pre><code>hadoop fs -setrep 3
+hadoop fsck /user/platypus/constitution.txt -blocks -racks
+</code></pre><p>That's all.</p>
+<p><br><hr>
+ Written with <a href="http://dillinger.io">dillinger.io</a> -- a Markdown WYSIWYG for GitHub Pages.</p>
