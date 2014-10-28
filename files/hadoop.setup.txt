@@ -1,0 +1,13 @@
+# system hosts
+section=hosts,master=192.168.0.10,data1=192.168.0.11,data2=192.168.0.12
+# edit files in /etc/hadoop
+section=setup,action=chdir,dir=/etc/hadoop
+section=setup,action=filedit,file=core-site.xml,key=fs.default.name,value=hdfs://master:9000
+section=setup,action=filedit,file=mapred-site.xml,key=mapred.job.tracker,value=hdfs://master:9001
+section=setup,action=fileadd,clear=yes,file=hdfs-site.xml,key=dfs.replication,value=3
+section=setup,action=fileadd,file=hdfs-site.xml,key=hadoop.tmp.dir,value=/var/cache/hadoop-hdfs/${user.name}
+section=setup,action=fileadd,file=hdfs-site.xml,key=dfs.namenode.name.dir,value=file:///var/cache/hadoop-hdfs/${user.name}/dfs/namenode
+section=setup,action=fileadd,file=hdfs-site.xml,key=dfs.namenode.checkpoint.dir,value=file:///var/cache/hadoop-hdfs/${user.name}/dfs/secondarynamenode
+section=setup,action=fileadd,file=hdfs-site.xml,key=dfs.datanode.data.dir,value=file:///var/cache/hadoop-hdfs/${user.name}/dfs/datanode
+# configure Hadoop hosts in masters and slaves in /etc/hadoop
+section=setup,action=hosts,masters=master,slaves=data1:data2
