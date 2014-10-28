@@ -5,7 +5,8 @@ em code { background-color:#555; color:#fff; padding: 2px; padding-left: 4px; pa
 code { background-color:#f00; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px; font-family: courier; }
 hr { border: 1px solid #999; margin: 5px 0px 10px; }
 blockquote { border-left: 2px solid #555; margin: 5px 0px 5px 20px; padding: 3px 5px; color: #36A; }
-a { color:#f00; font-weight: bold; text-decoration: underline; }
+a { color:#6AF; font-weight: bold; text-decoration: underline; }
+a:hover { color: #48F; }
 hdr { font-size: 22px; font-weight: bold; display:block;} /* headers */
 pass { font-size: 14px; font-weight: bold; background-color:#49F; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px;} /* passwords */
 uline { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; background-color:#ccc; }
