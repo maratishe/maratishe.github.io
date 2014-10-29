@@ -1,6 +1,12 @@
 <title>maratishe at github</title>
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
-<script type="text/javascript" src="http://maratishe.github.io/jquery.min.js"></script>
-<script type="text/javascript" src="http://maratishe.github.io/jquery.social.js"></script>
-<script type="application/x-social-share-privacy-settings">{"path_prefix":"http://maratishe.github.io/","layout":"box"}</script>
-<div data-social-share-privacy='true'></div>
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="share.min.js"></script>
+<div id="sharebuttons"></div>
+<script>
+$( document).ready( function() { 
+	var share = new Share( '.sharebuttons')
+	//share.open();
+	//share.toggle();
+})
+</script>
