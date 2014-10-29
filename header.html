@@ -2,10 +2,20 @@
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript" src="share.min.js"></script>
-<div id="sharebuttons"></div>
+<div style="position:fixed;top:0px;right:5px;width:auto;height:auto;z-index:100000;" id="sharebuttons"></div>
 <script>
 $( document).ready( function() { 
-	var share = new Share( '.sharebuttons')
+	var share = new Share( '#sharebuttons', { 
+		title: $.trim( $( 'title').text()),
+		description: $.trim( $( 'title').text()) + ' at http://maratishe.github.io',
+		ui: { flyout: 'bottom left'},
+		networks: { 
+			google_plus: { enabled: true},
+			twitter: { enabled: true},
+			facebook: { enabled: true},
+			email: { enabled: true, to: 'maratishe@gmail.com', title: 'Comment to ' + $.trim( $( 'title').text()), description: "Marat, \n\n Concerning your GithubPage '" + $.trim( $( 'title').text()) + "'...\n\n"}
+		}
+	})
 	//share.open();
 	//share.toggle();
 })
