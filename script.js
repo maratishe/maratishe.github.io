@@ -1,7 +1,7 @@
 $( document).ready( function() { 
 	var share = new Share( '#sharebuttons', { 
 		title: $.trim( $( 'title').text()),
-		description: 'Migrated to GithubPages. First time to have full control over what the blog looks and behaves like. http://maratishe.github.io',
+		description: 'Migrated to GithubPages. First time to have full control over what the blog looks and behaves like. ',
 		ui: { flyout: 'bottom left'},
 		networks: { 
 			google_plus: { enabled: true, url: document.location.href},
