@@ -1,6 +1,6 @@
 <?php
 set_time_limit( 0);
-ob_implicit_flush( 1);
+ob_implicit_flush( 1);		
 //ini_set( 'memory_limit', '4000M');
 for ( $prefix = is_dir( 'ajaxkit') ? 'ajaxkit/' : ''; ! is_dir( $prefix) && count( explode( '/', $prefix)) < 4; $prefix .= '../'); if ( ! is_file( $prefix . "env.php")) $prefix = '/web/ajaxkit/'; if ( ! is_file( $prefix . "env.php")) die( "\nERROR! Cannot find env.php in [$prefix], check your environment! (maybe you need to go to ajaxkit first?)\n\n");
 if ( is_file( 'requireme.php')) require_once( 'requireme.php'); else foreach ( array( 'functions', 'env') as $k) require_once( $prefix . "$k.php"); clinit(); 
@@ -9,12 +9,16 @@ if ( is_file( 'requireme.php')) require_once( 'requireme.php'); else foreach ( a
 
 $H = array(); $TAGS = tth( 'all=0');
 foreach ( flget( '.', '', '', 'md') as $file) {
-	$L = ttl( $file, ' '); if ( ! is_numeric( $L[ 0]) || count( $L) < 2) continue; // not my file
-	$date = $L[ 0];
-	$L = explode( '.', $file); lpop( $L); $v = implode( '.', $L); $L = explode( ' ', $v); lshift( $L); $v = implode( ' ', $L);
-	$L = ttl( $v, '--'); $tags = array(); while ( count( $L) > 1) lpush( $tags, lpop( $L)); $title = lshift( $L);
-	$L = explode( '.', $file); lpop( $L); lpush( $L, 'html'); $html = implode( '.', $L); if ( ! is_file( $html)) continue; // no HTML, probably temp file  
-	$L = explode( '.', $file); lpop( $L); lpush( $L, 'pdf'); $pdf = implode( '.', $L); 
+	$L = ttl( lshift( ttl( $file, ' ')), '.'); if ( ! is_numeric( $L[ 0])) continue; // not my file
+	$date = $L[ 0]; extract( fpathparse( $file)); // fileroot, filename
+	$bad = '  '; $goodroot = str_replace( '--', '_', $fileroot); 
+	for ( $i = 0; $i < strlen( $bad); $i++) $goodroot = str_replace( substr( $bad, $i, 1), '.', $goodroot);
+	for ( $i = 0; $i < 3; $i++) $goodroot = str_replace( '..', '.', $goodroot);
+	$goodroot = str_replace( '._.', '_', $goodroot);
+	$map = array(); foreach ( ttl( 'md,html,pdf') as $ext) if ( is_file( "$fileroot.$ext")) $map[ $ext] = "$fileroot.$ext";
+	foreach ( $map as $ext => $file2) { $c = 'mv ' . strdblquote( $file2) . ' ' . strdblquote( "$goodroot.$ext"); `$c`; $map[ $ext] = "$goodroot.$ext"; }
+	$tags = ttl( $goodroot, '_'); $title = str_replace( '.', ' ', lshift( $tags));
+	$html = null; $pdf = null; $file = $map[ 'md']; foreach ( $map as $ext => $file2) $$ext = $file2;
 	foreach ( $tags as $tag) { htouch( $TAGS, $tag, 0, false, false); $TAGS[ $tag]++; }; $TAGS[ 'all']++;
 	lpush( $H, compact( ttl( 'date,title,tags,file,html,pdf')));
 }

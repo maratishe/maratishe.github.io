@@ -1,7 +1,9 @@
 <title>Installing Hadoop into multiple Fedora 20 machines</title>
+<header>
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript" src="share.js"></script>
+</header>
 <div style="position:fixed;top:0px;right:5px;width:auto;height:auto;z-index:100000;" id="sharebuttons"></div>
 <script>
 $( document).ready( function() { 
@@ -19,6 +21,10 @@ $( document).ready( function() {
 	})
 	//share.open();
 	//share.toggle();
+	$( 'header')
+	.append( '<meta property="og.title" content="' . $.trim( $( 'title').text()) . '"/>' . "\n";
+	.append( '<meta property="og.image" content="http://maratishe.github.io/myphoto.jpg"/>' . "\n";
+	.append( '<meta property="og.description" content="A Github Page on "' . $( 'title').text() . '" at  maratishe.github.io"/>' . "\n";
 })
 </script>
 <p><style> 

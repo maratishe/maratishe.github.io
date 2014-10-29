@@ -127,7 +127,7 @@ ShareUtils = (function() {
     if (qs) {
       qs = "?" + qs;
     }
-    console.log( url, qs);
+    //console.log( url, qs);
     return window.open(url + qs, 'targetWindow', "toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,left=" + popup.left + ",top=" + popup.top + ",width=" + popup.width + ",height=" + popup.height);
   };
 
@@ -345,7 +345,7 @@ Share = (function(_super) {
 
   Share.prototype.network_pinterest = function() {
     return this.popup('https://www.linkedin.com/cws/share', {
-      url: this.config.networks.linkedin.source
+      url: this.config.networks.linkedin.url
     });
     
   };
