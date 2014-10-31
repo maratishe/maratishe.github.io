@@ -16,11 +16,16 @@ foreach ( flget( '.', '', '', 'md') as $file) {
 	for ( $i = 0; $i < 3; $i++) $goodroot = str_replace( '..', '.', $goodroot);
 	$goodroot = str_replace( '._.', '_', $goodroot);
 	$map = array(); foreach ( ttl( 'md,html,pdf') as $ext) if ( is_file( "$fileroot.$ext")) $map[ $ext] = "$fileroot.$ext";
-	foreach ( $map as $ext => $file2) { $c = 'mv ' . strdblquote( $file2) . ' ' . strdblquote( "$goodroot.$ext"); `$c`; $map[ $ext] = "$goodroot.$ext"; }
+	foreach ( $map as $ext => $file2) { $c = 'mv ' . strdblquote( $file2) . ' ' . strdblquote( "$goodroot.$ext"); if ( $file2 != "$goodroot.$ext") `$c`; $map[ $ext] = "$goodroot.$ext"; }
 	$tags = ttl( $goodroot, '_'); $title = str_replace( '.', ' ', lshift( $tags));
 	$html = null; $pdf = null; $file = $map[ 'md']; foreach ( $map as $ext => $file2) $$ext = $file2;
 	foreach ( $tags as $tag) { htouch( $TAGS, $tag, 0, false, false); $TAGS[ $tag]++; }; $TAGS[ 'all']++;
-	lpush( $H, compact( ttl( 'date,title,tags,file,html,pdf')));
+	lpush( $H, compact( ttl( 'date,title,tags,file,html,pdf'))); if ( ! $html) continue;
+	// upgrade the html file
+	$L = file( $html); $L2 = file( 'header.html'); $out = fopen( $html, 'w');
+	fwrite( $out, "<title>$title</title>\n"); foreach ( $L2 as $line) fwrite( $out, $line);
+	while ( count( $L) && strpos( trim( lfirst( $L)), '<p><style>') === false) lshift( $L);   
+	fwrite( $out, "\n"); foreach ( $L as $v) fwrite( $out, $v); fclose( $out);
 }
 $lines = file( 'index.html'); $out = fopen( 'index2.html', 'w');
 foreach ( $lines as $line) {

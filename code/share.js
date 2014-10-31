@@ -358,7 +358,7 @@ Share = (function(_super) {
   };
 
   Share.prototype.inject_icons = function() {
-    return this.inject_stylesheet( "./styles/share.css");
+    return this.inject_stylesheet( "code/share.css");
   };
 
   Share.prototype.inject_fonts = function() {
