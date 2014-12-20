@@ -27,6 +27,15 @@ foreach ( flget( '.', '', '', 'md') as $file) {
 	while ( count( $L) && strpos( trim( lfirst( $L)), '<p><style>') === false) lshift( $L);   
 	fwrite( $out, "\n"); foreach ( $L as $v) fwrite( $out, $v); fclose( $out);
 }
+foreach ( flget( '.', '', '', 'html') as $file) {
+	extract( fpathparse( $file)); if ( is_file( "$fileroot.md")) continue; // old format
+	$L = ttl( $fileroot, '.'); $date = lshift( $L); $tags = $L; if ( ! is_numeric( $date)) continue; // date, tags
+	$s = implode( '', file( $file)); $L = ttl( $s, '<hdr>'); lshift( $L); $L = ttl( lshift( $L), '</hdr>'); $title = trim( lshift( $L)); // title
+	$out = fopen( "$fileroot.htm", 'w'); fwrite( $out, "<title>$title</title>\n"); fwrite( $out, implode( '', file( "header.html")) . "\n"); fwrite( $out, $s); fclose( $out); // this is the actual file
+	if ( is_file( "$fileroot.pdf")) $pdf = "$fileroot.pdf"; else $pdf = ''; $html = "$fileroot.htm"; // pdf, html
+	foreach ( $tags as $tag) { htouch( $TAGS, "$tag", 0, false, false); $TAGS[ "$tag"]++; }
+	lpush( $H, compact( ttl( 'date,file,html,pdf,title,tags')));
+}
 $lines = file( 'index.html'); $out = fopen( 'index2.html', 'w');
 foreach ( $lines as $line) {
 	if ( strpos( $line, '<div id="tags"') !== false) { // categories   -- continue
@@ -42,7 +51,7 @@ foreach ( $lines as $line) {
 		$S = '<div style="position:relative;margin:2px 0px;width:100%;height:auto;font-size:larger;color:#000;">';
 		$S .= '<strong>' . $date . '</strong> ';
 		$S .= '<a target="_blank" href="' . $html . '">' . $title . '</a> ';
-		if ( is_file( $pdf)) $S .= '(<a target="_blank" style="font-size:smaller;" href="' . $pdf . '">pdf</a>) ';
+		if ( $pdf && is_file( $pdf)) $S .= '(<a target="_blank" style="font-size:smaller;" href="' . $pdf . '">pdf</a>) ';
 		if ( $tags) { 
 			$S .= ' <span style="font-size:12px;">tags:';
 			foreach ( $tags as $tag) $S .= ' <a class="local" onclick="javascript:return false;">' . $tag . '</a>';
@@ -56,4 +65,4 @@ foreach ( $lines as $line) {
 }
 fclose( $out); `rm -Rf index.html`; `mv index2.html index.html`;
 
-?>
+?>                       
