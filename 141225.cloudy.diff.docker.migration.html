@@ -1,0 +1,595 @@
+<style> 
+em { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; } 
+strong { font-size:larger; font-weight: bold; text-decoration: none; }
+h1 { margin: 40px 0px 8px 0px; font-size: 20px; font-weight: bold; color: #000; padding: 3px 3px; border-bottom: 2px solid #000; background-color: #ddd;}
+em code { background-color:#555; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px; font-family: courier; }
+code { background-color:#f00; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px; font-family: courier; }
+hr { border: 1px solid #999; margin: 5px 0px 10px; }
+blockquote { border-left: 2px solid #555; margin: 5px 0px 5px 20px; padding: 3px 5px; color: #36A; }
+a { color:#f00; font-weight: bold; text-decoration: underline; }
+hdr { font-size: 22px; font-weight: bold; display:block;} /</b>  headers <b>/
+pass { font-size: 14px; font-weight: bold; background-color:#49F; color:#fff; padding: 2px; padding-left: 4px; padding-right: 4px; border-radius: 4px;} /</b>  passwords <b>/
+uline { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; background-color:#ccc; }
+tr { display: block; position: relative; clear: both; height: 3px; }
+img { width: 60%; float: right; height: auto; border:0px; }
+s1 { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; background-color:#ccc; }
+s2 { font-size:larger; font-weight: bold; font-style: normal; text-decoration: none; background-color:#EF4; font-family: courier; } /</b>  courier yellow bg <b>/
+</style>
+
+<span style="font-size:smaller;"> <a target="_blank" href="http://maratishe.github.io">maratishe.github.io</a> </span> <hdr>Cloudy会 第4回 (1.10＠天神、13:00～16:00)&nbsp; DIFF法：ファイル、ファイルシステム、バイナリなどの差分</hdr>
+Author: <s2>maratishe@gmail.com</s2> -- created <s1>141225</s1>
+
+<br><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG></o:AllowPNG>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin"><br></span></p><p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">下記の通り、「</span><span lang="EN-US">DIFF</span><span style="font-family:
+&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">法：ファイル、ファイルシステム、バイナリなどの差分」</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">のテーマでクラウディ会の第</span><span lang="EN-US">4</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">回＠天神を開催しますので、是非ご参加</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">くださいますようご案内申し上げます。</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">---</span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">※</span> <span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">このメーリングリストから解除したい方、</span><span lang="EN-US">"unsubscribe"</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">を含めた</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">　文章でこのメールに回答してください</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">=================================</span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">クラウディ会</span><span lang="EN-US"> (</span><span style="font-family:
+&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">第</span><span lang="EN-US">4</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">回、日本語、</span><span lang="EN-US">1.10</span><span style="font-family:
+&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">＠天神</span><span lang="EN-US"> ) 13:00</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">～</span><span lang="EN-US">16:00 </span></p>
+
+<p class="MsoNormal"><span lang="EN-US">=================================</span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">●</span> <span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">クラウディ会の目的：クラウドにおける或る具体的な問題を解決すること</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">●</span><span lang="EN-US"> (</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;
+mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;
+mso-hansi-theme-font:minor-latin">第４回の）課題：</span><span lang="EN-US">DIFF</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">法：ファイル、ファイルシステム、バイナリなどの差分</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">●</span> <span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">概要</span><span lang="EN-US"> :</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">---</span></p>
+
+<p class="MsoNormal"><span lang="EN-US">DIFF/PATCH</span><span style="font-family:
+&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">の技術が基盤ではあるが、最近、テキスト型</span><span lang="EN-US">diff</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">と共に、</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">ファイルシステム</span><span lang="EN-US">diff</span><span style="font-family:
+&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">（</span><span lang="EN-US">Docker</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">）、バイナリ</span><span lang="EN-US">diff</span><span style="font-family:
+&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">などの新たな使用方法が</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">出てきている．特に、クラウド時代には、バイナリ</span><span lang="EN-US">diff</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">の技術が、</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">マイグレーションを行う際に、転送量の減少に効くので、課題として最近</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">はやっている．本クラウディ会では、テキスト・ファイルシステム・バイナリ</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">の３つの種類を勉強・演習した上、「マイグレーション量の減少」の課題に</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">解決方法を探していく．</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">---</span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">●</span> <span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">日程：</span><span lang="EN-US">1</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;
+mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;
+mso-hansi-theme-font:minor-latin">月</span><span lang="EN-US">10</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">日（土）</span><span lang="EN-US">13:00</span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">～</span><span lang="EN-US">16:00</span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">　　・</span><span lang="EN-US">13:00</span><span style="font-family:
+&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">～</span><span lang="EN-US">14:30<span style="mso-spacerun:yes">&nbsp;&nbsp; </span></span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">講義、体験、演習</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">　　・</span><span lang="EN-US">14:30</span><span style="font-family:
+&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">～　休憩</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">　　・休憩中後～</span><span lang="EN-US">16:00 </span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:Century;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Century;mso-hansi-theme-font:minor-latin">演習のつづき、議論・結論探し</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">●</span> <span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">会場：九工大＠天神</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">地図・案内：</span><span lang="EN-US">https://www.kyutech.ac.jp/facilities/satellite-campus</span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">●</span> <span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">参加形式：無料ですが、参加登録をお願いします</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">●</span> <span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">申込み方法：以下から１つを選んでください</span><span lang="EN-US"></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>connpass:
+ <a target="_blank" href="http://cloudy.connpass.com/event/10802</b>  ">http://cloudy.connpass.com/event/10802  </a> <br></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ATND:
+ <a target="_blank" href="undefined">https://atnd.org/events/60614  </a> <br></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Zusaar:
+ <a target="_blank" href="http://www.zusaar.com/event/7757003</b>  ">http://www.zusaar.com/event/7757003  </a> <br></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>EventRegist:
+ <a target="_blank" href="http://eventregist.com/e/sz4pnvzrllOe</b>  ">http://eventregist.com/e/sz4pnvzrllOe  </a> <br></span></p>
+
+<p class="MsoNormal"><span lang="EN-US"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Doorkeeper:
+ <a target="_blank" href="http://203bf11cdc9fe828307f116a01.doorkeeper.jp/events/18989</b>  ">http://203bf11cdc9fe828307f116a01.doorkeeper.jp/events/18989  </a> <br></span></p>
+
+<p class="MsoNormal"><span lang="EN-US">---</span></p>
+
+<p class="MsoNormal"><span style="font-family:&quot;ＭＳ 明朝&quot;,&quot;serif&quot;;mso-ascii-font-family:
+Century;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;ＭＳ 明朝&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Century;mso-hansi-theme-font:
+minor-latin">この情報を流通する辺りご協力を頂ければ幸いです。</span><span lang="EN-US"></span></p>
+
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves></w:TrackMoves>
+  <w:TrackFormatting></w:TrackFormatting>
+  <w:PunctuationKerning></w:PunctuationKerning>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF></w:DoNotPromoteQF>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL></w:SpaceForUL>
+   <w:BalanceSingleByteDoubleByteWidth></w:BalanceSingleByteDoubleByteWidth>
+   <w:DoNotLeaveBackslashAlone></w:DoNotLeaveBackslashAlone>
+   <w:ULTrailSpace></w:ULTrailSpace>
+   <w:DoNotExpandShiftReturn></w:DoNotExpandShiftReturn>
+   <w:AdjustLineHeightInTable></w:AdjustLineHeightInTable>
+   <w:BreakWrappedTables></w:BreakWrappedTables>
+   <w:SnapToGridInCell></w:SnapToGridInCell>
+   <w:WrapTextWithPunct></w:WrapTextWithPunct>
+   <w:UseAsianBreakRules></w:UseAsianBreakRules>
+   <w:DontGrowAutofit></w:DontGrowAutofit>
+   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark>
+   <w:EnableOpenTypeKerning></w:EnableOpenTypeKerning>
+   <w:DontFlipMirrorIndents></w:DontFlipMirrorIndents>
+   <w:OverrideTableStyleHps></w:OverrideTableStyleHps>
+   <w:UseFELayout></w:UseFELayout>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"></m:mathFont>
+   <m:brkBin m:val="before"></m:brkBin>
+   <m:brkBinSub m:val="&#45;-"></m:brkBinSub>
+   <m:smallFrac m:val="off"></m:smallFrac>
+   <m:dispDef></m:dispDef>
+   <m:lMargin m:val="0"></m:lMargin>
+   <m:rMargin m:val="0"></m:rMargin>
+   <m:defJc m:val="centerGroup"></m:defJc>
+   <m:wrapIndent m:val="1440"></m:wrapIndent>
+   <m:intLim m:val="subSup"></m:intLim>
+   <m:naryLim m:val="undOvr"></m:naryLim>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"></w:LsdException>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"></w:LsdException>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"></w:LsdException>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"></w:LsdException>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"></w:LsdException>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"></w:LsdException>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"></w:LsdException>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"></w:LsdException>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"></w:LsdException>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"></w:LsdException>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /</b>  Style Definitions <b>/
+ table.MsoNormalTable
+	{mso-style-name:標準の表;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+	mso-para-margin:0mm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Century","serif";
+	mso-ascii-font-family:Century;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Century;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
+</style>
+<![endif]--><br><br>
+
+<br><hr>
+Written with my own local WYSIWYG editor. 
