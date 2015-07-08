@@ -17,4 +17,7 @@ $( document).ready( function() {
 	.append( '<meta property="og.title" content="' + $.trim( $( 'title').text()) + '"/>' + "\n")
 	.append( '<meta property="og.image" content="http://maratishe.github.io/myphoto.jpg"/>' + "\n")
 	.append( '<meta property="og.description" content="A Github Page on "' + $( 'title').text() + '" at  maratishe.github.io"/>' + "\n");
+	// make sure that each image is floated only after , not before
+	$( 'img').css({ clear: 'left'});
+	$( 'h1').css({ 'margin-top': '50px', clear: 'both'});
 })
