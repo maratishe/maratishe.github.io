@@ -3452,7 +3452,7 @@ return a;}
 
 
 
-
+var DBOX={"appkey":"zywhucvf8y0hucq","appsecret":"tmrag1tc95n4lff","reqauth":{"token":"mJ995vhuzUeFEePj","tokensecret":"htKegK3Mz5uyrQl6"},"accauth":{"token":"yfi1dgqh5bhbwr0y","tokensecret":"9maj10rab1cayhx","uid":"200306293"}};
 
 
 
@@ -3466,11 +3466,11 @@ $.io.style={section:{margin:'20px 0px 5px 2%',color:$.io.defs.colors.bg,'font-si
 
 
 
-$(document).ready(function(){var $body=$('body').empty().css({width:'100%',height:'100%',margin:'0px'});var $top=$body.ioover(true).css({'font-size':'25px',height:'1.2em'});var $bottom=$body.ioover(true);$bottom.iovstretch();var mapsapi=null;$bottom.googlemapsapi(function(api){mapsapi=api;},12);var from,to;var route=function(){mapsapi.route(from.value(),to.value(),function(info){})}
-$top.ioover().css({width:'49%'}).textbox('from',function(from2){from=from2;from.onenter(route);},'from','#000,0.2',{'font-size':'25px'},true);$top.ioover().css({left:'50%',width:'49%'}).textbox('to',function(to2){to=to2;to.onenter(route);},'to','#000,0.2',{'font-size':'25px'},true);})
 
 
 
+$(document).ready(function(){$('body').dropbox(DBOX,function(dbox){var $body=$('body').empty().css({width:'100%',height:'100%',margin:'0px'});var $top=$body.ioover(true).css({'font-size':'25px',height:'1.2em'});var $bottom=$body.ioover(true);$bottom.iovstretch();var mapsapi=null;$bottom.googlemapsapi(function(api){mapsapi=api;},12);var from,to;var route=function(){dbox.write('from:'+from.value()+', to:'+to.value(),'route.'+$.iotime(),function(h){},true);mapsapi.route(from.value(),to.value(),function(info){})}
+$top.ioover().css({width:'49%'}).textbox('from',function(from2){from=from2;from.onenter(route);},'from','#000,0.2',{'font-size':'25px'},true);$top.ioover().css({left:'50%',width:'49%'}).textbox('to',function(to2){to=to2;to.onenter(route);},'to','#000,0.2',{'font-size':'25px'},true);})})
 
 </script>
 
