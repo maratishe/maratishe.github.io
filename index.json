@@ -1,0 +1,46 @@
+[
+	{
+		"date": "160126",
+		"title": "Packing \"SimpleCV + 3WayScripts\" on Docker",
+		"tags": "webapi simplecv opencv 3wayscripting",
+		"file": "160126.3wayscripting.opencv.simplecv.webapi.htm"},
+	{
+		"date": "160121",
+		"title": "On the 3-Way Scripting Programming Technique",
+		"tags": "useful docker php 3wayscripting",
+		"file": "160121.3wayscripting.php.docker.useful.htm"},
+	{
+		"date": "150708",
+		"title": "Heroku is Best Modeled as a Bottle",
+		"tags": "modeling cloudprobing heroku",
+		"file": "150708.heroku.cloudprobing.modeling.htm"},
+	{
+		"date": "150618",
+		"title": "Deep Cleaning after H2O Deep Learning",
+		"tags": "useful classifiers bigdata h2o deeplearning",
+		"file": "150618.deeplearning.h2o.bigdata.classifiers.useful.htm"},
+	{
+		"date": "141225",
+		"title": "Cloudy\u4f1a \u7b2c4\u56de (1.10\uff20\u5929\u795e\u300113:00\uff5e16:00) DIFF\u6cd5\uff1a\u30d5\u30a1\u30a4\u30eb\u3001\u30d5\u30a1\u30a4\u30eb\u30b7\u30b9\u30c6\u30e0\u3001\u30d0\u30a4\u30ca\u30ea\u306a\u3069\u306e\u5dee\u5206",
+		"tags": "migration docker diff cloudy",
+		"file": "141225.cloudy.diff.docker.migration.htm"},
+	{
+		"date": "141220",
+		"title": "WYSIWYG Editor for Your GitHub Pages",
+		"tags": "useful serverless blogging",
+		"file": "141220.blogging.serverless.useful.htm"},
+	{
+		"date": "141031",
+		"title": "Cloudy in Japanese Storage Technology in Clouds",
+		"tags": "viber rakuten storage clouds cloudy",
+		"file": "141031.Cloudy.in.Japanese.Storage.Technology.in.Clouds_cloudy_clouds_storage_rakuten_viber.html"},
+	{
+		"date": "141028",
+		"title": "The very first thought at Github Pages (pdf)",
+		"tags": "efficiency",
+		"file": "141028.The.very.first.thought.at.Github.Pages_efficiency.html"},
+	{
+		"date": "141028",
+		"title": "Installing Hadoop into multiple Fedora 20 machines",
+		"tags": "xcp bigdata hadoop",
+		"file": "141028.Installing.Hadoop.into.multiple.Fedora.20.machines_hadoop_bigdata_xcp.html"}]
