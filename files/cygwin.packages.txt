@@ -1,0 +1,7 @@
+# installs (updates/adds after initial installs)     --upgrade-also (upgrade)
+./setup-x86_64.exe -q -P unzip,procps --upgrade-also
+./setup-x86_64.exe -q -P cygwin32-binutils,cygwin32-gcc-g++,cygwin32-w32api-headers,cygwin32-w32api-runtime,cygwin32-gcc-objc,cygwin32-zlib,gcc-core,libgcc1
+./setup-x86_64.exe -q -P wget -P gcc-g++ -P make -P diffutils -P libmpfr-devel -P libgmp-devel -P libmpc-devel
+./setup-x86_64.exe -q -P php,php-cli,php-Archive_Tar,php-bz2,php-jsonc,php-mbstring,php-mcrypt,php-pdo_sqlite,php-shmop,php-sockets,php-sqlite3,php-iconv,php-intl,php-ctype
+./setup-x86_64.exe -q -P libopenssl100,librsync2,rsh,rsync,ssh,autossh,libssh-common,openssh,openssl
+./setup-x86_64.exe -q -P ImageMagick,graphviz,xpdf,xdelta,xdelta3,git
