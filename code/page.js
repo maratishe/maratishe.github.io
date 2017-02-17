@@ -20,4 +20,11 @@ $( document).ready( function() {
 	// make sure that each image is floated only after , not before
 	$( 'img').css({ clear: 'left'});
 	$( 'h1').css({ 'margin-top': '50px', clear: 'both'});
+	var oneimg = function( $img) { $img.css({ clear: 'both', position: 'relative', display: 'block', 'float': 'left', height: 'auto', margin: '5px', width: '40%'}); if ( $img.parent().width() > 500) $img.css({ width: '80%'}); if ( $img.parent().width() > 700) $img.css({ width: '40%'}); if ( $img.parent().width() > 1000) $img.css({ width: '30%'}); if ( $img.parent().width() <= 500) $img.css({ width: '98%'}); $img.attr( 'width', ''); $img.attr( 'height'); }
+	var clickimg = function( $img) { var v = Math.round( $img.width()); var c = v; $img.click( function() { 
+		if ( c == '100%') { $img.css({ width: v + 'px'}); c = v; }
+		else { $img.css({ width: '100%'}); c = '100%'; }
+	})}
+	var checkimgs = function() { $( 'body').find( 'img').each( function() { oneimg( $( this)); clickimg( $( this)); })}; checkimgs();
+	$( window).resize( function() { checkimgs(); })
 })
