@@ -43,7 +43,7 @@ $CLASS = 'blog'; class blog { // USER code
 		}
 		fclose( $out); `rm -Rf index.html`; `mv index2.html index.html`; jsondump( $H, 'index.json');
 	}
-	public function list() { foreach ( jsonload( 'index.json') as $pos => $h) { 
+	public function listup() { foreach ( jsonload( 'index.json') as $pos => $h) { 
 		extract( $h); echo "#$pos  $date  $title\n";
 	}}
 	public function purge( $pos = null) { $H = jsonload( 'index.json'); foreach ( $H as $pos2 => $h) if ( $pos !== null && $pos == $pos2) unset( $H[ $pos2]); $H = hv( $H); jsondump( $H, 'index.json'); }
