@@ -2,18 +2,34 @@
 $CLASS = 'gcalapi'; class gcalapi { // USER code 
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
-	public function add( $file = '200704.tale@高松.deadlines.txt', $calendar = 'deadlines', $when = '2020-07-04', $duration = 'allday') { 
+	public function add( $config = 'file=200704.tale@高松.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday', $noapicalls = false) { 
+		$config = hm( tth( 'file=200704.tale@高松.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday'), tth( $config)); 
+		extract( $config); // file, calendar, when, duration
 		extract( fpathparse( $file)); $map = hvak( ttl( $fileroot, '.')); unset( $map[ "$calendar"]); 
 		if ( count( ttl( $when, ' ')) == 1) $when .= ' 00:00:00'; extract( tsburst( tsste( $when))); 
-		$when = round( $mm) . '/' . round( $dd) . "/$yyyy"; if ( $duration != 'allday') $when .= ' ' . round( $hh) . ":$mm2"; 
+		$when2 = round( $mm) . '/' . round( $dd) . "/$yyyy"; if ( $duration != 'allday') $when2 .= ' ' . round( $hh) . ":$mm2"; 
 		$name = ltt( hk( $map), '.'); $H = is_file( "$calendar.json") ? jsonload( "$calendar.json") : array();
 		$url = "http://maratishe.github.io/gcal/$calendar.md#$name"; $title = $name; $description = $url;
-		$H[ "$name"] = compact( ttl( 'calendar,title,when,duration,description'));
+		$H[ "$name"] = compact( ttl( 'calendar,title,when,when2,duration,description'));
 		$c = "php /code/gcal/gcal.php delete $calendar " . strdblquote( $name); 
-		echo "DELETE  $c\n"; system( $c);  
+		echo "DELETE  $c\n"; if ( $noapicalls) echo "no ap calls, skip\n"; else system( $c);  
 		$c = "php /code/gcal/gcal.php add " . strdblquote( htt( $H[ "$name"]));
-		echo "ADD  $c\n"; system( $c); jsondump( $H, "$calendar.json"); 
-		echo "DONE > $calendar.json\n";
+		echo "ADD  $c\n"; if ( $noapicalls) echo "no ap calls, skip\n"; else system( $c);  
+		jsondump( $H, "$calendar.json"); echo "DONE > $calendar.json\n";
+	}
+	public function makemd( $calendar = 'deadlines') { 
+		$out = fopen( "$calendar.md", 'w'); 
+		fwrite( $out, "# $calendar\n\n"); 
+		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); $bywhen = array(); $H = jsonload( "$calendar.json"); 
+		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = $when2; }
+		asort( $bywhen); foreach ( $bywhen as $k => $when) { extract( $h); fwrite( $out, "$when [$title](#$k)  \n"); }
+		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
+			fwrite( $out, "## $title  ($when) <span id=" . strdblquote( $k) . "></span>\n\n");
+			$files = flget( '.', $title, '', 'txt'); if ( ! $files) continue; 
+			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); else fwrite( $out, $v . '  ' . "\n\n"); }
+			fwrite( $out, "\n\n\n");
+		}
+		fclose( $out); `chmod -R 777 *`; 
 	}
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }
