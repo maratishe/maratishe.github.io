@@ -9,8 +9,10 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		if ( count( ttl( $when, ' ')) == 1) $when .= ' 00:00:00'; extract( tsburst( tsste( $when))); 
 		$when2 = round( $mm) . '/' . round( $dd) . "/$yyyy"; if ( $duration != 'allday') $when2 .= ' ' . round( $hh) . ":$mm2"; 
 		$name = ltt( hk( $map), '.'); $H = is_file( "$calendar.json") ? jsonload( "$calendar.json") : array();
-		$url = "http://maratishe.github.io/gcal/$calendar.md.txt#$name"; $title = $name; $description = $url;
-		$H[ "$name"] = compact( ttl( 'calendar,title,when,when2,duration,description'));
+		$url1 = "http://maratishe.github.io/gcal/$calendar.md#$name"; 
+		$url2 = "http://maratishe.github.io/gcal/$calendar.md.txt#$name"; 
+		$title = $name; $description = $url1 . ' ' . $url2;
+		$H[ "$name"] = compact( ttl( 'calendar,title,when,url1,url2,when2,duration,description'));
 		$c = "php /code/gcal/gcal.php delete $calendar " . strdblquote( $name); 
 		echo "DELETE  $c\n"; if ( $noapicalls) echo "no ap calls, skip\n"; else system( $c);  
 		$c = "php /code/gcal/gcal.php add " . strdblquote( htt( $H[ "$name"]));
