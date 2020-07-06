@@ -2,14 +2,14 @@
 $CLASS = 'gcalapi'; class gcalapi { // USER code 
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
-	public function add( $config = 'file=200704.tale@高松.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday', $noapicalls = false) { 
-		$config = hm( tth( 'file=200704.tale@高松.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday'), tth( $config)); 
+	public function add( $config = 'file=200704.tale-takamatsu.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday', $noapicalls = false) { 
+		$config = hm( tth( 'file=200704.tale-takamatsu.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday'), tth( $config)); 
 		extract( $config); // file, calendar, when, duration
 		extract( fpathparse( $file)); $map = hvak( ttl( $fileroot, '.')); unset( $map[ "$calendar"]); 
 		if ( count( ttl( $when, ' ')) == 1) $when .= ' 00:00:00'; extract( tsburst( tsste( $when))); 
 		$when2 = round( $mm) . '/' . round( $dd) . "/$yyyy"; if ( $duration != 'allday') $when2 .= ' ' . round( $hh) . ":$mm2"; 
 		$name = ltt( hk( $map), '.'); $H = is_file( "$calendar.json") ? jsonload( "$calendar.json") : array();
-		$url = "http://maratishe.github.io/gcal/$calendar.md#$name"; $title = $name; $description = $url;
+		$url = "http://maratishe.github.io/gcal/$calendar.md.txt#$name"; $title = $name; $description = $url;
 		$H[ "$name"] = compact( ttl( 'calendar,title,when,when2,duration,description'));
 		$c = "php /code/gcal/gcal.php delete $calendar " . strdblquote( $name); 
 		echo "DELETE  $c\n"; if ( $noapicalls) echo "no ap calls, skip\n"; else system( $c);  
@@ -29,7 +29,7 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); else fwrite( $out, $v . '  ' . "\n\n"); }
 			fwrite( $out, "\n\n\n");
 		}
-		fclose( $out); `chmod -R 777 *`; 
+		fclose( $out); `cat $calendar.md > $calendar.md.txt`; `chmod -R 777 *`; 
 	}
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }
