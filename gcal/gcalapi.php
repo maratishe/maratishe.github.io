@@ -19,12 +19,19 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		echo "ADD  $c\n"; if ( $noapicalls) echo "no ap calls, skip\n"; else system( $c);  
 		jsondump( $H, "$calendar.json"); echo "DONE > $calendar.json\n";
 	}
+	public function addall( $calendar = 'deadlines', $noapicalls = false) { foreach ( flget( '.', '', $calendar, 'txt') as $f) {  // filenames should start from  yymmdd.  or  yymmddhhmm
+		echo "\n\n"; $time = lshift( ttl( $f, '.')); if ( ! is_numeric( $time)) continue; 
+		$yyyy = '20' . substr( $time, 0, 2); $mm = substr( $time, 2, 2); $dd = substr( $time, 4); $when = "$yyyy-$mm-$dd";
+		if ( strlen( $time) > 6) { $mm2 = substr( $time, 6, 2); $dd = substr( $time, 8, 2); $when .= " $mm2:$dd"; }
+		echo "$f   $time   > $when\n";
+		$this->add( "calendar=$calendar,file=$f,when=$when,duration=allday", $noapicalls);
+	}}
 	public function makemd( $calendar = 'deadlines') { 
 		$out = fopen( "$calendar.md", 'w'); 
 		fwrite( $out, "# $calendar\n\n"); 
 		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); $bywhen = array(); $H = jsonload( "$calendar.json"); 
 		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = $when2; }
-		asort( $bywhen); foreach ( $bywhen as $k => $when) { extract( $h); fwrite( $out, "$when [$title](#$k)  \n"); }
+		asort( $bywhen); foreach ( $bywhen as $k => $when) { extract( $h); fwrite( $out, "[$title](#$k) $when  \n"); }
 		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
 			fwrite( $out, "## $title  ($when) <span id=" . strdblquote( $k) . "></span>\n\n");
 			$files = flget( '.', $title, '', 'txt'); if ( ! $files) continue; 
@@ -33,6 +40,13 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		}
 		fclose( $out); `cat $calendar.md > $calendar.md.txt`; `chmod -R 777 *`; 
 	}
+	public function update( $calendar = 'deadlines', $file = '') { foreach ( file( $file) as $v) { // each line: 'file  when(updated)'   WARNING! should only run on gcalcli-enabled machine
+		$v = trim( $v); if ( ! $v || count( ttl( $v, ' ')) != 2) continue; extract( lth( ttl( $v, ' '), ttl( 'one,two'))); $time = $two; 
+		$yyyy = '20' . substr( $time, 0, 2); $mm = substr( $time, 2, 2); $dd = substr( $time, 4); $when = "$yyyy-$mm-$dd";
+		if ( strlen( $time) > 6) { $mm2 = substr( $time, 6, 2); $dd = substr( $time, 8, 2); $when .= " $mm2:$dd"; }
+		echo "\n\n"; echo "$one  >> $two = $when (new deadline)\n";
+		$this->add( "file=$one,calendar=$calendar,when=$when,duration=allday"); 
+	}}
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }
 if ( isset( $argv) && count( $argv) && strpos( $argv[ 0], "$CLASS.php") !== false) { // direct CLI execution, redirect to one of the functions 
