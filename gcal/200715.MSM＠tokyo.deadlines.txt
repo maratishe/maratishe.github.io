@@ -1,0 +1,69 @@
+The16th International Conference on Mobility, Sensing and Networking (IEEE MSN2020)
+
+December17-19, Tokyo, Japan
+
+https://conference.cs.cityu.edu.hk/msn2020/index.php
+
+ 
+
+IEEEMSN 2020 provides a forum for academic researchers and industry practitionersto present research progresses, exchange new ideas, and identify futuredirections in the field of Mobility, Sensing and Networking. From this year,with the technology advancement and the success of previous editions of MSN,the name of conference is changed from “International Conference on MobileAd-hoc and Sensor Networks” to “International Conference on Mobility, Sensingand Networking”.
+
+ 
+
+Scopeand Objectives
+
+Mobility,sensing and networking are the key areas of enabling technologies for thenext-generation networks, Internet of Things and Cyber-Physical Systems. Recentyears have witnessed the increasing convergence of algorithms, protocols, andapplications for mobility, sensing and networking in a range of applicationsincluding connected vehicles, smart cities, industries, and smart health.Building on the past 15 years of success, the 16th International Conference onMobility, Sensing and Networking (MSN 2020) provides a forum for academicresearchers and industry practitioners to exchange new research ideas, presenttheir progress, and identify future directions in the field of mobility,sensing and networking.
+
+ 
+
+Theconference solicits submissions from all areas relating to mobility, sensingand networking as well as corresponding applications. Topics of interests are covered at the following tracks:
+
+l  Algorithms,Theory, and Protocols
+
+l  Systems& Tools
+
+l  Experiments& Applications
+
+l  Mobile& Wireless Networks
+
+l  Edge andFog Computing
+
+l  NetworkSecurity, Privacy, Trust, and Blockchain
+
+l  Big Dataand AI in Networking
+
+l  Wirelessand Ubiquitous Sensing
+
+ 
+
+SubmissionProcedure
+
+Submittedmanuscripts must be prepared according to IEEE Computer Society ProceedingsFormat (double column, 10pt font, letter paper) and submitted in PDF fileformat. The manuscript should be no longer than 8 pages. Up to two additionalpages are permitted if the authors are willing to pay an over-length charge atthe time of publication (manuscripts cannot exceed 8 pages in total). Submittedmanuscripts must not contain previously published material or be underconsideration for publication in another conference or journal. Submission guidecan be found as the following link: https://conference.cs.cityu.edu.hk/msn2020/submission.php.
+
+ 
+
+ImportantDates:
+
+Paper Submission Due: July 15, 2020
+
+AuthorNotification: September 15, 2020
+
+Camera-readyDue: October 15, 2020
+
+ConferenceDate: December 17-19, 2020
+
+ 
+
+GeneralChairs:
+
+YushengJi National Institute of Informatics (NII), Japan
+
+LarsWolf Technische Universitaet Braunschweig, Germany
+
+ 
+
+TechnicalProgram Committee Chairs:
+
+RuidongLi National Institute of Information and Communications Technology (NICT),Japan
+
+MoustafaYoussef Alexandra University, Egypt

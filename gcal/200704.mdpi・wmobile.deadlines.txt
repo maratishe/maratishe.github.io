@@ -1,0 +1,76 @@
+(Please accept our apologies if you receive duplicate emails)
+
+ 
+
+Dear colleagues,
+
+ 
+
+Please consider submitting your manuscripts to the special issue on "Protocols and Applications for Wireless Mobile Networks" with MDPI Electronics (impact factor: 1.764)
+
+ 
+
+--------------------------------------------------------------------------------------------------------------------
+
+Special Issue: Protocols and Applications for Wireless Mobile Networks
+
+ 
+
+https://www.mdpi.com/journal/electronics/special_issues/protocols_app_wmn
+
+ 
+
+(Submissions due: 1 November 2020)
+
+ 
+
+Mobile traffic has been increasing rapidly and diverse network applications have also been developed remarkably, which gives rise to new challenges in the protocols of the wireless mobile network. For example, various features that are impossible in the 4G network are added in the 5G network, so specialized protocols for the 5G network are required.
+
+Furthermore, due to the shifts in lifestyle, we need to discuss and develop various applications using wireless mobile networks, such as multimedia networking, localization, mobile sensing applications, etc.
+
+In this Special Issue, we wish to discuss, derive, and develop new protocols and applications for the wireless mobile network.
+
+ 
+
+Topics of Interest:
+
+The topics in this Special Issue include but are not limited to:
+
+    Protocol design for 5G and beyond
+    Protocol design for WLAN, WPAN, LPWAN (e.g., Wi-Fi, Bluetooth, LoRA)
+    Cross-layer design for networking
+    Internet of things, cloud computing, fog computing and edge computing
+    Security and privacy in wireless mobile network
+    Network management, software defined networking, and network virtualization
+    Machine learning for wireless mobile network
+    Localization, tracking and location-based service
+    Mobile sensing applications based on wireless signal processing
+    Multimedia networking
+
+ 
+
+Submission Guidelines:
+
+ 
+
+All papers should be submitted online at manuscript submission site. To submit your manuscript, register and log in to the manuscript submission site. Once you have registered, click here to go to the submission form for Electronics. Please make sure that “Section” is “Networks” and “Special Issue” is “Protocols and Applications for Wireless Mobile Networks”. Click here to view detailed guidelines for authors. Click here to view information about article processing charge (APC).
+
+ 
+
+Important Dates:
+
+ 
+
+Paper Submission: 1 November 2020
+
+ 
+
+Guest Editors:
+
+ 
+
+Young-Joo Suh (Pohang University of Science and Technology (POSTECH), Korea)
+
+ 
+
+For more information, please contact the guest editor at yjsuh@postech.ac.kr.

@@ -4,7 +4,15 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 	public function __construct( $silent = false) { $this->silent = $silent; }
 	public function list2emptyfiles( $calendar = 'deadlines') { 
 		if ( ! is_file( "list.$calendar.json")) { $c = "php /code/gcal/gcal.php list $calendar auto auto list.$calendar.json";  echo "$c .."; echopipee( $c); echo " OK\n"; }
-		
+		if ( ! is_file( "list.$calendar.json")) die( " ERROR!, no list.$calendar.json\n"); 
+		foreach ( jsonload( "list.$calendar.json") as $v) {
+			$v = trim( $v); if ( ! $v) continue; 
+			$L = ttl( $v, ' '); $date = lshift( $L); extract( tsburst( tsste( "$date 00:00:00"))); 
+			$name = ltt( $L, '.'); $file= substr( '' . $yyyy . $mm . $dd, 2) . '.' . "$name" . ".$calendar.txt"; 
+			if ( is_file( "$file")) continue; // do not overwrite an already existing file
+			$out = fopen( "$file", 'w'); fclose( $out); echo "adding   $file\n";
+		}
+		`chmod -R 777 *`;
 	}
 	public function add( $config = 'file=200704.tale-takamatsu.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday', $noapicalls = false) { 
 		$config = hm( tth( 'file=200704.tale-takamatsu.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday'), tth( $config)); 

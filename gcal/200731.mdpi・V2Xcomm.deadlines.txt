@@ -1,0 +1,68 @@
+
+
+
+Dear Colleagues,
+
+I would be glad if you, and others from your Research Group, would accept the invitation to contribute to:
+
+Special Issue: "Vehicle-To-Everything (V2X) Communication”
+Information Journal - ISSN:2078-2489 (Scopus, SCImago)
+Deadline for manuscript submissions: 31 July 2020
+
+Dear Colleagues,
+
+The growing number of moving vehicles, motorcyclists, cyclists, and pedestrians, mainly in the urban environment, leads to an increased number of accidents, traffic jams, and to higher levels of energy consumption and pollution. Traffic accidents take thousands of lives each year and cause critical injuries to millions of persons; nevertheless, vehicles, as standalone machines, are getting safer, more efficient, more comfortable, and providing an overall better user experience, with increasing levels of automation.
+
+Vehicles use on-board communication units in order to exchange data with each other and with any infrastructural support, by means of Vehicle-to-Vehicle (V2V), Vehicle-to-Infrastructure (V2I), and Vehicle-to-Pedestrian (V2P) interactions, generically classified as “Vehicle-to-X (V2X) communication”.
+
+V2X communication systems enable information sharing and usage of cooperative approaches in order to increase road safety, avoid accidents and traffic congestions, give priority to emergency vehicles, and also cope with vulnerable road users. New and challenging V2X research issues arise from recent technologic developments, allowing the growth of either assisted or autonomous driving modes.
+
+This Special Issue on “Vehicle-To-Everything Communication” is aimed at recent research findings, coming both from industry and academic R&D, with important contributions to ITS application development, either at safety, efficiency, management, and comfort or infotainment areas. The key areas of this Special Issue include but are not limited to:
+
+- V2X for cooperative and autonomous driving; 
+
+- cellular V2X communications;
+
+- V2X for extended sensing and autonomous awareness; 
+
+- V2X for emergency vehicles; 
+
+- V2X for smart mobility; 
+
+- V2X modeling and testing; safety, security, and privacy in V2X; 
+
+- connected vehicles and vulnerable road users; 
+
+- simulation platforms for V2X; 
+
+- new vehicular network architectures; 
+
+- named data networks for connected vehicles.
+
+Prof. Dr. Alexandre Santos
+Guest Editor
+
+https://www.mdpi.com/journal/information/special_issues/v2x_communication
+
+Please disseminate the CFP and accept the invitation to contribute!
+
+Best regards,
+= Alexandre Santos
+------
+Alexandre J. T. Santos – Associate Professor w/ Habilitation
+Department of Informatics & Centro ALGORITMI
+School of Engineering, University of Minho
+Tlf: +351 253 604474, Fax: +351 263 604471
+
+
+
+---------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Authors mailing list
+Authors@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/authors
+
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
+OR
+* Easy unsubscribe: https://mailman.ufsc.br/mailman/options/authors
