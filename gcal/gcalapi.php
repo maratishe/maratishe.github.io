@@ -59,6 +59,16 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		echo "\n\n"; echo "$one  >> $two = $when (new deadline)\n";
 		$this->add( "file=$one,calendar=$calendar,when=$when,duration=allday"); 
 	}}
+	public function updateall( $calendar = 'deadlines') { if ( is_file( "list.$calendar.json")) foreach ( jsonload( "list.$calendar.json") as $v) { 
+		$L = ttl( $v, ' '); $date = lshift( $L); $title = lshift( $L); 
+		extract( tsburst( tsste( "$date 00:00:00"))); $before = "$yyyy-$mm-$dd"; 
+		$files = flget( '.', '', $title, "$calendar.txt"); if ( ! $files) { echo " ERROR! $v (before#$before,title#$title) is not found in files, skipping.\n"; continue; }
+		if ( count( $files) > 1) { echo " ERROR! You have multiple files for title[$title] " . ltt( $files) . ", deal with it manually!\n"; continue; }
+		$file = lshift( $files); $yymmdd = lshift( ttl( $file, '.')); $after = '20' . substr( $yymmdd, 0, 2) . '-' . substr( $yymmdd, 2, 2) . '-' . substr( $yymmdd, 4, 2); 
+		if ( $before == $after) continue;
+		die( " update detected!  before[$before] after[$after]  title[$title]");
+		$this->update( $calendar, $file);
+	}}
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }
 if ( isset( $argv) && count( $argv) && strpos( $argv[ 0], "$CLASS.php") !== false) { // direct CLI execution, redirect to one of the functions 
