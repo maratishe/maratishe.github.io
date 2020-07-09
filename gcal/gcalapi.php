@@ -2,7 +2,8 @@
 $CLASS = 'gcalapi'; class gcalapi { // USER code 
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
-	public function list2emptyfiles( $calendar = 'deadlines') { 
+	public function list2emptyfiles( $calendar = 'deadlines', $forceupdate = false) { 
+		if ( $forceupdate) `rm -Rf list.$calendar.json`; 
 		if ( ! is_file( "list.$calendar.json")) { $c = "php /code/gcal/gcal.php list $calendar auto auto list.$calendar.json";  echo "$c .."; echopipee( $c); echo " OK\n"; }
 		if ( ! is_file( "list.$calendar.json")) die( " ERROR!, no list.$calendar.json\n"); 
 		foreach ( jsonload( "list.$calendar.json") as $v) {
@@ -31,7 +32,7 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		echo "ADD  $c\n"; if ( $noapicalls) echo "no ap calls, skip\n"; else system( $c);  
 		jsondump( $H, "$calendar.json"); echo "DONE > $calendar.json\n";
 	}
-	public function addall( $calendar = 'deadlines', $noapicalls = false) { foreach ( flget( '.', $calendar, '', 'txt') as $f) {  // filenames should start from  yymmdd.  or  yymmddhhmm
+	public function addall( $calendar = 'deadlines', $noapicalls = false) { `rm -Rf $calendar.json`; foreach ( flget( '.', $calendar, '', 'txt') as $f) {  // filenames should start from  yymmdd.  or  yymmddhhmm
 		echo "\n\n"; $L = ttl( $f, '.'); lshift( $L); $time = lshift( $L); if ( ! is_numeric( $time)) continue; 
 		$yyyy = '20' . substr( $time, 0, 2); $mm = substr( $time, 2, 2); $dd = substr( $time, 4); $when = "$yyyy-$mm-$dd";
 		if ( strlen( $time) > 6) { $mm2 = substr( $time, 6, 2); $dd = substr( $time, 8, 2); $when .= " $mm2:$dd"; }

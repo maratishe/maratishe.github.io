@@ -1,44 +1,75 @@
-# deadlines
+# deadlines <span id="top"></span>
 
 this file is generated automatically, do not make manual changes to it!
 
-2020-07-04 00:00:00 [200704.tale-takamatsu](#200704.tale-takamatsu)  
+[IET・iot](#acm・edgeAI) 2020-12-01 00:00:00  
+[IET・iot](#tnsm・netmng) 2020-12-01 00:00:00  
+[IET・iot](#springerj・cybersecAI) 2020-12-01 00:00:00  
+[IET・iot](#IET・iot) 2020-12-01 00:00:00  
+[IET・iot](#iet・smartcity) 2020-12-01 00:00:00  
+[IET・iot](#EAI・bigdata★free) 2020-12-01 00:00:00  
+[IET・iot](#ICDCN＠奈良) 2020-12-01 00:00:00  
+[IET・iot](#CNSM@cyberspace) 2020-12-01 00:00:00  
+[IET・iot](#mdpi・vehicular) 2020-12-01 00:00:00  
+[IET・iot](#MSM＠tokyo) 2020-12-01 00:00:00  
+[IET・iot](#mdpi・hiding) 2020-12-01 00:00:00  
+[IET・iot](#hindawi・smartcities) 2020-12-01 00:00:00  
+[IET・iot](#EAI・cyberphy@cyber) 2020-12-01 00:00:00  
+[IET・iot](#EAI・urbiot@cyber) 2020-12-01 00:00:00  
+[IET・iot](#EAI・smartcity@cyber) 2020-12-01 00:00:00  
+[IET・iot](#ACMSenSys・横浜) 2020-12-01 00:00:00  
+[IET・iot](#mdpi・V2Xcomm) 2020-12-01 00:00:00  
+[IET・iot](#ieeespecial・bigdata) 2020-12-01 00:00:00  
+[IET・iot](#mdpi・wmobile) 2020-12-01 00:00:00  
+[IET・iot](#EAI・mobiquitous★free) 2020-12-01 00:00:00  
+[IET・iot](#hindawi・smartphoneauth) 2020-12-01 00:00:00  
+[IET・iot](#ACMtran・IoV) 2020-12-01 00:00:00  
+[IET・iot](#mdpi・stenography) 2020-12-01 00:00:00  
 
 
-## 200704.tale-takamatsu  (2020-07-04 00:00:00) <span id="200704.tale-takamatsu"></span>
+## IET・iot  (2020-12-01 00:00:00) <span id="EAI・bigdata★free"></span> <span style="color:#666;">[→top](#top)</span>
 
-https://tale2020.org/key-dates/  
+## IET・iot  (2020-12-01 00:00:00) <span id="iet・smartcity"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="ACMSenSys・横浜"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="mdpi・wmobile"></span> <span style="color:#666;">[→top](#top)</span>
 
-Embarking on a new era of learning with transformative technologies  
+## IET・iot  (2020-12-01 00:00:00) <span id="EAI・mobiquitous★free"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="CNSM@cyberspace"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="ICDCN＠奈良"></span> <span style="color:#666;">[→top](#top)</span>
 
-The conference theme challenges us to look anew at how the potential of current and emerging technologies can and/or should be harnessed for education and learning in our ever-changing world. Over the last several decades, digital technologies have revolutionized the way we work, play and learn—arguably changing our lives for the better overall—but they have not come without their problems and challenges (e.g., environmental degradation, social inequity arising from the "digital divide," ethical and moral dilemmas brought about by artificial intelligence). Over the next ten years (2020–2029), technologies such as AI, robotics, brain–computer interfaces, and extended or cross-reality (XR) that augment human sensory abilities, cognition and performance will continue to evolve and have a transformative impact. How can we ensure this transformation is positive, both for and through learning? As these technologies increasingly blur the boundaries between human and machine, and between physical and virtual, what can we do so the technology works toward our advantage, for the betterment of all of society and of our planet? Participants of TALE 2020 are encouraged to engage with these and other questions from creative, multidimensional and interdisciplinary perspectives as we stand on the precipice of this new era of learning with transformative technologies.  
+## IET・iot  (2020-12-01 00:00:00) <span id="mdpi・vehicular"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="MSM＠tokyo"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="mdpi・hiding"></span> <span style="color:#666;">[→top](#top)</span>
 
-COVID-19 UPDATE  
+## IET・iot  (2020-12-01 00:00:00) <span id="hindawi・smartcities"></span> <span style="color:#666;">[→top](#top)</span>
 
-The IEEE Education Society and the organizers of the IEEE TALE 2020 Conference are working together to prepare a fantastic event in Takamatsu, Japan. We continue to closely monitor developments related to the COVID-19 outbreak. At this stage, the conference timeline is proceeding forward with an expectation that authors will meet the paper submission, peer review, camera-ready paper, and registration deadlines. As the year progresses, the Society, in conjunction with the Conference Organizing Committee, will make a decision as to whether the physical conference will take place as originally planned. Alternative options being considered include holding the conference entirely online, as well as a hybrid-mode event with participants being able to attend either in-person or online. All papers that are accepted, registered, and presented, whether in-person or online, will be published in the proceedings that will be submitted for inclusion in IEEE Xplore. We thank you in advance for your participation and look forward to welcoming you to TALE 2020 this December.  
+## IET・iot  (2020-12-01 00:00:00) <span id="EAI・cyberphy@cyber"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="EAI・smartcity@cyber"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="EAI・urbiot@cyber"></span> <span style="color:#666;">[→top](#top)</span>
 
-Paper Submission Deadline: 20 June 2020 4 July 2020 [Extended!]  
+## IET・iot  (2020-12-01 00:00:00) <span id="ieeespecial・bigdata"></span> <span style="color:#666;">[→top](#top)</span>
 
-Notification of Acceptance: 31 August 2020  
+## IET・iot  (2020-12-01 00:00:00) <span id="mdpi・V2Xcomm"></span> <span style="color:#666;">[→top](#top)</span>
 
-Camera-ready submission: 21 September 2020  
+## IET・iot  (2020-12-01 00:00:00) <span id="hindawi・smartphoneauth"></span> <span style="color:#666;">[→top](#top)</span>
 
-Early-bird and Presenter Registration: 30 September 2020  
+## IET・iot  (2020-12-01 00:00:00) <span id="ACMtran・IoV"></span> <span style="color:#666;">[→top](#top)</span>
 
-Conference: 8 – 11 December 2020  
+## IET・iot  (2020-12-01 00:00:00) <span id="mdpi・stenography"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="acm・edgeAI"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="tnsm・netmng"></span> <span style="color:#666;">[→top](#top)</span>
 
+## IET・iot  (2020-12-01 00:00:00) <span id="springerj・cybersecAI"></span> <span style="color:#666;">[→top](#top)</span>
 
-
-
-
+## IET・iot  (2020-12-01 00:00:00) <span id="IET・iot"></span> <span style="color:#666;">[→top](#top)</span>
 

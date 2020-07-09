@@ -1,0 +1,84 @@
+
+
+ACM SenSys 2020 - The ACM Conference on Embedded Networked Sensor Systems
+November 16-19, 2020 in Yokohama, Japan
+http://sensys.acm.org/2020/
+
+The ACM Conference on Embedded Networked Sensor Systems (SenSys 2020) is the premier computer systems conference focused on the architecture, design, implementation, and performance of networked sensing systems, sensor-oriented data modeling and analytics, and sensor-enabled applications. ACM SenSys brings together academic, industry, and government professionals to a single-track, highly selective forum that takes a broad view on the areas of computing relevant to the future of networked embedded sensor systems. Topics of interests include, but are not limited to, the following:
+
+• New platforms and hardware designs for networked sensor systems
+• New communication paradigms for ubiquitous connectivity
+• Low-power wireless media access control, network, and transport protocol designs
+• Systems software, including operating systems, network stacks, and programming
+• System services such as time and location estimation
+• Low-power operation, energy harvesting, and energy management
+• Resource-efficient machine learning for embedded and mobile platforms
+• Mobile and pervasive systems with elements of networked sensing
+• Data management and analytics, including quality, integrity, and trustworthiness
+• Learning algorithms and models for perception, understanding, and adaptation
+• Heterogeneous collaborative sensing, including human-robot sensor systems
+• Security and privacy in networked sensor applications and systems
+• Fault-tolerance, dependability, and verification
+• Applications and deployment experiences
+
+We invite technical papers describing original ideas, groundbreaking results, and real-world experiences involving innovative networked embedded sensor systems. Successful submissions will explain why the topic is relevant to a vision of the future of sensing systems. Submissions will be judged on originality, significance, clarity, relevance, and correctness.
+
+Important Dates
+• Paper Registration and Abstract:  July 3 (Friday), 2020, 23:59 AoE *EXTENDED*
+• Paper Submission:   July 10 (Friday), 2020, 23:59 AoE *EXTENDED*
+• Notification of Paper Acceptance:  September 11 (Friday), 2020 *EXTENDED*
+
+
+Note: These are hard deadlines. No extension will be granted.
+
+Submission Guidelines
+Submitted papers must be unpublished and must not be currently under review for any other publication. Submissions must be full papers, at most 12 single-spaced 8.5" x 11" pages with 9-pt font size in two-column format, including figures and tables. As for references, submissions may include as many pages as needed. All submissions must use the LaTeX (preferred) or Word styles found here. LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of accepted papers. Authors must make a good faith effort to anonymize their submissions. Papers that do not meet the size, formatting, and anonymization requirements will not be reviewed. We require each paper to be in Adobe Portable Document Format (PDF) and submitted through the conference submission system.
+Papers that describe experiments on human subjects, or that analyze nonpublic data derived from human subjects (even anonymized data), should briefly describe how the research protocol addresses ethical considerations and whether their work was vetted by an ethics review (e.g., IRB approval). We expect authors to follow the rules of their host institutions around data collection and experiments with human subjects.
+Accepted submissions will be available on the ACM digital library at most two weeks before the conference.
+
+SenSys 2020 Conference Submission System
+
+Organization
+• General Chairs:  Jin Nakazawa (Keio), Polly Huang (NTU)
+• Program chairs: Pei Zhang (CMU), Marco Gruteser (Google / Rutgers Univ.)
+
+TPC members
+• Tarek Abdelzaher (University of Illinois at Urbana-Champaign)
+• Rajesh Balan (Singapore Management University)
+• Yingying Jennifer Chen (Rutgers University)
+• Jie Gao (Stony Brook University)
+• Rajesh Gupta (University of California, San Diego)
+• Jun Han (National University of Singapore)
+• Yuan He (Tsinghua University)
+• Urs Hengartner (University of Waterloo)
+• Shubham Jain (Old Dominion University)
+• Fred Jiang (Columbia University)
+• JeongGil Ko (Yonsei University)
+• Bhaskar Krishnamachari (University of Southern California)
+• Olaf Landsiedel (Kiel University)
+• Youngki Lee (Seoul National University)
+• Jie Liu (Harbin Institute of Technology)
+• Chenyang Lu (Washington University in St. Louis)
+• Qin Lv (University of Colorado Boulder)
+• Archan MISRA (Singapore Management University)
+• Akshay Nambi (Microsoft Research)
+• Hae Young Noh (Stanford University)
+• Shijia Pan (University of California, Merced)
+• Przemysław Pawełczak (Delft University of Technology, The Netherlands)
+• Gian Pietro Picco (University of Trento)
+• Kay Romer Graz (University of Technology)
+• Anthony Rowe (Carnegie Mellon University)
+• Tan Rui (Nanyang Technological University)
+• Yuanchao Shu (Microsoft Research)
+• Junehwa song (Korea Advanced Institute of Science and Technology)
+• Mani Srivastava (University of California, Los Angeles)
+• Niki Trigoni (University of Oxford)
+• Tam Vu (University of Oxford)
+• Marilyn Wolf (University of Nebraska-Lincoln)
+• Guoliang Xing (The Chinese University of Hong Kong)
+• Chenren Xu (Peking University)
+• Susu Xu (Qualcomm Inc.)
+• Yanyong Zhang (University of Science and Technology of China)
+• Desheng Zhang (Rutgers University)
+• Rong Zheng (McMaster University)
+• Marco Zimmerling (TU Dresden)
