@@ -40,14 +40,17 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		$this->add( "calendar=$calendar,file=$f,when=$when,duration=allday", $noapicalls);
 	}}
 	public function makemd( $calendar = 'deadlines') { 
-		$out = fopen( "$calendar.md", 'w'); 
+		$out = fopen( "$calendar.md", 'w'); $keymap = array();
 		fwrite( $out, "# $calendar <span id=" . strdblquote( 'top') . "></span>\n\n"); 
-		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); $bywhen = array(); $H = jsonload( "$calendar.json"); 
+		fwrite( $out, '<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">' . "\n\n");
+		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); 
+		$bywhen = array(); $H = jsonload( "$calendar.json"); 
 		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = $when2; }
-		asort( $bywhen); foreach ( $bywhen as $k => $when) { extract( $h); fwrite( $out, "[$title](#$k) $when  \n"); }
+		asort( $bywhen); foreach ( $bywhen as $k => $when) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "[$title](#" . $keymap[ "$k"] . ") $when  \n"); }
 		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
-			fwrite( $out, "## $title  ($when) <span id=" . strdblquote( $k) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
-			$files = flget( '.', $title, '', 'txt'); if ( ! $files) continue; 
+			extract( $h); 
+			fwrite( $out, "## $title  ($when) <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
+			$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) continue; 
 			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); else fwrite( $out, $v . '  ' . "\n"); }
 			fwrite( $out, "<span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
 			fwrite( $out, "\n\n\n");
@@ -57,8 +60,8 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 	public function updateall( $calendar = 'deadlines') { if ( is_file( "list.$calendar.json")) foreach ( jsonload( "list.$calendar.json") as $v) { 
 		$L = ttl( $v, ' '); $date = lshift( $L); $title = lshift( $L); 
 		extract( tsburst( tsste( "$date 00:00:00"))); $before = "$yyyy-$mm-$dd"; 
-		$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) { echo " ERROR! $v (before#$before,title#$title) is not found in files, skipping.\n"; continue; }
-		if ( count( $files) > 1) { echo " ERROR! You have multiple files for title[$title] " . ltt( $files) . ", deal with it manually!\n"; continue; }
+		$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) { echo " WARNING! $v (before#$before,title#$title) is not found in files, skipping.\n"; continue; }
+		if ( count( $files) > 1) { echo " WARNING! You have multiple files for title[$title] " . ltt( $files) . ", deal with it manually!\n"; continue; }
 		$file = lshift( $files); $L = ttl( $file, '.'); lshift( $L); $yymmdd = lshift( $L); 
 		$after = '20' . substr( $yymmdd, 0, 2) . '-' . substr( $yymmdd, 2, 2) . '-' . substr( $yymmdd, 4, 2); 
 		if ( $before == $after) continue;
@@ -76,7 +79,7 @@ if ( isset( $argv) && count( $argv) && strpos( $argv[ 0], "$CLASS.php") !== fals
 	if ( ! is_file( $prefix . "env.php") && ! is_file( 'requireme.php')) die( "\nERROR! Cannot find env.php in [$prefix] or requireme.php in [.], check your environment! (maybe you need to go to ajaxkit first?)\n\n");
 	if ( is_file( 'requireme.php')) require_once( 'requireme.php'); else foreach ( explode( ',', ".,$prefix") as $p) foreach ( array( 'functions', 'env') as $k) if ( is_dir( $p) && is_file( "$p/$k.php")) require_once( "$p/$k.php");
 	$CLDIR = clgetdir(); //chdir( clgetdir());
-	clparse(); $JSONENCODER = 'jsonencode'; // jsonraw | jsonencode    -- jump to lib dir
+	clparse(); $JSONENCODER = 'jsonraw'; // jsonraw | jsonencode    -- jump to lib dir
 	// help
 	clhelp( "FORMAT: php$CLASS WDIR COMMAND param1 param2 param3...     ($CLNAME)");
 	foreach ( file( "$CLDIR/$CLNAME") as $line) if ( ( strpos( trim( $line), '// SECTION:') === 0 || strpos( trim( $line), 'public function') === 0) && strpos( $line, '__construct') === false) clhelp( lshift( ttl( trim( str_replace( 'public function', '', $line)), '{'))); // }
@@ -95,7 +98,7 @@ if ( ! isset( $argv) && ( isset( $_GET) || isset( $_POST)) && ( $_GET || $_POST)
 	for ( $prefix = is_dir( 'ajaxkit') ? 'ajaxkit/' : ''; ! is_dir( $prefix) && count( explode( '/', $prefix)) < 4; $prefix .= '../'); if ( ! is_file( $prefix . "env.php")) $prefix = '/web/ajaxkit/'; 
 	if ( ! is_file( $prefix . "env.php") && ! is_file( 'requireme.php')) die( "\nERROR! Cannot find env.php in [$prefix] or requireme.php in [.], check your environment! (maybe you need to go to ajaxkit first?)\n\n");
 	if ( is_file( 'requireme.php')) require_once( 'requireme.php'); else foreach ( explode( ',', ".,$prefix") as $p) foreach ( array( 'functions', 'env') as $k) if ( is_dir( $p) && is_file( "$p/$k.php")) require_once( "$p/$k.php");
-	htg( hm( $_GET, $_POST)); $JSONENCODER = 'jsonencode';
+	htg( hm( $_GET, $_POST)); $JSONENCODER = 'jsonraw';
 	// check for webkey.json and webkey parameter in request
 	if ( is_file( 'webkeys.php') && ! isset( $webkey)) die( jsonsend( jsonerr( 'webkey env not set, run [phpwebkey make] first'))); 
 	$good = true; if ( is_file( 'webkeys.php')) $good = false; 
