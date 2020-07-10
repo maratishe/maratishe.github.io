@@ -3,7 +3,7 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
 	// SECTION: overall functionality
-	public function make( $calendars = 'deadlines=ishort.ink/pHz6') { $A = array(); foreach ( tth( $calendars) as $calendar => $shorturl) { // makes  .md, .html
+	public function make( $calendars = 'deadlines=ishort.ink/c1vK,jobhunt=ishort.ink/c1vK') { $A = array(); foreach ( tth( $calendars) as $calendar => $shorturl) { // makes  .md, .html
 		// .md part
 		echo "making $calendar.[md,md.txt,html]..."; $out = fopen( "$calendar.md", 'w'); $keymap = array();
 		fwrite( $out, "# $calendar <span id=" . strdblquote( 'top') . "></span>\n\n"); 
