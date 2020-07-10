@@ -3,6 +3,11 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
 	// SECTION: overall functionality
+	public function maketodos( $A, $files = 'todo.current.md=0,todo.midterm.md=10,todo.longterm.md=30') { foreach ( tth( $files) as $f => $r) { 
+		extract( tsburst( tsystem()));  $now = "$yyyy-$mm-$dd"; extract( fpathparse( $f)); 
+		extract( tsburst( tsystem() + $r * 24 * 60 * 60)); $then = "$yyyy-$mm-$dd";
+		foreach ( file( $f) as $v) { if ( trim( $v)) $A[ "due:$then $now " . trim( $v) . " #$fileroot"] = true; }
+	}; ksort( $A); $out = fopen( 'todo.txt', 'w'); foreach ( $A as $v => $t) { $L = ttl( $v, ' '); $due = lshift( $L); lpush( $L, $due); fwrite( $out, ltt( $L, ' ') . "\n"); }; fclose( $out); }
 	public function make( $calendars = 'deadlines=ishort.ink/c1vK,jobhunt=ishort.ink/kSNB') { $A = array(); foreach ( tth( $calendars) as $calendar => $shorturl) { // makes  .md, .html
 		// .md part
 		echo "making $calendar.[md,md.txt,html]..."; $out = fopen( "$calendar.md", 'w'); $keymap = array();
@@ -23,7 +28,7 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		}
 		fclose( $out); `cat $calendar.md > $calendar.md.txt`; echo " OK\n"; 
 		$c = "pandoc -f markdown -t html $calendar.md > $calendar.html"; echo "$c ... "; procpipe( $c); echo " OK\n";
-	}; ksort( $A); $out = fopen( 'todo.txt', 'w'); foreach ( $A as $v => $t) { $L = ttl( $v, ' '); $due = lshift( $L); lpush( $L, $due); fwrite( $out, ltt( $L, ' ') . "\n"); }; fclose( $out); }
+	}; $this->maketodos( $A); }
 	// SECTION: gcalcli (python) api, also uses own  /code/gcal interface
 	public function list2emptyfiles( $calendar = 'deadlines', $forceupdate = false) { // will not touch existing files
 		if ( $forceupdate) `rm -Rf list.$calendar.json`; 
@@ -62,8 +67,6 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		echo "$f   $time   > $when\n";
 		$this->add( "calendar=$calendar,file=$f,when=$when,duration=allday", $noapicalls);
 	}}
-	// SECTION: text.txt  inteface
-	
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }
 if ( isset( $argv) && count( $argv) && strpos( $argv[ 0], "$CLASS.php") !== false) { // direct CLI execution, redirect to one of the functions 
