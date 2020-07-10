@@ -2,7 +2,30 @@
 $CLASS = 'gcalapi'; class gcalapi { // USER code 
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
-	public function list2emptyfiles( $calendar = 'deadlines', $forceupdate = false) { 
+	// SECTION: overall functionality
+	public function make( $calendars = 'deadlines=ishort.ink/pHz6') { $A = array(); foreach ( tth( $calendars) as $calendar => $shorturl) { // makes  .md, .html
+		// .md part
+		echo "making $calendar.[md,md.txt,html]..."; $out = fopen( "$calendar.md", 'w'); $keymap = array();
+		fwrite( $out, "# $calendar <span id=" . strdblquote( 'top') . "></span>\n\n"); 
+		fwrite( $out, '<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">' . "\n\n");
+		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); 
+		$bywhen = array(); $H = jsonload( "$calendar.json"); 
+		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = $when2; }
+		asort( $bywhen); foreach ( $bywhen as $k => $when) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "[$title](#" . $keymap[ "$k"] . ") $when  \n"); }
+		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
+			extract( $h); // when, when2, url1, url2, title, duration, description
+			fwrite( $out, "## $title  ($when) <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
+			$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) continue; 
+			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); else fwrite( $out, $v . '  ' . "\n"); }
+			fwrite( $out, "<span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
+			fwrite( $out, "\n\n\n"); extract( tsburst( tsystem())); 
+			$A[ "due:" . lshift( ttl( $when, ' ')) . " $yyyy-$mm-$dd $title #$calendar $shorturl" . '#' . $keymap[ "$k"]] = true; 
+		}
+		fclose( $out); `cat $calendar.md > $calendar.md.txt`; echo " OK\n"; 
+		$c = "pandoc -f markdown -t html $calendar.md > $calendar.html"; echo "$c ... "; procpipe( $c); echo " OK\n";
+	}; ksort( $A); $out = fopen( 'todo.txt', 'w'); foreach ( $A as $v => $t) { $L = ttl( $v, ' '); $due = lshift( $L); lpush( $L, $due); fwrite( $out, ltt( $L, ' ') . "\n"); }; fclose( $out); }
+	// SECTION: gcalcli (python) api, also uses own  /code/gcal interface
+	public function list2emptyfiles( $calendar = 'deadlines', $forceupdate = false) { // will not touch existing files
 		if ( $forceupdate) `rm -Rf list.$calendar.json`; 
 		if ( ! is_file( "list.$calendar.json")) { $c = "php /code/gcal/gcal.php list $calendar auto auto list.$calendar.json";  echo "$c .."; echopipee( $c); echo " OK\n"; }
 		if ( ! is_file( "list.$calendar.json")) die( " ERROR!, no list.$calendar.json\n"); 
@@ -10,10 +33,10 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 			$v = trim( $v); if ( ! $v) continue; 
 			$L = ttl( $v, ' '); $date = lshift( $L); extract( tsburst( tsste( "$date 00:00:00"))); 
 			$name = ltt( $L, '.'); $file= $calendar . '.' . substr( '' . $yyyy . $mm . $dd, 2) . '.' . "$name" . ".txt"; 
-			if ( is_file( "$file")) continue; // do not overwrite an already existing file
-			$out = fopen( "$file", 'w'); fclose( $out); echo "adding   $file\n";
+			if ( is_file( "$file")) { echo "$file   (already file)\n"; continue; }  // do not overwrite an already existing file
+			$out = fopen( "$file", 'w'); fclose( $out); echo "$file  (NEW!)\n";
 		}
-		`chmod -R 777 *`;
+		`chmod -R 777 *`; 
 	}
 	public function add( $config = 'file=deadlines.200704.tale-takamatsu.txt,calendar=deadlines,when=2020-07-04,duration=allday', $noapicalls = false) { 
 		$config = hm( tth( 'file=200704.tale-takamatsu.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday'), tth( $config)); 
@@ -39,35 +62,8 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		echo "$f   $time   > $when\n";
 		$this->add( "calendar=$calendar,file=$f,when=$when,duration=allday", $noapicalls);
 	}}
-	public function makemd( $calendar = 'deadlines') { 
-		$out = fopen( "$calendar.md", 'w'); $keymap = array();
-		fwrite( $out, "# $calendar <span id=" . strdblquote( 'top') . "></span>\n\n"); 
-		fwrite( $out, '<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">' . "\n\n");
-		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); 
-		$bywhen = array(); $H = jsonload( "$calendar.json"); 
-		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = $when2; }
-		asort( $bywhen); foreach ( $bywhen as $k => $when) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "[$title](#" . $keymap[ "$k"] . ") $when  \n"); }
-		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
-			extract( $h); 
-			fwrite( $out, "## $title  ($when) <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
-			$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) continue; 
-			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); else fwrite( $out, $v . '  ' . "\n"); }
-			fwrite( $out, "<span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
-			fwrite( $out, "\n\n\n");
-		}
-		fclose( $out); `cat $calendar.md > $calendar.md.txt`; `chmod -R 777 *`; 
-	}
-	public function updateall( $calendar = 'deadlines') { if ( is_file( "list.$calendar.json")) foreach ( jsonload( "list.$calendar.json") as $v) { 
-		$L = ttl( $v, ' '); $date = lshift( $L); $title = lshift( $L); 
-		extract( tsburst( tsste( "$date 00:00:00"))); $before = "$yyyy-$mm-$dd"; 
-		$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) { echo " WARNING! $v (before#$before,title#$title) is not found in files, skipping.\n"; continue; }
-		if ( count( $files) > 1) { echo " WARNING! You have multiple files for title[$title] " . ltt( $files) . ", deal with it manually!\n"; continue; }
-		$file = lshift( $files); $L = ttl( $file, '.'); lshift( $L); $yymmdd = lshift( $L); 
-		$after = '20' . substr( $yymmdd, 0, 2) . '-' . substr( $yymmdd, 2, 2) . '-' . substr( $yymmdd, 4, 2); 
-		if ( $before == $after) continue;
-		die( " update detected!  before[$before] after[$after]  title[$title]");
-		$this->add( "file=$file,calendar=$calendar,when=$after"); // this add will delete the old one
-	}}
+	// SECTION: text.txt  inteface
+	
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }
 if ( isset( $argv) && count( $argv) && strpos( $argv[ 0], "$CLASS.php") !== false) { // direct CLI execution, redirect to one of the functions 
