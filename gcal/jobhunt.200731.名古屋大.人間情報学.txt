@@ -1,0 +1,10 @@
+no : 27
+id : D120060324 [NEW]
+update : 2020年06月06日
+univ : 名古屋大学
+title : 大学院工学研究科　教授公募(期間の延長)
+field : 工学 - 全て 情報学 - 人間情報学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年07月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060324&ln_jor=0&top_btn=1 ----------

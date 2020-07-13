@@ -1,0 +1,54 @@
+no : 48
+id : D120061144 [NEW]
+update : 2020年06月23日
+univ : 近畿大学
+title : 近畿大学 産業理工学部 経営ビジネス学科 教授または准教授または講師の公募（統計・データ分析 グローバル経済／経営関連分野）
+field : 社会科学 - 経営学 社会科学 - 経済学
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月19日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061144&ln_jor=0&top_btn=1 ----------
+
+no : 50
+id : D120061140 [NEW]
+update : 2020年06月23日
+univ : 近畿大学
+title : 近畿大学 産業理工学部 電気電子工学科　教授の公募（IoTに関連する電子工学分野）
+field : 工学 - 電気電子工学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月19日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061140&ln_jor=0&top_btn=1 ----------
+
+no : 42
+id : D120061145 [NEW]
+update : 2020年06月23日
+univ : 近畿大学
+title : 近畿大学 産業理工学部 情報学科　教授または准教授または講師の公募（データサイエンス分野）
+field : 情報学 - 情報学フロンティア 情報学 - 人間情報学 情報学 - 計算基盤
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月19日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061145&ln_jor=0&top_btn=1 ----------
+
+no : 56
+id : D120061212 [NEW]
+update : 2020年06月23日
+univ : 近畿大学
+title : 近畿大学 産業理工学部 情報学科　教授または准教授または講師の公募（情報エンジニアリング分野）
+field : 情報学 - 情報学フロンティア 情報学 - 人間情報学 情報学 - 計算基盤
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月19日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061212&ln_jor=0&top_btn=1 ----------
+
+no : 57
+id : D120061213 [NEW]
+update : 2020年06月23日
+univ : 近畿大学
+title : 近畿大学 産業理工学部 情報学科　教授または准教授または講師の公募（メディア情報分野）
+field : 情報学 - 情報学フロンティア 情報学 - 人間情報学 情報学 - 計算基盤
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月19日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061213&ln_jor=0&top_btn=1 ----------

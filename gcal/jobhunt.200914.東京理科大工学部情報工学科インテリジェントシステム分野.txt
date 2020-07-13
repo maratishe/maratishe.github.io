@@ -1,0 +1,10 @@
+no : 42
+id : D120061155 [NEW]
+update : 2020年06月23日
+univ : 東京理科大学
+title : 東京理科大学工学部情報工学科インテリジェントシステム分野（人工知能，機械学習，自然言語処理，情報検索及びその関連分野）
+field : 工学 - 情報工学 工学 - 人工知能 工学 - 音声音響処理
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月14日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061155&ln_jor=0&top_btn=1 ----------

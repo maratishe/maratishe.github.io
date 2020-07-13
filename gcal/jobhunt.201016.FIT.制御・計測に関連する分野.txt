@@ -1,0 +1,10 @@
+no : 10
+id : D120060831 [NEW]
+update : 2020年06月19日
+univ : 福岡工業大学
+title : 福岡工業大学　教員公募（制御・計測に関連する分野）
+field : 工学 - 計測工学[Measurement engineering] 工学 - 制御・システム工学[Control engineering/ System engineering]
+post : 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月16日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060831&ln_jor=0&top_btn=1 ----------

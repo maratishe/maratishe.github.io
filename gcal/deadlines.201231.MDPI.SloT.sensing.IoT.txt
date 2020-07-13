@@ -1,0 +1,89 @@
+++++++++++++++++++++++++++++++++++++++++++++++++
+CALL FOR PAPERS for Special Issue of MDPI Sensors on
+
+      “Recent Advances in Sensing and IoT Technologies”
+
+      https://www.mdpi.com/journal/sensors/special_issues/SIoTT
+
+Deadline for manuscript submissions: 31 December 2020
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+Special Issue Information
+
+The Internet of Things (IoT) is a network connecting billions of
+physical objects and devices that are capable of sensing and sharing
+data between themselves and the Internet. Hence, one of the core goals
+of an IoT system is to provide a digital overlay of information over the
+physical world, in domains such as industries, smart cities,
+transportation, and energy. Thus, sensing and embedded systems are key
+enabling technologies for the IoT vision.
+
+The increasing popularity of IoT applications is driving an exponential
+growth in connected IoT devices and generated data. As a result, the
+current IoT system architectures and communication technologies are
+facing significant technical challenges to meet the requirements of
+connectivity, scalability, and interoperability, as well as to
+efficiently support the transmission and processing of large volumes of
+data. Hence, there is a need for new enabling technologies, end-to-end
+architectures, and data management platforms. This Special Issue aims to
+foster the dissemination of high-quality research with emerging ideas,
+approaches, theories, and practice to resolve the challenging issues
+related to the development of IoT ecosystems. Comprehensive review
+papers on the emerging research trends in the IoT domain are highly
+encouraged.
+
+This special issue belongs to the section “Internet of Things”. Topics
+of interest include, but are not limited to, the following:
+
+- Sensor technologies and protocols for IoT systems
+- IoT technologies and wireless sensor networks for smart cities and
+smart homes
+- IoT in 5G and beyond 5G networks
+- Edge, fog, and cloud computing architectures for IoT systems
+- SDN and NFV solutions for IoT systems
+- Mission-critical IoT applications like smart grid, healthcare,
+connected vehicles, and so on
+- Security, privacy, and trust management in IoT
+- IoT solutions for crowdsourcing and crowd-sensing
+
+Special Issue Editors
+Dr. Raffaele Bruno
+Prof. Sherali Zeadally
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+Manuscript Submission Information
+
+Manuscripts should be submitted online at www.mdpi.com
+(https://www.mdpi.com/) by registering
+(https://www.mdpi.com/user/register/) and logging in to this website
+(https://www.mdpi.com/user/login/). Once you are registered, click here
+to go to the submission form
+(https://susy.mdpi.com/user/manuscripts/upload/?journal=sensors).
+Manuscripts can be submitted until the deadline. All papers will be
+peer-reviewed. Accepted papers will be published continuously in the
+journal (as soon as accepted) and will be listed together on the special
+issue website. Research articles, review articles as well as short
+communications are invited. For planned papers, a title and short
+abstract (about 100 words) can be sent to the Editorial Office for
+announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor be
+under consideration for publication elsewhere (except conference
+proceedings papers). All manuscripts are thoroughly refereed through a
+single-blind peer-review process. A guide for authors and other relevant
+information for submission of manuscripts is available on the
+Instructions for Authors
+(https://www.mdpi.com/journal/sensors/instructions) page. Sensors
+(https://www.mdpi.com/journal/sensors/) is an international
+peer-reviewed open access semimonthly journal published by MDPI.
+
+Please visit the Instructions for Authors
+(https://www.mdpi.com/journal/sensors/instructions) page before
+submitting a manuscript. The Article Processing Charge (APC)
+(https://www.mdpi.com/about/apc/) for publication in this open access
+(https://www.mdpi.com/about/openaccess/) journal is 1800 CHF (Swiss
+Francs). Submitted papers should be well formatted and use good English.
+Authors may use MDPI's English editing service
+(https://www.mdpi.com/authors/english) prior to publication or during
+author revisions.

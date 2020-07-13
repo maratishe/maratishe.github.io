@@ -1,0 +1,47 @@
+October 21-22, 2020 | Tallinn, Estonia Cyberspace
+Submission Deadline: August 1, 2020 (firm)
+
+EAI is proud to announce that BODYNETS is going virtual and beyond borders.
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.
+
+BODYNETS 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.
+sCOPE
+
+This conference will explore the scope and challenges of designing, building, and deploying body area networks (BodyNets) and Smart IoT and big data for intelligent health management as well. The conference aims to establish a forum to exchange ideas, discuss practices, raise awareness, and share experiences among researchers and practitioners in the field of computer science, electrical engineering, biomedical engineering, medicine, and other disciplines in both academia and industry.
+
+We are pleased to invite you to submit your paper to BODYNETS 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission). 
+
+Read More: Call for Papers
+Submit Paper
+
+Top performing BODYNETS paper is currently at 103 citations and counting!
+Publication
+
+All the presented papers will be included in the conference proceedings and submitted for publishing by Springer, made available through SpringerLink Digital Library.
+
+BODYNETS proceedings are indexed in leading indexing services, including Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).
+
+Authors of selected papers will be invited to submit an extended version to the following international journals:
+
+    IEEE Access (IF: 4.098)
+    Sensors (IF: 3.031)
+    Springer Wireless Networks (WINET) (IF: 2.659)
+
+All accepted authors are eligible to submit an extended version in a fast track of:
+
+    EAI Endorsed Transactions on Security and Safety
+
+Additional publication opportunities:
+
+    EAI/Springer Innovations in Communications and Computing Book Series
+
+Important dates
+
+Full Paper Submission Deadline: August 1, 2020 (firm)
+
+Notification Deadline: August 20, 2020
+
+Camera-ready deadline: september 20, 2020 
+
+Conference dates: October 21 - 22, 2020

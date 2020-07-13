@@ -1,0 +1,10 @@
+no : 27
+id : D120060472 [NEW]
+update : 2020年06月10日
+univ : 奈良先端科学技術大学院大学
+title : 先端科学技術研究科 情報科学領域 ロボティクス分野 教員（教授）公募
+field : 情報学 - 人間情報学 情報学 - 計算基盤 工学 - 機械工学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月17日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060472&ln_jor=0&top_btn=1 ----------

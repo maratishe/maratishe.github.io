@@ -1,0 +1,26 @@
+JREC-IN URL：
+https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=3&id=D120060515&ln_jor=0
+--
+【任用職名】教授 または 准教授
+【勤務形態】常勤（任期なし）
+【募集人数】1名
+【所 属】情報理工学部 情報理工学科(セキュリティ・ネットワークコース)
+【専門分野】情報セキュリティ、コンピュータネットワーク、
+　　　　　　システムソフトウェア、言語処理系、計算機アーキテクチャなど、
+　　　　　　セキュリティ・ネットワークコースの教育・研究に資する
+　　　　　　情報分野全般
+【担当科目】上記の専門分野に関係する講義科目や実験・演習科目、
+　　　　　　学部共通専門科目など
+【着任時期】2021年4月1日
+【応募〆切】2020年8月31日(月)(必着)
+
+no : 39
+id : D120060514 [NEW]
+update : 2020年06月11日
+univ : Ritsumeikan University
+title : Job Opening Announcement for a Full-Time Tenured Position (Associate Professor or Professor) at the College of Information Science and Engineering, Ritsumeikan University(CISE)
+field : Informatics - Principles of Informatics Informatics - Computing Technologies Informatics - Frontiers of informatics
+post : Associate Professor/Lecturer (full-time) level Professor level
+tenure : Full-time (Tenured)
+deadline : 2020年08月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060514&ln_jor=1&top_btn=1 ----------

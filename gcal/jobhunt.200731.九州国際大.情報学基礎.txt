@@ -1,0 +1,10 @@
+no : 38
+id : D120060550 [NEW]
+update : 2020年06月11日
+univ : 九州国際大学
+title : 教員の公募について【情報処理、数学　教授、准教授または助教】
+field : 情報学 - 情報学基礎
+post : 教授相当 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年07月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060550&ln_jor=0&top_btn=1 ----------

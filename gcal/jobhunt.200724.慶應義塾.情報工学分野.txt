@@ -1,0 +1,10 @@
+no : 13
+id : D120061097 [NEW]
+update : 2020年06月20日
+univ : 慶應義塾大学
+title : 情報工学科（情報工学分野） 教員公募
+field : 情報学 - 計算基盤
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年07月24日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061097&ln_jor=0&top_btn=1 ----------

@@ -15,14 +15,14 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		fwrite( $out, '<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">' . "\n\n");
 		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); 
 		$bywhen = array(); $H = jsonload( "$calendar.json"); 
-		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = $when2; }
-		asort( $bywhen); foreach ( $bywhen as $k => $when) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "[$title](#" . $keymap[ "$k"] . ") $when  \n"); }
+		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = lshift( ttl( $when, ' ')); }
+		asort( $bywhen); foreach ( $bywhen as $k => $when3) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "$when3 [$title](#" . $keymap[ "$k"] . ")  \n"); }
 		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
 			extract( $h); // when, when2, url1, url2, title, duration, description
-			fwrite( $out, "## $title  ($when) <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
+			fwrite( $out, "## $title  (" . lshift( ttl( $when, ' ')) . ") <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
 			$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) continue; 
-			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); else fwrite( $out, $v . '  ' . "\n"); }
-			fwrite( $out, "<span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
+			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); if ( ! $v) continue; $L = ttl( $v, ' '); foreach ( $L as $i => $v2) if ( strpos( $v2, 'http') === 0) $L[ $i] = "[$v2]($v2)"; $v= ltt( $L, ' '); fwrite( $out, $v . '  ' . "\n"); }
+			fwrite( $out, " <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
 			fwrite( $out, "\n\n\n"); extract( tsburst( tsystem())); 
 			$A[ "due:" . lshift( ttl( $when, ' ')) . " $yyyy-$mm-$dd $title #$calendar $shorturl" . '#' . $keymap[ "$k"]] = true; 
 		}
@@ -67,6 +67,48 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		echo "$f   $time   > $when\n";
 		$this->add( "calendar=$calendar,file=$f,when=$when,duration=allday", $noapicalls);
 	}}
+	// SECTION: manual labor automation
+	public function manual( $in = 'manual.txt', $reject= 'manual.reject.txt') { // manual.reject.txt should be in multi-part key per line format
+		$blocks = array(); $block = array(); extract( fpathparse( $in)); $L = file( $in); 
+		// map: no, id, update, univ, title, field, post, tenure, deadline, url
+		$map = tth( 'No.=no,データ番号=id,更新日=update,機関名=univ,タイトル=title,研究分野=field,職種=post,勤務形態=tenure,募集終了日=deadline,ＵＲＬ=url');
+		while ( count( $L)) { 
+			$v = trim( lshift( $L)); if ( ! $v) continue; 
+			if ( strpos( $v, 'No.') !== 0) continue; $block = array( $v); //echo "RAW   $v   "; 
+			while ( count( $L)) { 
+				$v = trim( lshift( $L));       
+				while( count( $L)) { // collect all further lines within the block
+					$iskey = false; foreach ( $map as $k2 => $v2) if ( count( ttl( lfirst( $L), '：')) > 1 && lshift( ttl( lfirst( $L), '：')) == $k2) $iskey = true; 
+					if ( $iskey) break; // next key
+					$v .= ' ' . trim( lshift( $L));
+				}
+				lpush( $block, ltt( ttl( $v, ' '), ' '));  if ( strpos( $v, 'ＵＲＬ') !== 0) continue; //echo substr( $v, 0, 40) . "...\n"; 
+				break; 
+			}
+			if ( $block) lpush( $blocks, $block);
+		}
+		$H = array(); $stats = array(); $A = array(); // { tag: { key: count, ...}, ...}
+		if ( is_file( $reject)) $reject = file( $reject); else $result = null; if ( $reject) foreach ( $reject as $i => $v) $reject[ $i] = trim( $v); if ( $reject) $reject = hvak( $reject); 
+		foreach ( $blocks as $block) { $h = array(); foreach ( $block as $v) { 
+			//die( " v[$v] in block  " . implode( "\n", $block)); 
+			$v = trim( $v); if ( ! $v) continue; $L = ttl( $v, '：'); $k = lshift( $L); $v = $L; 
+			$K = null; if ( isset( $map[ "$k"])) $K = $map[ "$k"]; if ( ! $K) die( " ERROR! no map for key[$k] in block " . implode( "\n", $block) . "\n"); 
+			if ( $K == 'id') $v = array( lshift( $L)); $V = ltt( $v, ' '); 
+			$h[ "$K"] = $V; htouch( $stats, "$K"); htouch( $stats[ "$K"], "$V", 0, false, false); $stats[ "$K"][ "$V"]++; 
+		}; extract( $h); $k = "$id $univ $title $field $tenure $deadline"; if ( $reject && isset( $reject[ "$k"])) { echo "REJECT  $k \n"; continue; }; $H[ "$k"] = $h; }
+		// there is a reject list, output only the non-rejected data
+		if ( $reject) echo "\n\n\n"; 
+		if ( $reject) foreach ( $H as $k => $h) { echo "\n"; foreach ( $h as $k2 => $v2) echo "$k2 : $v2\n"; }
+		if ( $reject) die( '');
+		// no reject list yet, output data for manual edit (select-out)
+		echo "\n\n\n"; // order by deadline 
+		$bytenure = array(); foreach ( $H as $k => $h) { extract( $h); htouch( $bytenure, $tenure); $bytenure[ "$tenure"][ "$k"] = $h; }
+		$stats2 = array(); foreach ( $bytenure as $k => $hs) $stats2[ "$k"] = count( $hs); echo "tenure stats : " . htt( $stats2) . "\n";
+		$order = '常勤 (任期なし),Full-time (Tenured),常勤 (テニュアトラック),常勤 (任期あり),非常勤 (任期あり),Full-time (Nontenured),Part-time (Nontenured)';
+		foreach ( ttl( $order) as $k1) { echo "\n\n\n\n" . "==== TENURE  $k1  ===== \n"; if ( ! isset( $bytenure[ "$k1"])) continue; foreach ( $bytenure[ "$k1"] as $k2 => $v2) {  echo "$k2\n"; }; unset( $bytenure[ "$k1"]); }
+		echo "\n\n\n"; foreach ( $bytenure as $k1 => $h1) foreach ( $h1 as $k2 => $h2) echo "$k2\n";  // leftovers
+		
+	}
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }
 if ( isset( $argv) && count( $argv) && strpos( $argv[ 0], "$CLASS.php") !== false) { // direct CLI execution, redirect to one of the functions 

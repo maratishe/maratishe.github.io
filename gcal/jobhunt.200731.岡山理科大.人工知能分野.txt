@@ -1,0 +1,10 @@
+no : 29
+id : D120051351 [NEW]
+update : 2020年06月02日
+univ : 岡山理科大学
+title : 准教授または講師の公募（コンピュータサイエンス，又は人工知能分野）
+field : 情報学 - 全て
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年07月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051351&ln_jor=0&top_btn=1 ----------

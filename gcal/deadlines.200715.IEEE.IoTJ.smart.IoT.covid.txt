@@ -1,0 +1,69 @@
+all for Articles
+
+IEEE Internet of Things Magazine Special Issue on
+"Smart IoT Solutions for Combating COVID-19 Pandemic"
+https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/smart-iot-solutions-combating-covid-19
+
+The recent surge of COVID-19 pandemic has affected all spheres of our daily life. While virologists are desperately seeking solutions for an early vaccine, a cross-disciplinary approach has become of paramount importance to develop adequate monitoring, contact tracing, and diagnosing/detecting COVID-19 patients. This Feature Topic (FT) aims to encourage researchers and practitioners from both industry and academia, active in the Internet of Things (IoT) domain, to explore the state-of-the-art and out-of-the-box IoT solutions to combat the COVID-19 pandemic by incorporating IoT-based smart solutions. Such solutions can range from IoT-based industrial production of ventilation units, masks and other medical equipment to monitoring patient conditions at hospitals or self-isolation at home in a secure manner, developing new techniques for passive, privacy-preserving contact-tracing techniques, and diagnosing the COVID-19 conditions based on IoT and mobile phone data collection and analytics, to smart Point-of-Care (POC) development not limited to the current gold standard of Reverse Transcription Polymerase Chain Reaction (RT-PCR) testing kits. Even as we continue to struggle to contain the current COVID-19 pandemic, the second wave of this life-threatening disease is looming on the horizon. Therefore, to fully prepare ourselves to combat COVID-19, researchers from all areas, including Information and Communications Technology (ICT) and IoT, need to provide the cutting-edge solutions to address these challenges in an efficient yet pragmatic manner.
+
+This Feature Topic (FT) is soliciting original technical papers addressing the main research challenges in the direction of IoT-based COVID-19 monitoring and detection and relevant applications, including, but not being limited to the following topics:
+
+- Smart and energy-efficient sensor design for collecting COVID-19 symptoms
+- Emerging applications of IoT-based home monitoring for COVID-19 patients
+- Reliable and secure/privacy-preserving contact tracing applications using IoT
+- Edge computing for COVID-19 analytics
+- Distributed contact tracing for neighborhoods using IoT
+- Cloud-managed IoT services for COVID-19 social data mining for mobility pattern detection
+- Cellular density/broadcast utilization for COVID-19 spread monitoring
+- Industrial IoT devices for reliable production of healthcare equipment for combating COVID-19 patients
+- Protecting supply chain during COVID-19 using IoT
+- Point-of-Care (POC) platform design using IoT sensors to combat COVID-19
+- AI (deep learning/machine learning) based analytics on smart sensors and POC platforms to detect COVID-19 with high sensitivity
+- Internet of Medical Things (IoMT) ecosystem design for combating the second/future wave of COVID-19
+- Software-Defined Networking (SDN)-assisted IoT for detecting COVID-19 breach in neighborhoods and hospitals
+- Use cases of IoT networks/systems for combating COVID-19
+- Device-to-Device (D2D) communications for combating COVID-19 and other pandemics during humanitarian missions (i.e., in warzones, disaster-affected areas, etc)
+- Security, privacy, and trust management for IoT-based monitoring, detecting, contact-tracing of COVID-19
+- Stress monitoring for mental wellbeing tracking during self-isolation and/or lockdown situations
+- Chronic patient monitoring and early warning systems using IoT for optimal scheduling of patients
+- Validation using simulation, clinical trials with IoT sensors/wearables and/or testbeds
+
+Submission Guidelines
+Manuscripts should conform to the standard format as indicated in the Information for Authors section of the Article Submission Guidelines.
+All manuscripts to be considered for publication must be submitted by the deadline through Manuscript Central. Select the “Smart IoT Solutions for Combating COVID-19 Pandemic” topic from the drop-down menu of Topic/Series titles.
+
+Important Dates
+Manuscript Submission Deadline: 15 July 2020
+Initial Decision: 31 July 2020
+Revised Manuscript Due: 31 August 2020
+Publication Date: September 2020
+
+Guest Editors
+Zubair Md. Fadlullah
+Lakehead University, Canada
+Thunder Bay Regional Health Research Institute (TBRHRI), Canada
+
+Mostafa M. Fouda
+Tennessee Technological University, TN, USA
+Benha University, Egypt
+
+Al-Sakib Khan Pathan
+Independent University, Bangladesh
+
+Nidal Nasser
+Alfaisal University, Kingdom of Saudi Arabia
+
+Abderrahim Benslimane
+University of Avignon, France
+
+Ying-Dar Lin
+National Chiao Tung University (NCTU), Taiwan
+
+For more information, visit https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/smart-iot-solutions-combating-covid-19
+Smart IoT Solutions for Combating COVID-19 Pandemic | IEEE Communications Society
+This Feature Topic (FT) is soliciting original technical papers addressing the main research challenges in the direction of IoT-based COVID-19 monitoring and detection and relevant applications.
+www.comsoc.org
+
+Best regards
+Mostafa Fouda
+

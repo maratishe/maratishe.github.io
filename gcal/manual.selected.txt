@@ -1,0 +1,92 @@
+
+no : 39
+id : D120060246 [NEW]
+update : 2020年06月05日
+univ : 中京大学
+title : 中京大学教養教育研究院専任教員公募（コンピュータ処理論及び関連科目）（2021年4月採用）
+field : 情報学 - 計算基盤
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月24日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060246&ln_jor=0&top_btn=1 ----------
+
+no : 20
+id : D120060139 [NEW]
+update : 2020年06月04日
+univ : トヨタ自動車株式会社
+title : 正社員（研究/開発）の公募: 先進モビリティ基盤向け高効率データ処理・データ管理技術の研究開発
+field : 情報学 - 計算基盤 工学 - 機械工学 総合理工 - 応用物理学
+post : 研究開発・技術者相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060139&ln_jor=0&top_btn=1 ----------
+
+no : 3
+id : D120060324 [UPDATE]
+update : 2020年06月08日
+univ : 名古屋大学
+title : 大学院工学研究科　教授公募(期間の延長)
+field : 工学 - 全て 情報学 - 人間情報学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年07月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060324&ln_jor=0&top_btn=1 ----------
+
+no : 21
+id : D120060395 [NEW]
+update : 2020年06月09日
+univ : 東京理科大学
+title : 准教授または講師の公募（数理モデリング、知能数理分野）
+field : 数物系科学 - 数学 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月25日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060395&ln_jor=0&top_btn=1 ----------
+
+no : 30
+id : D120060427 [NEW]
+update : 2020年06月09日
+univ : 埼玉工業大学
+title : 教授、准教授、講師または助教を合わせて2名(IT分野)
+field : 情報学 - 全て
+post : 教授相当 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年07月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060427&ln_jor=0&top_btn=1 ----------
+
+no : 7
+id : D120060246 [UPDATE]
+update : 2020年06月09日
+univ : 中京大学
+title : 中京大学教養教育研究院専任教員公募（コンピュータ処理論及び関連科目）（2021年4月採用）
+field : 情報学 - 計算基盤 総合理工 - 計算科学 工学 - 電気電子工学
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月24日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060246&ln_jor=0&top_btn=1 ----------
+
+
+no : 12
+id : D120060650 [NEW]
+update : 2020年06月12日
+univ : 岡山県立大学
+title : 情報工学部人間情報工学科　教授（知覚情報処理）の公募について
+field : 情報学 - 人間情報学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月19日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060650&ln_jor=0&top_btn=1 ----------
+
+
+no : 38
+id : D120060550 [NEW]
+update : 2020年06月11日
+univ : 九州国際大学
+title : 教員の公募について【情報処理、数学　教授、准教授または助教】
+field : 情報学 - 情報学基礎
+post : 教授相当 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年07月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060550&ln_jor=0&top_btn=1 ----------
+
+

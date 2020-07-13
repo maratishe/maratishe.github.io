@@ -1,0 +1,73 @@
+EAI INTSYS 2020  
+4th EAI International Conference on Intelligent Transport Systems
+                    http://futuretransport.org/
+December 2-4, 2020
+Viana do Castelo, Portugal Cyberspace
+in conjunction with the Smart City 360˚Summit
+******************************************************************
+
+Information:
+Submission Deadline: June 22, 2020 July 23, 2020
+Acceptance notification: August 3, 2020 September 3, 2020
+Camera ready paper: September 4, 2020 October 5, 2020
+INTSYS 2020: December 2-4, 2020
+
+
+INTSYS 2020 is part of the 6th annual Smart City 360˚Summit, promoting multidisciplinary scientific collaboration to solve complex societal, technological and economic problems of emerging Smart Cities. Intelligent Transportation Systems (ITS) are receiving increased attention as an answer to the need of innovative solutions to tackle safety, coordination and efficiency challenges related to transportation modes, congestion, traffic management, and networks. Based on technology, ITS can also be the base to develop more sustainable solutions.
+
+Main Topic of Interest:
+
+
+    Advanced Public Transportation Management
+    Air, Road, and Rail Traffic Management
+    Approaches to sustainable transportation
+    Autonomous Driving; Connected Car
+    Big data in ITS and Data-Driven Innovation
+    City Logistics
+    Cloud computing, Fog computing
+    Commercial Vehicle Operations
+    Communications in ITS
+    Computer Vision for ITS
+    Cooperative ITS and Autonomous driving
+    Driver and Traveler Support Systems
+    Electric Vehicles
+    Electronic Payment Systems
+    Emergency Management
+    Emissions, Noise, Environment
+    Human Factors, Travel Behavior
+    Intelligent Logistics
+    Intelligent urban construction for smart mobility
+    Intelligent Vehicles
+    Intermodal Freight
+    ITS Field Tests and Implementation
+    ITS for Smart Cities
+    ITS user services
+    Management of Exceptional Events: Incidents and Evacuation
+    Modelling, Control and Simulation
+    Probe Information Systems
+    Safe and secure ITS
+    Sensing, Detectors and Actuators
+    Traffic management and intelligent infrastructure (road, freight, public transport)
+    Traffic modelling and simulation
+    Traffic Theory for ITS
+    Transportation Networks
+    Travel and traffic information
+    Vehicle Localization
+    Vision, and Environment Perception
+    Blockchain and new challengers
+
+Publication
+Proceedings published by Springer will be submitted for inclusion in leading indexing services, including Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).
+
+
+Detailed call for papers: http://futuretransport.org/call-for-papers/
+Submission link: http://futuretransport.org/submission/
+INTSYS Web site: http://futuretransport.org/Detailed
+
+
+-------------------------------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Mycolleagues mailing list
+Mycolleagues@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/mycolleagues
