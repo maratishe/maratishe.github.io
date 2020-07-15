@@ -3,7 +3,7 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
 	// SECTION: overall functionality
-	public function maketodos( $A, $files = 'todo.current.md=0,todo.midterm.md=10,todo.longterm.md=30') { foreach ( tth( $files) as $f => $r) { 
+	public function maketodos( $A, $files = 'todo.current.md=0,todo.regulars.md=7,todo.midterm.md=10,todo.longterm.md=30') { foreach ( tth( $files) as $f => $r) { 
 		extract( tsburst( tsystem()));  $now = "$yyyy-$mm-$dd"; extract( fpathparse( $f)); 
 		extract( tsburst( tsystem() + $r * 24 * 60 * 60)); $then = "$yyyy-$mm-$dd";
 		foreach ( file( $f) as $v) { if ( trim( $v)) $A[ "due:$then $now " . trim( $v) . " #$fileroot"] = true; }

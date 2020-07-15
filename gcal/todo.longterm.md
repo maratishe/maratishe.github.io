@@ -1,1 +1,3 @@
-longterm task
+windows auth @ zaniya
+
+adobe @ work, home

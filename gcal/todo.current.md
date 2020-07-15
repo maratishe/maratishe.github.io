@@ -1,7 +1,9 @@
 kindle
 
-whistle
+purchases ① sdcards, ② 2 raspberries, ③ magnet plugs
+                    
+wifi dongle @ home
 
-gcal: deadlines, jobhunt
+classes ① johokiso (blockchain, eval), ② netchino (schedule)
 
-clean mail
+
