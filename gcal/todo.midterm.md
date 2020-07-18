@@ -8,3 +8,5 @@ tokyo hotels and schedule
 video recognition engine (sotsuken)
 
 audio automation for open campus
+
+simplify yalms

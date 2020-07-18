@@ -1,105 +1,92 @@
-2020-07-16 拓殖大.ソフトウェア工学 #jobhunt ishort.ink/kSNB#f4122f8fe2 due:2020-06-26
-2020-07-16 EAI・bigdata★free #deadlines ishort.ink/c1vK#723147d333 due:2020-07-01
-2020-07-16 iet・smartcity.retail.commerce #deadlines ishort.ink/c1vK#83cbf73cbb due:2020-07-01
-2020-07-16 ACMSenSys・横浜 #deadlines ishort.ink/c1vK#3071712d16 due:2020-07-03
-2020-07-16 mdpi・wmobile #deadlines ishort.ink/c1vK#27499718e8 due:2020-07-04
-2020-07-16 IEEE.IoTJ.smart.IoT.covid #deadlines ishort.ink/c1vK#ddaf94dd1c due:2020-07-15
-2020-07-16 MSM＠tokyo #deadlines ishort.ink/c1vK#d99f427dc5 due:2020-07-15
-2020-07-16 mdpi・vehicular #deadlines ishort.ink/c1vK#b692e4c16c due:2020-07-15
-2020-07-16 中央大 #jobhunt ishort.ink/kSNB#c6feced1df due:2020-07-15
-2020-07-16 同志社大 #jobhunt ishort.ink/kSNB#81352ab904 due:2020-07-15
-2020-07-16 classes ① johokiso (blockchain, eval), ② netchino (schedule) #todo.current due:2020-07-16
-2020-07-16 kindle #todo.current due:2020-07-16
-2020-07-16 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #todo.current due:2020-07-16
-2020-07-16 wifi dongle @ home #todo.current due:2020-07-16
-2020-07-16 ICDCN＠奈良 #deadlines ishort.ink/c1vK#09c5d846eb due:2020-07-17
-2020-07-16 千葉商科大 #jobhunt ishort.ink/kSNB#c02e478905 due:2020-07-17
-2020-07-16 千葉商科大.情報・メディア #jobhunt ishort.ink/kSNB#96921a1828 due:2020-07-17
-2020-07-16 mdpi・hiding #deadlines ishort.ink/c1vK#99afb85e5d due:2020-07-18
-2020-07-16 hindawi・smartcities #deadlines ishort.ink/c1vK#0d90c30c9d due:2020-07-20
-2020-07-16 近畿大情報セキュリティ評価 #jobhunt ishort.ink/kSNB#fa7c4db3c2 due:2020-07-20
-2020-07-16 東京大 #jobhunt ishort.ink/kSNB#afe59e13cb due:2020-07-21
-2020-07-16 (3) docomocycle data collect #todo.regulars due:2020-07-23
-2020-07-16 EAI.INTSYS.smartITS.smartcity #deadlines ishort.ink/c1vK#cdae1473d2 due:2020-07-23
-2020-07-16 EAI.SCITA.smartsociety.infra.apps #deadlines ishort.ink/c1vK#ec93c3bfe5 due:2020-07-23
-2020-07-16 EAI・cyberphy@cyber #deadlines ishort.ink/c1vK#36e9005607 due:2020-07-23
-2020-07-16 EAI・smartcity@cyber #deadlines ishort.ink/c1vK#43a5793eea due:2020-07-23
-2020-07-16 EAI・urbiot@cyber #deadlines ishort.ink/c1vK#5f1e4660a9 due:2020-07-23
-2020-07-16 ① money (weekly) #todo.regulars due:2020-07-23
-2020-07-16 ② jobhunt, fundhunt, cfp (weekly) #todo.regulars due:2020-07-23
-2020-07-16 CNSM@cyberspace #deadlines ishort.ink/c1vK#f8c9a76f6c due:2020-07-24
-2020-07-16 慶應義塾.情報工学分野 #jobhunt ishort.ink/kSNB#1faa482cfc due:2020-07-24
-2020-07-16 audio automation for open campus #todo.midterm due:2020-07-26
-2020-07-16 kgu zemi faces #todo.midterm due:2020-07-26
-2020-07-16 samsung redo cygwin #todo.midterm due:2020-07-26
-2020-07-16 tokyo hotels and schedule #todo.midterm due:2020-07-26
-2020-07-16 video recognition engine (sotsuken) #todo.midterm due:2020-07-26
-2020-07-16 滋賀大 #jobhunt ishort.ink/kSNB#a59d532b7d due:2020-07-30
-2020-07-16 EAI・mobiquitous★free #deadlines ishort.ink/c1vK#90ef7f7aa4 due:2020-07-31
-2020-07-16 IEEEJ.bigdatarecommend #deadlines ishort.ink/c1vK#2b9898baeb due:2020-07-31
-2020-07-16 mdpi・V2Xcomm #deadlines ishort.ink/c1vK#c4e9e6af93 due:2020-07-31
-2020-07-16 九州国際大.情報学基礎 #jobhunt ishort.ink/kSNB#ed8764462a due:2020-07-31
-2020-07-16 名古屋大.人間情報学 #jobhunt ishort.ink/kSNB#e24f2cb09e due:2020-07-31
-2020-07-16 埼玉工業大.情報学 #jobhunt ishort.ink/kSNB#425f4c047f due:2020-07-31
-2020-07-16 岡山理科大.人工知能分野 #jobhunt ishort.ink/kSNB#f2a049faff due:2020-07-31
-2020-07-16 法政大.信号処理、統計、計測、機械学習分野 #jobhunt ishort.ink/kSNB#837a6a163d due:2020-07-31
-2020-07-16 EAI.bodynets #deadlines ishort.ink/c1vK#cf2db2d7b3 due:2020-08-01
-2020-07-16 hindawi・smartphoneauth #deadlines ishort.ink/c1vK#97e20e0cb4 due:2020-08-07
-2020-07-16 三重大.知能工学講座・データサイエンス2jobs #jobhunt ishort.ink/kSNB#5287ecef42 due:2020-08-12
-2020-07-16 adobe @ work, home #todo.longterm due:2020-08-15
-2020-07-16 windows auth @ zaniya #todo.longterm due:2020-08-15
-2020-07-16 EAI.AICON.chinoAI.commnets #deadlines ishort.ink/c1vK#fc0d2329b3 due:2020-08-16
-2020-07-16 NAIST.ロボティクス分野 #jobhunt ishort.ink/kSNB#2a5cbddcf2 due:2020-08-17
-2020-07-16 筑波大 #jobhunt ishort.ink/kSNB#6bedfcd2ce due:2020-08-17
-2020-07-16 岡山県立大.知覚情報処理 #jobhunt ishort.ink/kSNB#ee1efdc1df due:2020-08-19
-2020-07-16 近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs #jobhunt ishort.ink/kSNB#16a1d3b9d0 due:2020-08-19
-2020-07-16 玉川大学.国際教養学科 #jobhunt ishort.ink/kSNB#18a05c382d due:2020-08-21
-2020-07-16 龍谷大.情報工学分野 #jobhunt ishort.ink/kSNB#f9b82aea16 due:2020-08-21
-2020-07-16 龍谷大.通信工学分野 #jobhunt ishort.ink/kSNB#e75713566c due:2020-08-21
-2020-07-16 近畿大.総合理工 #jobhunt ishort.ink/kSNB#2239e09e58 due:2020-08-22
-2020-07-16 中京大.コンピュータ処理論及び関連科目 #jobhunt ishort.ink/kSNB#e9d0f232de due:2020-08-24
-2020-07-16 久留米大.情報学フロンティア #jobhunt ishort.ink/kSNB#4c438c163f due:2020-08-24
-2020-07-16 日本大.ロボット・制御 #jobhunt ishort.ink/kSNB#3ef71d894d due:2020-08-25
-2020-07-16 広島工業大 #jobhunt ishort.ink/kSNB#4f2559a4fd due:2020-08-28
-2020-07-16 京都大.通信情報システム #jobhunt ishort.ink/kSNB#039122b303 due:2020-08-31
-2020-07-16 大阪大.情報科学 #jobhunt ishort.ink/kSNB#3697049074 due:2020-08-31
-2020-07-16 岡山理科大.情報数理.情報工学.2posts #jobhunt ishort.ink/kSNB#38136546d5 due:2020-08-31
-2020-07-16 日本工業大 #jobhunt ishort.ink/kSNB#56f2829a1f due:2020-08-31
-2020-07-16 東京都立大.情報学基礎.2posts #jobhunt ishort.ink/kSNB#955f81b4e2 due:2020-08-31
-2020-07-16 東京電機大.人間情報学 #jobhunt ishort.ink/kSNB#3b904bc834 due:2020-08-31
-2020-07-16 株式会社Nextremer.計算科学.quantum #jobhunt ishort.ink/kSNB#5fa1a2f2e1 due:2020-08-31
-2020-07-16 滋賀県立大.センシング工学分野 #jobhunt ishort.ink/kSNB#c56f9be485 due:2020-08-31
-2020-07-16 立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース #jobhunt ishort.ink/kSNB#1d2deb79a1 due:2020-08-31
-2020-07-16 般社団法人CRD #jobhunt ishort.ink/kSNB#ad2eb56a5b due:2020-08-31
-2020-07-16 駒澤大.情報分野 #jobhunt ishort.ink/kSNB#306428a9df due:2020-08-31
-2020-07-16 明治大 #jobhunt ishort.ink/kSNB#abe8802bd2 due:2020-09-07
-2020-07-16 公立はこだて未来大 #jobhunt ishort.ink/kSNB#7a86734726 due:2020-09-10
-2020-07-16 公立はこだて未来大.情報デザイン.複雑系知能分野 #jobhunt ishort.ink/kSNB#26497bf949 due:2020-09-10
-2020-07-16 北海道.情報科学研究院 #jobhunt ishort.ink/kSNB#47c598d268 due:2020-09-11
-2020-07-16 東京理科大工学部情報工学科インテリジェントシステム分野 #jobhunt ishort.ink/kSNB#3a4af00f34 due:2020-09-14
-2020-07-16 岡山大学.ハードウェア.ソフトウェア #jobhunt ishort.ink/kSNB#1e6b039c83 due:2020-09-15
-2020-07-16 青山学院大.情報社会科学 #jobhunt ishort.ink/kSNB#9cea46b8e5 due:2020-09-15
-2020-07-16 IEEE.MSN@東京.mobility.sensing.networking #deadlines ishort.ink/c1vK#56cb850a48 due:2020-09-17
-2020-07-16 岡山理科大 #jobhunt ishort.ink/kSNB#20f6e27e79 due:2020-09-18
-2020-07-16 長岡技術科学大.情報・経営システム工学専攻 #jobhunt ishort.ink/kSNB#090d9d916f due:2020-09-18
-2020-07-16 岩手県立大.人工知能コース #jobhunt ishort.ink/kSNB#a00fdcfe40 due:2020-09-25
-2020-07-16 東京理科大.数理モデリング、知能数理分野 #jobhunt ishort.ink/kSNB#d69e224299 due:2020-09-25
-2020-07-16 ACMtran・IoV #deadlines ishort.ink/c1vK#5303efd31e due:2020-09-28
-2020-07-16 mdpi・stenography #deadlines ishort.ink/c1vK#d91b1c57ba due:2020-09-30
-2020-07-16 成蹊大.計算科学 #jobhunt ishort.ink/kSNB#729221f684 due:2020-09-30
-2020-07-16 東京都市大.情報数理 #jobhunt ishort.ink/kSNB#3e71914ffd due:2020-09-30
-2020-07-16 東京電機大 #jobhunt ishort.ink/kSNB#541bf411c3 due:2020-09-30
-2020-07-16 株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】 #jobhunt ishort.ink/kSNB#11294f0d1a due:2020-09-30
-2020-07-16 福岡大.情報学 #jobhunt ishort.ink/kSNB#c1c2b5544e due:2020-09-30
-2020-07-16 acm・edgeAI #deadlines ishort.ink/c1vK#0056781663 due:2020-10-01
-2020-07-16 明星大.データアナリティクス #jobhunt ishort.ink/kSNB#222bdcbcbe due:2020-10-02
-2020-07-16 立命館大学.システム制御工学.無線通信・電波 #jobhunt ishort.ink/kSNB#bd5caa898a due:2020-10-09
-2020-07-16 tnsm・netmng #deadlines ishort.ink/c1vK#acd9ce1eab due:2020-10-15
-2020-07-16 FIT.制御・計測に関連する分野 #jobhunt ishort.ink/kSNB#d25f1244df due:2020-10-16
-2020-07-16 福岡工業大 #jobhunt ishort.ink/kSNB#b9af474c3b due:2020-10-30
-2020-07-16 springerj・cybersecAI #deadlines ishort.ink/c1vK#e050f91cf8 due:2020-10-31
-2020-07-16 mdpi.5g #deadlines ishort.ink/c1vK#70c7073724 due:2020-11-20
-2020-07-16 IET・iot #deadlines ishort.ink/c1vK#25d8432a90 due:2020-12-01
-2020-07-16 MDPI.geotech.spatiotemporal #deadlines ishort.ink/c1vK#56e2617def due:2020-12-10
-2020-07-16 MDPI.SloT.sensing.IoT #deadlines ishort.ink/c1vK#1f0532ec77 due:2020-12-31
-2020-07-16 MDPI.drone.swarms #deadlines ishort.ink/c1vK#9e2696f5c6 due:2020-12-31
+2020-07-18 classes ① johokiso (blockchain, eval), ② netchino (schedule) #current due:2020-07-18
+2020-07-18 kindle #current due:2020-07-18
+2020-07-18 mdpi・hiding #deadlines#99afb85e5d due:2020-07-18
+2020-07-18 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2020-07-18
+2020-07-18 wifi dongle @ home #current due:2020-07-18
+2020-07-18 hindawi・smartcities #deadlines#0d90c30c9d due:2020-07-20
+2020-07-18 東京大 #jobhunt#afe59e13cb due:2020-07-21
+2020-07-18 EAI.INTSYS.smartITS.smartcity #deadlines#cdae1473d2 due:2020-07-23
+2020-07-18 EAI.SCITA.smartsociety.infra.apps #deadlines#ec93c3bfe5 due:2020-07-23
+2020-07-18 EAI・cyberphy@cyber #deadlines#36e9005607 due:2020-07-23
+2020-07-18 EAI・smartcity@cyber #deadlines#43a5793eea due:2020-07-23
+2020-07-18 EAI・urbiot@cyber #deadlines#5f1e4660a9 due:2020-07-23
+2020-07-18 CNSM@cyberspace #deadlines#f8c9a76f6c due:2020-07-24
+2020-07-18 慶應義塾.情報工学分野 #jobhunt#1faa482cfc due:2020-07-24
+2020-07-18 (3) docomocycle data collect #regulars due:2020-07-25
+2020-07-18 ① money (weekly) #regulars due:2020-07-25
+2020-07-18 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2020-07-25
+2020-07-18 audio automation for open campus #midterm due:2020-07-28
+2020-07-18 kgu zemi faces #midterm due:2020-07-28
+2020-07-18 samsung redo cygwin #midterm due:2020-07-28
+2020-07-18 simplify yalms #midterm due:2020-07-28
+2020-07-18 tokyo hotels and schedule #midterm due:2020-07-28
+2020-07-18 video recognition engine (sotsuken) #midterm due:2020-07-28
+2020-07-18 滋賀大 #jobhunt#a59d532b7d due:2020-07-30
+2020-07-18 EAI・mobiquitous★free #deadlines#90ef7f7aa4 due:2020-07-31
+2020-07-18 IEEEJ.bigdatarecommend #deadlines#2b9898baeb due:2020-07-31
+2020-07-18 mdpi・V2Xcomm #deadlines#c4e9e6af93 due:2020-07-31
+2020-07-18 九州国際大.情報学基礎 #jobhunt#ed8764462a due:2020-07-31
+2020-07-18 名古屋大.人間情報学 #jobhunt#e24f2cb09e due:2020-07-31
+2020-07-18 埼玉工業大.情報学 #jobhunt#425f4c047f due:2020-07-31
+2020-07-18 岡山理科大.人工知能分野 #jobhunt#f2a049faff due:2020-07-31
+2020-07-18 法政大.信号処理、統計、計測、機械学習分野 #jobhunt#837a6a163d due:2020-07-31
+2020-07-18 EAI.bodynets #deadlines#cf2db2d7b3 due:2020-08-01
+2020-07-18 hindawi・smartphoneauth #deadlines#97e20e0cb4 due:2020-08-07
+2020-07-18 三重大.知能工学講座・データサイエンス2jobs #jobhunt#5287ecef42 due:2020-08-12
+2020-07-18 EAI.AICON.chinoAI.commnets #deadlines#fc0d2329b3 due:2020-08-16
+2020-07-18 NAIST.ロボティクス分野 #jobhunt#2a5cbddcf2 due:2020-08-17
+2020-07-18 adobe @ work, home #longterm due:2020-08-17
+2020-07-18 windows auth @ zaniya #longterm due:2020-08-17
+2020-07-18 筑波大 #jobhunt#6bedfcd2ce due:2020-08-17
+2020-07-18 岡山県立大.知覚情報処理 #jobhunt#ee1efdc1df due:2020-08-19
+2020-07-18 近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs #jobhunt#16a1d3b9d0 due:2020-08-19
+2020-07-18 玉川大学.国際教養学科 #jobhunt#18a05c382d due:2020-08-21
+2020-07-18 龍谷大.情報工学分野 #jobhunt#f9b82aea16 due:2020-08-21
+2020-07-18 龍谷大.通信工学分野 #jobhunt#e75713566c due:2020-08-21
+2020-07-18 近畿大.総合理工 #jobhunt#2239e09e58 due:2020-08-22
+2020-07-18 中京大.コンピュータ処理論及び関連科目 #jobhunt#e9d0f232de due:2020-08-24
+2020-07-18 久留米大.情報学フロンティア #jobhunt#4c438c163f due:2020-08-24
+2020-07-18 日本大.ロボット・制御 #jobhunt#3ef71d894d due:2020-08-25
+2020-07-18 広島工業大 #jobhunt#4f2559a4fd due:2020-08-28
+2020-07-18 京都大.通信情報システム #jobhunt#039122b303 due:2020-08-31
+2020-07-18 大阪大.情報科学 #jobhunt#3697049074 due:2020-08-31
+2020-07-18 岡山理科大.情報数理.情報工学.2posts #jobhunt#38136546d5 due:2020-08-31
+2020-07-18 日本工業大 #jobhunt#56f2829a1f due:2020-08-31
+2020-07-18 東京都立大.情報学基礎.2posts #jobhunt#955f81b4e2 due:2020-08-31
+2020-07-18 東京電機大.人間情報学 #jobhunt#3b904bc834 due:2020-08-31
+2020-07-18 株式会社Nextremer.計算科学.quantum #jobhunt#5fa1a2f2e1 due:2020-08-31
+2020-07-18 滋賀県立大.センシング工学分野 #jobhunt#c56f9be485 due:2020-08-31
+2020-07-18 立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース #jobhunt#1d2deb79a1 due:2020-08-31
+2020-07-18 般社団法人CRD #jobhunt#ad2eb56a5b due:2020-08-31
+2020-07-18 駒澤大.情報分野 #jobhunt#306428a9df due:2020-08-31
+2020-07-18 明治大 #jobhunt#abe8802bd2 due:2020-09-07
+2020-07-18 公立はこだて未来大 #jobhunt#7a86734726 due:2020-09-10
+2020-07-18 公立はこだて未来大.情報デザイン.複雑系知能分野 #jobhunt#26497bf949 due:2020-09-10
+2020-07-18 北海道.情報科学研究院 #jobhunt#47c598d268 due:2020-09-11
+2020-07-18 東京理科大工学部情報工学科インテリジェントシステム分野 #jobhunt#3a4af00f34 due:2020-09-14
+2020-07-18 岡山大学.ハードウェア.ソフトウェア #jobhunt#1e6b039c83 due:2020-09-15
+2020-07-18 青山学院大.情報社会科学 #jobhunt#9cea46b8e5 due:2020-09-15
+2020-07-18 IEEE.MSN@東京.mobility.sensing.networking #deadlines#56cb850a48 due:2020-09-17
+2020-07-18 岡山理科大 #jobhunt#20f6e27e79 due:2020-09-18
+2020-07-18 長岡技術科学大.情報・経営システム工学専攻 #jobhunt#090d9d916f due:2020-09-18
+2020-07-18 岩手県立大.人工知能コース #jobhunt#a00fdcfe40 due:2020-09-25
+2020-07-18 東京理科大.数理モデリング、知能数理分野 #jobhunt#d69e224299 due:2020-09-25
+2020-07-18 ACMtran・IoV #deadlines#5303efd31e due:2020-09-28
+2020-07-18 mdpi・stenography #deadlines#d91b1c57ba due:2020-09-30
+2020-07-18 成蹊大.計算科学 #jobhunt#729221f684 due:2020-09-30
+2020-07-18 東京都市大.情報数理 #jobhunt#3e71914ffd due:2020-09-30
+2020-07-18 東京電機大 #jobhunt#541bf411c3 due:2020-09-30
+2020-07-18 株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】 #jobhunt#11294f0d1a due:2020-09-30
+2020-07-18 福岡大.情報学 #jobhunt#c1c2b5544e due:2020-09-30
+2020-07-18 acm・edgeAI #deadlines#0056781663 due:2020-10-01
+2020-07-18 明星大.データアナリティクス #jobhunt#222bdcbcbe due:2020-10-02
+2020-07-18 立命館大学.システム制御工学.無線通信・電波 #jobhunt#bd5caa898a due:2020-10-09
+2020-07-18 tnsm・netmng #deadlines#acd9ce1eab due:2020-10-15
+2020-07-18 FIT.制御・計測に関連する分野 #jobhunt#d25f1244df due:2020-10-16
+2020-07-18 福岡工業大 #jobhunt#b9af474c3b due:2020-10-30
+2020-07-18 springerj・cybersecAI #deadlines#e050f91cf8 due:2020-10-31
+2020-07-18 mdpi.5g #deadlines#70c7073724 due:2020-11-20
+2020-07-18 IET・iot #deadlines#25d8432a90 due:2020-12-01
+2020-07-18 MDPI.geotech.spatiotemporal #deadlines#56e2617def due:2020-12-10
+2020-07-18 MDPI.SloT.sensing.IoT #deadlines#1f0532ec77 due:2020-12-31
+2020-07-18 MDPI.drone.swarms #deadlines#9e2696f5c6 due:2020-12-31

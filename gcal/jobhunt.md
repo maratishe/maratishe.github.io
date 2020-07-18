@@ -4,12 +4,13 @@
 
 this file is generated automatically, do not make manual changes to it!
 
-2020-06-26 [拓殖大.ソフトウェア工学](#f4122f8fe2)  
-2020-07-15 [中央大](#c6feced1df)  
-2020-07-15 [同志社大](#81352ab904)  
-2020-07-17 [千葉商科大](#c02e478905)  
-2020-07-17 [千葉商科大.情報・メディア](#96921a1828)  
-2020-07-20 [近畿大情報セキュリティ評価](#fa7c4db3c2)  
+2020-06-01 [<strike>龍谷大.通信工学分野</strike>](#a5bc67a750)  
+2020-06-26 [<strike>拓殖大.ソフトウェア工学</strike>](#6b396e23f4)  
+2020-07-15 [<strong>中央大</strong>](#2cd515325a)  
+2020-07-15 [<strike>同志社大</strike>](#4417a089ab)  
+2020-07-17 [<strike>千葉商科大</strike>](#0f634778c3)  
+2020-07-17 [<strike>千葉商科大.情報・メディア</strike>](#11424e7100)  
+2020-07-20 [<strike>近畿大情報セキュリティ評価★推薦書</strike>](#a496e2fbce)  
 2020-07-21 [東京大](#afe59e13cb)  
 2020-07-24 [慶應義塾.情報工学分野](#1faa482cfc)  
 2020-07-30 [滋賀大](#a59d532b7d)  
@@ -19,28 +20,28 @@ this file is generated automatically, do not make manual changes to it!
 2020-07-31 [法政大.信号処理、統計、計測、機械学習分野](#837a6a163d)  
 2020-07-31 [名古屋大.人間情報学](#e24f2cb09e)  
 2020-08-12 [三重大.知能工学講座・データサイエンス2jobs](#5287ecef42)  
-2020-08-17 [筑波大](#6bedfcd2ce)  
 2020-08-17 [NAIST.ロボティクス分野](#2a5cbddcf2)  
-2020-08-19 [近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs](#16a1d3b9d0)  
+2020-08-17 [筑波大](#6bedfcd2ce)  
 2020-08-19 [岡山県立大.知覚情報処理](#ee1efdc1df)  
+2020-08-19 [近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs](#16a1d3b9d0)  
+2020-08-21 [玉川大学.国際教養学科](#18a05c382d)  
 2020-08-21 [龍谷大.情報工学分野](#f9b82aea16)  
 2020-08-21 [龍谷大.通信工学分野](#e75713566c)  
-2020-08-21 [玉川大学.国際教養学科](#18a05c382d)  
 2020-08-22 [近畿大.総合理工](#2239e09e58)  
 2020-08-24 [久留米大.情報学フロンティア](#4c438c163f)  
 2020-08-24 [中京大.コンピュータ処理論及び関連科目](#e9d0f232de)  
 2020-08-25 [日本大.ロボット・制御](#3ef71d894d)  
 2020-08-28 [広島工業大](#4f2559a4fd)  
 2020-08-31 [立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース](#1d2deb79a1)  
-2020-08-31 [般社団法人CRD](#ad2eb56a5b)  
 2020-08-31 [東京電機大.人間情報学](#3b904bc834)  
+2020-08-31 [般社団法人CRD](#ad2eb56a5b)  
 2020-08-31 [日本工業大](#56f2829a1f)  
 2020-08-31 [東京都立大.情報学基礎.2posts](#955f81b4e2)  
-2020-08-31 [京都大.通信情報システム](#039122b303)  
+2020-08-31 [株式会社Nextremer.計算科学.quantum](#5fa1a2f2e1)  
 2020-08-31 [大阪大.情報科学](#3697049074)  
 2020-08-31 [滋賀県立大.センシング工学分野](#c56f9be485)  
 2020-08-31 [駒澤大.情報分野](#306428a9df)  
-2020-08-31 [株式会社Nextremer.計算科学.quantum](#5fa1a2f2e1)  
+2020-08-31 [京都大.通信情報システム](#039122b303)  
 2020-08-31 [岡山理科大.情報数理.情報工学.2posts](#38136546d5)  
 2020-09-07 [明治大](#abe8802bd2)  
 2020-09-10 [公立はこだて未来大](#7a86734726)  
@@ -64,134 +65,19 @@ this file is generated automatically, do not make manual changes to it!
 2020-10-30 [福岡工業大](#b9af474c3b)  
 
 
-## 龍谷大.通信工学分野  (2020-08-21) <span id="e75713566c"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>龍谷大.通信工学分野</strike>  (2020-06-01) <span id="a5bc67a750"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 11  
-id : D120051249 [UPDATE]  
-update : 2020年06月01日  
-univ : 龍谷大学  
-title : 教授、准教授または講師の公募（電子、通信工学分野）  
-field : 工学 - 電気電子工学 情報学 - 全て  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月21日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
+## <strike>拓殖大.ソフトウェア工学</strike>  (2020-06-26) <span id="6b396e23f4"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strong>中央大</strong>  (2020-07-15) <span id="2cd515325a"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 拓殖大.ソフトウェア工学  (2020-06-26) <span id="f4122f8fe2"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>同志社大</strike>  (2020-07-15) <span id="4417a089ab"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 25  
-id : D120060077 [NEW]  
-update : 2020年06月03日  
-univ : 拓殖大学  
-title : 工学部教員公募（准教授または助教）「ソフトウェア工学」 他  
-field : 情報学 - 計算基盤  
-post : 准教授・常勤専任講師相当 助教相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年06月26日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060077&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060077&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
+## <strike>千葉商科大</strike>  (2020-07-17) <span id="0f634778c3"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strike>千葉商科大.情報・メディア</strike>  (2020-07-17) <span id="11424e7100"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 中央大  (2020-07-15) <span id="c6feced1df"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：56  
-データ番号 ：D120041144 [NEW]  
-更新日 ：2020年04月28日  
-機関名 ：中央大学  
-タイトル ：教授・准教授・助教の公募（電気電子情報通信工学分野）  
-研究分野 ：工学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年07月15日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041144&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041144&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 同志社大  (2020-07-15) <span id="81352ab904"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：32  
-データ番号 ：D120050783 [NEW]  
-更新日 ：2020年05月22日  
-機関名 ：同志社大学  
-タイトル ：教授または准教授の公募（行動データ科学）  
-研究分野 ：情報学 - 人間情報学  
-社会科学 - 全て  
-人文学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年07月15日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050783&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050783&ln_jor=0&top_btn=1)  
-----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 千葉商科大  (2020-07-17) <span id="c02e478905"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-No. ：19  
-データ番号 ：D120041052 [NEW]  
-更新日 ：2020年04月25日  
-機関名 ：千葉商科大学  
-タイトル ：教授又は准教授の公募「情報・メディア（主として情報リテラシー）」  
-研究分野 ：情報学 - 情報学フロンティア  
-複合領域 - 科学教育・教育工学  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年07月17日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041052&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041052&ln_jor=0&top_btn=1)  
-
-
-
-
-No. ：51データ番号 ：D120041055 [NEW]  
-更新日 ：2020年04月25日  
-機関名 ：千葉商科大学  
-タイトル ：准教授又は専任講師の公募「情報科教育法、教育課程論等」  
-研究分野 ：社会科学 - 教育学  
-社会科学 - 教科教育学(情報)  
-社会科学 - 教員養成  
-職種 ： 准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年07月17日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041055&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041055&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 千葉商科大.情報・メディア  (2020-07-17) <span id="96921a1828"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 2  
-id : D120041052 [UPDATE]  
-update : 2020年06月18日  
-univ : 千葉商科大学  
-title : 教授又は准教授の公募「情報・メディア（主として情報リテラシー）」  
-field : 情報学 - 情報学フロンティア 複合領域 - 科学教育・教育工学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年07月17日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041052&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041052&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 近畿大情報セキュリティ評価  (2020-07-20) <span id="fa7c4db3c2"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 58  
-id : D120061201 [NEW]  
-update : 2020年06月23日  
-univ : 近畿大学  
-title : 准教授または教授の公募（情報セキュリティ評価）【再公募】  
-field : 情報学 - 計算基盤  
-post : 准教授・常勤専任講師相当 教授相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年07月20日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061201&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061201&ln_jor=0&top_btn=1) REC-IN Portalより、ご登録のマッチング条件に合った新着求人公募情報をお知らせします。 ※公開中の情報が更新された場合も含まれますので、ご了承ください。 ※新規情報には[NEW]、更新情報には[UPDATE]が表示されます。 ※URL欄に[→サイト名]が表示された情報は、連携する外部求人サイトから提供されたものです。求人の詳細は、各サイトの求人ページへジャンプし表示します。 ---【求人公募情報】--- ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>近畿大情報セキュリティ評価★推薦書</strike>  (2020-07-20) <span id="a496e2fbce"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 東京大  (2020-07-21) <span id="afe59e13cb"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -486,6 +372,21 @@ post : 教授相当 准教授・常勤専任講師相当
 tenure : 常勤 (任期なし)  
 deadline : 2020年08月21日  
 url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051248&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051248&ln_jor=0&top_btn=1) ----------  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## 龍谷大.通信工学分野  (2020-08-21) <span id="e75713566c"></span> <span style="color:#666;">[→top](#top)</span>
+
+no : 11  
+id : D120051249 [UPDATE]  
+update : 2020年06月01日  
+univ : 龍谷大学  
+title : 教授、准教授または講師の公募（電子、通信工学分野）  
+field : 工学 - 電気電子工学 情報学 - 全て  
+post : 教授相当 准教授・常勤専任講師相当  
+tenure : 常勤 (任期なし)  
+deadline : 2020年08月21日  
+url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1) ----------  
  <span style="color:#666;">[→top](#top)</span>
 
 
