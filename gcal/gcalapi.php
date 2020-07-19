@@ -30,6 +30,12 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		fclose( $out); `cat $calendar.md > $calendar.md.txt`; echo " OK\n"; 
 		$c = "pandoc -f markdown -t html $calendar.md > $calendar.html"; echo "$c ... "; procpipe( $c); echo " OK\n";
 	}; $this->maketodos( $A); }
+	public function sync( $here = '.', $there = '/local/githubpages/gcal') { // removes all files from there which are not found in here
+		if ( $here != '.') chdir( $here); $here = array(); foreach ( flget( '.') as $f) if ( is_file( $f)) $here[ "$f"] = true; 
+		foreach ( $here as $f => $t) { $c = "rsync -avz " . strdblquote( $f) . " $there/."; procpipe( $c); echo "PUT $c\n"; }
+		chdir( $there); foreach ( flget( '.') as $f) if ( is_file( "$f") && ! isset( $here[ "$f"])) { echo "delete $there/$f\n"; $c = 'rm -Rf ' . strdblquote( $f); procpipe( $c); }
+		`chmod -R 777 *`;
+	}
 	// SECTION: gcalcli (python) api, also uses own  /code/gcal interface
 	public function list2emptyfiles( $calendar = 'deadlines', $forceupdate = false) { // will not touch existing files
 		if ( $forceupdate) `rm -Rf list.$calendar.json`; 
