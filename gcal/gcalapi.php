@@ -8,7 +8,7 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		extract( tsburst( tsystem() + $r * 24 * 60 * 60)); $then = "$yyyy-$mm-$dd";
 		foreach ( file( $f) as $v) { if ( trim( $v)) $A[ "due:$then $now " . trim( $v) . " #" . lpop( ttl( $fileroot, '.'))] = true; }
 	}; ksort( $A); $out = fopen( 'todo.txt', 'w'); foreach ( $A as $v => $t) { $L = ttl( $v, ' '); $due = lshift( $L); lpush( $L, $due); fwrite( $out, ltt( $L, ' ') . "\n"); }; fclose( $out); }
-	public function make( $calendars = 'deadlines=ishort.ink/c1vK,jobhunt=ishort.ink/kSNB') { $A = array(); foreach ( tth( $calendars) as $calendar => $shorturl) { // makes  .md, .html
+	public function make( $calendars = 'deadlines=ishort.ink/c1vK,jobhunt=ishort.ink/kSNB,fundhunt=ishort.ink/kSNB') { $A = array(); foreach ( tth( $calendars) as $calendar => $shorturl) { // makes  .md, .html
 		// .md part
 		echo "making $calendar.[md,md.txt,html]..."; $out = fopen( "$calendar.md", 'w'); $keymap = array();
 		fwrite( $out, "# $calendar <span id=" . strdblquote( 'top') . "></span>\n\n"); 
