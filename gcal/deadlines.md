@@ -4,25 +4,15 @@
 
 this file is generated automatically, do not make manual changes to it!
 
-2020-07-01 [EAI・bigdata★free](#723147d333)  
-2020-07-01 [iet・smartcity.retail.commerce](#83cbf73cbb)  
-2020-07-03 [ACMSenSys・横浜](#3071712d16)  
-2020-07-04 [mdpi・wmobile](#27499718e8)  
-2020-07-15 [IEEE.IoTJ.smart.IoT.covid](#ddaf94dd1c)  
-2020-07-15 [mdpi・vehicular](#b692e4c16c)  
-2020-07-15 [MSM＠tokyo](#d99f427dc5)  
-2020-07-17 [ICDCN＠奈良](#09c5d846eb)  
-2020-07-18 [mdpi・hiding](#99afb85e5d)  
-2020-07-20 [hindawi・smartcities](#0d90c30c9d)  
 2020-07-23 [EAI.INTSYS.smartITS.smartcity](#cdae1473d2)  
 2020-07-23 [EAI.SCITA.smartsociety.infra.apps](#ec93c3bfe5)  
 2020-07-23 [EAI・cyberphy@cyber](#36e9005607)  
 2020-07-23 [EAI・smartcity@cyber](#43a5793eea)  
 2020-07-23 [EAI・urbiot@cyber](#5f1e4660a9)  
 2020-07-24 [CNSM@cyberspace](#f8c9a76f6c)  
-2020-07-31 [mdpi・V2Xcomm](#c4e9e6af93)  
 2020-07-31 [EAI・mobiquitous★free](#90ef7f7aa4)  
 2020-07-31 [IEEEJ.bigdatarecommend](#2b9898baeb)  
+2020-07-31 [mdpi・V2Xcomm](#c4e9e6af93)  
 2020-08-01 [EAI.bodynets](#cf2db2d7b3)  
 2020-08-07 [hindawi・smartphoneauth](#97e20e0cb4)  
 2020-08-16 [EAI.AICON.chinoAI.commnets](#fc0d2329b3)  
@@ -38,26 +28,6 @@ this file is generated automatically, do not make manual changes to it!
 2020-12-31 [MDPI.drone.swarms](#9e2696f5c6)  
 2020-12-31 [MDPI.SloT.sensing.IoT](#1f0532ec77)  
 
-
-## EAI・bigdata★free  (2020-07-01) <span id="723147d333"></span> <span style="color:#666;">[→top](#top)</span>
-
-## iet・smartcity.retail.commerce  (2020-07-01) <span id="83cbf73cbb"></span> <span style="color:#666;">[→top](#top)</span>
-
-## ACMSenSys・横浜  (2020-07-03) <span id="3071712d16"></span> <span style="color:#666;">[→top](#top)</span>
-
-## mdpi・wmobile  (2020-07-04) <span id="27499718e8"></span> <span style="color:#666;">[→top](#top)</span>
-
-## IEEE.IoTJ.smart.IoT.covid  (2020-07-15) <span id="ddaf94dd1c"></span> <span style="color:#666;">[→top](#top)</span>
-
-## mdpi・vehicular  (2020-07-15) <span id="b692e4c16c"></span> <span style="color:#666;">[→top](#top)</span>
-
-## MSM＠tokyo  (2020-07-15) <span id="d99f427dc5"></span> <span style="color:#666;">[→top](#top)</span>
-
-## ICDCN＠奈良  (2020-07-17) <span id="09c5d846eb"></span> <span style="color:#666;">[→top](#top)</span>
-
-## mdpi・hiding  (2020-07-18) <span id="99afb85e5d"></span> <span style="color:#666;">[→top](#top)</span>
-
-## hindawi・smartcities  (2020-07-20) <span id="0d90c30c9d"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## EAI.INTSYS.smartITS.smartcity  (2020-07-23) <span id="cdae1473d2"></span> <span style="color:#666;">[→top](#top)</span>
 

@@ -2,41 +2,12 @@
 $CLASS = 'gcalapi'; class gcalapi { // USER code 
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
-	// SECTION: overall functionality
+	// SECTION: gcalcli (python) api, also uses own  /code/gcal interface
 	public function maketodos( $A, $files = 'todo.current.md=0,todo.regulars.md=7,todo.midterm.md=10,todo.longterm.md=30') { foreach ( tth( $files) as $f => $r) { 
 		extract( tsburst( tsystem()));  $now = "$yyyy-$mm-$dd"; extract( fpathparse( $f)); 
 		extract( tsburst( tsystem() + $r * 24 * 60 * 60)); $then = "$yyyy-$mm-$dd";
 		foreach ( file( $f) as $v) { if ( trim( $v)) $A[ "due:$then $now " . trim( $v) . " #" . lpop( ttl( $fileroot, '.'))] = true; }
 	}; ksort( $A); $out = fopen( 'todo.txt', 'w'); foreach ( $A as $v => $t) { $L = ttl( $v, ' '); $due = lshift( $L); lpush( $L, $due); fwrite( $out, ltt( $L, ' ') . "\n"); }; fclose( $out); }
-	public function make( $calendars = 'deadlines=ishort.ink/c1vK,jobhunt=ishort.ink/kSNB,fundhunt=ishort.ink/kSNB') { $A = array(); foreach ( tth( $calendars) as $calendar => $shorturl) { // makes  .md, .html
-		// .md part
-		echo "making $calendar.[md,md.txt,html]..."; $out = fopen( "$calendar.md", 'w'); $keymap = array();
-		fwrite( $out, "# $calendar <span id=" . strdblquote( 'top') . "></span>\n\n"); 
-		fwrite( $out, '<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">' . "\n\n");
-		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); 
-		$bywhen = array(); $H = jsonload( "$calendar.json"); 
-		foreach ( $H as $k => $h) { extract( $h); if ( substr( $title, 0, 1) == '-') $title = '<strike>' . substr( $title, 1) . '</strike>'; if ( substr( $title, 0, 1) == '+') $title = '<strong>' . substr( $title, 1) . '</strong>'; $H[ "$k"][ 'title'] = $title; }
-		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = lshift( ttl( $when, ' ')); }
-		asort( $bywhen); foreach ( $bywhen as $k => $when3) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "$when3 [$title](#" . $keymap[ "$k"] . ")  \n"); }
-		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
-			extract( $h); // when, when2, url1, url2, title, duration, description
-			fwrite( $out, "## $title  (" . lshift( ttl( $when, ' ')) . ") <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
-			$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) continue; 
-			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); if ( ! $v) continue; $L = ttl( $v, ' '); foreach ( $L as $i => $v2) if ( strpos( $v2, 'http') === 0) $L[ $i] = "[$v2]($v2)"; $v= ltt( $L, ' '); fwrite( $out, $v . '  ' . "\n"); }
-			fwrite( $out, " <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
-			fwrite( $out, "\n\n\n"); extract( tsburst( tsystem())); 
-			$A[ "due:" . lshift( ttl( $when, ' ')) . " $yyyy-$mm-$dd $title #$calendar" . '#' . $keymap[ "$k"]] = true; 
-		}
-		fclose( $out); `cat $calendar.md > $calendar.md.txt`; echo " OK\n"; 
-		$c = "pandoc -f markdown -t html $calendar.md > $calendar.html"; echo "$c ... "; procpipe( $c); echo " OK\n";
-	}; $this->maketodos( $A); }
-	public function sync( $here = '.', $there = '/local/githubpages/gcal') { // removes all files from there which are not found in here
-		if ( $here != '.') chdir( $here); $here = array(); foreach ( flget( '.') as $f) if ( is_file( $f)) $here[ "$f"] = true; 
-		foreach ( $here as $f => $t) { $c = "rsync -avz " . strdblquote( $f) . " $there/."; procpipe( $c); echo "PUT $c\n"; }
-		chdir( $there); foreach ( flget( '.') as $f) if ( is_file( "$f") && ! isset( $here[ "$f"])) { echo "delete $there/$f\n"; $c = 'rm -Rf ' . strdblquote( $f); procpipe( $c); }
-		`chmod -R 777 *`;
-	}
-	// SECTION: gcalcli (python) api, also uses own  /code/gcal interface
 	public function list2emptyfiles( $calendar = 'deadlines', $forceupdate = false) { // will not touch existing files
 		if ( $forceupdate) `rm -Rf list.$calendar.json`; 
 		if ( ! is_file( "list.$calendar.json")) { $c = "php /code/gcal/gcal.php list $calendar auto auto list.$calendar.json";  echo "$c .."; echopipee( $c); echo " OK\n"; }
@@ -50,7 +21,7 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		}
 		`chmod -R 777 *`; 
 	}
-	public function add( $config = 'file=deadlines.200704.tale-takamatsu.txt,calendar=deadlines,when=2020-07-04,duration=allday', $noapicalls = false) { 
+	public function add( $config = 'file=deadlines.200704.tale-takamatsu.txt,calendar=deadlines,when=2020-07-04,duration=allday', $noapicalls = true) { 
 		$config = hm( tth( 'file=200704.tale-takamatsu.deadlines.txt,calendar=deadlines,when=2020-07-04,duration=allday'), tth( $config)); 
 		extract( $config); // file, calendar, when, duration
 		extract( fpathparse( $file)); $L = ttl( $file, '.'); lpop( $L); lshift( $L); lshift( $L); 
@@ -62,18 +33,11 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		$title = $name; $description = $url1 . ' ' . $url2;
 		$H[ "$name"] = compact( ttl( 'calendar,title,when,url1,url2,when2,duration,description'));
 		$c = "php /code/gcal/gcal.php delete $calendar " . strdblquote( $name); 
-		echo "DELETE  $c\n"; if ( $noapicalls) echo "no ap calls, skip\n"; else system( $c);  
+		echo "DELETE  $c\n"; if ( $noapicalls && $noapicalls == 'yes') echo "no ap calls, skip\n"; else system( $c);  
 		$c = "php /code/gcal/gcal.php add " . strdblquote( htt( $H[ "$name"]));
-		echo "ADD  $c\n"; if ( $noapicalls) echo "no ap calls, skip\n"; else system( $c);  
+		echo "ADD  $c\n"; if ( $noapicalls && $noapicalls == 'yes') echo "no ap calls, skip\n"; else system( $c);  
 		jsondump( $H, "$calendar.json"); echo "DONE > $calendar.json\n";
 	}
-	public function addall( $calendars = 'deadlines,jobhunt', $noapicalls = false) { foreach ( ttl( $calendars) as $calendar) {  `rm -Rf $calendar.json`; foreach ( flget( '.', $calendar, '', 'txt') as $f) {  // filenames should start from  yymmdd.  or  yymmddhhmm
-		echo "\n\n"; $L = ttl( $f, '.'); lshift( $L); $time = lshift( $L); if ( ! is_numeric( $time)) continue; 
-		$yyyy = '20' . substr( $time, 0, 2); $mm = substr( $time, 2, 2); $dd = substr( $time, 4); $when = "$yyyy-$mm-$dd";
-		if ( strlen( $time) > 6) { $mm2 = substr( $time, 6, 2); $dd = substr( $time, 8, 2); $when .= " $mm2:$dd"; }
-		echo "$f   $time   > $when\n";
-		$this->add( "calendar=$calendar,file=$f,when=$when,duration=allday", $noapicalls);
-	}}}
 	// SECTION: manual labor automation
 	public function manual( $in = 'manual.txt', $reject= 'manual.reject.txt') { // manual.reject.txt should be in multi-part key per line format
 		$blocks = array(); $block = array(); extract( fpathparse( $in)); $L = file( $in); 
@@ -115,6 +79,42 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		foreach ( ttl( $order) as $k1) { echo "\n\n\n\n" . "==== TENURE  $k1  ===== \n"; if ( ! isset( $bytenure[ "$k1"])) continue; foreach ( $bytenure[ "$k1"] as $k2 => $v2) {  echo "$k2\n"; }; unset( $bytenure[ "$k1"]); }
 		echo "\n\n\n"; foreach ( $bytenure as $k1 => $h1) foreach ( $h1 as $k2 => $h2) echo "$k2\n";  // leftovers
 		
+	}
+	// SECTION: overall functionality
+	public function addall( $calendars = 'deadlines,jobhunt,fundhunt', $noapicalls = true) { foreach ( ttl( $calendars) as $calendar) {  `rm -Rf $calendar.json`; foreach ( flget( '.', $calendar, '', 'txt') as $f) {  // filenames should start from  yymmdd.  or  yymmddhhmm
+		echo "\n\n"; $L = ttl( $f, '.'); lshift( $L); $time = lshift( $L); if ( ! is_numeric( $time)) continue; 
+		$yyyy = '20' . substr( $time, 0, 2); $mm = substr( $time, 2, 2); $dd = substr( $time, 4); $when = "$yyyy-$mm-$dd";
+		if ( strlen( $time) > 6) { $mm2 = substr( $time, 6, 2); $dd = substr( $time, 8, 2); $when .= " $mm2:$dd"; }
+		echo "$f   $time   > $when\n";
+		$this->add( "calendar=$calendar,file=$f,when=$when,duration=allday", $noapicalls);
+	}}}
+	public function make( $calendars = 'deadlines,jobhunt,fundhunt') { $A = array(); foreach ( ttl( $calendars) as $calendar) { // makes  .md, .html
+		// .md part
+		echo "making $calendar.[md,md.txt,html]..."; $out = fopen( "$calendar.md", 'w'); $keymap = array();
+		fwrite( $out, "# $calendar <span id=" . strdblquote( 'top') . "></span>\n\n"); 
+		fwrite( $out, '<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">' . "\n\n");
+		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); 
+		$bywhen = array(); $H = jsonload( "$calendar.json"); 
+		foreach ( $H as $k => $h) { extract( $h); if ( substr( $title, 0, 1) == '-') $title = '<strike>' . substr( $title, 1) . '</strike>'; if ( substr( $title, 0, 1) == '+') $title = '<strong>' . substr( $title, 1) . '</strong>'; $H[ "$k"][ 'title'] = $title; }
+		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = lshift( ttl( $when, ' ')); }
+		asort( $bywhen); foreach ( $bywhen as $k => $when3) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "$when3 [$title](#" . $keymap[ "$k"] . ")  \n"); }
+		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
+			extract( $h); // when, when2, url1, url2, title, duration, description
+			fwrite( $out, "## $title  (" . lshift( ttl( $when, ' ')) . ") <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
+			$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) continue; 
+			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); if ( ! $v) continue; $L = ttl( $v, ' '); foreach ( $L as $i => $v2) if ( strpos( $v2, 'http') === 0) $L[ $i] = "[$v2]($v2)"; $v= ltt( $L, ' '); fwrite( $out, $v . '  ' . "\n"); }
+			fwrite( $out, " <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
+			fwrite( $out, "\n\n\n"); extract( tsburst( tsystem())); 
+			$A[ "due:" . lshift( ttl( $when, ' ')) . " $yyyy-$mm-$dd $title #$calendar"] = true; 
+		}
+		fclose( $out); `cat $calendar.md > $calendar.md.txt`; echo " OK\n"; 
+		$c = "pandoc -f markdown -t html $calendar.md > $calendar.html"; echo "$c ... "; procpipe( $c); echo " OK\n";
+	}; $this->maketodos( $A); }
+	public function sync( $here = '.', $there = '/local/githubpages/gcal') { // removes all files from there which are not found in here
+		if ( $here != '.') chdir( $here); $here = array(); foreach ( flget( '.') as $f) if ( is_file( $f)) $here[ "$f"] = true; 
+		foreach ( $here as $f => $t) { $c = "rsync -avz " . strdblquote( $f) . " $there/."; procpipe( $c); echo "PUT $c\n"; }
+		chdir( $there); foreach ( flget( '.') as $f) if ( is_file( "$f") && ! isset( $here[ "$f"])) { echo "delete $there/$f\n"; $c = 'rm -Rf ' . strdblquote( $f); procpipe( $c); }
+		`chmod -R 777 *`;
 	}
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }

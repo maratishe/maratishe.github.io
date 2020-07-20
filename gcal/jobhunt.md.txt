@@ -11,7 +11,7 @@ this file is generated automatically, do not make manual changes to it!
 2020-07-17 [<strike>千葉商科大</strike>](#0f634778c3)  
 2020-07-17 [<strike>千葉商科大.情報・メディア</strike>](#11424e7100)  
 2020-07-20 [<strike>近畿大情報セキュリティ評価★推薦書</strike>](#a496e2fbce)  
-2020-07-21 [東京大](#afe59e13cb)  
+2020-07-21 [<strike>東京大(missed13日締切)</strike>](#a94f938232)  
 2020-07-24 [慶應義塾.情報工学分野](#1faa482cfc)  
 2020-07-30 [滋賀大](#a59d532b7d)  
 2020-07-31 [岡山理科大.人工知能分野](#f2a049faff)  
@@ -79,23 +79,7 @@ this file is generated automatically, do not make manual changes to it!
 
 ## <strike>近畿大情報セキュリティ評価★推薦書</strike>  (2020-07-20) <span id="a496e2fbce"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 東京大  (2020-07-21) <span id="afe59e13cb"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：36  
-データ番号 ：D120051070 [NEW]  
-更新日 ：2020年05月29日  
-機関名 ：東京大学  
-タイトル ：令和２年度東京大学卓越研究員（教授、准教授、講師、助教）募集要項  
-研究分野 ：その他 - 全ての研究分野  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年07月21日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051070&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051070&ln_jor=0&top_btn=1)  
--  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>東京大(missed13日締切)</strike>  (2020-07-21) <span id="a94f938232"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 慶應義塾.情報工学分野  (2020-07-24) <span id="1faa482cfc"></span> <span style="color:#666;">[→top](#top)</span>
 
