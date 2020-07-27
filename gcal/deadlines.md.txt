@@ -4,109 +4,473 @@
 
 this file is generated automatically, do not make manual changes to it!
 
-2020-07-23 [EAI.INTSYS.smartITS.smartcity](#cdae1473d2)  
-2020-07-23 [EAI.SCITA.smartsociety.infra.apps](#ec93c3bfe5)  
-2020-07-23 [EAI・cyberphy@cyber](#36e9005607)  
-2020-07-23 [EAI・smartcity@cyber](#43a5793eea)  
-2020-07-23 [EAI・urbiot@cyber](#5f1e4660a9)  
-2020-07-24 [CNSM@cyberspace](#f8c9a76f6c)  
-2020-07-31 [EAI・mobiquitous★free](#90ef7f7aa4)  
-2020-07-31 [IEEEJ.bigdatarecommend](#2b9898baeb)  
+2020-07-23 [<strike>EAI.INTSYS.smartITS.smartcity</strike>](#b66484fb0e)  
+2020-07-23 [<strike>EAI.SCITA.smartsociety.infra.apps</strike>](#f25893fa0d)  
+2020-07-23 [<strike>EAI・cyberphy@cyber</strike>](#85b677f41c)  
+2020-07-23 [<strike>EAI・smartcity@cyber</strike>](#cf60c38215)  
+2020-07-24 [<strong>CNSM@cyberspace</strong>](#22e5de7f8d)  
+2020-07-31 [EAI・mobiquitous](#85821f77c7)  
+2020-07-31 [ElsevierJ.onlinesocialnets](#3ebb16564d)  
 2020-07-31 [mdpi・V2Xcomm](#c4e9e6af93)  
 2020-08-01 [EAI.bodynets](#cf2db2d7b3)  
+2020-08-01 [intconf.IEEE.MCNA.multimedia★jouhnalspecials](#3513a681a9)  
+2020-08-03 [EAI・urbiot@cyber](#5f1e4660a9)  
+2020-08-06 [EAI.wicon.wireless](#c02842e34e)  
 2020-08-07 [hindawi・smartphoneauth](#97e20e0cb4)  
 2020-08-16 [EAI.AICON.chinoAI.commnets](#fc0d2329b3)  
+2020-08-17 [tale.education.online](#bff7098c00)  
+2020-08-20 [inconf.ICNCC.netcomm★東京](#49f4867629)  
+2020-08-30 [JCN(korea).wireless.mimo](#d92ba4f4b1)  
+2020-09-07 [intconf.IEEE.NCA.netapps](#7b845b3b1a)  
+2020-09-11 [ACM.nanococoa.embedsensors](#d7b6e0b261)  
 2020-09-17 [IEEE.MSN@東京.mobility.sensing.networking](#56cb850a48)  
 2020-09-28 [ACMtran・IoV](#5303efd31e)  
 2020-09-30 [mdpi・stenography](#d91b1c57ba)  
 2020-10-01 [acm・edgeAI](#0056781663)  
 2020-10-15 [tnsm・netmng](#acd9ce1eab)  
 2020-10-31 [springerj・cybersecAI](#e050f91cf8)  
+2020-10-31 [WileyJ.software.innovations](#f6d0db1ffc)  
+2020-11-01 [mdpij.wirelessprotocols](#ee527e2262)  
 2020-11-20 [mdpi.5g](#70c7073724)  
 2020-12-01 [IET・iot](#25d8432a90)  
+2020-12-01 [IETj.smartcities](#e3e175936d)  
 2020-12-10 [MDPI.geotech.spatiotemporal](#56e2617def)  
 2020-12-31 [MDPI.drone.swarms](#9e2696f5c6)  
 2020-12-31 [MDPI.SloT.sensing.IoT](#1f0532ec77)  
 
 
-## EAI.INTSYS.smartITS.smartcity  (2020-07-23) <span id="cdae1473d2"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>EAI.INTSYS.smartITS.smartcity</strike>  (2020-07-23) <span id="b66484fb0e"></span> <span style="color:#666;">[→top](#top)</span>
 
-EAI INTSYS 2020  
-4th EAI International Conference on Intelligent Transport Systems  
-[http://futuretransport.org/](http://futuretransport.org/)  
-December 2-4, 2020  
-Viana do Castelo, Portugal Cyberspace  
-in conjunction with the Smart City 360˚Summit  
-******************************************************************  
+## <strike>EAI.SCITA.smartsociety.infra.apps</strike>  (2020-07-23) <span id="f25893fa0d"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strike>EAI・cyberphy@cyber</strike>  (2020-07-23) <span id="85b677f41c"></span> <span style="color:#666;">[→top](#top)</span>
 
-Information:  
-Submission Deadline: June 22, 2020 July 23, 2020  
-Acceptance notification: August 3, 2020 September 3, 2020  
-Camera ready paper: September 4, 2020 October 5, 2020  
-INTSYS 2020: December 2-4, 2020  
+## <strike>EAI・smartcity@cyber</strike>  (2020-07-23) <span id="cf60c38215"></span> <span style="color:#666;">[→top](#top)</span>
+
+## <strong>CNSM@cyberspace</strong>  (2020-07-24) <span id="22e5de7f8d"></span> <span style="color:#666;">[→top](#top)</span>
+
+## EAI・mobiquitous  (2020-07-31) <span id="85821f77c7"></span> <span style="color:#666;">[→top](#top)</span>
 
 
 
-
-INTSYS 2020 is part of the 6th annual Smart City 360˚Summit, promoting multidisciplinary scientific collaboration to solve complex societal, technological and economic problems of emerging Smart Cities. Intelligent Transportation Systems (ITS) are receiving increased attention as an answer to the need of innovative solutions to tackle safety, coordination and efficiency challenges related to transportation modes, congestion, traffic management, and networks. Based on technology, ITS can also be the base to develop more sustainable solutions.  
-
-
-Main Topic of Interest:  
+[http://eai.mailmta.com/nl/link?c=6brh&d=5r0&h=j02i7og007gftjabas4fgq29b&i=2s7&iw=1&p=H1009508845&s=lp&sn=3m3&z=1st4](http://eai.mailmta.com/nl/link?c=6brh&d=5r0&h=j02i7og007gftjabas4fgq29b&i=2s7&iw=1&p=H1009508845&s=lp&sn=3m3&z=1st4)  
 
 
 
 
-Advanced Public Transportation Management  
-Air, Road, and Rail Traffic Management  
-Approaches to sustainable transportation  
-Autonomous Driving; Connected Car  
-Big data in ITS and Data-Driven Innovation  
-City Logistics  
-Cloud computing, Fog computing  
-Commercial Vehicle Operations  
-Communications in ITS  
-Computer Vision for ITS  
-Cooperative ITS and Autonomous driving  
-Driver and Traveler Support Systems  
-Electric Vehicles  
-Electronic Payment Systems  
-Emergency Management  
-Emissions, Noise, Environment  
-Human Factors, Travel Behavior  
-Intelligent Logistics  
-Intelligent urban construction for smart mobility  
-Intelligent Vehicles  
-Intermodal Freight  
-ITS Field Tests and Implementation  
-ITS for Smart Cities  
-ITS user services  
-Management of Exceptional Events: Incidents and Evacuation  
-Modelling, Control and Simulation  
-Probe Information Systems  
-Safe and secure ITS  
-Sensing, Detectors and Actuators  
-Traffic management and intelligent infrastructure (road, freight, public transport)  
-Traffic modelling and simulation  
-Traffic Theory for ITS  
-Transportation Networks  
-Travel and traffic information  
-Vehicle Localization  
-Vision, and Environment Perception  
-Blockchain and new challengers  
+November 9 - 11, 2020 | Darmstadt, Germany Cyberspace  
+Full Paper Submission Deadline: July 31, 2020 (extended)  
+Workshop Paper Submission Deadline: August 28, 2020  
+
+
+
+
+EAI MobiQuitous 2020 will be held as a fully-fledged online conference.  
+
+
+Due to the safety concerns and travel restrictions caused by COVID-19, EAI MobiQuitous 2020 will take place online in a live stream.  
+Participants will still be able to enjoy unique interactive benefits – learn more.  
+
+
+
+
+EAI MobiQuitous 2020 - 17th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services  
+November 9-11, 2020  
+Darmstadt, Germany Cyberspace  
+
+
+EAI MobiQuitous is a top ranked conference venue for researchers with a CORE conference ranking: A.  
+MobiQuitous authors have enjoyed over 8300+ citations, with average 8,23 citations per paper and h-index 37 (Scopus).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Call for papers  
+
+
+Indexed in  
+
+
+Ei Compendex, ISI Web of Science, Scopus, CrossRef,  
+Google Scholar, DBLP, and more.  
+
+
 
 
 Publication  
-Proceedings published by Springer will be submitted for inclusion in leading indexing services, including Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
+
+
+Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
+
+
+EAI Endorsed Transactions on Mobile Communications and Applications  
 
 
 
 
-Detailed call for papers: [http://futuretransport.org/call-for-papers/](http://futuretransport.org/call-for-papers/)  
-Submission link: [http://futuretransport.org/submission/](http://futuretransport.org/submission/)  
-INTSYS Web site: [http://futuretransport.org/Detailed](http://futuretransport.org/Detailed)  
 
 
+Learn more  
+
+
+
+
+
+
+
+
+
+
+Get the recognition you deserve  
+with EAI Index:  
+
+
+- The first open and transparent way of recognizing great researchers worldwide  
+
+
+- Credits are awarded to all authors based on review, but regardless of acceptance  
+
+
+- Members with top 0.1% EAI Index at the end of the year will become EAI Fellows  
+
+
+
+
+Find out more about EAI Index  
+
+
+
+
+
+
+
+
+
+
+
+
+Call for papers  
+
+
+
+
+Past volumes indexed in  
+
+
+Ei Compendex, ISI Web of Science, Scopus, CrossRef,  
+Google Scholar, DBLP, and more.  
+
+
+
+
+Publication  
+
+
+Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
+
+
+EAI Endorsed Transactions on Mobile Communications and Applications  
+
+
+
+
+
+
+Learn more  
+
+
+_  
+Submit a Full-length paper:  
+_  
+
+
+Submit full paper  
+
+
+
+
+3rd Workshop on  
+TC-CPS: Time-Critical Cyber  
+Physical Systems  
+
+
+Submit Workshop Paper  
+
+
+
+
+Workshop on Artificial Intelligence for Mobile and Ubiquitous  
+Communication System  
+
+
+Submit Workshop Paper  
+
+
+
+
+Workshop on e-Health and m-Health Technologies for Ambient Assisted Living and Healthcare  
+
+
+Submit Workshop Paper  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paper Submission is now open for the 17th edition of MobiQuitous! Check out the Call for Papers.  
+Take a look back at the previous edition of MobiQuitous here.  
+MobiQuitous 2020 supports revolutionary EAI Community Review, find out more here.  
+Every author receives EAI Index credits – regardless of acceptance. Learn more about EAI’s Recognition Program here.  
+Get real feedback on your presentation from other registrants via EAI Compass.  
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the EAI Community  
+
+
+Let the EAI Community help you build your career with collaborative research, objective evaluation, and fair recognition:  
+
+
+Extra visibility for your paper and fair review → Community Review  
+Get credits to receive membership ranks and global recognition → EAI Index  
+Real-time evaluation and feedback on your presentation on-site → EAI Compass  
+
+
+
+
+
+
+Publication  
+
+
+We have applied to ACM for inclusion into the ACM International Conference Proceedings program (ICPS). If MobiQuitous 2020 is accepted into the ACM program, all accepted and presented papers will be published in ICPS and made available through ACM Digital Library.  
+
+
+MobiQuitous proceedings are indexed in leading indexing services, including Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
+
+
+Authors of selected best accepted and presented papers will be invited to submit an extended version to:  
+
+
+Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
+
+
+All accepted authors are eligible to submit an extended version in a fast track of:  
+
+
+EAI Endorsed Transactions on Mobile Communications and Applications  
+
+
+Additional publication opportunities:  
+
+
+EAI/Springer Innovations in Communications and Computing Book Series  
+
+
+
+
+Topics  
+
+
+About MobiQuitous 2020  
+
+
+About EAI  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Important dates  
+
+
+Full Paper Submission deadline  
+5 July 2020  
+Notification deadline  
+19 August 2020  
+Registration Opens  
+21 August 2020  
+Camera-ready deadline  
+13 September 2020  
+Start of Conference  
+9 November 2020  
+End of Con  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## ElsevierJ.onlinesocialnets  (2020-07-31) <span id="3ebb16564d"></span> <span style="color:#666;">[→top](#top)</span>
+
+------------------------------------------------------------------------------  
+CALL FOR PAPERS  
+
+
+Elsevier Online Social Networks and Media Journal (OSNEM)  
+
+
+Special issue on  
+Online/Mobile Social Networking at the time of COVID-19  
+
+
+Submission Deadline: July 31st, 2020  
+[http://www.journals.elsevier.com/online-social-networks-and-media/](http://www.journals.elsevier.com/online-social-networks-and-media/)  
+------------------------------------------------------------------------------  
+
+
+The outbreak of COVID-19 is revolutionising our daily habits and  
+individual/social behaviour, with many physical activities being "migrated"  
+to the online world. On the other hand, we are relying more and more on  
+online services to track and fight the diffusion of the new virus.  
+While these phenomena are a consequence of an emergency situation,  
+it is very likely that such changes will have a significant long-term impact.  
+
+
+Online and Mobile Social Networks are a particularly intriguing environment  
+in this framework. The OSNEM usage has changed dramatically since the emergence  
+of the pandemic. Moreover, OSNEM can be used to shed light, through big data analysis,  
+on novel individual and social behaviours of people. Last but not least, OSNEM are  
+increasingly used to track the pandemic, via Online and Mobile Social Platforms  
+helping to track physical contacts between people. As the role of OSNEM is becoming  
+ever more important, challenges and threats to privacy, trust in information,  
+fake news, malicious behaviour are posing even more serious threats.  
+
+
+This special issue seeks high-quality scientific articles (both theoretical and  
+experimental) on the use of OSNEM at the time of COVID-19, to either characterise  
+the human behaviour via large-scale OSNEM data analysis, or using OSNEM to  
+fight the pandemic. Papers describing the process used to collect and use  
+large-scale datasets from OSNEM platforms are welcome, provided datasets are  
+made available to the research community.  
+
+
+Topics include, but are not limited to:  
+- Characterisation of OSNEM usage at the time of COVID-19 via OSNEM big data analysis  
+- Models of individual and social behaviour through OSNEM big data during the pandemic  
+- Characterisation of social network structures during pandemic via OSNEM large-scale data  
+- Opinion formation, information diffusion and polarization related to COVID-19  
+- Tracking of COVID-19 diffusion through Online Social Networks analysis  
+- Mobile Social Networking applications and services to fight the COVID-19 diffusion  
+- COVID-19 e-health services based on OSNEM  
+- Privacy issues in the use of Online and Mobile Social Networks to fight COVID-19  
+- Tools to detect and counteract disinformation and malicious behaviours  
+related the COVID-19 phenomena  
+- Tools to assess and verify trustworthiness of COVID-19 related information and accounts  
+- OSNEM data-driven approaches to study COVID-19 related phenomena  
+- Multidisciplinary applications of OSNEM (economics, medicine, society, politics,  
+homeland security, etc.) to fight COVID-19  
+- COVID-19 publicly available OSNEM datasets: collection, usage and sharing  
+
+
+Online Social Networks and Media is a multidisciplinary journal for the wide community  
+of computer and network scientists working on developing OSNEM platforms and services  
+and using OSNEM as a big data source to mine, learn and model the (online) human behaviour.  
+Manuscripts only based on questionnaires, even focused on the reported use of social media,  
+are outside the scope of the journal. On the other hand, the journal welcomes papers which  
+present analyses based on big data mined from social networks/media.  
+
+
+-----------------------------------------------------------------------------  
+Schedule  
+Manuscript submission deadline: July 31st, 2020  
+First notification: September 30th, 2020  
+Submission of revised paper: October 31st, 2020  
+Notification of acceptance: November 30th, 2020  
+
+
+Guest Editors  
+Marco Conti, IIT-CNR, Italy  
+Andrea Passarella, IIT-CNR, Italy  
+------------------------------------------------------------------------------  
+
+
+Instructions for submission  
+
+
+Manuscripts must not have been previously published nor currently under review  
+by other journals or conferences. Papers previously published in conference proceedings  
+are eligible for submission if the submitted manuscript is a substantial revision  
+and extension of the conference version. In this case, authors should indicate  
+the previous publication(s) in the cover letter and are also required to submit  
+their published conference article(s) and a summary document explaining the enhancements  
+made in the journal version. The submission website for this journal is located at  
+[https://www.editorialmanager.com/osnem/default.aspx.](https://www.editorialmanager.com/osnem/default.aspx.)  
+
+
+Please select "VSI:COVID-19" when you reach the "Article Type" step in the submission process.  
+To ensure that all manuscripts are correctly identified, for consideration by the special issue,  
+the authors should indicate in the cover letter that the manuscript has been submitted  
+for the special issue on “Online/Mobile Social Networking at the time of COVID-19”.  
+
+
+Manuscripts can be submitted continuously until the deadline. Once a paper is submitted,  
+the review process will start immediately. Accepted papers will be published continuously  
+in the journal (in the first issue available as soon as the paper is accepted).  
+All accepted papers will be listed together in an online virtual special issue published  
+in the journal website.  
+
+
+For further information, please contact the guest editors at  
+osnem at iit.cnr.it  
 
 
 -------------------------------------------------------  
@@ -117,477 +481,6 @@ Mycolleagues@mailman.ufsc.br
 [https://mailman.ufsc.br/mailman/listinfo/mycolleagues](https://mailman.ufsc.br/mailman/listinfo/mycolleagues)  
  <span style="color:#666;">[→top](#top)</span>
 
-
-## EAI.SCITA.smartsociety.infra.apps  (2020-07-23) <span id="ec93c3bfe5"></span> <span style="color:#666;">[→top](#top)</span>
-
-December 2 - 4, 2020 | Viana do Castelo, Portugal Cyberspace  
-Submission Deadline: July 23, 2020 (extended)  
-
-
-EAI is proud to announce that SCITA is going virtual and beyond borders.  
-
-
-Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
-
-
-SCITA 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.  
-sCOPE  
-Smart city applications are the latest, and most dominant and demanding applications to be supported by the global networking and computing infrastructure. Smart cities provide the state of the art approaches for urbanisation, having evolved from the developments carried out under the umbrella of knowledge-based economy, and subsequently under the notion of digital economy and intelligent economy.  
-
-
-The notion of smart cities can be extended to smart societies; i.e. digitally-enabled, knowledge-based societies, aware of and working towards social, environmental and economic sustainability. Since knowledge, and human and social capital are at the heart of smart city and smart society developments, the role of education should extend beyond the mainstream “education for employment” scope.  
-
-
-We are pleased to invite you to submit your paper to SCITA 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
-Submit Paper  
-Read More: Call for Papers  
-Publication  
-All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.  
-
-
-Proceedings will be submitted for inclusion in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
-
-
-Authors of selected best accepted and presented papers will be invited to submit an extended version to:  
-
-
-Springer Journal on Wireless Networks (WINET) IF: 2.405  
-Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
-
-
-All accepted authors are eligible to submit an extended version in a fast track of:  
-
-
-EAI Endorsed Transactions on Smart Cities (Open Access)  
-
-
-Additional publication opportunities:  
-
-
-EAI/Springer Innovations in Communications and Computing Book Series  
-
-
-Important dates  
-
-
-Submission Deadline: July 23, 2020 (extended)  
-
-
-Notification Deadline: september 3, 2020  
-
-
-Camera-ready deadline: october 5, 2020  
-
-
-Conference dates: december 2 - 4, 2020  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## EAI・cyberphy@cyber  (2020-07-23) <span id="36e9005607"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-December 2 - 4, 2020 | Viana do Castelo, Portugal Cyberspace  
-Submission Deadline: July 23, 2020 (extended)  
-
-
-EAI is proud to announce that IC4S is going virtual and beyond borders.  
-
-
-Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
-
-
-IC4S 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.  
-
-
-
-
-sCOPE  
-
-
-
-
-
-
-IC4S is a premier conference that aims to bring together leading academic scientists, researchers and research scholars to exchange and share their experiences and research results on all aspects of Cognitive Computing Techniques and Cyber-Physical Systems (CPS). It provides a premier interdisciplinary platform to present and discuss the most recent innovations, trends and practical challenges encountered as well as solutions.  
-
-
-We are pleased to invite you to submit your paper to IC4S 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
-
-
-Submit Paper  
-
-
-
-
-Read More: Call for Papers  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-call for workshop proposals  
-
-
-
-
-
-
-EAI International Conference on Cognitive Computing and Cyber Physical Systems invites the workshop proposals. Workshop should be focused on current and future trends in technology development in IoT, 5G, Industry 4.0, Cognitive radio networks, vehicular networks, Big data and other hot topics; facilitated by a group of leading researchers and pioneers in their respective areas.  
-
-
-Read more: Call for Workshop Proposals  
-
-
-
-
-
-
-Publication  
-
-
-All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.  
-
-
-Proceedings will be submitted for inclusion in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
-
-
-Authors of selected best accepted and presented papers will be invited to submit an extended version to:  
-
-
-Wireless Networks (WINET) Journal (IF: 2.405)  
-Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
-
-
-All accepted authors are eligible to submit an extended version in a fast track of:  
-
-
-EAI Endorsed Transactions on Industrial Networks and Intelligent Systems (Open Access)  
-EAI Endorsed Transactions on Cognitive Communications (Open Access)  
-EAI Endorsed Transactions on Internet of Things (Open Access)  
-
-
-Additional publication opportunities:  
-
-
-EAI/Springer Innovations in Communications and Computing Book Series  
-
-
-
-
-Important dates  
-
-
-Submission Deadline: July 23, 2020 (extended)  
-
-
-Notification Deadline: september 3, 2020  
-
-
-Camera-ready deadline: october 5, 2020  
-
-
-Conference dates: december 2 - 4, 2020  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## EAI・smartcity@cyber  (2020-07-23) <span id="43a5793eea"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-December 2 - 4, 2020 | Viana do Castelo, Portugal Cyberspace  
-Submission Deadline: July 23, 2020 (extended)  
-
-
-EAI is proud to announce that OptiCity is going virtual and beyond borders.  
-
-
-Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
-
-
-OptiCity 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.  
-
-
-
-
-sCOPE  
-
-
-Based on the agreement that a Smart city is an urban area that integrates different types of communication protocols and electronic Internet of Things (IoT) sensors to fuse data and then, using big data mining in order to efficiently manage assets, resources and services in real time, this multidisciplinary conference aims at bringing together researchers in all fields of intelligent design and services optimization in smart cities discussing, through quality papers, all issues involved in an integral and holistic approach.  
-
-
-We are pleased to invite you to submit your paper to OptiCity 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
-Submit Paper  
-
-
-Read More: Call for Papers  
-
-
-
-
-
-
-
-
-
-
-
-
-Publication  
-
-
-All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.  
-
-
-Proceedings will be submitted for inclusion in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
-
-
-Authors of selected papers will be invited to submit an extended version to a Special Issue in:  
-
-
-Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
-Wireless Networks (WINET) Journal (IF: 2.405)  
-
-
-All accepted authors will be eligible to submit an extended version in a fast track of:  
-
-
-EAI Endorsed Transactions on Smart Cities (Open Access)  
-
-
-Additional publication opportunities:  
-
-
-MDPI Smart Cities – Open Access Journal  
--subject to an additional fee  
-EAI/Springer Innovations in Communications and Computing Book Series  
-
-
-
-
-Important dates  
-
-
-Submission Deadline: July 23, 2020 (extended)  
-
-
-Notification Deadline: september 03, 2020  
-
-
-Camera-ready deadline: october 05, 2020  
-
-
-Conference dates: december 2 - 4, 2020  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## EAI・urbiot@cyber  (2020-07-23) <span id="5f1e4660a9"></span> <span style="color:#666;">[→top](#top)</span>
-
-December 2 - 4, 2020 | N/A Cyberspace  
-Submission Deadline: August 3, 2020 (extended)  
-
-
-EAI is proud to announce that Urb-IoT is going virtual and beyond borders.  
-
-
-Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
-
-
-
-
-December 2 - 4, 2020 | Viana do Castelo, Portugal Cyberspace  
-Submission Deadline: July 23, 2020 (extended)  
-
-
-
-
-EAI is proud to announce that Urb-IoT is going virtual and beyond borders.  
-
-
-Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
-
-
-Urb-IoT 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.  
-
-
-
-
-sCOPE  
-
-
-
-
-
-
-Urban IoT promises to deliver massive amounts of data and fundamentally change our understanding of these systems. This should have a very positive impact in the operation of many urban services, and lead to more resource-efficient and affordable infrastructures.  
-
-
-However, the deployment of cutting edge IoT technology is not a solution just by itself. Its success depends on the ability to integrate the city fabric and become an integral part of urban services across multiple areas, such as mobility, buildings, utility, public safety, healthcare or education.  
-
-
-Also, taking in consideration the recent COVID-19 pandemic, visions and challenges for smart cities are now being greatly and dynamically influenced and changed. In this context, Urb-IoT 2020 also welcomes ambitious papers such as visioning or recent data analysis papers that reflect current world issues.  
-
-
-We are pleased to invite you to submit your paper to Urb-IoT 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
-
-
-Submit Paper  
-
-
-
-
-Read More: Call for Papers  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Publication  
-
-
-
-
-
-
-All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.  
-
-
-Proceedings will be submitted for inclusion in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
-
-
-Authors of selected papers will be invited to submit an extended version to a Special Issue in:  
-
-
-Springer Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
-Springer Wireless Networks (WINET) Journal (IF: 2.405)  
-
-
-All accepted authors will be eligible to submit an extended version in a fast track of:  
-
-
-EAI Endorsed Transactions on Internet of Things (Open Access)  
-EAI Endorsed Transactions on Smart Cities (Open Access)  
-
-
-Additional publication opportunities:  
-
-
-EAI/Springer Innovations in Communications and Computing Book Series  
-
-
-
-
-Important dates  
-
-
-Submission Deadline: July 23, 2020 (extended)  
-
-
-Notification Deadline: september 3, 2020  
-
-
-Camera-ready deadline: october 5, 2020  
-
-
-Conference dates: december 2 - 4, 2020  
-
-
-EAI COMMUNITY BENEFI  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## CNSM@cyberspace  (2020-07-24) <span id="f8c9a76f6c"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Dear colleagues,  
-
-
-CNSM 2020 will be held as a virtual conference experience on 2-6 November 2020.  
-
-
-The theme of the conference is: Management Challenges and Opportunities in the Era of Digital Transformation and AI  
-
-
-The extended deadline for paper submission to CNSM this year is: July 24th, 2020 (Firm Deadline!)  
-
-
-Authors will present their work virtually to ensure both the safety of participants and wide dissemination. Thus, the registration rates will be very low.  
-
-
-Authors of selected papers, accepted for publication in the CNSM 2020 proceedings, will be invited to submit an extended version of their papers to the IEEE Transactions on Network and Service Management journal (impact factor: 4.682).  
-
-
-Please consider submitting. More information is available at: [http://www.cnsm-conf.org/2020/](http://www.cnsm-conf.org/2020/)  
-
-
-
-
-
-
-====  
-
-
-
-
-Welcome to CNSM 2020  
-
-
-COVID-19 Update: CNSM 2020 will go virtual!  
-
-
-Following the advice and guidelines from healthcare officials and local authorities, CNSM 2020 will now be held virtually on 2-6 November 2020. Accepted papers for the CNSM 2020 will be published open access on the conference Web site with IFIP copyright, and will be submitted for possible inclusion in IEEE Xplore, ACM and IFIP Digital Libraries. Furthermore, registration fees for the CNSM 2020 will be drastically reduced.  
-
-
-The 16th International Conference on Network and Service Management (CNSM) is inviting authors to submit original contributions in the area of network and service management research. CNSM 2020 is a selective single-track conference, covering all aspects of the management of networks and services, pervasive systems, enterprises, and cloud computing environments. The core track will be accompanied by a series of workshops and poster sessions.  
-
-
-Papers accepted and presented at CNSM 2020 will be published as open access on the conference website (with IFIP copyright), and will be submitted to IEEE Xplore Digital Library. Authors of selected papers, accepted for publication in the CNSM 2020 proceedings, will be invited to submit an extended version of their papers to the IEEE Transactions on Network and Service Management journal.  
-Call for Papers  
-
-
-Please download the CNSM CFP flyer here:  
-
-
-
-
-
-
-
-
-IMPORTANT DATES  
-Paper Submission Deadline:  
-July 10, 2020  
-Notification of Acceptance:  
-August 20, 2020  
-Camera Ready Submissions:  
-September 20, 2020  
-Tutorial Proposals:  
-June 30, 2020  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## EAI・mobiquitous★free  (2020-07-31) <span id="90ef7f7aa4"></span> <span style="color:#666;">[→top](#top)</span>
-
-## IEEEJ.bigdatarecommend  (2020-07-31) <span id="2b9898baeb"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## mdpi・V2Xcomm  (2020-07-31) <span id="c4e9e6af93"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -762,6 +655,276 @@ Conference dates: October 21 - 22, 2020
  <span style="color:#666;">[→top](#top)</span>
 
 
+## intconf.IEEE.MCNA.multimedia★jouhnalspecials  (2020-08-01) <span id="3513a681a9"></span> <span style="color:#666;">[→top](#top)</span>
+
+Dear maratishe,  
+[Apologies if you are getting multiple copies of this call]  
+The IEEE Co-sponsored  
+Fourth International Conference on Multimedia Computing, Networking and Applications (MCNA2020)  
+[http://intelligenttech.org/MCNA2020/](http://intelligenttech.org/MCNA2020/)  
+OCTOBER 19TH - 22ND, 2020 - Online Presentations!  
+
+
+COVID-19 Update:  
+The organizing team is closely monitoring the development of the COVID-19 situation. The safety and well-being of all conference participants is our priority. Considering the current circumstances, MCNA2020 will run virtually and the registration fees are reduced accordingly.  
+
+
+JOURNAL SPECIAL ISSUES:  
+Selected papers from the conference will be invited to submit an extended version to the following journals.  
+Confirmed Special Issues are:  
+*Springer Peer-to-Peer Networking and Applications (IF: 2.397)  
+*Springer Cluster Computing (IF: 1.85)  
+*Springer Journal of Network and System Management (IF: 1.676)  
+*MDPI Sensors (IF: 3.031)  
+
+
+CALL FOR PAPERS  
+Dealing with data from different modalities, is the common case in today's systems. With the continuous development in network technologies, acquisition systems, and computational power, creating and sharing multimedia data is becoming easier for all people around the world. On Facebook, for example, around 500000 comments are posted and around 135000 images are uploaded every second. Storing, searching in, analyzing, and utilizing Multimedia data is highly challenging. That is why the International Conference on Multimedia Computing, Networking and Applications (MCNA) gives the opportunity for researchers and practitioners to present their efforts in addressing the challenges of dealing with Multimedia data. The main topics include but are not limited to:  
+Intelligent Image / Video Analytics  
+Digital Image and Video Processing  
+Image Rendering and Quality  
+Imaging Sensors and Acquisition Systems  
+Content Based Image/Video Retrieval  
+Vision for Graphics  
+Human Behavior Understanding  
+Deep Artificial Intelligence  
+Motion and Tracking Algorithms and Applications  
+Watermarking Methods and Protection  
+Image Data Structures and Databases  
+Color Reproduction  
+Image Compression, Coding, and Encryption  
+Statistical and Structural Pattern Recognition  
+Performance Analysis and Evaluation  
+Novel Image Processing Applications  
+Machine Learning Technologies for Vision  
+Multimedia in Bioinformatics  
+Virtual Reality and Simulations  
+Augmented Reality Image Processing  
+Computational and Architectural Aspects of Human Vision  
+Innovative Multimedia Systems or Devices  
+Internet / Mobile Multimedia Sharing  
+Intelligent e-Health based on Multimedia Analysis  
+Games and Gamification  
+Optimization Methods in Multimedia systems  
+Vision and Languages  
+Full Paper Important Dates  
+Full paper submission: August 1st, 2020  
+Full paper acceptance notification: August 30th, 2020  
+Full paper camera-ready submission: September 13th, 2020  
+Submission Site  
+[https://easychair.org/conferences/?conf=mcna2020](https://easychair.org/conferences/?conf=mcna2020)  
+
+
+Paper format  
+Submitted papers (.pdf format) must use the A4 IEEE Manuscript Templates for Conference Proceedings. Please remember to add Keywords to your submission.  
+Length  
+Submitted papers may be 6 to 8 pages. Up to two additional pages may be added for references. The reference pages must only contain references. Overlength papers will be rejected without review.  
+Originality  
+Papers submitted to MCNA must be the original work of the authors. They may not be simultaneously under review elsewhere. Publications that have been peer-reviewed and have appeared at other conferences or workshops may not be submitted to MCNA. Authors should be aware that IEEE has a strict policy with regard to plagiarism [https://www.ieee.org/publications/rights/plagiarism/plagiarism-faq.html](https://www.ieee.org/publications/rights/plagiarism/plagiarism-faq.html) The authors' prior work must be cited appropriately.  
+Author list  
+Please ensure that you submit your papers with the full and final list of authors in the correct order. The author list registered for each submission is not allowed to be changed in any way after the paper submission deadline.  
+Proofreading  
+Please proofread your submission carefully. It is essential that the language use in the paper is clear and correct so that it is easily understandable. (Either US English or UK English spelling conventions are acceptable.)  
+
+
+Publication  
+All accepted and registered papers in MCNA2020 and the workshops co-located with it will be submitted to IEEEXplore for possible publication.  
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## EAI・urbiot@cyber  (2020-08-03) <span id="5f1e4660a9"></span> <span style="color:#666;">[→top](#top)</span>
+
+December 2 - 4, 2020 | N/A Cyberspace  
+Submission Deadline: August 3, 2020 (extended)  
+
+
+EAI is proud to announce that Urb-IoT is going virtual and beyond borders.  
+
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
+
+
+
+
+December 2 - 4, 2020 | Viana do Castelo, Portugal Cyberspace  
+Submission Deadline: July 23, 2020 (extended)  
+
+
+
+
+EAI is proud to announce that Urb-IoT is going virtual and beyond borders.  
+
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
+
+
+Urb-IoT 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.  
+
+
+
+
+sCOPE  
+
+
+
+
+
+
+Urban IoT promises to deliver massive amounts of data and fundamentally change our understanding of these systems. This should have a very positive impact in the operation of many urban services, and lead to more resource-efficient and affordable infrastructures.  
+
+
+However, the deployment of cutting edge IoT technology is not a solution just by itself. Its success depends on the ability to integrate the city fabric and become an integral part of urban services across multiple areas, such as mobility, buildings, utility, public safety, healthcare or education.  
+
+
+Also, taking in consideration the recent COVID-19 pandemic, visions and challenges for smart cities are now being greatly and dynamically influenced and changed. In this context, Urb-IoT 2020 also welcomes ambitious papers such as visioning or recent data analysis papers that reflect current world issues.  
+
+
+We are pleased to invite you to submit your paper to Urb-IoT 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
+
+
+Submit Paper  
+
+
+
+
+Read More: Call for Papers  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publication  
+
+
+
+
+
+
+All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.  
+
+
+Proceedings will be submitted for inclusion in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
+
+
+Authors of selected papers will be invited to submit an extended version to a Special Issue in:  
+
+
+Springer Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
+Springer Wireless Networks (WINET) Journal (IF: 2.405)  
+
+
+All accepted authors will be eligible to submit an extended version in a fast track of:  
+
+
+EAI Endorsed Transactions on Internet of Things (Open Access)  
+EAI Endorsed Transactions on Smart Cities (Open Access)  
+
+
+Additional publication opportunities:  
+
+
+EAI/Springer Innovations in Communications and Computing Book Series  
+
+
+
+
+Important dates  
+
+
+Submission Deadline: July 23, 2020 (extended)  
+
+
+Notification Deadline: september 3, 2020  
+
+
+Camera-ready deadline: october 5, 2020  
+
+
+Conference dates: december 2 - 4, 2020  
+
+
+EAI COMMUNITY BENEFI  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## EAI.wicon.wireless  (2020-08-06) <span id="c02842e34e"></span> <span style="color:#666;">[→top](#top)</span>
+
+December 15 - 16, 2020 | Melbourne, Australia Cyberspace  
+Submission Deadline: August 6, 2020 (extended)  
+
+
+EAI is proud to announce that WiCON is going virtual and beyond borders.  
+
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
+
+
+WiCON 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.  
+
+
+SCOPE  
+Building on the last decade’s success, the WiCON 2020 aims to tackle the aforementioned challenges of emerging wireless Internet communications, covering topics ranging from technology issues to new applications and test-bed developments, mainly focusing on next-generation wireless Internet, 5G, 6G, IoT, Industrial IoT, Healthcare IoT, and related methodologies.  
+
+
+We are pleased to invite you to submit your paper to WiCON 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
+
+
+Submit Paper  
+Read More: Call for Papers  
+
+
+
+
+WiCON authors have enjoyed over 131.000 downloads!  
+PUBLICATION  
+
+
+All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.  
+
+
+WiCON proceedings are indexed in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
+
+
+Authors of selected papers will be invited to submit an extended version to:  
+
+
+Springer Wireless Networks Journal (WINET) (IF: 2.659)  
+All accepted authors are eligible to submit an extended version in a fast track of:  
+
+
+EAI Endorsed Transactions on Wireless Spectrum  
+EAI Endorsed Transactions on Internet of Things  
+Additional publication opportunities:  
+
+
+EAI/Springer Innovations in Communications and Computing Book Series  
+IMPORTANT DATES  
+
+
+FULL PAPER SUBMISSION DEADLINE: AUGUST 6, 2020 (EXTENDED)  
+
+
+NOTIFICATION DEADLINE: SEPTEMBER 7, 2020  
+
+
+CAMERA-READY DEADLINE: OCTOBER 8, 2020  
+
+
+CONFERENCE DATES: DECEMBER 15 - 16, 2020  
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## hindawi・smartphoneauth  (2020-08-07) <span id="97e20e0cb4"></span> <span style="color:#666;">[→top](#top)</span>
 
 Rethinking Authentication on Smart Mobile Devices 2020  
@@ -811,6 +974,680 @@ Camera-ready deadline: october 31, 2020
 
 
 Conference dates: december 19 - 20, 2020  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## tale.education.online  (2020-08-17) <span id="bff7098c00"></span> <span style="color:#666;">[→top](#top)</span>
+
+IEEE TALE 2020  
+
+
+VIRTUAL CONFERENCE  
+8-11 December 2020  
+
+
+[https://tale2020.org/](https://tale2020.org/)  
+
+
+SECOND ROUND CALL FOR PAPERS  
+
+
+Submission Deadline: 17 August 2020, JST (Hard Deadline)  
+
+
+
+
+IMPORTANT ANNOUNCEMENT  
+
+
+The IEEE Education Society and TALE 2020 Organizing Committee have been closely monitoring developments related to the ongoing COVID-19 pandemic, with the safety and wellbeing of all conference participants being our foremost priority. In light of the guidance and recommendations of the relevant international and national health organizations, we have made the decision to switch from our plans for a face-to-face event in Takamatsu, Japan to a fully online conference format. Importantly, the dates of the conference will remain the same, and all papers that are accepted, registered, and presented will still be published in the proceedings that will be submitted for inclusion in IEEE Xplore. The specific online platform(s) that will be used to host the conference will be announced in the coming weeks.  
+
+
+
+
+OVERVIEW  
+
+
+TALE is the IEEE Education Society's premier conference series in the Asia-Pacific region ( [http://www.tale-conference.org/](http://www.tale-conference.org/) ). It aims to provide a forum for scholars and practitioners to share their knowledge and experience in engineering and technology education, as well as in technology-enabled educational innovation across a variety of academic and professional disciplines. The target audience of the conference is diverse and includes those working in the higher education, vocational education and training (VET), K-12, corporate, government and healthcare sectors.  
+
+
+The theme of this year's conference is "Embarking on a new era of learning with transformative technologies."  
+
+
+The conference theme challenges us to look anew at how the potential of current and emerging technologies can and/or should be harnessed for education and learning in our ever-changing world. Over the last several decades, digital technologies have revolutionized the way we work, play and learn—arguably changing our lives for the better overall—but they have not come without their problems and challenges (e.g., environmental degradation, social inequity arising from the "digital divide," ethical and moral dilemmas brought about by artificial intelligence). Over the next ten years (2020–2029), technologies such as AI, robotics, brain–computer interfaces, and extended or cross-reality (XR) that augment human sensory abilities, cognition and performance will continue to evolve and have a transformative impact. How can we ensure this transformation is positive, both for and through learning? As these technologies increasingly blur the boundaries between human and machine, and between physical and virtual, what can we do so the technology works toward our advantage, for the betterment of all of society and of our planet? Participants of TALE 2020 are encouraged to engage with these and other questions from creative, multidimensional and interdisciplinary perspectives as we stand on the precipice of this new era of learning with transformative technologies.  
+
+
+CORE TRACKS  
+
+
+1. Engineering Education (University/College)  
+2. Computing & IT Education (University/College)  
+3. STEM Education (K-12)  
+4. Technology-Enhanced Learning  
+5. Open, Flexible & Distance Learning  
+6. Workplace & Industry-Based Learning  
+
+
+SPECIAL TRACKS (Tentative)  
+
+
+1. XR and Immersive Learning Environments  
+Organized in conjunction with the Immersive Learning Research Network (iLRN)  
+2. Learning analytics for next phase: Empowerment of learning using learning analytics  
+Organized in conjunction with Learning and Educational Data Science Research Unit (LEDS), Kyushu University  
+3. Preparing the workforce for Industry 4.0: Robotics, automation, and ubiquitous smart technologies in education  
+Organized in cooperation with Kyoto University of Advanced Science (KUAS)  
+
+
+TOPICS  
+
+
+Topics of interest include but are not limited to the following:  
+• Academic Staff/Faculty Development  
+• Accreditation and Quality Assurance  
+• Active Learning Spaces  
+• Artificial Intelligence in Education  
+• Assessment and Evaluation  
+• Blockchain in Education  
+• Capstone Projects and Project-Based Learning  
+• Computer-Based Learning and Courseware Technologies  
+• Computer-Supported Collaborative Learning  
+• Continuing Education and Lifelong Learning  
+• Curriculum Design  
+• Distance, Open and Flexible Education  
+• Educational Data Mining and Learning Analytics  
+• Educational Games and Simulations  
+• Educational Policy, Leadership and Administration  
+• Entrepreneurship Programs  
+• Ethical, Legal and Social Justice Issues (e.g., Access, Equity)  
+• Gender and Diversity  
+• Generic Skills (e.g., Communications, Teamwork)  
+• Human–Machine Collaborative Learning  
+• Industry Linkages and Partnerships  
+• Instructional and Learning Design  
+• Intelligent Tutoring Systems  
+• Introductory Engineering and Computing Courses  
+• Just-in-Time Learning and Job Performance Support  
+• K–12 Initiatives and Partnerships  
+• Laboratory Experiences (On-Campus and Remote)  
+• Learning Management Systems  
+• Learning Technology Standards and Standardization  
+• Marketing and Outreach for Engineering and Computing Programs  
+• Massive Open Online Courses (MOOCs)  
+• Microcredentialing and Badges  
+• Online/E-Learning and Blended Learning  
+• Open Educational Resources (OER)  
+• Personal Data and Security in Education  
+• Research Training (Undergraduate and Postgraduate)  
+• Robotics in Education  
+• Service Learning and Experiential Learning  
+• STE(A)M education in K-12 or higher education  
+• Technology Infrastructure for Supporting Next-Generation Learning (e.g., 5G, Cloud Computing, Internet of Things)  
+• Virtual, Augmented and Mixed Reality Learning Environments  
+• Wearable, Mobile and Ubiquitous Learning  
+• Work-Based and Work-Integrated Learning  
+
+
+KEY DATES (2nd Round CFP)  
+
+
+• Paper Submission Deadline: 17 August 2020, JST (Hard Deadline)  
+• Notification of Acceptance: 1 October 2020  
+• Camera-ready submission: 8 October 2020  
+• Early-bird and Presenter Registration: 8 October 2020  
+• Conference: 8 – 11 December 2020 (ONLINE)  
+
+
+PRESENTATION FORMATS  
+
+
+• Full (6-8 pages) Paper for Oral Presentation  
+• Short (4-6 pages) Paper for Oral Presentation  
+• Short (4-6 pages) Paper for Poster Presentation  
+• Work-in-Progress Paper (2-4 pages) for Poster Presentation  
+
+
+PAPER SUBMISSION AND REVIEW  
+
+
+Prospective authors are invited to prepare submissions of two (2) to eight (8) A4 pages (including tables, figures and references) in standard IEEE double-column format, using the following template:  
+[http://tale2020.org/wp-content/uploads/2020/02/conference-template-a4.docx](http://tale2020.org/wp-content/uploads/2020/02/conference-template-a4.docx)  
+
+
+Use of any other IEEE templates is NOT acceptable as there are subtle differences between those templates and the conference template that will affect the consistency in appearance of papers published in the proceedings. Importantly:  
+• Do not change the paper size (A4) or margins in the template.  
+• The headers and footers must remain empty. (They should not contain page numbers or anything else!)  
+• Formatting of the paper must be done using the pre-defined MS-Word styles in the template, rather than manually. The paper must use all the predefined font styles, sizes etc. as per the template.  
+• Basic examples of citations and references are included in the template, but authors are required to fully adhere to the guidelines and instructions stipulated in the IEEE Reference Guide at [http://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf.](http://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf.) (Where are conflicts between the template and the IEEE Reference Guide, the IEEE Reference Guide prevails.)  
+• Please ensure that all template text (guidance text for composing and formatting conference papers) is removed from your conference paper prior to submission.  
+
+
+Papers will be accepted only by electronic submission through the conference website, from which guidelines and templates are available. Submissions will not be accepted via e-mail. A blind peer-review process will be used to evaluate all submitted papers. For more information and to access the submission system, please visit the conference website.  
+
+
+Please note that due to the tight timelines, in the second CFP round, authors whose papers are accepted or conditionally accepted will have only about one week to complete their revisions and submit their camera-ready versions. Consequently, in this round papers requiring extensive revisions are more likely to be rejected outright than in the first round.  
+
+
+Paper Submission System (ConfTool): [https://www.conftool.net/tale-conference/](https://www.conftool.net/tale-conference/)  
+
+
+PUBLICATION AND INDEXING  
+
+
+All accepted and registered full, short and work-in-progress papers that are presented at TALE 2020 as well as all extended abstracts describing the nontraditional sessions presented at the conference will be published in the conference proceedings and submitted to the IEEE Xplore® digital library. Content loaded into Xplore is made available by IEEE to its abstracting and indexing partners, including Elsevier (Scopus, Ei Compendex), Clarivate Analytics (CPCI—part of Web of Science) and others, for potential inclusion in their respective databases.  
+
+
+In addition, the authors of selected papers may be invited to submit revised and expanded versions of their papers for possible publication in the IEEE Transactions on Learning Technologies (2019 JCR Impact Factor: 2.714) or another Scopus and/or Web of Science-indexed journal, subject to the relevant journal's regular editorial and peer-review policies and procedures.  
+
+
+
+
+ONLINE/VIRTUAL EVENT PLATFORM  
+
+
+TBA  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## inconf.ICNCC.netcomm★東京  (2020-08-20) <span id="49f4867629"></span> <span style="color:#666;">[→top](#top)</span>
+
+The 9th International Conference on Networks, Communication and Computing (ICNCC) will take place on December 18-20, 2020 in Tokyo, Japan.  
+
+
+[http://www.icncc.org](http://www.icncc.org)  
+
+
+ICNCC 2019 is instructed by SCIEI, co-sponsored by Singapore Institute of Electronics and Chengdu Zonghang Exhibition & Service Co., Ltd.  
+
+
+ICNCC provides a premier interdisciplinary platform for researchers, practitioners and educators to present and discuss not only the most recent innovations, trends, and concerns but also practical challenges encountered and solutions adopted in the fields of Networks, communication and computing. There will be participation of renowned Speakers, oral presentations, posters sessions and technical conferences related to the topics in the scientific program.  
+
+
+Please find attached ICNCC flyer. Hope you can help broadcast this event to people around.  
+
+
+Thanks for your attention and support.  
+
+
+Submission  
+
+
+To ensure the articles which ICNCC conference publish represent the best scholarship currently available, submission will be Peer Reviewed. When an article is submitted to the ICNCC conference, the program chairs/conference secretary required to send it out to other scholars in the same field (the author's peers) to get their opinion on the quality of the scholarship, if its relevance to the field, and if its appropriateness for the conference proceedings.  
+
+
+Key Dates  
+Paper submission deadline: August 20th, 2020  
+Plagiarism check and notification: max in 7 days after the Submission  
+Accepted Submissions Announcement: September 10th, 2020  
+Standard Registration: Before September 30th, 2020  
+
+
+Abstract  
+For those papers do not want to be published but presenting and discussing at the conference, you can submit an abstract first, for presentation only. Your abstract will not be published but only included in the conference program book.  
+
+
+Full Paper  
+The manuscript in double-column format, up to 10 pages. Manuscripts must be written in English and follow the instructions at Manuscript Formatting and Templates.  
+
+
+Accepted and presented papers will be published into conference proceedings, will be included in the major data base, EI Compendex, Scopus, etc,the proceedings will be distributed during the Conference.  
+
+
+Accepted articles will be invited for as oral or poster presentation, depending on the nature and quality of the paper.  
+
+
+Submission Online  
+[http://confsys.iconf.org/submission/icncc2020](http://confsys.iconf.org/submission/icncc2020)  
+
+
+-------------------------------------------------------  
+We love you. We are sorry. Please forgive us. Thank you.  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## JCN(korea).wireless.mimo  (2020-08-30) <span id="d92ba4f4b1"></span> <span style="color:#666;">[→top](#top)</span>
+
+JCN SPECIAL ISSUE ON  
+
+
+THZ WIRELESS COMMUNICATIONS  
+PUBLICATION DATE: April 2021  
+
+
+
+
+
+
+Terahertz wireless communications in the frequency band from 100GHz to 10THz is a rapidly growing and is considered as very feasible new area which can enable an order of 0.1 Tbps personal communications over vast available channels as well as chip-to-chip, massive IoT connections, and many other applications. Especially, the recent significant progress on RF technologies anticipates the THz wireless systems realizable in the near future and is discussed in the academy and the industry for possible new frequency band in beyond 5G cellular systems. Recent works on THz wireless communications have been focused on the propagation studies, channel capacity of MIMO systems, general consideration of system characteristics, RF transceiver design.  
+
+
+Despite the enormous studies in THz wireless communications in the last decade, the state-of-art is far from meeting the challenges of the near-future communication systems in terms of communication system design and usage model considering the characteristics of THz band. In particular, the possible coverage of a cell using THz band needs to be clearly studied based on the current and the near coming RF technologies.  
+
+
+This special issue on Terahertz Communications seeks original research articles as well as expository and survey papers, addressing the challenges of future THz wireless communications systems. Example topics of interest:  
+
+
+
+
+ü Information theoretic foundation of THz wireless communications  
+
+
+ü RF technologies for personal communications  
+
+
+ü Beamforming and MIMO  
+
+
+ü Machine learning aided THz communications  
+
+
+ü Resource allocation and multiple-access schemes for THz communications  
+
+
+ü Protocol design for THz networking  
+
+
+ü Demonstrations of wireless links beyond 100 GHz band  
+
+
+ü Beam propagation and channel model  
+
+
+ü Channel estimation  
+
+
+ü Waveform design for THz wireless communications  
+
+
+ü Backhaul and Fronthaul of THz systems  
+
+
+ü Application scenarios of THz wireless communications  
+
+
+
+
+Continuing JCN’s tradition of fast turnaround together with full peer reviews, a tentative schedule is set as follows:  
+
+
+
+
+
+
+August 30, 2020 Paper submission deadline (Extended)  
+
+
+[An earlier note to editors with an intent to submit papers will be appreciated.]  
+
+
+October 30, 2020 Reviews returned to authors. Papers will be either accepted, rejected,  
+
+
+or returned to the authors with requests for changes  
+
+
+February 15, 2021 Final revised manuscript due  
+
+
+April 30, 2021 Special issue published  
+
+
+
+
+
+
+Prof. Young-Chai Ko, Korea University, Korea, koyc@korea.ac.kr  
+
+
+Prof. Mohamed-Slim Alouini, KAUST, Saudi Arabia, slim.alouini@kaust.edu.sa  
+
+
+Prof. Xin-Weil Yao, Zhejiang Univ. of Tech, China, xwyao@zjut.edu.cn  
+
+
+Prof. Ho-Jin Song, POSTECH, Korea, hojinsong@postech.ac.kr  
+
+
+Dr. Iwao Hosako, NICT, Japan, hosaka@nict.go.jp  
+
+
+
+
+
+
+Electronic submissions should be made through [http://mc.manuscriptcentral.com:/jcommnet.](http://mc.manuscriptcentral.com:/jcommnet.) Information for authors is available on the JCN web site, [http:/www.jcn.or.kr.](http:/www.jcn.or.kr.) The manuscript should be formatted in LaTex file and uploaded in PDF version, and its length should be greater than 8 pages in double column. Please direct inquiries and intent to submit notifications to the Lead Guest Editor. JCN is a high-quality bimonthly archival journal, published by the Korean Institute of Communications and Information Sciences with the technical co-sponsorship of the IEEE Communications Society, covering the fields of Communication Theory and Systems, Wireless Communications, and Networks and Services. JCN began publication in March 1999.  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## intconf.IEEE.NCA.netapps  (2020-09-07) <span id="7b845b3b1a"></span> <span style="color:#666;">[→top](#top)</span>
+
+(Our apologies if you receive multiple copies of this message)  
+
+
+** Please forward to anyone who might be interested **  
+
+
+This CFP along with submission instructions are available at: [http://www.ieee-nca.org/2020/index.php?p=20_Call_for_Papers.md](http://www.ieee-nca.org/2020/index.php?p=20_Call_for_Papers.md)  
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------  
+19th IEEE International Symposium on Network Computing and Applications (NCA 2020)  
+
+
+Sponsored by the IEEE Computer Society - Technical Committee on Distributed Processing  
+
+
+Virtual Conference due to COVID-19 -- 26-28 November 2020  
+------------------------------------------------------------------------------------------------------------------------  
+
+
+*CALL FOR PAPERS*  
+
+
+NCA is a successful series of conferences that serves as a large international forum for presenting and sharing recent research  
+results and technological developments in the fields of Network and Cloud Computing. NCA, which is sponsored by the IEEE Computer  
+Society, reaches out to both researchers and practitioners, and to both academia and industry. The conference features keynotes,  
+technical presentations, and workshops.  
+
+
+The IEEE International Symposium on Network Computing and Applications (NCA) is seeking articles concerning fundamental research  
+and practical experience reports.  
+
+
+The topics of interest include, but are not limited to:  
+- Theory of Network Computing  
+- Autonomic Network Computing  
+- Content Delivery Network (CDN)  
+- High Speed Networks/Protocols and Middleware  
+- Routing Mechanisms  
+- Overlay Networks/Peer-to-Peer Systems  
+- System Area Networks (SAN)/Clusters  
+- Performance Modeling/Quality of Services (QoS) Issues  
+- Web Caching and Switching  
+- Dependable Wide, Local, and System Area Networks  
+- Network Security  
+- Intrusion-Tolerant Networked Systems  
+- Scalable and Dependable Servers and Data Centers  
+- Middleware for Dependable Network Computing  
+- Self* (Configuring, Healing, Optimizing, Protecting, Organizing, Aware)  
+- Platforms for Network Computing  
+- Network Protocols: Verification and Validation  
+- Autonomic Network Computing for Achieving Self* Properties and Applications Availability  
+- Seamless and Virtual Capabilities for Implementing Self* Properties  
+- Software Defined Networking (SDN): Principles and Implementation  
+- Designing Highly-Available and Secure SDN  
+- Network Functions Virtualization (NFV): Design and Optimization  
+- Network Cloud Computing  
+- Machine Learning Techniques for Cloud Resources Management  
+- Big Data in Clouds for IoT  
+- Future Internet and Communicating Objects  
+- Mobile Ad-Hoc Networks (MANET)  
+- Sensor Networks  
+- Fog/Edge Computing  
+- Energy-Efficient Computation and Communication  
+- Applications to Real and/or Complex Problems, Practical Experiences and Prototypes  
+- Programming Environments for Distributed Systems  
+- Blockchain  
+- Byzantine Fault Tolerance  
+- Web and Mobile Security  
+- Solutions Relevant to the COVID-19 Pandemic  
+
+
+
+
+*IMPORTANT DATES*  
+
+
+- Title and Abstract Due: 7 September 2020  
+- Manuscript Due: 7 September 2020  
+- Author Notification: 7 October 2020  
+- Camera Ready Papers: 14 October 2020  
+- Authors Registration: 26 October 2020  
+- Conference Dates: 26-28 November 2020  
+
+
+
+
+*MANUSCRIPT SUBMISSIONS*  
+
+
+Paper submissions are managed through EasyChair. Please visit the submission link to send your manuscript:  
+[http://easychair.org/conferences/?conf=nca2020](http://easychair.org/conferences/?conf=nca2020)  
+(The submission site will open soon)  
+
+
+Submitted manuscripts must not have been previously published or currently submitted for publication elsewhere and must be  
+cleared for publication in the NCA Proceedings, which will be published by the IEEE Computer Society Press. The manuscript  
+must be written in English, and must not exceed 8 pages for NCA papers or 4 pages for workshop papers. Following last year's  
+success, NCA also invites manuscripts presenting Work-in-Progress (WiP), which must not exceed 3 pages. More details about  
+the WiP track can be found in the NCA website. All submissions must be in PDF format.  
+
+
+
+
+Manuscript page limit:  
+
+
+Regular Papers: 8 pages, including all figures, tables, and references.  
+Short Papers: 4 pages, including all figures, tables, and references.  
+WiP Papers: 3 pages, including all figures, tables, and references.  
+
+
+
+
+Purchasing extra pages:  
+
+
+Regular Papers: Up to 2 extra pages may be purchased at $100 (US dollars) per extra page.  
+Short Papers: Up to 1 extra page may be purchased at $100 (US dollars).  
+
+
+Authors can decide to submit papers longer than 8/4 pages (up to 10 and 5, depending on the category) before the reviewing  
+process. This is an indication of their will to purchase extra pages during the registration process. Therefore, longer  
+papers cannot be shrunk when preparing camera ready versions, in case of acceptance. This is to respect the work made by  
+reviewers and other authors who decided to stay in the limits.  
+
+
+
+
+*ACCEPTED PAPERS AND PUBLICATION POLICIES*  
+
+
+Every paper accepted at NCA must have attached to it at least one registration at the full (member or non-member) rate. Thus,  
+for a manuscript for which all authors are students, one student author will be required to register at the full registration  
+rate. For manuscripts where at least one author is already registered at the full rate, this fulfills the obligation for up to  
+two (2) papers.  
+
+
+No-show papers are defined as papers submitted by authors who subsequently did not present the paper at the technical meeting.  
+This year, due to COVID-19, NCA will be a fully virtual conference, with no travel involved. All presentations will be given  
+via pre-recorded videos, followed by synchronized online discussions during the conference period. For an accepted paper to not  
+be considered as "no-show", at least one of its authors will have to prepare a video presentation and provide it to the organizers  
+who will make it available to the participants of the conference. Moreover, at least one author of the accepted paper will have  
+to participate to the online discussions that are relevant to their paper. Instructions for these will be provided at the NCA  
+website.  
+
+
+Presentations by proxies are not allowed, unless explicitly approved *before* the conference by the technical co-chairs. No-show  
+papers that were not withdrawn and were published in the Proceedings must be identified as "No-Show" in the files submitted to IEEE  
+for further publication (IEEE Xplore). No-shows will not be available on IEEE Xplore or other public access IEEE forums. IEEE will  
+maintain an archive of no-shows.  
+
+
+The IEEE strongly discourages changes and, in particular, withdrawals of papers once submitted and included in the program.  
+
+
+If under any circumstances it becomes necessary for the author to withdraw or change a paper, IEEE policy dictates that the  
+request to do this must come directly from the author and not from any third party. IEEE policy also states that in this case,  
+the author will be held liable for all costs that are incurred. It would then be up to the author to get reimbursed for the  
+expense from any third party if he/she feels it is justified. The IEEE cannot act as a policing entity on behalf of the author in  
+this regard.  
+
+
+
+
+*BEST PAPER AWARDS*  
+
+
+The IEEE NCA 2020 Program Committee will select Best Paper and Best Student Paper. The first author of the Best Student Paper must  
+be a PhD student.  
+
+
+
+
+*ORGANIZATION*  
+
+
+Steering Committee Chair: Dimiter R. Avresky, IRIANC - Boston, USA / Munich, Germany  
+Program Chair: Aris Gkoulalas-Divanis, IBM Watson Health - Boston, USA  
+Program Co-Chair: Mirco Marchetti, University of Modena, Italy  
+Program Co-Chair: Dimiter R. Avresky, IRIANC - Boston, USA / Munich, Germany  
+General Chair: Aris Gkoulalas-Divanis, IBM Watson Health - Boston, USA  
+Financial Chair: Mirco Marchetti, University of Modena, Italy  
+
+
+
+
+Technical Program Committee (tentative):  
+- E. Anceaume, IRISA/CNRS, France  
+- M. Andreolini, University of Modena, Italy  
+- G. Apruzzese, University of Modena, Italy  
+- L. Arantes, Lip 6, Paris, France  
+- F. Araujo, U. Coimbra, Portugal  
+- D. Bruneo, University of Messina, Italy  
+- Y. Busnel, IMT, Rennes, France  
+- P. Carpenter, Barcelona Supercomputing Center, Spain  
+- A. Ceccarelli, University of Florence, Italy  
+- B. Ciciani, University of Roma, Italy  
+- M. Colajanni, University of Modena, Italy  
+- M. Correia, INESC-ID / IST, Lisboa, Portugal  
+- A. De Salve, University of Parma, Italy  
+- E. Dedu, University of Bourgogne Franche-Comte, CNRS, France  
+- S. Dolev, BGU University, Israel  
+- S. Duan, University of Maryland, USA  
+- L. Ferretti, University of Modena, Italy  
+- S. Frechette, Northeastern University, USA  
+- A. Goldman, University of Sao Paulo, Brazil  
+- H. Hellwagner, University of Klagenfurt, Austria  
+- D. B. Hoang, University of Technology, Sydney, Australia  
+- P. Inacio, Universidade da Beira Interior, Portugal  
+- N. Koziris, NTUA, Athens, Greece  
+- R. Lancellotti, University of Modena and Reggio Emilia, Italy  
+- F. Longo, University of Calabria, Italy  
+- E. Losiouk, University of Padova, Italy  
+- T. Loukopoulos, University of Thessaly, Greece  
+- R. Ludinard, ENSAI, France  
+- T. Madsen, Aalborg University, Denmark  
+- E. Maehle, University of Luebeck, Germany  
+- P. Massonet, CETIC, Brussels, Belgium  
+- G. Merlino, University of Messina, Italy  
+- Y. Nan, The University of Sydney, Australia  
+- R. Palmieri, Virginia Tech. USA  
+- M. Pardal, INESC-ID / IST, Portugal  
+- F. Pierazzi, King's College London, UK  
+- A. Puliafito, University of Messina, Italy  
+- F. Quaglia, University of Roma, Italy  
+- H. Schwefel, Aalborg University, Denmark  
+- P. Sens, Lip 6, Paris, France  
+- P. Solis, University of Brasilia, Brazil  
+- V. Sourlas, University College London, UK  
+- D. Stabili, University of Modena and Reggio Emilia, Italy  
+- D. Syrivelis, IBM Research, Ireland  
+- N. Tziritas, Shenzhen Institutes of Advanced Technology, China  
+- M. Vouk, NC State University, USA  
+- A. Y. Zomaya, The University of Sydney, Australia  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## ACM.nanococoa.embedsensors  (2020-09-11) <span id="d7b6e0b261"></span> <span style="color:#666;">[→top](#top)</span>
+
+************************************************************************************  
+ACM NanoCoCoA 2020  
+1st ACM International Workshop on Nanoscale Computing, Communication, and Applications  
+[https://www.nanococoa.org/](https://www.nanococoa.org/)  
+
+
+November 16, 2020 - Fully Virtual (originally Yokohama, Japan)  
+
+
+To be held in conjunction with the:  
+
+
+ACM SenSys  
+ACM Conference on Embedded Networked Sensor Systems  
+***********************************************************************************  
+
+
+G E N E R A L I N F O R M A T I O N  
+
+
+Nanotechnology continues to revolutionize a wide variety of fields by paving the way toward sub-µm scale devices (i.e., in the order of a few hundred nanometers). Controlling materials on such a scale is expected to give rise to integrated nanodevices with simple sensing, actuation, data processing and storage, and communication capabilities, opening the horizon to a variety of ground-breaking applications. By equipping nanodevices with wireless communications capabilities, nanotechnology will facilitate the advance of multiple disruptive applications, such as in-body communication, software-defined metamaterials and metasurfaces, wireless robotic materials, and on-chip communication. Enabling the above applications will require a broad range of expertise, ranging from nanoscale hardware design, resource-constrained computing, and channel modelling to different layers of nanonetworks' protocol development, as well as the expertise along the four detected promising application domains.  
+
+
+The First ACM International Workshop on Nanoscale Computing, Communication, and Applications (ACM NanoCoCoA 2020) will be held in conjunction with the The 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020) on November 16, 2020. The twofold mission of this workshop is to increase the visibility of nanoscale computing, communication, networking, and supported applications, as well as to bring together researchers from diverse disciplines that can foster and develop this fast developing field.  
+
+
+
+
+A R E A S O F I N T E R E S T  
+
+
+We seek original, completed, and unpublished work that is not currently under review by any other journal, magazine, conference, or workshop. Topics of interest include, but are not limited to:  
+
+
+- Embedded, Distributed, Resource Constrained, Intermittent, and Unconventional Nanoscale Computing Systems,  
+- Sensing, Actuation, Data Processing, and Storage at the Nanoscale,  
+- Programming paradigms, Languages, and Tools for Nanoscale Computing and Communication,  
+- Nanoscale Hardware Design, Implementation, and Performance Benchmarking,  
+- Electromagnetic (e.g., mmWave, THz) Nanocommunication Paradigm,  
+- mmWave and THz Channel Modelling at the Nanoscale in Different Mediums, e.g., Free-space, In-body, On-chip,  
+- Nanonetworking Protocol Stack, i.e., Physical, Link, Network, Transport, and Application Layers,  
+- Reduced/Condensed/Integrated Nanonetworking Protocol Stack,  
+- Nanoscale Applications, e.g., Software-defined Metamaterials/Surfaces, Wireless Robotic Materials, In-body Healthcare, On-chip Communication, etc.,  
+- Energy-related Considerations, Modelling, and Constraints, e.g., Energy Harvesting, Backscattering, etc.,  
+- End-to-End Nanonetwork Architectures, e.g., Internet of (Bio/Multimedia) Nano-Things,  
+- Nanoscale Localization and Tracking using Electromagnetic Signals,  
+- Security, Integrity, and Privacy at the Nanoscale,  
+- Standardization Proposals and Reviews (e.g., IEEE P1906.1),  
+- Simulations Tools, Experimental Testbeds, Datasets, and Methodologies for Evaluation and Benchmarking of Nanoscale Computing, Communication, and Networking Approaches;  
+
+
+Accepted and presented workshop papers (both work-in-progress and full papers) will be included with the ACM SenSys 2020 proceedings and published in the ACM Digital Library. Extended versions of the best workshop papers will be offered a possibility of fast-track publication at MDPI Electronics' special issue "Nanonetworking Communications: Latest Advances and Prospects" (Impact factor: 2.412, ranking 125/266 (Q2) in "Engineering, Electrical & Electronic").  
+
+
+
+
+S U B M I S S I O N  
+
+
+Submitted papers must be unpublished and must not be currently under review for any other publication. Submissions must be either full or work-in-progress (WiP) papers, with at most 6 and 3 single-spaced 8.5” x 11” pages, respectively, and with 9-pt font size in two-column format, including figures and tables. As for references, submissions may include as many pages as needed. All submissions must use the LaTeX (preferred) or Word styles found here. LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of the accepted papers. Papers that do not meet the size and formatting requirements will not be reviewed. We require each paper to be in the Adobe Portable Document Format (PDF) and submitted through the workshop submission system.  
+
+
+Accepted and presented workshop papers will be included with the ACM SenSys 2020 proceedings and published in the ACM Digital Library. Extended versions of the best workshop papers will be offered a possibility of fast-track publication at MDPI Electronics' special issue "Nanonetworking Communications: Latest Advances and Prospects" (Impact factor: 2.412, ranking 125/266 (Q2) in "Engineering, Electrical & Electronic").  
+
+
+
+
+I M P O R T A N T D A T E S  
+
+
+Submission Deadline: September 11, 2020  
+Notification Due: October 9, 2020  
+Final Version Due: October 23, 2020  
+Workshop: November 16, 2020  
+
+
+
+
+O R G A N I Z E R S  
+
+
+Filip Lemic - University of Antwerp - imec & Polytechnic University of Catalonia  
+Chong Han - Shanghai Jiao Tong University  
+Jeroen Famaey - University of Antwerp - imec  
+Sergi Abadal - Polytechnic University of Catalonia  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -1480,6 +2317,180 @@ Moayad
  <span style="color:#666;">[→top](#top)</span>
 
 
+## WileyJ.software.innovations  (2020-10-31) <span id="f6d0db1ffc"></span> <span style="color:#666;">[→top](#top)</span>
+
+Software: Practice and Experience  
+
+
+50th Anniversary (Golden Jubilee) Celebration  
+Special Issue on:  
+Software Systems and Innovations Journey from 1970-2020  
+
+
+[https://onlinelibrary.wiley.com/journal/1097024x](https://onlinelibrary.wiley.com/journal/1097024x)  
+
+
+=========================================================================  
+
+
+Call for Papers:  
+-------------------------------------------------------------------------  
+
+
+The first issue of "Software: Practice and Experience", published in  
+1971, reported on applications that could be described in a few thousand  
+lines of code; today, software systems are among the most complex  
+entities produced by humans. This growth has spawned new development  
+methodologies and exposed serious systemic weaknesses.  
+
+
+Over the last 50 years, our most pressing problems have moved from the  
+seven development issues that David Barron focused on in his inaugural  
+editorial to issues brought about by the scope and ubiquity of our  
+current applications: Software systems must now be resistant to attack  
+by malicious agents, and must operate successfully with improper inputs.  
+Cyber-physical systems must avoid entering states that would damage  
+equipment or harm people. Applications built as a collection of  
+cooperating processes must be able to deliver results in a timely  
+manner, even when the number of simultaneous users fluctuates  
+significantly. Whether or not these issues can be dealt with by current  
+design methodology is an open question. Regardless of the answer,  
+however, Barron's vision for the journal as a venue for authors to  
+present their work in a form that will be useful to others remains valid  
+as we move into the next 50 years.  
+
+
+We invite high quality papers that discuss the development of new ideas,  
+models, paradigms, and systems evolution appropriate to the challenges  
+facing the field today. Topics of interest include but are not limited to:  
+* Threat models for software systems  
+* Performance improvement in distributed systems  
+* Scalability of software  
+* User interface design  
+* Workflow management  
+* Application Programming Models and Environments  
+* Advances in systems software powering embedded devices to  
+large-scale computing environments  
+* Internet-driven Innovative Applications  
+
+
+
+
+Important Dates:  
+****************  
+
+
+Submissions Due: October 31, 2020 * (early submission is  
+highly encouraged)  
+Notification: Nov 30, 2020  
+Revision Due: Dec. 15, 2020  
+Publication Date: 1st issue of 2021 (expected).  
+
+
+
+
+
+
+
+
+Special Issue Paper Submission:  
+*******************************  
+
+
+This special issue seeks submission of papers that present “Software  
+Systems and Innovations Journey from 1970-2020”. All submissions  
+including invited papers go under regular peer review process. Priority  
+will be given to papers that present new and original works for the  
+"first" time in SPE. Submission of "extended versions" of already  
+published works (e.g., conference papers) is not encouraged unless they  
+contain a significant number of "new and original" ideas/contributions  
+along with more than 50% brand "new" material. If you are submitting an  
+extended version, you must submit a cover letter/document detailing (1)  
+the "Summary of Differences" between the SPE paper and the earlier  
+paper, (2) a clear list of "new and original" ideas/contributions in the  
+SPE paper (identifying sections where they are presented), and (3)  
+confirming the percentage of new material. Otherwise, the submission  
+will be "desk" rejected without being reviewed.  
+While submitting paper to this issue, please select “SPE-SI-50Years  
+Software Systems and Innovations” in the submission system.  
+
+
+Guest Editors:  
+**************  
+
+
+William M Waite william.waite@Colorado.EDU (Lead Editor)  
+Department of Electrical, Computer, and Energy Engineering  
+University of Colorado, Boulder, USA  
+Email: william.waite@Colorado.EDU  
+
+
+Rajkumar Buyya  
+Cloud Computing and Distributed Systems (CLOUDS) Laboratory,  
+School of Computing and Information Systems  
+The University of Melbourne, Australia  
+Email: rbuyya@unimelb.edu.au  
+=========================================================================  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## mdpij.wirelessprotocols  (2020-11-01) <span id="ee527e2262"></span> <span style="color:#666;">[→top](#top)</span>
+
+We contacted you on 23 April 2020, regarding a Special Issue entitled "Protocols and Applications for Wireless Mobile Networks", to be published in the journal Electronics (ISSN 2079-9292, IF 1.764). Prof. Dr. Young-Joo Suh is serving as Guest Editor for this issue. Based on your expertise in this field, we think you could make an excellent contribution.  
+
+
+Mobile traffic has been increasing rapidly and diverse network applications have also been developed remarkably, which gives rise to new challenges in the protocols of the wireless mobile network. For example, various features that are impossible in the 4G network are added in the 5G network, so specialized protocols for the 5G network are required. [...]  
+
+
+For further reading, please follow the link to the Special Issue Website at: [https://www.mdpi.com/si/electronics/protocols_app_wmn](https://www.mdpi.com/si/electronics/protocols_app_wmn)  
+
+
+The submission deadline is 01 November 2020. You may send your manuscript now or up until the deadline. Submitted papers should not be under consideration for publication elsewhere. We also encourage authors to send a short abstract or tentative title to the Editorial Office in advance (electronics@mdpi.com).  
+
+
+Electronics is fully open access. Open access (unlimited and free access by readers) increases publicity and promotes more frequent citations, as indicated by several studies. Open access is supported by the authors and their institutes. An Article Processing Charge (APC) of CHF 1400 currently applies to all accepted papers (APC: CHF 1500 from 1 July 2020 onwards).  
+
+
+For further details on the submission process, please see the instructions for authors at the journal website (http://www.mdpi.com/journal/electronics/instructions).  
+
+
+We look forward to hearing from you.  
+
+
+Kind regards,  
+
+
+Xenia Xie  
+Assistant Editor  
+
+
+Electronics (ISSN 2079-9292; [http://www.mdpi.com/journal/electronics)](http://www.mdpi.com/journal/electronics)) is a journal published by MDPI, Basel, Switzerland. Electronics maintains rigorous peer-review and a rapid publication process. All articles are published with a CC BY 4.0 license. For more information on the CC BY license, please see: [http://creativecommons.org](http://creativecommons.org)  
+
+
+To submit to the journal click here: [http://susy.mdpi.com/user/manuscripts/upload?journal=electronics.](http://susy.mdpi.com/user/manuscripts/upload?journal=electronics.)  
+
+
+Unsubscribe: [http://www.mdpi.com/unsub/managesubscriptions/mail/bWFyYXRpc2hlQGdtYWlsLmNvbQ==/c51b36fc096b0550cba5b4c1d309491085f4e7ba7b927b58dc3bf8945e319177.](http://www.mdpi.com/unsub/managesubscriptions/mail/bWFyYXRpc2hlQGdtYWlsLmNvbQ==/c51b36fc096b0550cba5b4c1d309491085f4e7ba7b927b58dc3bf8945e319177.)  
+
+
+Manage your subscriptions: [https://susy.mdpi.com/user/subscriptions.](https://susy.mdpi.com/user/subscriptions.)  
+
+
+MDPI  
+[http://www.mdpi.com/](http://www.mdpi.com/)  
+St. Alban-Anlage 66  
+4052 Basel  
+Switzerland  
+
+
+Tel. +41 61 683 77 34  
+Fax +41 61 302 89 18  
+
+
+Disclaimer: MDPI recognizes the importance of data privacy and protection. We treat personal data in line with the General Data Protection Regulation (GDPR) and with what the community expects of us. The information contained in this message is confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this message in error, please notify me and delete this message from your system. You may not copy this message in its entirety or in part, or disclose its contents to anyone.  
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## mdpi.5g  (2020-11-20) <span id="70c7073724"></span> <span style="color:#666;">[→top](#top)</span>
 
 CALL FOR PAPERS  
@@ -1596,6 +2607,60 @@ Prof. William Webb, Webb Consulting, UK
 
 Call for Papers: [https://digital-library.theiet.org/files/IET_SMC_CFP_IOTSATSSC.pdf](https://digital-library.theiet.org/files/IET_SMC_CFP_IOTSATSSC.pdf)  
 投稿等: www.ietdl.org/IET-SMC  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## IETj.smartcities  (2020-12-01) <span id="e3e175936d"></span> <span style="color:#666;">[→top](#top)</span>
+
+IET Smart Cities special issue on:  
+
+
+IoT Sensing, Applications, & Technologies for Smart Sustainable Cities  
+
+
+[https://digital-library.theiet.org/files/IET_SMC_CFP_IOTSATSSC.pdf](https://digital-library.theiet.org/files/IET_SMC_CFP_IOTSATSSC.pdf)  
+
+
+Submission Deadline: 1st December 2020  
+
+
+Specific topics include, but are not limited to:  
+
+
+Technologies:  
+
+
+Energy-efficient wireless sensor networks architecture  
+Energy-efficient data routing, processing and storage strategies  
+Energy-efficient harvesting/charging  
+Energy-efficient sensing techniques  
+Energy-efficient sensor data techniques  
+Long-life sensor node deployment and topology control  
+AI-based coordinating sensor devices  
+AI-based scheduling sensor algorithms  
+AI-based sensor resource orchestration  
+Secured sensor communications and network  
+Testbed for massive IoT sensing  
+AI and 5G based massive IoT technologies  
+UAV aided IoT technologies  
+
+
+Sensing and Applications  
+
+
+Sensing for urban intelligent transport  
+Sensing for urban homes and offices  
+Sensing for localised urban utilities  
+Sensing for urban environments  
+Sensing for city residents' public health and wellbeing  
+
+
+
+
+Guest Editors:  
+Dr Gerhard Hancke (lead), Dr Jie Hu (lead), Dr Mohammad Reza  
+Salehizadeh, Dr Xuan Liu, Dr Adnan Abu-Mahfouz, Dr Nikolaos Thomos and  
+Prof. Susumu Ishihara  
  <span style="color:#666;">[→top](#top)</span>
 
 
