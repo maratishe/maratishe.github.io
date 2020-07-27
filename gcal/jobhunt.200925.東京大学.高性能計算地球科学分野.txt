@@ -1,0 +1,10 @@
+no : 33
+id : D120071306 [NEW]
+update : 2020年07月22日
+univ : 東京大学
+title : 東京大学地震研究所「准教授」（高性能計算地球科学分野）の公募
+field : 数物系科学 - 地球惑星科学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月25日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071306&ln_jor=0&top_btn=1 ----------

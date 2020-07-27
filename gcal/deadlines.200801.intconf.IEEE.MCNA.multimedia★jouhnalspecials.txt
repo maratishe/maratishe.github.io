@@ -1,0 +1,68 @@
+Dear maratishe,
+[Apologies if you are getting multiple copies of this call]
+The IEEE Co-sponsored
+Fourth International Conference on Multimedia Computing, Networking and Applications (MCNA2020)
+http://intelligenttech.org/MCNA2020/
+OCTOBER 19TH - 22ND, 2020 - Online Presentations!
+ 
+COVID-19 Update:
+The organizing team is closely monitoring the development of the COVID-19 situation. The safety and well-being of all conference participants is our priority. Considering the current circumstances, MCNA2020 will run virtually and the registration fees are reduced accordingly.
+ 
+JOURNAL SPECIAL ISSUES:
+Selected papers from the conference will be invited to submit an extended version to the following journals.
+Confirmed Special Issues are:
+*Springer Peer-to-Peer Networking and Applications (IF: 2.397)
+*Springer Cluster Computing (IF: 1.85)
+*Springer Journal of Network and System Management (IF: 1.676)
+*MDPI Sensors (IF: 3.031)
+ 
+CALL FOR PAPERS
+Dealing with data from different modalities, is the common case in today's systems. With the continuous development in network technologies, acquisition systems, and computational power, creating and sharing multimedia data is becoming easier for all people around the world. On Facebook, for example, around 500000 comments are posted and around 135000 images are uploaded every second. Storing, searching in, analyzing, and utilizing Multimedia data is highly challenging. That is why the International Conference on Multimedia Computing, Networking and Applications (MCNA) gives the opportunity for researchers and practitioners to present their efforts in addressing the challenges of dealing with Multimedia data. The main topics include but are not limited to:
+Intelligent Image / Video Analytics
+Digital Image and Video Processing
+Image Rendering and Quality
+Imaging Sensors and Acquisition Systems
+Content Based Image/Video Retrieval
+Vision for Graphics
+Human Behavior Understanding
+Deep Artificial Intelligence
+Motion and Tracking Algorithms and Applications
+Watermarking Methods and Protection
+Image Data Structures and Databases
+Color Reproduction
+Image Compression, Coding, and Encryption
+Statistical and Structural Pattern Recognition
+Performance Analysis and Evaluation
+Novel Image Processing Applications
+Machine Learning Technologies for Vision
+Multimedia in Bioinformatics
+Virtual Reality and Simulations
+Augmented Reality Image Processing
+Computational and Architectural Aspects of Human Vision
+Innovative Multimedia Systems or Devices
+Internet / Mobile Multimedia Sharing
+Intelligent e-Health based on Multimedia Analysis
+Games and Gamification
+Optimization Methods in Multimedia systems
+Vision and Languages
+Full Paper Important Dates
+Full paper submission: August 1st, 2020
+Full paper acceptance notification: August 30th, 2020
+Full paper camera-ready submission: September 13th, 2020
+Submission Site
+https://easychair.org/conferences/?conf=mcna2020
+
+Paper format
+Submitted papers (.pdf format) must use the A4 IEEE Manuscript Templates for Conference Proceedings. Please remember to add Keywords to your submission.
+Length
+Submitted papers may be 6 to 8 pages. Up to two additional pages may be added for references. The reference pages must only contain references. Overlength papers will be rejected without review.
+Originality
+Papers submitted to MCNA must be the original work of the authors. They may not be simultaneously under review elsewhere. Publications that have been peer-reviewed and have appeared at other conferences or workshops may not be submitted to MCNA. Authors should be aware that IEEE has a strict policy with regard to plagiarism https://www.ieee.org/publications/rights/plagiarism/plagiarism-faq.html The authors' prior work must be cited appropriately.
+Author list
+Please ensure that you submit your papers with the full and final list of authors in the correct order. The author list registered for each submission is not allowed to be changed in any way after the paper submission deadline.
+Proofreading
+Please proofread your submission carefully. It is essential that the language use in the paper is clear and correct so that it is easily understandable. (Either US English or UK English spelling conventions are acceptable.)
+
+Publication
+All accepted and registered papers in MCNA2020 and the workshops co-located with it will be submitted to IEEEXplore for possible publication.
+ 

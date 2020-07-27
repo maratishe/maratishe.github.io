@@ -1,0 +1,10 @@
+no : 37
+id : D120070778 [NEW]
+update : 2020年07月14日
+univ : 兵庫県立大学
+title : 教授の公募　機械技術の知能化（医療， AI・IoT・ビックデータなど）
+field : 工学 - 機械工学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070778&ln_jor=0&top_btn=1 ----------

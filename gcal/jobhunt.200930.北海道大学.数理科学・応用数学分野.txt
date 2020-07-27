@@ -1,0 +1,10 @@
+no : 45
+id : D120071411 [NEW]
+update : 2020年07月23日
+univ : 北海道大学
+title : 北海道大学大学院理学研究院数学部門　准教授（数理科学・応用数学分野）
+field : 数物系科学 - 数学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071411&ln_jor=0&top_btn=1 ----------

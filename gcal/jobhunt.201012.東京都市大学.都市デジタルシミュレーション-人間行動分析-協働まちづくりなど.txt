@@ -1,0 +1,10 @@
+no : 19
+id : D120071157 [NEW]
+update : 2020年07月21日
+univ : 東京都市大学
+title : 准教授１名（常勤）の公募　都市のマネジメント（都市デジタルシミュレーション、人間行動分析、協働まちづくりなどの関連分野）
+field : 総合人文社会 - 地域研究 複合領域 - 生活科学 複合領域 - デザイン学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月12日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071157&ln_jor=0&top_btn=1 ----------

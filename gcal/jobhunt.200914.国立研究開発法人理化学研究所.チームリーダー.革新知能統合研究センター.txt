@@ -1,0 +1,10 @@
+no : 24
+id : D120071016 [NEW]
+update : 2020年07月16日
+univ : 国立研究開発法人理化学研究所
+title : チームリーダー（無期雇用職）募集（M21N02）(革新知能統合研究センター)
+field : 情報学 - 数理・情報科学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月14日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071016&ln_jor=0&top_btn=1 ----------

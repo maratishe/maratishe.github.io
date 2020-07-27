@@ -1,0 +1,10 @@
+no : 12
+id : D120070936 [NEW]
+update : 2020年07月16日
+univ : 日本大学
+title : 准教授，専任講師，または助教の公募（ソフトウェア分野，情報システム分野，データサイエンス分野，知能ロボティクス分野）
+field : 情報学 - 全て
+post : 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月25日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070936&ln_jor=0&top_btn=1 ----------

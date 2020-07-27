@@ -1,0 +1,10 @@
+no : 5
+id : D120070826 [UPDATE]
+update : 2020年07月15日
+univ : 琉球大学
+title : 女性教授の公募【知能情報コース　知能情報講座(知能情報学、ヒューマンコンピュータ・インタラクション)】
+field : 情報学 - ヒューマンインターフェース・インタラクション 情報学 - 人間情報学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月14日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070826&ln_jor=0&top_btn=1 ----------

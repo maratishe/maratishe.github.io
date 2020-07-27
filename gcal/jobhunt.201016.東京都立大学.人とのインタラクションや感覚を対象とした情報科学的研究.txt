@@ -1,0 +1,10 @@
+no : 1
+id : D120070326 [NEW]
+update : 2020年07月20日
+univ : 東京都立大学
+title : 東京都立大学の専任教員公募（システムデザイン学部 情報科学科 准教授）人とのインタラクションや感覚を対象とした情報科学的研究分野
+field : 情報学 - 人間情報学 情報学 - 情報学フロンティア
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月16日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070326&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,10 @@
+no : 23
+id : D120071218 [NEW]
+update : 2020年07月21日
+univ : 大阪大学
+title : 社会イノベーション部門 准教授の公募
+field : 複合領域 - 全て
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月25日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071218&ln_jor=0&top_btn=1 ----------

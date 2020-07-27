@@ -1,0 +1,64 @@
+************************************************************************************
+ACM NanoCoCoA 2020
+1st ACM International Workshop on Nanoscale Computing, Communication, and Applications
+https://www.nanococoa.org/ 
+ 
+November 16, 2020 - Fully Virtual (originally Yokohama, Japan)
+
+To be held in conjunction with the:
+
+ACM SenSys
+ACM Conference on Embedded Networked Sensor Systems
+***********************************************************************************
+
+G E N E R A L    I N F O R M A T I O N
+
+Nanotechnology continues to revolutionize a wide variety of fields by paving the way toward sub-µm scale devices (i.e., in the order of a few hundred nanometers). Controlling materials on such a scale is expected to give rise to integrated nanodevices with simple sensing, actuation, data processing and storage, and communication capabilities, opening the horizon to a variety of ground-breaking applications. By equipping nanodevices with wireless communications capabilities, nanotechnology will facilitate the advance of multiple disruptive applications, such as in-body communication, software-defined metamaterials and metasurfaces, wireless robotic materials, and on-chip communication. Enabling the above applications will require a broad range of expertise, ranging from nanoscale hardware design, resource-constrained computing, and channel modelling to different layers of nanonetworks' protocol development, as well as the expertise along the four detected promising application domains.
+
+The First ACM International Workshop on Nanoscale Computing, Communication, and Applications (ACM NanoCoCoA 2020) will be held in conjunction with the The 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020) on November 16, 2020. The twofold mission of this workshop is to increase the visibility of nanoscale computing, communication, networking, and supported applications, as well as to bring together researchers from diverse disciplines that can foster and develop this fast developing field.
+
+
+A R E A S   O F   I N T E R E S T
+
+We seek original, completed, and unpublished work that is not currently under review by any other journal, magazine, conference, or workshop. Topics of interest include, but are not limited to:
+
+- Embedded, Distributed, Resource Constrained, Intermittent, and Unconventional Nanoscale Computing Systems,
+- Sensing, Actuation, Data Processing, and Storage at the Nanoscale,
+- Programming paradigms, Languages, and Tools for Nanoscale Computing and Communication,
+- Nanoscale Hardware Design, Implementation, and Performance Benchmarking,
+- Electromagnetic (e.g., mmWave, THz) Nanocommunication Paradigm,
+- mmWave and THz Channel Modelling at the Nanoscale in Different Mediums, e.g., Free-space, In-body, On-chip,
+- Nanonetworking Protocol Stack, i.e., Physical, Link, Network, Transport, and Application Layers,
+- Reduced/Condensed/Integrated Nanonetworking Protocol Stack,
+- Nanoscale Applications, e.g., Software-defined Metamaterials/Surfaces, Wireless Robotic Materials, In-body Healthcare, On-chip Communication, etc.,
+- Energy-related Considerations, Modelling, and Constraints, e.g., Energy Harvesting, Backscattering, etc.,
+- End-to-End Nanonetwork Architectures, e.g., Internet of (Bio/Multimedia) Nano-Things,
+- Nanoscale Localization and Tracking using Electromagnetic Signals,
+- Security, Integrity, and Privacy at the Nanoscale,
+- Standardization Proposals and Reviews (e.g., IEEE P1906.1),
+- Simulations Tools, Experimental Testbeds, Datasets, and Methodologies for Evaluation and Benchmarking of Nanoscale Computing, Communication, and Networking Approaches;
+
+Accepted and presented workshop papers (both work-in-progress and full papers) will be included with the ACM SenSys 2020 proceedings and published in the ACM Digital Library. Extended versions of the best workshop papers will be offered a possibility of fast-track publication at MDPI Electronics' special issue "Nanonetworking Communications: Latest Advances and Prospects" (Impact factor: 2.412, ranking 125/266 (Q2) in "Engineering, Electrical & Electronic").
+
+
+S U B M I S S I O N
+
+Submitted papers must be unpublished and must not be currently under review for any other publication. Submissions must be either full or work-in-progress (WiP) papers, with at most 6 and 3 single-spaced 8.5” x 11” pages, respectively, and with 9-pt font size in two-column format, including figures and tables. As for references, submissions may include as many pages as needed. All submissions must use the LaTeX (preferred) or Word styles found here. LaTeX submissions should use the acmart.cls template (sigconf option), with the default 9-pt font. This format will be used also for the camera-ready version of the accepted papers. Papers that do not meet the size and formatting requirements will not be reviewed. We require each paper to be in the Adobe Portable Document Format (PDF) and submitted through the workshop submission system.
+
+Accepted and presented workshop papers will be included with the ACM SenSys 2020 proceedings and published in the ACM Digital Library. Extended versions of the best workshop papers will be offered a possibility of fast-track publication at MDPI Electronics' special issue "Nanonetworking Communications: Latest Advances and Prospects" (Impact factor: 2.412, ranking 125/266 (Q2) in "Engineering, Electrical & Electronic").
+
+
+I M P O R T A N T    D A T E S
+
+Submission Deadline: September 11, 2020
+Notification Due: October 9, 2020
+Final Version Due: October 23, 2020
+Workshop: November 16, 2020
+
+
+O R G A N I Z E R S
+
+Filip Lemic - University of Antwerp - imec & Polytechnic University of Catalonia
+Chong Han - Shanghai Jiao Tong University
+Jeroen Famaey - University of Antwerp - imec
+Sergi Abadal - Polytechnic University of Catalonia

@@ -1,0 +1,10 @@
+no : 14
+id : D120070858 [NEW]
+update : 2020年07月15日
+univ : 松本大学
+title : 経営学（データサイエンス）（准教授もしくは専任講師）の公募
+field : 社会科学 - 経営学 情報学 - データサイエンス
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月20日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070858&ln_jor=0&top_btn=1 ----------
