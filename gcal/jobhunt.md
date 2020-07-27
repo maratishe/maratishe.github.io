@@ -13,12 +13,12 @@ this file is generated automatically, do not make manual changes to it!
 2020-07-20 [<strike>近畿大情報セキュリティ評価★推薦書</strike>](#a496e2fbce)  
 2020-07-21 [<strike>東京大(missed13日締切)</strike>](#a94f938232)  
 2020-07-24 [<strike>慶應義塾.情報工学分野★推薦書</strike>](#3154cd9345)  
-2020-07-30 [滋賀大](#a59d532b7d)  
+2020-07-30 [滋賀大★byemail](#cfc365a4fb)  
 2020-07-31 [岡山理科大.人工知能分野](#f2a049faff)  
-2020-07-31 [九州国際大.情報学基礎](#ed8764462a)  
+2020-07-31 [<strike>九州国際大.情報学基礎(badformat)</strike>](#73585c7c51)  
 2020-07-31 [埼玉工業大.情報学](#425f4c047f)  
-2020-07-31 [法政大.信号処理、統計、計測、機械学習分野](#837a6a163d)  
-2020-07-31 [名古屋大.人間情報学](#e24f2cb09e)  
+2020-07-31 [<strike>法政大.信号処理、統計、計測、機械学習分野(推薦書)</strike>](#e6593754c5)  
+2020-07-31 [名古屋大.人間情報学★教授](#820744a453)  
 2020-08-12 [三重大.知能工学講座・データサイエンス2jobs](#5287ecef42)  
 2020-08-17 [NAIST.ロボティクス分野](#2a5cbddcf2)  
 2020-08-17 [筑波大](#6bedfcd2ce)  
@@ -104,7 +104,7 @@ this file is generated automatically, do not make manual changes to it!
 
 ## <strike>慶應義塾.情報工学分野★推薦書</strike>  (2020-07-24) <span id="3154cd9345"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 滋賀大  (2020-07-30) <span id="a59d532b7d"></span> <span style="color:#666;">[→top](#top)</span>
+## 滋賀大★byemail  (2020-07-30) <span id="cfc365a4fb"></span> <span style="color:#666;">[→top](#top)</span>
 
 No. ：22  
 データ番号 ：D120041018 [NEW]  
@@ -137,20 +137,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051351&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 九州国際大.情報学基礎  (2020-07-31) <span id="ed8764462a"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 38  
-id : D120060550 [NEW]  
-update : 2020年06月11日  
-univ : 九州国際大学  
-title : 教員の公募について【情報処理、数学　教授、准教授または助教】  
-field : 情報学 - 情報学基礎  
-post : 教授相当 准教授・常勤専任講師相当 助教相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年07月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060550&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060550&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>九州国際大.情報学基礎(badformat)</strike>  (2020-07-31) <span id="73585c7c51"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 埼玉工業大.情報学  (2020-07-31) <span id="425f4c047f"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -167,22 +154,9 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060427&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 法政大.信号処理、統計、計測、機械学習分野  (2020-07-31) <span id="837a6a163d"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>法政大.信号処理、統計、計測、機械学習分野(推薦書)</strike>  (2020-07-31) <span id="e6593754c5"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 5  
-id : D120060017 [NEW]  
-update : 2020年06月03日  
-univ : 法政大学  
-title : 准教授または専任講師の公募（情報工学分野―信号処理、統計、計測、機械学習分野）  
-field : 情報学 - 全て 工学 - 電気電子工学 総合理工 - 計算科学  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年07月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060017&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060017&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 名古屋大.人間情報学  (2020-07-31) <span id="e24f2cb09e"></span> <span style="color:#666;">[→top](#top)</span>
+## 名古屋大.人間情報学★教授  (2020-07-31) <span id="820744a453"></span> <span style="color:#666;">[→top](#top)</span>
 
 no : 27  
 id : D120060324 [NEW]  
