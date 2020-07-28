@@ -116,6 +116,8 @@ $CLASS = 'gcalapi'; class gcalapi { // USER code
 		chdir( $there); foreach ( flget( '.') as $f) if ( is_file( "$f") && ! isset( $here[ "$f"])) { echo "delete $there/$f\n"; $c = 'rm -Rf ' . strdblquote( $f); procpipe( $c); }
 		`chmod -R 777 *`;
 	}
+	// SECTION: macro actions
+	public function update() { foreach ( ttl( 'addall,make,sync') as $f) $this->$f(); }
 	// web API -- if [webkeys.php] is found in the same folder, 'webkey' parameter is expected in all requests -- just put keys in comments in webkeys.php
 }
 if ( isset( $argv) && count( $argv) && strpos( $argv[ 0], "$CLASS.php") !== false) { // direct CLI execution, redirect to one of the functions 

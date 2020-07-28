@@ -14,9 +14,9 @@ this file is generated automatically, do not make manual changes to it!
 2020-07-21 [<strike>東京大(missed13日締切)</strike>](#a94f938232)  
 2020-07-24 [<strike>慶應義塾.情報工学分野★推薦書</strike>](#3154cd9345)  
 2020-07-30 [滋賀大★byemail](#cfc365a4fb)  
-2020-07-31 [岡山理科大.人工知能分野](#f2a049faff)  
+2020-07-31 [<strong>埼玉工業大.情報学★エクセル業績</strong>](#18e59c9346)  
+2020-07-31 [<strike>岡山理科大(ous).人工知能★toomuchwork+morelater</strike>](#1beb94e1bd)  
 2020-07-31 [<strike>九州国際大.情報学基礎(badformat)</strike>](#73585c7c51)  
-2020-07-31 [埼玉工業大.情報学](#425f4c047f)  
 2020-07-31 [<strike>法政大.信号処理、統計、計測、機械学習分野(推薦書)</strike>](#e6593754c5)  
 2020-07-31 [名古屋大.人間情報学★教授](#820744a453)  
 2020-08-12 [三重大.知能工学講座・データサイエンス2jobs](#5287ecef42)  
@@ -46,7 +46,7 @@ this file is generated automatically, do not make manual changes to it!
 2020-08-31 [駒澤大.情報分野](#306428a9df)  
 2020-08-31 [京都大.通信情報システム](#039122b303)  
 2020-08-31 [株式会社Nextremer.計算科学.quantum](#5fa1a2f2e1)  
-2020-08-31 [岡山理科大.情報数理.情報工学.2posts](#38136546d5)  
+2020-08-31 [岡山理科大(ous).情報数理.情報工学.2posts](#1a7a819628)  
 2020-08-31 [岡山大学.サイバーフィジカル情報の応用研究](#e9bdb6257a)  
 2020-09-07 [法政大学.情報学・計算基盤](#9d2f056f03)  
 2020-09-07 [明治大](#abe8802bd2)  
@@ -122,37 +122,11 @@ No. ：22
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 岡山理科大.人工知能分野  (2020-07-31) <span id="f2a049faff"></span> <span style="color:#666;">[→top](#top)</span>
+## <strong>埼玉工業大.情報学★エクセル業績</strong>  (2020-07-31) <span id="18e59c9346"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 29  
-id : D120051351 [NEW]  
-update : 2020年06月02日  
-univ : 岡山理科大学  
-title : 准教授または講師の公募（コンピュータサイエンス，又は人工知能分野）  
-field : 情報学 - 全て  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年07月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051351&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051351&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>岡山理科大(ous).人工知能★toomuchwork+morelater</strike>  (2020-07-31) <span id="1beb94e1bd"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>九州国際大.情報学基礎(badformat)</strike>  (2020-07-31) <span id="73585c7c51"></span> <span style="color:#666;">[→top](#top)</span>
-
-## 埼玉工業大.情報学  (2020-07-31) <span id="425f4c047f"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 30  
-id : D120060427 [NEW]  
-update : 2020年06月09日  
-univ : 埼玉工業大学  
-title : 教授、准教授、講師または助教を合わせて2名(IT分野)  
-field : 情報学 - 全て  
-post : 教授相当 准教授・常勤専任講師相当 助教相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年07月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060427&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060427&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
 
 ## <strike>法政大.信号処理、統計、計測、機械学習分野(推薦書)</strike>  (2020-07-31) <span id="e6593754c5"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -486,7 +460,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070882&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 岡山理科大.情報数理.情報工学.2posts  (2020-08-31) <span id="38136546d5"></span> <span style="color:#666;">[→top](#top)</span>
+## 岡山理科大(ous).情報数理.情報工学.2posts  (2020-08-31) <span id="1a7a819628"></span> <span style="color:#666;">[→top](#top)</span>
 
 No. ：57  
 データ番号 ：D120061713 [NEW]  
