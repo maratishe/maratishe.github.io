@@ -1,0 +1,10 @@
+no : 3
+id : D120072026 [UPDATE]
+update : 2020年08月07日
+univ : 岡山大学・電気電子機能開発
+title : 准教授の募集（大学院自然科学研究科 産業創成工学専攻 電気電子機能開発学講座）
+field : 工学 - 電気電子工学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120072026&ln_jor=0&top_btn=1 ----------

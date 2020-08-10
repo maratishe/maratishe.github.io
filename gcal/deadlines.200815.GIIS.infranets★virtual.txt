@@ -1,0 +1,118 @@
+The 13th Global Information Infrastructure and Networking Symposium (GIIS'20)
+Tunis, Tunisia, 28-30 Oct 2020.
+
+http://giis-2020.dnac.org/
+
+Virtual Conference
+
+
+Technically co-sponsored by IEEE and IEEE Communications Society
+All accepted and presented papers will be published in IEEE Xplore
+
+
+
+Full paper submission deadline:    Aug. 15, 2020 (Hard Deadline)
+
+
+
+Submissions link: http://edas.info/N27360
+
+Initially planned in Tunis, Tunisia, GIIS'2020 will run as a fully virtual web-based event, due to the uncertainty raised by the Covid-19 pandemics.
+
+The Global Information Infrastructure and Networking Symposium (GIIS) consists of an interrelated set of technical, policy, and social issues implicit in the development of national and international (global) information infrastructures and networks. GIIS aims at identifying and promoting the exchange of knowledge on these interrelated issues and provides liaison to bodies in the global society, technical fora and international standards. GIIS 2020 follows the success of the precedent editions and intends to promote interdisciplinary conference sessions to discuss, build and further the use of national and international information infrastructures and networks. The conference also aims at providing a forum for the participants to broaden professional contacts and for technical discussions and interactions on specific information infrastructure and networking topics. Information Infrastructure and Networking (IIN) brings together information processing applications, communications networks and services, physical and software elements in networks, and end systems. The program of GIIS 2020 will include invited talks and keynotes, paper presentations, tutorials, panel, and discussion sessions.
+
+
+The main topics of interest include, but are not limited to:
+
+
+Track 1: Next Generation Networking and Communications
+
+Next generation (5G) mobile communications
+Heterogeneous networks and small cells
+Centralized-RAN, Could-RAN, and Fog-RAN architectures
+Software Defined Networking (SDN), Software Defined Radio (SDR), and Network Function Virtualization (NFV)
+Resource orchestration in next-generation networks
+Network Slicing
+Ad Hoc and sensor networks
+D2D and M2M communications
+Multi-antenna and beamforming systems
+Signal processing for communications
+Big data networking
+Cognitive radio and networks
+Pervasive and mobile computing
+Wireless optical communications and VLC
+Communications switching and routing
+Traffic measurement and analysis
+Smart grid and powerline communications
+Satellite and space communications
+Track 2: Internet of Things
+
+Industry 4.0 and Industrial IoT
+IoT architecture design and optimization
+Low Power Wide Area (LPWA) networks
+IoT communication protocols (6LoWPAN, RPL, 6TiSCH, LoRaWAN)
+IoT data protocols (MQTT-SN, COAP, XMPP-IoT, AMQP)
+URLLC for mission critical IoT
+Energy efficiency and energy harvesting in IoT
+Data science and Machine learning for IoT
+Data collection, processing, aggregation, and communication
+Self-organization and self-healing of IoT networks
+Cross-layer design and optimization in IoT
+Machine-type communications in 5G systems
+Security and privacy for IoT
+Blockchain and IoT
+Sensor deployment, placement, control and management issues
+Experimental results, prototypes, trials and testbeds for IoT
+Track 3: Emerging Topics in Communications and Networking
+
+Edge-Fog Computing
+Mobile cloud computing and 5G
+Privacy and security in 5G
+Cyber-physical systems
+Big data and 5G data analytics
+V2X standards and architectures
+R&D activities towards IMT-2020 and beyond
+5G Spectrum
+5G standardization
+5G applications and services
+Data science and Machine learning for 5G
+Network functions virtualization and software defined networking
+Network slicing
+Emerging IoT applications in 5G networks
+Tactile Internet
+Molecular, biological and multi-scale communications
+Telecommunication and Network Engineering Education
+Track 4: Services, Standardization and Telecom Policies 
+
+Communication software and services
+Services for rural and developing areas
+Quality of Service (QoS) and Quality of Experience (QoE)
+Cloud computing
+Smart cities, smart public places, smart home, smart agriculture/farming
+Standards for communications and networking
+Telecommunication Standards Education
+Standardization activities (IEEE, 3GPP, ITU, ETSI, IETF)
+Open communities, open API, open source
+Telecom, governance, policy and regulations
+Telecom business: local, country, region and international cases
+Business models for global access
+Spectrum regulation
+Strategies for growing rural connectivity
+Communities in connectivity policy making
+Social and societal roles of ICT
+Submission Guidelines:
+
+The authors are invited to submit high-quality original technical papers for presentation at the conference and publication in the GIIS’ 20 Proceedings. Accepted papers will be submitted for inclusion into IEEE Xplore. All final submissions should be written in English with a maximum paper length of 6 printed pages (10-point font) including figures without incurring additional page charges (maximum 2 additional pages with over length page charge for an additional fee, if accepted). Papers exceeding 8 pages will not be accepted at EDAS. Standard IEEE conference templates for LaTeX formats are found at here:
+
+
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+
+At least one author of each accepted presentation must register to the conference and present the paper. All papers must be submitted in electronic form through the EDAS web site by the deadline at: http://edas.info/N27360. All accepted and presented papers will be published in IEEE Xplore Digital Library.
+
+Technically co-sponsored by IEEE and IEEE Communications Society
+All accepted and presented papers will be published in IEEE Xplore
+
+Important Dates:
+Paper Submission Due:   Aug. 15, 2020 (Hard Deadline)
+Notification Date:   September 15, 2020
+Final Papers Due:   September 30, 2020

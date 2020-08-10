@@ -1,0 +1,10 @@
+no : 11
+id : D120080202 [NEW]
+update : 2020年08月08日
+univ : 公立はこだて未来大学・情報システム
+title : 公立はこだて未来大学教員募集(教授または准教授，専門分野 情報システム）
+field : 情報学 - 全て 工学 - 機械工学
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080202&ln_jor=0&top_btn=1 ----------

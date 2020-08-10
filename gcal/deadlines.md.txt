@@ -9,7 +9,6 @@ this file is generated automatically, do not make manual changes to it!
 2020-07-23 [<strike>EAI・cyberphy@cyber</strike>](#85b677f41c)  
 2020-07-23 [<strike>EAI・smartcity@cyber</strike>](#cf60c38215)  
 2020-07-24 [<strong>CNSM@cyberspace</strong>](#22e5de7f8d)  
-2020-07-31 [EAI・mobiquitous](#85821f77c7)  
 2020-07-31 [ElsevierJ.onlinesocialnets](#3ebb16564d)  
 2020-07-31 [mdpi・V2Xcomm](#c4e9e6af93)  
 2020-08-01 [EAI.bodynets](#cf2db2d7b3)  
@@ -17,26 +16,34 @@ this file is generated automatically, do not make manual changes to it!
 2020-08-03 [EAI・urbiot@cyber](#5f1e4660a9)  
 2020-08-06 [EAI.wicon.wireless](#c02842e34e)  
 2020-08-07 [hindawi・smartphoneauth](#97e20e0cb4)  
+2020-08-08 [IEEE.MSN@東京](#3f141c4974)  
+2020-08-15 [bigdatase★virtual](#f383035705)  
+2020-08-15 [EAI・mobiquitous](#85821f77c7)  
+2020-08-15 [GIIS.infranets★virtual](#0dce142662)  
 2020-08-16 [EAI.AICON.chinoAI.commnets](#fc0d2329b3)  
+2020-08-16 [smartelectronics★jornal](#33f197b451)  
 2020-08-17 [tale.education.online](#bff7098c00)  
 2020-08-20 [inconf.ICNCC.netcomm★東京](#49f4867629)  
 2020-08-30 [JCN(korea).wireless.mimo](#d92ba4f4b1)  
 2020-09-07 [intconf.IEEE.NCA.netapps](#7b845b3b1a)  
 2020-09-11 [ACM.nanococoa.embedsensors](#d7b6e0b261)  
-2020-09-17 [IEEE.MSN@東京.mobility.sensing.networking](#56cb850a48)  
+2020-09-18 [CCIoT.smartIOT](#db8e35e33a)  
 2020-09-28 [ACMtran・IoV](#5303efd31e)  
 2020-09-30 [mdpi・stenography](#d91b1c57ba)  
 2020-10-01 [acm・edgeAI](#0056781663)  
+2020-10-05 [BigDataJ.softcompute](#7322197f11)  
 2020-10-15 [tnsm・netmng](#acd9ce1eab)  
-2020-10-31 [springerj・cybersecAI](#e050f91cf8)  
 2020-10-31 [WileyJ.software.innovations](#f6d0db1ffc)  
+2020-10-31 [springerj・cybersecAI](#e050f91cf8)  
 2020-11-01 [mdpij.wirelessprotocols](#ee527e2262)  
 2020-11-20 [mdpi.5g](#70c7073724)  
 2020-12-01 [IET・iot](#25d8432a90)  
 2020-12-01 [IETj.smartcities](#e3e175936d)  
 2020-12-10 [MDPI.geotech.spatiotemporal](#56e2617def)  
+2020-12-20 [AppliedEnergyJ・P2Penergyshare](#0478b7f18c)  
 2020-12-31 [MDPI.drone.swarms](#9e2696f5c6)  
 2020-12-31 [MDPI.SloT.sensing.IoT](#1f0532ec77)  
+2021-01-31 [MDPI.sustain](#2df4e5c249)  
 
 
 ## <strike>EAI.INTSYS.smartITS.smartcity</strike>  (2020-07-23) <span id="b66484fb0e"></span> <span style="color:#666;">[→top](#top)</span>
@@ -48,316 +55,6 @@ this file is generated automatically, do not make manual changes to it!
 ## <strike>EAI・smartcity@cyber</strike>  (2020-07-23) <span id="cf60c38215"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strong>CNSM@cyberspace</strong>  (2020-07-24) <span id="22e5de7f8d"></span> <span style="color:#666;">[→top](#top)</span>
-
-## EAI・mobiquitous  (2020-07-31) <span id="85821f77c7"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-[http://eai.mailmta.com/nl/link?c=6brh&d=5r0&h=j02i7og007gftjabas4fgq29b&i=2s7&iw=1&p=H1009508845&s=lp&sn=3m3&z=1st4](http://eai.mailmta.com/nl/link?c=6brh&d=5r0&h=j02i7og007gftjabas4fgq29b&i=2s7&iw=1&p=H1009508845&s=lp&sn=3m3&z=1st4)  
-
-
-
-
-November 9 - 11, 2020 | Darmstadt, Germany Cyberspace  
-Full Paper Submission Deadline: July 31, 2020 (extended)  
-Workshop Paper Submission Deadline: August 28, 2020  
-
-
-
-
-EAI MobiQuitous 2020 will be held as a fully-fledged online conference.  
-
-
-Due to the safety concerns and travel restrictions caused by COVID-19, EAI MobiQuitous 2020 will take place online in a live stream.  
-Participants will still be able to enjoy unique interactive benefits – learn more.  
-
-
-
-
-EAI MobiQuitous 2020 - 17th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services  
-November 9-11, 2020  
-Darmstadt, Germany Cyberspace  
-
-
-EAI MobiQuitous is a top ranked conference venue for researchers with a CORE conference ranking: A.  
-MobiQuitous authors have enjoyed over 8300+ citations, with average 8,23 citations per paper and h-index 37 (Scopus).  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Call for papers  
-
-
-Indexed in  
-
-
-Ei Compendex, ISI Web of Science, Scopus, CrossRef,  
-Google Scholar, DBLP, and more.  
-
-
-
-
-Publication  
-
-
-Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
-
-
-EAI Endorsed Transactions on Mobile Communications and Applications  
-
-
-
-
-
-
-Learn more  
-
-
-
-
-
-
-
-
-
-
-Get the recognition you deserve  
-with EAI Index:  
-
-
-- The first open and transparent way of recognizing great researchers worldwide  
-
-
-- Credits are awarded to all authors based on review, but regardless of acceptance  
-
-
-- Members with top 0.1% EAI Index at the end of the year will become EAI Fellows  
-
-
-
-
-Find out more about EAI Index  
-
-
-
-
-
-
-
-
-
-
-
-
-Call for papers  
-
-
-
-
-Past volumes indexed in  
-
-
-Ei Compendex, ISI Web of Science, Scopus, CrossRef,  
-Google Scholar, DBLP, and more.  
-
-
-
-
-Publication  
-
-
-Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
-
-
-EAI Endorsed Transactions on Mobile Communications and Applications  
-
-
-
-
-
-
-Learn more  
-
-
-_  
-Submit a Full-length paper:  
-_  
-
-
-Submit full paper  
-
-
-
-
-3rd Workshop on  
-TC-CPS: Time-Critical Cyber  
-Physical Systems  
-
-
-Submit Workshop Paper  
-
-
-
-
-Workshop on Artificial Intelligence for Mobile and Ubiquitous  
-Communication System  
-
-
-Submit Workshop Paper  
-
-
-
-
-Workshop on e-Health and m-Health Technologies for Ambient Assisted Living and Healthcare  
-
-
-Submit Workshop Paper  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Paper Submission is now open for the 17th edition of MobiQuitous! Check out the Call for Papers.  
-Take a look back at the previous edition of MobiQuitous here.  
-MobiQuitous 2020 supports revolutionary EAI Community Review, find out more here.  
-Every author receives EAI Index credits – regardless of acceptance. Learn more about EAI’s Recognition Program here.  
-Get real feedback on your presentation from other registrants via EAI Compass.  
-
-
-
-
-
-
-
-
-
-
-
-
-Welcome to the EAI Community  
-
-
-Let the EAI Community help you build your career with collaborative research, objective evaluation, and fair recognition:  
-
-
-Extra visibility for your paper and fair review → Community Review  
-Get credits to receive membership ranks and global recognition → EAI Index  
-Real-time evaluation and feedback on your presentation on-site → EAI Compass  
-
-
-
-
-
-
-Publication  
-
-
-We have applied to ACM for inclusion into the ACM International Conference Proceedings program (ICPS). If MobiQuitous 2020 is accepted into the ACM program, all accepted and presented papers will be published in ICPS and made available through ACM Digital Library.  
-
-
-MobiQuitous proceedings are indexed in leading indexing services, including Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
-
-
-Authors of selected best accepted and presented papers will be invited to submit an extended version to:  
-
-
-Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
-
-
-All accepted authors are eligible to submit an extended version in a fast track of:  
-
-
-EAI Endorsed Transactions on Mobile Communications and Applications  
-
-
-Additional publication opportunities:  
-
-
-EAI/Springer Innovations in Communications and Computing Book Series  
-
-
-
-
-Topics  
-
-
-About MobiQuitous 2020  
-
-
-About EAI  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Important dates  
-
-
-Full Paper Submission deadline  
-5 July 2020  
-Notification deadline  
-19 August 2020  
-Registration Opens  
-21 August 2020  
-Camera-ready deadline  
-13 September 2020  
-Start of Conference  
-9 November 2020  
-End of Con  
- <span style="color:#666;">[→top](#top)</span>
-
 
 ## ElsevierJ.onlinesocialnets  (2020-07-31) <span id="3ebb16564d"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -932,6 +629,605 @@ Lead Guest Editor: Ding Wang, Nankai University, Tianjin, China
  <span style="color:#666;">[→top](#top)</span>
 
 
+## IEEE.MSN@東京  (2020-08-08) <span id="3f141c4974"></span> <span style="color:#666;">[→top](#top)</span>
+
+[Apologies if you receive multiple copies of this message]  
+
+
+=============================================================================  
+
+
+Dear Friends and Colleagues:  
+The 16th International Conference on Mobility, Sensing and Networking (MSN 2020) has been a premier venue for presenting scholarly research on mobile ad-hoc and sensor networks. Advances in this field are leading to innovative platforms, protocols, systems, and applications for the next-generation mobile networks, Internet of Things, and Cyber-Physical Systems. From this year, the conference name is changed to Mobility, Sensing and Networking to cover the recent advancement in mobile and wireless technologies. With its 16th anniversary, MSN 2020 will be held at Tokyo, Japan.  
+In addition to the papers, keynotes, and posters, the MSN 2020 program will include 6 workshops (listed below) to present preliminary and cutting edge work on new directions that advance the field of Mobility, Sensing and Networking. The workshop papers are published in the conference proceedings and included in IEEE Xplore digital library.  
+
+
+IEEE MSN 2020 Workshops  
+
+
+-The Second International Workshop on Edge Computing and Artificial Intelligence based Sensor-Cloud System (ECAISS)  
+Link: [https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm](https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm)  
+Paper Submission Deadline: September 30, 2020  
+Workshop Co-Chairs:  
+Haipeng Dai Nanjing University, China  
+Tian Wang Huaqiao University, China  
+Rong Gu Nanjing University, China  
+
+
+-The First International Workshop on Ubiquitous Electric Internet of Things (UEIoT)  
+Link: [http://www.allconfs.org/meeting/index_en.asp?id=8338](http://www.allconfs.org/meeting/index_en.asp?id=8338)  
+Paper Submission Deadline: September 17, 2020  
+Workshop Co-Chairs:  
+Xingyu Gao, Chinese Academy of Sciences, Beijing, China  
+Zhenyu Chen, State Grid Corporation of China, Beijing, China  
+Ying Ma, Xiamen University of Technology, Xiamen, China  
+
+
+-The MSN 2020 Workshop on Advances in Intelligent Mobile Networks for Smart Cities　（AINSC）  
+Link: [https://www.tianhuotongren.org/MSN2020-AINSC](https://www.tianhuotongren.org/MSN2020-AINSC)  
+Paper Submission Deadline: September 17, 2020  
+Workshop Co-Chairs:  
+Dr. Chaofeng Zhang, Advanced Institute of Industrial Technology, Japan  
+Dr. Lu Wang, Keio University, Japan  
+Dr. Shuji Kinoshita, Advanced Institute of Industrial Technology, Japan  
+
+
+-The First International Workshop on Mobile Sensing with Radio, Light, and Acoustic (MSRLA)  
+Link: [http://netlab.nju.edu.cn/msrla/](http://netlab.nju.edu.cn/msrla/)  
+Paper Submission Deadline: September 20, 2020  
+Workshop Co-Chairs:  
+Jia Liu, Nanjing University, China  
+Fusang Zhang, Institute of Software, Chinese Academy of Sciences, China  
+
+
+-The Second International Workshop on Artificial Intelligence Applications in Internet of Things (AI2OT)  
+Link: [http://vlab.csu.edu.cn/AI2OT/](http://vlab.csu.edu.cn/AI2OT/)  
+Paper Submission Deadline: September 17, 2020  
+Workshop Co-Chairs:  
+Shigeng Zhang, Central South University, China  
+Xuan Liu, Hunan University, China  
+
+
+-The Workshop on 5G/B5G Security  
+Link: [http://workshop.dr-liuyang.com/](http://workshop.dr-liuyang.com/)  
+Paper Submission Deadline: September 17, 2020  
+Workshop Co-Chairs:  
+Yang Liu, Beijing University of Posts and Telecommunications, China  
+Zhixin Liu, Yanshan University, China  
+
+
+Submissions Procedures  
+All workshops have their own websites, submission systems and due dates. List to all the workshops can be found here: [https://conference.cs.cityu.edu.hk/msn2020/cf-wkpaper.php](https://conference.cs.cityu.edu.hk/msn2020/cf-wkpaper.php)  
+Submitted manuscripts must be prepared in the English language according to IEEE Computer Society Proceedings Format (double column, 10pt font, letter paper) and submitted in PDF file format. The manuscript (including figures, tables, appendices, references) should be no longer than 6 pages and at least 4 pages. Submitted manuscripts must not contain previously published material or be under consideration for publication in another conference or journal. At least one author of any accepted paper must register and present the paper at the workshop accepted.  
+
+
+Submission link: [https://easychair.org/conferences/?conf=msn2020](https://easychair.org/conferences/?conf=msn2020)  
+Click the above submission link and Select the appropriate workshops to submit the papers.  
+
+
+MSN 2020 General Chairs:  
+Yusheng Ji, National Institute of Informatics (NII), Japan  
+Lars Wolf, Technische Universitaet Braunschweig, Germany  
+
+
+MSN 2020 Technical Program Committee Chairs:  
+Ruidong Li, National Institute of Information and Communications Technology (NICT), Japan  
+Moustafa Youssef, Alexandra University, Egypt  
+
+
+MSN 2020 Workshop Chairs:  
+Noriaki Kamiyama, Fukuoka University, Japan  
+Tian Wang Huaqiao, University, China  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## bigdatase★virtual  (2020-08-15) <span id="f383035705"></span> <span style="color:#666;">[→top](#top)</span>
+
+Please accept our apologies if you receive multiple copies of this IEEE BigDataSE 2020 Final Call for Papers (CFPs) with Firm Deadline (August 15, 2020).  
+
+
+
+
+============================== IEEE BigDataSE 2020 ==============================  
+
+
+=============================================================================  
+
+
+Conferences Pivoting to a Part-Virtual Platform  
+
+
+[IEEE BigDataSE 2020] – Now Taking Place Part-Virtually  
+
+
+The safety and well-being of all conference participants is our priority. After evaluating the current COVID-19 situation, the decision has been made to transform the in-person component of the conference into a part-digital conference experience – the conference will now be a combination of online and offline event. Therefore, the conference will take place partly in Guangzhou, China and will also take place part-virtually. The conference dates remain the same – December 29, 2020 - January 1, 2021. Proceedings will not be cancelled, and publications will continue as planned. For questions, contact [BigDataSE2020 AT googlegroups DOT com].  
+
+
+
+
+
+
+Final Call for Papers (CFPs) of The 14th IEEE International Conference on Big Data Science and Engineering (IEEE BigDataSE 2020)  
+
+
+Guangzhou, China, December 29, 2020 - January 1, 2021  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## EAI・mobiquitous  (2020-08-15) <span id="85821f77c7"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+[http://eai.mailmta.com/nl/link?c=6brh&d=5r0&h=j02i7og007gftjabas4fgq29b&i=2s7&iw=1&p=H1009508845&s=lp&sn=3m3&z=1st4](http://eai.mailmta.com/nl/link?c=6brh&d=5r0&h=j02i7og007gftjabas4fgq29b&i=2s7&iw=1&p=H1009508845&s=lp&sn=3m3&z=1st4)  
+
+
+
+
+November 9 - 11, 2020 | N/A Cyberspace  
+Full Paper Submission Deadline: August 15, 2020 (extended)  
+Workshop Paper Submission Deadline: August 28, 2020  
+EAI is proud to announce that MobiQuitous is going virtual and beyond borders.  
+
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
+
+
+
+
+
+
+
+
+November 9 - 11, 2020 | Darmstadt, Germany Cyberspace  
+Full Paper Submission Deadline: July 31, 2020 (extended)  
+Workshop Paper Submission Deadline: August 28, 2020  
+
+
+
+
+EAI MobiQuitous 2020 will be held as a fully-fledged online conference.  
+
+
+Due to the safety concerns and travel restrictions caused by COVID-19, EAI MobiQuitous 2020 will take place online in a live stream.  
+Participants will still be able to enjoy unique interactive benefits – learn more.  
+
+
+
+
+EAI MobiQuitous 2020 - 17th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services  
+November 9-11, 2020  
+Darmstadt, Germany Cyberspace  
+
+
+EAI MobiQuitous is a top ranked conference venue for researchers with a CORE conference ranking: A.  
+MobiQuitous authors have enjoyed over 8300+ citations, with average 8,23 citations per paper and h-index 37 (Scopus).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Call for papers  
+
+
+Indexed in  
+
+
+Ei Compendex, ISI Web of Science, Scopus, CrossRef,  
+Google Scholar, DBLP, and more.  
+
+
+
+
+Publication  
+
+
+Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
+
+
+EAI Endorsed Transactions on Mobile Communications and Applications  
+
+
+
+
+
+
+Learn more  
+
+
+
+
+
+
+
+
+
+
+Get the recognition you deserve  
+with EAI Index:  
+
+
+- The first open and transparent way of recognizing great researchers worldwide  
+
+
+- Credits are awarded to all authors based on review, but regardless of acceptance  
+
+
+- Members with top 0.1% EAI Index at the end of the year will become EAI Fellows  
+
+
+
+
+Find out more about EAI Index  
+
+
+
+
+
+
+
+
+
+
+
+
+Call for papers  
+
+
+
+
+Past volumes indexed in  
+
+
+Ei Compendex, ISI Web of Science, Scopus, CrossRef,  
+Google Scholar, DBLP, and more.  
+
+
+
+
+Publication  
+
+
+Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
+
+
+EAI Endorsed Transactions on Mobile Communications and Applications  
+
+
+
+
+
+
+Learn more  
+
+
+_  
+Submit a Full-length paper:  
+_  
+
+
+Submit full paper  
+
+
+
+
+3rd Workshop on  
+TC-CPS: Time-Critical Cyber  
+Physical Systems  
+
+
+Submit Workshop Paper  
+
+
+
+
+Workshop on Artificial Intelligence for Mobile and Ubiquitous  
+Communication System  
+
+
+Submit Workshop Paper  
+
+
+
+
+Workshop on e-Health and m-Health Technologies for Ambient Assisted Living and Healthcare  
+
+
+Submit Workshop Paper  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paper Submission is now open for the 17th edition of MobiQuitous! Check out the Call for Papers.  
+Take a look back at the previous edition of MobiQuitous here.  
+MobiQuitous 2020 supports revolutionary EAI Community Review, find out more here.  
+Every author receives EAI Index credits – regardless of acceptance. Learn more about EAI’s Recognition Program here.  
+Get real feedback on your presentation from other registrants via EAI Compass.  
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the EAI Community  
+
+
+Let the EAI Community help you build your career with collaborative research, objective evaluation, and fair recognition:  
+
+
+Extra visibility for your paper and fair review → Community Review  
+Get credits to receive membership ranks and global recognition → EAI Index  
+Real-time evaluation and feedback on your presentation on-site → EAI Compass  
+
+
+
+
+
+
+Publication  
+
+
+We have applied to ACM for inclusion into the ACM International Conference Proceedings program (ICPS). If MobiQuitous 2020 is accepted into the ACM program, all accepted and presented papers will be published in ICPS and made available through ACM Digital Library.  
+
+
+MobiQuitous proceedings are indexed in leading indexing services, including Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
+
+
+Authors of selected best accepted and presented papers will be invited to submit an extended version to:  
+
+
+Mobile Networks and Applications (MONET) Journal (IF: 2.390)  
+
+
+All accepted authors are eligible to submit an extended version in a fast track of:  
+
+
+EAI Endorsed Transactions on Mobile Communications and Applications  
+
+
+Additional publication opportunities:  
+
+
+EAI/Springer Innovations in Communications and Computing Book Series  
+
+
+
+
+Topics  
+
+
+About MobiQuitous 2020  
+
+
+About EAI  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Important dates  
+
+
+Full Paper Submission deadline  
+5 July 2020  
+Notification deadline  
+19 August 2020  
+Registration Opens  
+21 August 2020  
+Camera-ready deadline  
+13 September 2020  
+Start of Conference  
+9 November 2020  
+End of Con  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## GIIS.infranets★virtual  (2020-08-15) <span id="0dce142662"></span> <span style="color:#666;">[→top](#top)</span>
+
+The 13th Global Information Infrastructure and Networking Symposium (GIIS'20)  
+Tunis, Tunisia, 28-30 Oct 2020.  
+
+
+[http://giis-2020.dnac.org/](http://giis-2020.dnac.org/)  
+
+
+Virtual Conference  
+
+
+
+
+Technically co-sponsored by IEEE and IEEE Communications Society  
+All accepted and presented papers will be published in IEEE Xplore  
+
+
+
+
+
+
+Full paper submission deadline: Aug. 15, 2020 (Hard Deadline)  
+
+
+
+
+
+
+Submissions link: [http://edas.info/N27360](http://edas.info/N27360)  
+
+
+Initially planned in Tunis, Tunisia, GIIS'2020 will run as a fully virtual web-based event, due to the uncertainty raised by the Covid-19 pandemics.  
+
+
+The Global Information Infrastructure and Networking Symposium (GIIS) consists of an interrelated set of technical, policy, and social issues implicit in the development of national and international (global) information infrastructures and networks. GIIS aims at identifying and promoting the exchange of knowledge on these interrelated issues and provides liaison to bodies in the global society, technical fora and international standards. GIIS 2020 follows the success of the precedent editions and intends to promote interdisciplinary conference sessions to discuss, build and further the use of national and international information infrastructures and networks. The conference also aims at providing a forum for the participants to broaden professional contacts and for technical discussions and interactions on specific information infrastructure and networking topics. Information Infrastructure and Networking (IIN) brings together information processing applications, communications networks and services, physical and software elements in networks, and end systems. The program of GIIS 2020 will include invited talks and keynotes, paper presentations, tutorials, panel, and discussion sessions.  
+
+
+
+
+The main topics of interest include, but are not limited to:  
+
+
+
+
+Track 1: Next Generation Networking and Communications  
+
+
+Next generation (5G) mobile communications  
+Heterogeneous networks and small cells  
+Centralized-RAN, Could-RAN, and Fog-RAN architectures  
+Software Defined Networking (SDN), Software Defined Radio (SDR), and Network Function Virtualization (NFV)  
+Resource orchestration in next-generation networks  
+Network Slicing  
+Ad Hoc and sensor networks  
+D2D and M2M communications  
+Multi-antenna and beamforming systems  
+Signal processing for communications  
+Big data networking  
+Cognitive radio and networks  
+Pervasive and mobile computing  
+Wireless optical communications and VLC  
+Communications switching and routing  
+Traffic measurement and analysis  
+Smart grid and powerline communications  
+Satellite and space communications  
+Track 2: Internet of Things  
+
+
+Industry 4.0 and Industrial IoT  
+IoT architecture design and optimization  
+Low Power Wide Area (LPWA) networks  
+IoT communication protocols (6LoWPAN, RPL, 6TiSCH, LoRaWAN)  
+IoT data protocols (MQTT-SN, COAP, XMPP-IoT, AMQP)  
+URLLC for mission critical IoT  
+Energy efficiency and energy harvesting in IoT  
+Data science and Machine learning for IoT  
+Data collection, processing, aggregation, and communication  
+Self-organization and self-healing of IoT networks  
+Cross-layer design and optimization in IoT  
+Machine-type communications in 5G systems  
+Security and privacy for IoT  
+Blockchain and IoT  
+Sensor deployment, placement, control and management issues  
+Experimental results, prototypes, trials and testbeds for IoT  
+Track 3: Emerging Topics in Communications and Networking  
+
+
+Edge-Fog Computing  
+Mobile cloud computing and 5G  
+Privacy and security in 5G  
+Cyber-physical systems  
+Big data and 5G data analytics  
+V2X standards and architectures  
+R&D activities towards IMT-2020 and beyond  
+5G Spectrum  
+5G standardization  
+5G applications and services  
+Data science and Machine learning for 5G  
+Network functions virtualization and software defined networking  
+Network slicing  
+Emerging IoT applications in 5G networks  
+Tactile Internet  
+Molecular, biological and multi-scale communications  
+Telecommunication and Network Engineering Education  
+Track 4: Services, Standardization and Telecom Policies  
+
+
+Communication software and services  
+Services for rural and developing areas  
+Quality of Service (QoS) and Quality of Experience (QoE)  
+Cloud computing  
+Smart cities, smart public places, smart home, smart agriculture/farming  
+Standards for communications and networking  
+Telecommunication Standards Education  
+Standardization activities (IEEE, 3GPP, ITU, ETSI, IETF)  
+Open communities, open API, open source  
+Telecom, governance, policy and regulations  
+Telecom business: local, country, region and international cases  
+Business models for global access  
+Spectrum regulation  
+Strategies for growing rural connectivity  
+Communities in connectivity policy making  
+Social and societal roles of ICT  
+Submission Guidelines:  
+
+
+The authors are invited to submit high-quality original technical papers for presentation at the conference and publication in the GIIS’ 20 Proceedings. Accepted papers will be submitted for inclusion into IEEE Xplore. All final submissions should be written in English with a maximum paper length of 6 printed pages (10-point font) including figures without incurring additional page charges (maximum 2 additional pages with over length page charge for an additional fee, if accepted). Papers exceeding 8 pages will not be accepted at EDAS. Standard IEEE conference templates for LaTeX formats are found at here:  
+
+
+
+
+[http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)  
+
+
+At least one author of each accepted presentation must register to the conference and present the paper. All papers must be submitted in electronic form through the EDAS web site by the deadline at: [http://edas.info/N27360.](http://edas.info/N27360.) All accepted and presented papers will be published in IEEE Xplore Digital Library.  
+
+
+Technically co-sponsored by IEEE and IEEE Communications Society  
+All accepted and presented papers will be published in IEEE Xplore  
+
+
+Important Dates:  
+Paper Submission Due: Aug. 15, 2020 (Hard Deadline)  
+Notification Date: September 15, 2020  
+Final Papers Due: September 30, 2020  
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## EAI.AICON.chinoAI.commnets  (2020-08-16) <span id="fc0d2329b3"></span> <span style="color:#666;">[→top](#top)</span>
 
 NEW Conference Dates: December 19 - 20, 2020  
@@ -974,6 +1270,171 @@ Camera-ready deadline: october 31, 2020
 
 
 Conference dates: december 19 - 20, 2020  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## smartelectronics★jornal  (2020-08-16) <span id="33f197b451"></span> <span style="color:#666;">[→top](#top)</span>
+
+CALL FOR PAPERS: IEEE iSES 2020 - EXTENDED SUBMISSION DEADLINE: AUGUST 16, 2020  
+6th IEEE INTERNATIONAL SYMPOSIUM ON SMART ELECTRONIC SYSTEMS  
+December 14-16, 2020, Chennai, India (Will Occur in Virtual/Online Mode Due to COVID-19)  
+(Formerly IEEE International Symposium on Nanoelectronic and Information Systems (iNIS))  
+(http://www.ieee-ises.org)  
+IEEE iSES is indexed in DBLP [https://dblp.org/db/conf/ises/index](https://dblp.org/db/conf/ises/index)  
+“Selected papers from iSES 2020 program will be invited to special issues of IEEE Consumer Electronics Magazine and Springer Nature Computer Science Journal”.  
+
+
+
+
+The primary objective of IEEE-iSES 2020 is to provide a platform for both hardware and software researchers to interact under one umbrella for further development of smart electronic systems. Efficient and secure data sensing, storage, and processing play pivotal roles in current information age. The state-of-the-art smart electronic systems cater to the needs of efficient sensing, storage, and computing. At the same time, efficient algorithms and software used for faster analysis and retrieval of desired information are becoming increasingly important. Big data which are large, complex data sets, are now a part of the Internet world. Storing and processing needs of the enormous amount of structured and unstructured data are getting increasingly challenging. At the same time, Internet of Things (IoT) and cyber-physical systems (CPS) have been evolving with simultaneous development of hardware and software and span across everyday consumer electronics. The performance and efficiency of the present as well as the future generations of computing and information processing systems are largely dependent upon advances in both hardware and software.  
+
+
+iSES 2020 is sponsored by IEEE-CS under TCVLSI. iSES has been initiated as a sponsored meeting of Technical Committee on VLSI, IEEE-CS (http://www.ieee-tcvlsi.org/) that endorses a league of successful meetings such as ASAP, ISVLSI, ARITH, etc., which are now presented as "Sister Conferences" in the iSES website. iSES brings together leading scientists and researchers from academia and industry.  
+
+
+Confirmed Keynotes:  
+---------------------------  
+(1) Massimo Alioto, National University of Singapore, Singapore  
+(2) Gautam Das, University of Texas at Arlington, USA  
+(3) Jim Plusquellic, University of New Mexico, USA  
+(4) Swarup Bhunia, University of Florida, USA  
+
+
+Contributions are sought in (but are not limited to) the following areas:  
+--------------------------------------------------------------------------------------------  
+(1) Nanoelectronic VLSI and Sensor Systems (NVS)  
+(2) Energy-Efficient, Reliable VLSI Systems (ERS)  
+(3) Hardware/Software for Internet of Things (IOT) and Consumer Electronics (CE)  
+(4) Hardware/Software for Secure Information Processing (SIP)  
+(5) Hardware/Software for AI, Robotics, and Automation (AIR)  
+(6) Hardware/Software for Vehicular Intelligent Systems (VIS)  
+Detailed description of the tracks is provided in the iSES website.  
+
+
+iSES 2020 proceedings will be published by IEEE-CS conference publication services (CPS). Authors are invited to submit full-length (6 pages maximum), original, unpublished research papers with an abstract (200 words maximum). Papers violating length would be excluded from the review process. Previously published papers or papers currently under review for other conferences/journals should not be submitted and will not be considered for publication. Authors should submit their original work of maximum 6 pages using double-column IEEE-CS conference format-template (http://www.ieee.org/conferences_events/conferences/publishing/templates.html). Selected papers from iSES 2020 program will be invited to special issues of IEEE Consumer Electronics Magazine and Springer Nature Computer Science Journal based on reviewer feedback and quality of conference presentation.  
+
+
+Paper Submission Site: [https://edas.info/index.php?c=27327](https://edas.info/index.php?c=27327)  
+
+
+Important dates of iSES2020 are the following:  
+----------------------------------------------  
+----------------------------------------------  
+Submission Deadline: August 16, 2020  
+Acceptance Notification: September 15, 2020  
+Submission of Final Version: September 30, 2020  
+
+
+Special Sessions and Panels (SSP): iSES 2020 will consider proposals for special sessions as well as panels. Special session and panel proposals/papers can be submitted to “Special Sessions and Panels” track at the online submission link. The submission deadline is the same as specified for the regular paper submissions. All accepted special session papers will be published in the conference proceedings.  
+
+
+Student Research Forum (SRF): iSES 2020 will host a student research forum. Authors should submit their original unpublished work of maximum 4 pages using IEEE-CS double-column conference format-template. Manuscripts in PDF format with author information (optional) should be submitted to the “Student Research Forum” track at the online submission link. The submission deadline is the same as specified for the regular paper submissions. All the accepted student research symposium papers will be published in the conference proceedings.  
+
+
+Research Demo Session (RDS): iSES 2020 will host a research demo session. In the Research Demo Session (RDS), authors can present live demonstrations and hardware prototypes of their research papers and projects. The research demo submission can be between 1-page (extended abstract) to a maximum of 4-pages (short paper). All the accepted research demo papers will be published in the conference proceedings.  
+
+
+Award Information: TCVLSI sponsored student travel awards and Best Paper Awards will be awarded.  
+
+
+--------------------------------------  
+ORGANIZING COMMITTEE:  
+-------------------------------------  
+
+
+General Chairs:  
+-------------------------  
+Himanshu Thapliyal, University of Kentucky, USA  
+V. S. Kanchana Bhaaskaran, VIT Chennai, India  
+
+
+Program Chair:  
+----------------------  
+Yashuhiro Takahashi, Gifu University, Japan  
+
+
+Program Vice Chairs:  
+---------------------------  
+Tosiron Adegbija, University of Arizona, USA  
+Linga Cenkeramaddi, University of Agder, Norway  
+
+
+Publication Chairs:  
+------------------------  
+Saurabh Kotiyal, Synopsys, Inc., USA  
+Apeksha Bhatt, University of Kentucky, USA  
+
+
+Special Session Chairs:  
+-------------------------------  
+Srinivas Katkoori, Univ. of South Florida, USA  
+Debashis De, MAKUAT, WB, India  
+
+
+Web Chair:  
+---------------  
+Garima Ghai, Oriental University, India  
+
+
+Publicity Chairs:  
+---------------------  
+Wei Zhang, HKUST, Hong Kong  
+Theo Theocharides, University of Cyprus, Cyprus  
+Sivasubramanian A, VIT Chennai, India  
+
+
+Media Chair:  
+----------------  
+Ayaskanta Swain, NIT Rourkela, India  
+
+
+Student Research Forum Chairs:  
+-------------------------------------------  
+Tauhidur Rahman, University of Alabama, USA  
+Jaya Dofe, California State Univ., Fullerton, USA  
+Ravisankar A, VIT Chennai, India  
+
+
+Research Demo Session Chairs:  
+-------------------------------------------  
+V. Prasanth Yanambaka, Central Michigan University, USA  
+Nithin Kumar Y. B., NIT Goa, India  
+
+
+Women in Engineering Chairs :  
+------------------------------------------  
+Prabha Sundaravadivel, University of Texas at Tyler, USA  
+Peer Fathima A., VIT Chennai, India  
+
+
+Industry Liaison Chairs:  
+-------------------------------  
+Pravin Kumar Venkatesan, Velodyne LiDAR, USA  
+Menaka R, VIT Chennai, India  
+
+
+Local Arrangement Chairs:  
+-----------------------------------  
+Sakthivel G., VIT Chennai, India  
+Mohamed Imran, VIT Chennai, India  
+Jegadeeswaran R, VIT Chennai, India  
+
+
+Finance Chairs:  
+--------------------  
+Sivakumar R., VIT Chennai, India  
+Hemanth C., VIT Chennai, India  
+
+
+Registration Chairs:  
+--------------------------  
+Raghukiran Nadimpalli, SMBS, VIT Chennai, India  
+Iswarya Annapoorni, SELECT, VIT Chennai, India  
+
+
+Steering Committee Chair:  
+-----------------------------------  
+Saraju P. Mohanty, Univ. of North Texas, USA  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -1651,95 +2112,58 @@ Sergi Abadal - Polytechnic University of Catalonia
  <span style="color:#666;">[→top](#top)</span>
 
 
-## IEEE.MSN@東京.mobility.sensing.networking  (2020-09-17) <span id="56cb850a48"></span> <span style="color:#666;">[→top](#top)</span>
+## CCIoT.smartIOT  (2020-09-18) <span id="db8e35e33a"></span> <span style="color:#666;">[→top](#top)</span>
 
-[Apologies if you receive multiple copies of this message]  
-
-
-=============================================================================  
+=========================================================================================================  
+Workshop on Cloud Continuum Services for Smart IoT Systems (CCIoT)  
 
 
-Dear Friends and Colleagues:  
-The 16th International Conference on Mobility, Sensing and Networking (MSN 2020) has been a premier venue for presenting scholarly research on mobile ad-hoc and sensor networks. Advances in this field are leading to innovative platforms, protocols, systems, and applications for the next-generation mobile networks, Internet of Things, and Cyber-Physical Systems. From this year, the conference name is changed to Mobility, Sensing and Networking to cover the recent advancement in mobile and wireless technologies. With its 16th anniversary, MSN 2020 will be held at Tokyo, Japan.  
-In addition to the papers, keynotes, and posters, the MSN 2020 program will include 6 workshops (listed below) to present preliminary and cutting edge work on new directions that advance the field of Mobility, Sensing and Networking. The workshop papers are published in the conference proceedings and included in IEEE Xplore digital library.  
+Call for Papers  
 
 
-IEEE MSN 2020 Workshops  
+Internet of Things (IoT) is one of the hottest topic in the field of communications and computing. Many cloud providers offers cloud/edge services for IoT, to handle big data, to apply AI technologies, to support massive IoT devices, and to provide low-latency control. At the same time 5G cellular networks have Massive IoT as reference scenario, for which a huge number of smart sensors/actuators must be connected with low latency. Cloud and edge computing on the one and 5G on the other hand push for an IoT cloud continuum aimed at simplifying the integration, development and delivery processes of future, cloud-native, IoT applications, also considering related security and privacy issues.  
 
 
--The Second International Workshop on Edge Computing and Artificial Intelligence based Sensor-Cloud System (ECAISS)  
-Link: [https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm](https://cs.nju.edu.cn/lands/msn2020-ecaiss.htm)  
-Paper Submission Deadline: September 30, 2020  
-Workshop Co-Chairs:  
-Haipeng Dai Nanjing University, China  
-Tian Wang Huaqiao University, China  
-Rong Gu Nanjing University, China  
+There are many alternatives for cloud and networking services and technologies in forming cloud continuum for IoT. The objectives of this workshop are to create a forum for researchers and practitioners to discuss issues in applying cloud/edge computing and AI technologies to IoT systems, in networking IoT devices and federating IoT systems, and in development of IoT services exploiting the computing and networking capabilities of IoT systems, and to set a direction in forming a cloud continuum where IoT systems work together towards well-being of humankind.  
 
 
--The First International Workshop on Ubiquitous Electric Internet of Things (UEIoT)  
-Link: [http://www.allconfs.org/meeting/index_en.asp?id=8338](http://www.allconfs.org/meeting/index_en.asp?id=8338)  
-Paper Submission Deadline: September 17, 2020  
-Workshop Co-Chairs:  
-Xingyu Gao, Chinese Academy of Sciences, Beijing, China  
-Zhenyu Chen, State Grid Corporation of China, Beijing, China  
-Ying Ma, Xiamen University of Technology, Xiamen, China  
+Important Dates:  
+• Deadline for paper submission: September 18, 2020  
+• Paper acceptance notification: October 9, 2020  
+• Workshop date: November 16, 2020  
 
 
--The MSN 2020 Workshop on Advances in Intelligent Mobile Networks for Smart Cities　（AINSC）  
-Link: [https://www.tianhuotongren.org/MSN2020-AINSC](https://www.tianhuotongren.org/MSN2020-AINSC)  
-Paper Submission Deadline: September 17, 2020  
-Workshop Co-Chairs:  
-Dr. Chaofeng Zhang, Advanced Institute of Industrial Technology, Japan  
-Dr. Lu Wang, Keio University, Japan  
-Dr. Shuji Kinoshita, Advanced Institute of Industrial Technology, Japan  
+Topics of Interest:  
+Original papers are welcome on (but not limited to) the following cloud continuum services for smart IoT systems:  
 
 
--The First International Workshop on Mobile Sensing with Radio, Light, and Acoustic (MSRLA)  
-Link: [http://netlab.nju.edu.cn/msrla/](http://netlab.nju.edu.cn/msrla/)  
-Paper Submission Deadline: September 20, 2020  
-Workshop Co-Chairs:  
-Jia Liu, Nanjing University, China  
-Fusang Zhang, Institute of Software, Chinese Academy of Sciences, China  
+• Cloud/edge computing platform and services for IoT applications  
+• Computing continuum and IoT  
+• Cloud-native IoT applications  
+• Performance evaluation of IoT cloud and networking platforms  
+• Light virtualization technologies for constrained devices  
+• Application of machine learning and AI in cloud-native IoT systems  
+• Testbeds, prototypes, and field trials of smart IoT systems, including smart city, agriculture, metering, safety, and health  
+• IoT security and privacy of IoT devices and services  
+• Security protocols for IoT in 5G  
+• Blockchain-based IoT applications  
+• 5G Networks, IoT and Tactile Internet  
+• Network services for massive IoT  
+• Application of Information Centric Networking in IoT applications  
 
 
--The Second International Workshop on Artificial Intelligence Applications in Internet of Things (AI2OT)  
-Link: [http://vlab.csu.edu.cn/AI2OT/](http://vlab.csu.edu.cn/AI2OT/)  
-Paper Submission Deadline: September 17, 2020  
-Workshop Co-Chairs:  
-Shigeng Zhang, Central South University, China  
-Xuan Liu, Hunan University, China  
+Submission Guidelines:  
+Submitted papers must be unpublished and must not be currently under review for any other publication. Submissions must be full papers, at most 6 single-spaced 8.5” x 11” pages with 9-pt font size in two-column format, including figures and tables. As for references, submissions may include as many pages as needed.  
+For more detail, please visit  
+[http://cciot.nz.comm.waseda.ac.jp](http://cciot.nz.comm.waseda.ac.jp)  
 
 
--The Workshop on 5G/B5G Security  
-Link: [http://workshop.dr-liuyang.com/](http://workshop.dr-liuyang.com/)  
-Paper Submission Deadline: September 17, 2020  
-Workshop Co-Chairs:  
-Yang Liu, Beijing University of Posts and Telecommunications, China  
-Zhixin Liu, Yanshan University, China  
-
-
-Submissions Procedures  
-All workshops have their own websites, submission systems and due dates. List to all the workshops can be found here: [https://conference.cs.cityu.edu.hk/msn2020/cf-wkpaper.php](https://conference.cs.cityu.edu.hk/msn2020/cf-wkpaper.php)  
-Submitted manuscripts must be prepared in the English language according to IEEE Computer Society Proceedings Format (double column, 10pt font, letter paper) and submitted in PDF file format. The manuscript (including figures, tables, appendices, references) should be no longer than 6 pages and at least 4 pages. Submitted manuscripts must not contain previously published material or be under consideration for publication in another conference or journal. At least one author of any accepted paper must register and present the paper at the workshop accepted.  
-
-
-Submission link: [https://easychair.org/conferences/?conf=msn2020](https://easychair.org/conferences/?conf=msn2020)  
-Click the above submission link and Select the appropriate workshops to submit the papers.  
-
-
-MSN 2020 General Chairs:  
-Yusheng Ji, National Institute of Informatics (NII), Japan  
-Lars Wolf, Technische Universitaet Braunschweig, Germany  
-
-
-MSN 2020 Technical Program Committee Chairs:  
-Ruidong Li, National Institute of Information and Communications Technology (NICT), Japan  
-Moustafa Youssef, Alexandra University, Egypt  
-
-
-MSN 2020 Workshop Chairs:  
-Noriaki Kamiyama, Fukuoka University, Japan  
-Tian Wang Huaqiao, University, China  
+Organizers  
+• Antonio Skarmeta (University Murcia/Odin’S)  
+• Andrea Detti (University of Rome “Tor Vergata”)  
+• Hidenori Nakazato (Waseda University)  
+------------------------------------------------------------------:-)  
+Hidenori Nakazato nakazato@waseda.jp  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -2016,6 +2440,225 @@ Revised Version Due: February 15, 2021
 Final Decision: March 31, 2021  
 Final Submission: April 15, 2021  
 Publication Date: To be scheduled in 2021  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## BigDataJ.softcompute  (2020-10-05) <span id="7322197f11"></span> <span style="color:#666;">[→top](#top)</span>
+
+deadlines.201005.BigDataJ.softcompute.txt  
+Big Data Special Issue  
+
+
+
+
+
+
+Call for Papers:  
+
+
+Special Issue on Soft Computing Models for Big Data and Internet of Things (IoT)  
+
+
+
+
+
+
+
+
+
+
+Deadline for Submission: October 5, 2020  
+
+
+
+
+
+
+Special Issue Publication date: Early 2021  
+
+
+
+
+With the ubiquitous internet connectivity and bandwidth in abundance along with reduced cost of wearables and smart devices, the impact of the Internet of Things (IoT) and technology in our lives is manifold and profound.  
+
+
+
+
+
+
+IoT devices are becoming a part of the mainstream electronics culture. Recently there have been many IoT applications such as smart homes, smart cities, smart industry, smart agriculture, smart healthcare which play a significant role in our lives. As the IoT solutions define the new paradigm for customer-oriented digital experience, they are inevitably getting more complex and dynamic.  
+
+
+
+
+
+
+Undoubtedly, the recent advancements in intelligent sensing, embedded internet, edge computing and predictive data mining permeate intelligence and decision making into the physical world which continually enhance human experience in real-time. It is essential to understand that the success of IoT relies on the effective incorporation of big data analytics. “Big Data” is the new buzzword and big data analytics provides real-time insights, which need to be actioned upon quickly to support decision, gain better value and mitigate risk. Thanks to the emerging soft computing techniques which are widely used for coping with imprecision, uncertainty, partial truth, and approximation. Correlation analyses for spatial and temporal data and construction and clustering techniques, complex neural networks are some advances which are investigated and applied by academic researchers and industry within the domain of socio-technical systems.  
+
+
+
+
+The primary scope of this special issue is to deliberate the progress and challenges of using innovative, novel, secure and smart soft computing solutions to define models as well as methods that explore aspects of dynamics in complex socio-technical systems. We invite recent works pertaining to the design and application of soft computing models to solve complex real-world problems associated to the big data and IoT. This special issue is intended to report high-quality and original research on wide range of applications from data analytics, pattern recognition, software and system modeling, to intelligent control problems and biomedical applications.  
+
+
+
+
+
+
+
+
+
+
+The list of topics for the special issue includes but not limited to the following:  
+
+
+
+
+Soft computing for IoT protocol design and optimization  
+Self-Learning and adaptive networking protocols and algorithms  
+Machine learning and soft computing-aided IoT  
+Intelligent middleware solutions IoT  
+Brain–computer interface and IoT  
+Security, privacy, integrity, and trust in IoT  
+Search and optimization of big data  
+Parallel, accelerated, and distributed big data  
+Data visualization of big data  
+Security and privacy of big data  
+Soft computing for big data  
+Multimedia big-data-driven IoT  
+Application of Big data Analytics  
+Novel algorithms, models, frameworks, platforms in big-data-driven IoT for smart solutions  
+Soft computing for Medical and Industrial IoT  
+
+
+
+
+
+
+
+
+Please direct special issue inquiries to Corresponding Guest Editor, Dr. Akshi Kumar  
+
+
+
+
+
+
+Please submit your papers online to our web-based manuscript submission and peer-review at: www.liebertpub.com/manuscript/big  
+
+
+
+
+
+
+Big Data is a highly innovative, peer-reviewed journal, provides a unique forum for world-class research exploring the challenges and opportunities in collecting, analyzing, and disseminating vast amounts of data, including data science, big data infrastructure and analytics, and pervasive computing.  
+
+
+
+
+
+
+Deadline for manuscript submission: October 5, 2020  
+
+
+
+
+
+
+Advantages of publishing in Big Data include:  
+
+
+l Fast and user-friendly electronic submission  
+
+
+l Rapid, high-quality peer review  
+
+
+l Maximum exposure: accessible in 170 countries worldwide  
+
+
+l Open Access options available  
+
+
+
+
+
+
+Guest Editors:  
+
+
+Dr. Naveen Chilamkurti  
+
+
+Department of Computer Science and Computer Engineering,  
+
+
+La Trobe University  
+Melbourne, VIC, Australia  
+
+
+
+
+
+
+Dr. Anand Paul  
+
+
+The School of Computer Science and Engineering,  
+
+
+Kyungpook National University  
+Daegu, South Korea  
+
+
+
+
+
+
+Dr. Akshi Kumar (Corresponding Guest Editor)  
+
+
+Department of Computer Science and Engineering  
+
+
+Delhi Technological University  
+New Delhi, India  
+
+
+Email:  
+
+
+
+
+
+
+
+
+
+
+Warm wishes,  
+
+
+Naveen  
+
+
+
+
+
+
+Dr. Naveen Chilamkurti SMIEEE  
+
+
+Associate Professor and Head of Cybersecurity Discipline  
+
+
+Computer Science and IT  
+
+
+La Trobe University, Melbourne, Australia  
+
+
+Google Scholar website [https://scholar.google.com.au/citations?user=KWi1vtkAAAAJ&hl=en](https://scholar.google.com.au/citations?user=KWi1vtkAAAAJ&hl=en)  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -2765,6 +3408,157 @@ OR
  <span style="color:#666;">[→top](#top)</span>
 
 
+## AppliedEnergyJ・P2Penergyshare  (2020-12-20) <span id="0478b7f18c"></span> <span style="color:#666;">[→top](#top)</span>
+
+Applied Energy (Impact Factor 8.848) - Special Issue on "Energy Sharing in the Peer-to-Peer Network – Moving towards Real Implementation"  
+
+
+
+
+
+
+Over the last few years, there has been extensive growth in small-scale distributed energy resources (DER), which encompass behind-the-meter generation, energy storage, inverters, electric vehicles, and controllable loads at the household level. These small-scale resources can be utilized not only to manage the energy demand more efficiently but also to enable a significant mix of clean energy into the grid. However, to do so, it is important for the owners of these assets to actively participate in the energy market. As a consequence, peer-to-peer trading has emerged as a next-generation energy management technique for the smart grid that can enable the owners of small scale DERs - also known as prosumers - to actively participate in the energy market. With the prosumers in control of setting the terms of transactions and the delivery of goods and services, it is expected that the gain that the prosumers can reap from participating in peer-to-peer trading would be substantial. At the same time, the grid — consisting of generators, retailers, and distribution network system providers — can also obtain a significant benefit in terms of reducing peak demand, lowering investment and operational costs, minimizing reserve requirements, and improving power system reliability.  
+
+
+
+
+
+
+As a result, a large number of studies have been reported on peer-to-peer trading in electricity networks over the past few years. These studies have focused on a number of important decision-making problems of participants in the virtual layer as well as investigated the impacts of peer-to-peer energy trading on the physical distribution network. A large number of pilot projects have also been established in the USA, Europe, and Australia. However, interestingly, there has been no indication of the implementation of peer-to-peer trading in the actual energy market in any country. The purpose of this special section is to address this gap by publishing findings from innovative research that have the potential to establish peer-to-peer sharing in today’s electricity market as an energy trading mechanism. The published articles will demonstrate a set of new research outcomes that can successfully decide on energy trading parameters that are beneficial not only for the prosumers but also for other stakeholders within the market. At the same time, transacted energy by prosumers over the physical layer will not detrimentally impact the physical power system network in terms of violating any constraints and increasing the loss significantly.  
+
+
+
+
+
+
+The targeted audience includes both academic researchers and industrial practitioners. The purpose of the special issue is to provide a platform to enhance interdisciplinary research and share the most recent ideas in the above-related fields. In particular, the published article would cover, but not limited to, the following topics of energy system via designing new peer-to-peer energy trading mechanisms:  
+
+
+· Electricity market regulation  
+
+
+· Sharing of energy storage  
+
+
+· Providing demand flexibility to the grid  
+
+
+· Trading of renewable energy in microgrid  
+
+
+· Designing prosumer engagement plans  
+
+
+· Modelling flexibility of distributed energy resources  
+
+
+· Providing voltage and frequency regulation service  
+
+
+· Pricing model  
+
+
+· Minimizing of network loss  
+
+
+
+
+
+
+Submission Format and Guideline  
+
+
+
+
+
+
+This Special Issue solicits original work on novel geographic information technologies for peer-to-peer energy sharing. All submitted papers must be clearly written in excellent English and contain only original work, which has not been published by or is currently under review for any other journals or conferences. Papers must not exceed 25 pages (one-column, at least 11pt fonts) including figures, tables, and references. A detailed submission guideline is available as “Guide to Authors” at: [http://www.journals.elsevier.com/applied-energy.](http://www.journals.elsevier.com/applied-energy.)  
+
+
+
+
+
+
+All manuscripts and any supplementary material should be submitted through Elsevier Editorial System (EES): [http://ees.elsevier.com/apen/default.asp.](http://ees.elsevier.com/apen/default.asp.)  
+
+
+
+
+
+
+Authors must select “P2P sharing & application” when they reach the “Article Type” step in the submission process.  
+
+
+
+
+
+
+All papers will be peer-reviewed by at least two independent reviewers. Requests for additional information should be addressed to the editors.  
+
+
+
+
+
+
+Important Dates:  
+
+
+First submission date: December 20, 2020  
+
+
+Revised manuscript due: May 20, 2021  
+
+
+Final decision notification: June 20, 2021  
+
+
+
+
+
+
+Editor in Chief:  
+
+
+Prof. Jinyue YAN  
+
+
+
+
+
+
+Guest Editors:  
+
+
+Chau YUEN, Singapore University of Technology and Design, Singapore  
+
+
+Tapan K. SAHA, The University of Queensland, Australia  
+
+
+H. Vincent POOR, Princeton University, USA  
+
+
+Thomas MORSTYN, University of Oxford, UK  
+
+
+
+
+
+
+You can find the CFP at: [https://www.journals.elsevier.com/applied-energy/call-for-papers/energy-sharing-in-the-peer-to-peer-network](https://www.journals.elsevier.com/applied-energy/call-for-papers/energy-sharing-in-the-peer-to-peer-network)  
+
+
+You are also encouraged to share relevant research related to peer-to-peer energy sharing to the community at: [http://enerarxiv.org/page/category.html?id=8](http://enerarxiv.org/page/category.html?id=8)  
+
+
+
+
+
+
+[Sorry if you receive this message multiple times.]  
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## MDPI.drone.swarms  (2020-12-31) <span id="9e2696f5c6"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -2981,6 +3775,105 @@ Francs). Submitted papers should be well formatted and use good English.
 Authors may use MDPI's English editing service  
 (https://www.mdpi.com/authors/english) prior to publication or during  
 author revisions.  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## MDPI.sustain  (2021-01-31) <span id="2df4e5c249"></span> <span style="color:#666;">[→top](#top)</span>
+
+********** Call for Papers **********  
+
+
+Dear Colleagues  
+
+
+Intelligent transportation systems play an important role in the sustainable  
+development of the world economy. In the era of autonomous driving,  
+intelligent transportation systems will see disruptive transformation and  
+enable smart mobility. However, their success heavily depends on the  
+construction of dynamic maps, which further relies on precision positioning  
+of both moving and static objects, on the road (2-D positioning) or in the  
+sky (3-D positioning). GNSS is the primary signal source for localization.  
+Ground signals such as radio (UWB, radar) and light (LiDAR, camera), provide  
+alternative positioning means where GNSS alone is not sufficient or not  
+available to provide high-precision positions. In addition, the forthcoming  
+5G brings more possibilities of precision positioning by exploiting the  
+massive MIMO technique.  
+
+
+This Special Issue aims to highlight advances in all aspects of  
+high-precision positioning in intelligent transportation systems for  
+different objects, including land vehicles, pedestrians, unmanned aerial  
+vehicles (UAVs), underwater vehicles, considering GNSS signals, ground  
+signals, and their combinations. Up-to-date reviews and original works are  
+both accepted in this issue. Topics include but are not limited to:  
+
+
+* Multi-GNSS receivers and emerging navigation satellite  
+systems;  
+
+
+* Design, prototyping, and testing of positioning devices;  
+
+
+* Detection and mitigation techniques for adverse propagation  
+conditions;  
+
+
+* 5G Positioning;  
+
+
+* Multisensor fusion;  
+
+
+* Cooperative localization;  
+
+
+* LiDAR Odometry;  
+
+
+* Visual Odometry;  
+
+
+* Simultaneous localization and mapping;  
+
+
+* Positioning with HD maps.  
+
+
+
+
+
+
+・Submission deadline: Jan. 31, 2021  
+
+
+・Publication: Immediate online publication once the paper is accepted.  
+
+
+
+
+
+
+Please refer to this website  
+(https://www.mdpi.com/journal/sustainability/special_issues/HPPFITS_SUS) for  
+detailed manuscript submission information. Early submissions will receive  
+immediate peer review and will be published online after being accepted.  
+
+
+
+
+
+
+Dr. Suhua Tang  
+
+
+Dr. Li-Ta Hsu  
+
+
+Prof. Nobuaki Kubo  
+
+
+Guest Editors  
  <span style="color:#666;">[→top](#top)</span>
 
 

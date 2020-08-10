@@ -1,0 +1,10 @@
+no : 32
+id : D120080207 [NEW]
+update : 2020年08月07日
+univ : 名城大学・情報学、統計学、フィールド調査
+title : 名城大学　都市情報学部 都市情報学科（情報学、統計学、フィールド調査）　助教の公募
+field : 情報学 - 情報学基礎 情報学 - 人間情報学 情報学 - 情報学フロンティア
+post : 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月01日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080207&ln_jor=0&top_btn=1 ----------

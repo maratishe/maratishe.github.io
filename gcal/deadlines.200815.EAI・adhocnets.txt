@@ -1,0 +1,47 @@
+November 17 - 18, 2020 | N/A, Cyberspace
+Submission Deadline: August 15, 2020 (late track)
+
+EAI is proud to announce that ADHOCNETS is going virtual and beyond borders.
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.
+
+SCOPE
+The annual International Conference on Ad Hoc Networks (AdHocNets) focuses on ad hoc networking technologies and their applications. An ad hoc network is a wireless system, in which mobile or static nodes are connected using wireless links and cooperate to self-organize into a network without the requirement for any infrastructure such as access points or base stations.
+
+The distributed and multi-hop nature of ad hoc networking as well as the highly dynamic topology of an ad hoc network due to node mobility has introduced many formidable challenges such as scalability, quality of service, reliability and security, and energy-constrained operations for the network.
+
+Read More: Call for Papers
+
+We are pleased to invite you to submit your paper to ADHOCNETS 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission). 
+
+Submit Paper
+ADHOCNETS authors have enjoyed over 222.000 downloads!
+
+
+ADHOCNETS 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.
+
+PUBLICATION
+
+All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.
+
+ADHOCNETS proceedings are indexed in leading indexing services, including Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).
+
+Authors of selected best accepted and presented papers will be invited to submit an extended version to:
+
+Mobile Networks and Applications (MONET) Journal (IF: 2.602)
+All accepted authors are eligible to submit an extended version in a fast track of:
+
+EAI Endorsed Transactions on Cognitive Communications
+EAI Endorsed Transactions on Mobile Communications and Applications
+Additional publication opportunities:
+
+EAI/Springer Innovations in Communications and Computing Book Series
+IMPORTANT DATES  - LATE TRACK
+
+FULL PAPER SUBMISSION DEADLINE: AUGUST 15, 2020
+
+NOTIFICATION DEADLINE: SEPTEMBER 14, 2020
+
+CAMERA-READY DEADLINE: SEPTEMBER 28, 2020 
+
+CONFERENCE DATES: NOVEMBER 17 - 18, 2020

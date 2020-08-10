@@ -6,6 +6,7 @@ this file is generated automatically, do not make manual changes to it!
 
 2020-07-22 [<strike>国立研究開発法人科学技術振興機構.「IoE社会のエネルギーシステム」</strike>](#ea6becef05)  
 2020-08-05 [国土技術政策総合研究所・データ結合999.999.999千円](#86ee610402)  
+2020-08-15 [三谷産業フェア★金沢](#79792e2a8d)  
 2020-09-11 [本多記念賞200万・50万・30万.2items](#7ac92177c4)  
 2020-09-30 [airpf人工知能研究振興財団](#70159d238b)  
 
@@ -43,6 +44,65 @@ this file is generated automatically, do not make manual changes to it!
 限度額 999,999,999千円  
 採用予定数 -  
 申請期限 2020年08月05日 募集状況 募集中  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## 三谷産業フェア★金沢  (2020-08-15) <span id="79792e2a8d"></span> <span style="color:#666;">[→top](#top)</span>
+
+[https://www.mitani.co.jp/mbc/index.html#target](https://www.mitani.co.jp/mbc/index.html#target)  
+
+
+ICT関連における先端技術を活用した 新事業・サービス  
+デジタルテクノロジーの活用によるビジネスイノーベションに寄与する取組みや、  
+独創的なUI/UXなどの優れたデザインを活用したサービスにより、  
+北陸の地域課題の解決や社会の発展に寄与するビジネスプランを募集します。  
+
+
+例：以下のテーマ × モデル・アイデア  
+
+
+テ ー マ  
+①企業内の課題  
+・人手不足、高齢化  
+・設備の老朽化  
+・新事業の創出②地域社会の課題  
+・観光と食  
+・農業、漁業  
+・教育、健康、環境、医療、福祉、etc  
+モデル・アイデア  
+・最先端技術、ICT  
+・独創的なデザイン  
+
+
+※2018年6月以降に提供開始、またはこれから開始予定のものであること。  
+
+
+
+
+応募対象  
+01 ICT、IoT、AIといった先進技術を活用し、北陸地区の企業のビジネスの加速や、地域の生活者や企業にとって有益なサービスの創出に意欲がある法人・個人。  
+02 北陸でビジネスチャンスを増やしていきたい、または起業を検討している法人・個人。  
+03 先進的で実用的なデザインを活用したビジネスアイデアを有するクリエーター、学生等の個人・グループ  
+
+
+
+
+
+
+本コンテストは北陸地域の活性化と先進的ソリューションの発掘を目的とし、  
+ビジネスアイデアの事業化に向けたサポートや既存ビジネスへの活用を模索し、  
+アライアンス・ビジネスマッチングの実現を図り、北陸経済・産業の活性化に貢献します。  
+
+
+NEWS  
+2019.12.16  
+「MITANI Business Contest 2019」受賞者が決定！  
+2019.11.27  
+「MITANI Business Contest 2019」の出場企業が決定！  
+2019.10.24  
+「MITANIビジネスコンテスト2019」開催のお知らせ  
+2019.09.11  
+2018年 MITANI Business Contest 受賞者と図書館向け 「デジタル利用者カードシステム」を共同開発  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -104,6 +164,9 @@ this file is generated automatically, do not make manual changes to it!
 
 
 ## airpf人工知能研究振興財団  (2020-09-30) <span id="70159d238b"></span> <span style="color:#666;">[→top](#top)</span>
+
+[http://www.airpf.or.jp/josei.html](http://www.airpf.or.jp/josei.html)  
+
 
 年度 2020年度  
 募集機関・財団名 人工知能研究振興財団  

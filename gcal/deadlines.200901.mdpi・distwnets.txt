@@ -1,0 +1,46 @@
+***** Please accept our apologies if you receive multiple copies of this announcement ****
+
+
+Dear Colleagues,
+
+     Please find below a call for papers for the Special Issue “Distributed Algorithms for Wireless Sensor Networks”. This special issue belongs to Sensors Journal (ISSN 1424-8220, IF 2.475) and it is related to the section "Sensor Networks".
+
+Link: https://www.mdpi.com/journal/sensors/special_issues/Distributed_Algorithms_WSN
+
+ 
+
+Deadline for manuscript submissions: 1 October 2020
+
+Scope and Motivation:
+----------------------
+
+Today, the growing interest in Wireless Sensor Networks has led to their deployment at large scale in several fields ranging from environmental monitoring to smart transportation, industrial systems, health and biomedical systems, intelligent environments, etc. Sensors being a key component of the Internet of Things, many IoT solutions entail their deployment in order to gather information from the surrounding environment, which will be forwarded for remote data processing (at sink level, fog/edge level or by a cloud-processing service). Sensor nodes have to cooperate in order to ensure a reliable forwarding for the different types of gathered data while respecting the QoS requirements. For some applications, other concerns have to be considered, such as security issues and energy limitation, as sensors have to operate for many years with limited batteries that cannot easily be replaced. To enhance network performances, additional contextual information can also be handled to adjust node and network behaviors. However, with the significant growth in the use of IoT and distributed sensor systems, many challenges arise and need to be addressed to support such large deployment, mainly in the context of smart cities and environments.
+
+In this context, the recourse to distributed algorithms in which computation is distributed among all sensor nodes allows overcoming inherent WSN limitations related to the short range communication over a wireless medium, resource limitations in terms of energy, computational resources, unreliability of links, etc. Further, distributed algorithms are required to comprehend the aspects of the large implementations that lead to certain characteristics, i.e., scalability, efficiency, and optimization. This Special Issue welcomes contributions dealing with distributed algorithms for Wireless Sensor Networks tackling all aspects, from sensor deployment to data management.
+
+This Special Issue welcomes contributions dealing with distributed algorithms for Wireless Sensor Networks tackling all aspects, from sensor deployment to data management. Submitted manuscripts should not have been published previously, nor be under consideration for publication:  
+
+Distributed Algorithms for Sensor Networks
+Distributed communication and networking algorithms and protocols
+Mobile and Wireless Network Computing for WSNs
+Formal methods for Sensor Networks
+Edge and fog computing
+Artificial intelligence (or machine intelligence) in distributed sensor systems
+Crowdsourcing and Wireless Sensors
+Vehicle platoon networking
+Distributed and federated Machine Learning
+Internet of Things and cyber-physical systems
+Sensor technologies and monitoring
+Security, privacy, and trust in WSNs
+MAC protocol
+Routing protocols
+ 
+
+ 
+
+Guest Editors of the Special Issue
+--------------------------------------------
+Prof. Mohamed Mosbah
+Dr. Imen Jemili
+
+Dr. Mohamed Tounsi

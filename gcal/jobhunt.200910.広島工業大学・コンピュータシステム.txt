@@ -1,0 +1,10 @@
+no : 18
+id : D120080390 [NEW]
+update : 2020年08月08日
+univ : 広島工業大学・コンピュータシステム
+title : 教授、准教授、講師又は助教の公募（コンピュータシステム）
+field : 情報学 - 計算基盤
+post : 教授相当 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月10日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080390&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,131 @@
+CALL FOR  PAPERS: IEEE iSES 2020 - EXTENDED SUBMISSION DEADLINE: AUGUST 16, 2020
+6th IEEE INTERNATIONAL SYMPOSIUM ON SMART ELECTRONIC SYSTEMS
+December 14-16, 2020, Chennai, India  (Will Occur in Virtual/Online Mode Due to COVID-19)
+(Formerly IEEE International Symposium on Nanoelectronic and Information Systems (iNIS))
+(http://www.ieee-ises.org)
+     IEEE iSES is indexed in DBLP https://dblp.org/db/conf/ises/index  
+                     “Selected papers from iSES 2020 program will be invited  to special issues of  IEEE Consumer Electronics Magazine  and Springer Nature Computer Science Journal”. 
+                                               
+
+The primary objective of IEEE-iSES 2020 is to provide a platform for both hardware and software researchers to interact under one umbrella for further development of smart electronic systems. Efficient and secure data sensing, storage, and processing play pivotal roles in current information age. The state-of-the-art smart electronic systems cater to the needs of efficient sensing, storage, and computing. At the same time, efficient algorithms and software used for faster analysis and retrieval of desired information are becoming increasingly important. Big data which are large, complex data sets, are now a part of the Internet world. Storing and processing needs of the enormous amount of structured and unstructured data are getting increasingly challenging. At the same time, Internet of Things (IoT) and cyber-physical systems (CPS) have been evolving with simultaneous development of hardware and software and span across everyday consumer electronics. The performance and efficiency of the present as well as the future generations of computing and information processing systems are largely dependent upon advances in both hardware and software.
+
+iSES 2020 is sponsored by IEEE-CS under TCVLSI. iSES has been initiated as a sponsored meeting of Technical Committee on VLSI, IEEE-CS (http://www.ieee-tcvlsi.org/) that endorses a league of successful meetings such as ASAP, ISVLSI, ARITH, etc., which are now presented as "Sister Conferences" in the iSES website. iSES brings together leading scientists and researchers from academia and industry.
+
+Confirmed Keynotes:
+---------------------------
+(1) Massimo Alioto, National University of Singapore, Singapore
+(2) Gautam Das, University of Texas at Arlington, USA
+(3) Jim Plusquellic, University of New Mexico, USA
+(4) Swarup Bhunia, University of Florida, USA
+
+Contributions are sought in (but are not limited to) the following areas:
+--------------------------------------------------------------------------------------------
+(1) Nanoelectronic VLSI and Sensor Systems (NVS)
+(2) Energy-Efficient, Reliable VLSI Systems (ERS)
+(3) Hardware/Software for Internet of Things (IOT) and Consumer Electronics (CE)
+(4) Hardware/Software for Secure Information Processing (SIP)
+(5) Hardware/Software for AI, Robotics, and Automation (AIR)
+(6) Hardware/Software for Vehicular Intelligent Systems (VIS)
+Detailed description of the tracks is provided in the iSES website.
+
+iSES 2020 proceedings will be published by IEEE-CS conference publication services (CPS). Authors are invited to submit full-length (6 pages maximum), original, unpublished research papers with an abstract (200 words maximum). Papers violating length would be excluded from the review process. Previously published papers or papers currently under review for other conferences/journals should not be submitted and will not be considered for publication. Authors should submit their original work of maximum 6 pages using double-column IEEE-CS conference format-template (http://www.ieee.org/conferences_events/conferences/publishing/templates.html).  Selected papers from iSES 2020 program will be invited  to special issues of  IEEE Consumer Electronics Magazine  and Springer Nature Computer Science Journal based on reviewer feedback and quality of conference presentation.
+ 
+Paper Submission Site: https://edas.info/index.php?c=27327
+
+Important dates of iSES2020 are the following:
+----------------------------------------------
+----------------------------------------------
+Submission Deadline: August 16, 2020
+Acceptance Notification: September 15, 2020
+Submission of Final Version: September 30, 2020
+
+Special Sessions and Panels (SSP): iSES 2020 will consider proposals for special sessions as well as panels. Special session and panel proposals/papers can be submitted to “Special Sessions and Panels” track at the online submission link. The submission deadline is the same as specified for the regular paper submissions. All accepted special session papers will be published in the conference proceedings.
+
+Student Research Forum (SRF): iSES 2020 will host a student research forum. Authors should submit their original unpublished work of maximum 4 pages using IEEE-CS double-column conference format-template. Manuscripts in PDF format with author information (optional) should be submitted to the “Student Research Forum” track at the online submission link. The submission deadline is the same as specified for the regular paper submissions. All the accepted student research symposium papers will be published in the conference proceedings.
+
+Research Demo Session (RDS): iSES 2020 will host a research demo session.  In the Research Demo Session (RDS), authors can present live demonstrations and hardware prototypes of their research papers and projects. The research demo submission can be between 1-page (extended abstract) to a maximum of 4-pages (short paper).  All the accepted research demo papers will be published in the conference proceedings.
+
+Award Information: TCVLSI sponsored student travel awards and Best Paper Awards will be awarded.
+
+--------------------------------------
+ORGANIZING COMMITTEE:
+-------------------------------------
+
+General Chairs:
+-------------------------
+Himanshu Thapliyal, University of Kentucky, USA
+V. S. Kanchana Bhaaskaran, VIT Chennai, India
+
+Program Chair:
+----------------------
+Yashuhiro Takahashi, Gifu University, Japan
+
+Program Vice Chairs:
+---------------------------                                                      
+Tosiron Adegbija, University of Arizona, USA  
+Linga Cenkeramaddi, University of Agder, Norway
+
+Publication Chairs:
+------------------------
+Saurabh Kotiyal, Synopsys, Inc., USA
+Apeksha Bhatt,  University of Kentucky, USA
+
+Special Session Chairs:
+-------------------------------
+Srinivas Katkoori, Univ. of South Florida, USA
+Debashis De, MAKUAT, WB, India
+
+Web Chair:
+---------------
+Garima Ghai, Oriental University, India
+
+Publicity Chairs:
+---------------------
+Wei Zhang,  HKUST,  Hong Kong
+Theo Theocharides,  University of Cyprus, Cyprus
+Sivasubramanian A, VIT Chennai, India
+
+Media Chair:
+----------------
+Ayaskanta Swain, NIT Rourkela, India
+
+Student Research Forum Chairs:
+-------------------------------------------
+Tauhidur Rahman, University of Alabama, USA
+Jaya Dofe, California State Univ., Fullerton, USA
+Ravisankar A, VIT Chennai, India
+
+Research Demo Session Chairs:
+-------------------------------------------
+V. Prasanth Yanambaka, Central Michigan University, USA
+Nithin Kumar Y. B., NIT Goa, India
+
+Women in Engineering Chairs :
+------------------------------------------
+Prabha Sundaravadivel, University of Texas at Tyler, USA
+Peer Fathima A., VIT Chennai, India
+
+Industry Liaison Chairs:
+-------------------------------
+Pravin Kumar Venkatesan, Velodyne LiDAR, USA
+Menaka R,  VIT Chennai, India
+
+Local Arrangement Chairs:
+-----------------------------------
+Sakthivel G., VIT Chennai, India                                  
+Mohamed Imran, VIT Chennai, India
+Jegadeeswaran R, VIT Chennai, India
+
+Finance Chairs: 
+--------------------
+Sivakumar R., VIT Chennai, India                              
+Hemanth C., VIT Chennai, India
+
+Registration Chairs: 
+--------------------------                                          
+Raghukiran Nadimpalli, SMBS, VIT Chennai, India
+Iswarya Annapoorni, SELECT, VIT Chennai, India
+
+Steering Committee Chair:
+-----------------------------------
+Saraju P. Mohanty, Univ. of North Texas, USA

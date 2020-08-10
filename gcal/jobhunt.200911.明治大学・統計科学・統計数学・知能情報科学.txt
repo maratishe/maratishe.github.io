@@ -1,0 +1,10 @@
+no : 14
+id : D120070950 [NEW]
+update : 2020年07月28日
+univ : 明治大学・統計科学・統計数学・知能情報科学
+title : 専任教授の公募（統計科学・統計数学・知能情報科学）
+field : 数物系科学 - 数学
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月11日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070950&ln_jor=0&top_btn=1 ----------

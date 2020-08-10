@@ -1,0 +1,10 @@
+no : 3
+id : D120070673 [UPDATE]
+update : 2020年08月06日
+univ : 東京都市大学・情報理論
+title : 情報科学科・准教授の公募（情報数理（情報理論）分野）
+field : 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070673&ln_jor=0&top_btn=1 ----------

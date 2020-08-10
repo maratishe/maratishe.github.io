@@ -1,0 +1,10 @@
+no : 40
+id : D120080023 [NEW]
+update : 2020年08月05日
+univ : 足利大学・人工知能
+title : 足利大学　工学部　教員の公募（人工知能の応用研究）
+field : 情報学 - 人間情報学 情報学 - 情報学基礎 情報学 - 計算基盤
+post : 助教相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080023&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,10 @@
+no : 10
+id : D120071430 [UPDATE]
+update : 2020年07月27日
+univ : 香川大学・情報システム・セキュリティコース
+title : 創造工学部 准教授，講師または助教の公募（情報システム・セキュリティコース）
+field : 情報学 - 全て 工学 - 電気電子工学
+post : 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月13日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071430&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,107 @@
+[apologies if you received multiple copies]
+
++-----------------------------------------------------------+
+|                                                           |
+|   9th IEEE International Conference on Cloud Networking   |
+|                   4-11 November 2020                      |
+|                   Virtual Conference                      |
+|                                                           |
+|                     CALL FOR PAPERS                       |
+|                                                           |
++-----------------------------------------------------------+
+
+Cloud  Networking  has emerged  as a promising  direction for
+cost-efficient  and  reliable  service  delivery across  data
+communication  networks.  The  dynamic  location  of  service
+facilities and the  virtualization  of hardware and  software
+elements   are   stressing   the  communication  network  and
+protocols,  especially  when  data centers  are interconnected
+through  the  Internet.  Emerging  technologies  like Network
+Function  Virtualization (NFV)  and  Software Defined Network
+(SDN)  can play significant roles by improving the dynamicity
+and  programmability  of  cloud  networks. Middlebox has been
+significantly   improved   the   agility  of  cloud   network
+deployment   and   management.  The  9th  IEEE  International
+Conference on Cloud Networking (IEEE CloudNet 2020),  part of
+the IEEE  Cloud  Computing  Initiative,  can  greatly promote
+research in cloud networks and emerging research areas.
+
+Topics of Interest (but not limited to):
+----------------------------------------
+
+Cloud network and resource management
+- Data Center Network Optimization and Management
+- Reliability of Data Center Network and Architecture
+- Energy-Efficient Datacenters and Networks
+- Cloud Traffic Characterization and Measurements
+- Cloud Traffic Engineering
+- Data Flow Management and Load Balancing
+- Cloud Storage Management
+- Green and Energy-Efficient Datacenters and Networks
+
+Cloud network and virtualization
+- Data Center Networks
+- Virtual Ethernet Switching, Data Center Bridging
+- Mobile Cloud Networking
+- Virtualization of Network Equipment
+- Software-Defined Networking
+- Network Function Virtualization
+- Middleware and Middleboxes
+
+Cloud network and supported services
+- Big Data Management
+- Data Analytics in Cloud
+- Network Services to support IaaS, PaaS, and SaaS
+- Unified User and Machine Mobility Management
+- Content and Service Distribution
+- Complementing Edge Computing with Data Center Networks
+
+Cloud network architecture
+- Control-Plane Architectures
+- Distributed Data Center Architectures
+- Routing in cloud networks
+- Intra-Cloud vs Inter-Cloud Management
+- Cloud Federation and Hybrid Cloud Infrastructure
+
+Cloud network security and privacy
+- Security, Privacy, and Confidentiality in Cloud Networking
+- Cloud Data Provenance and Data Loss Protection
+- Cloud Storage Security
+- Cloud Network Intrusion Detection/Prevention
+- Firewall and Deep Packet Inspection Systems in Cloud
+  Networks
+
+Authors  are  invited  to  submit original contributions that
+have  not  been  published   or  submitted   for  publication
+elsewhere.  Submissions must be in IEEE single-spaced double-
+column  style with a length  limitation of 6 pages (including
+title,  abstract,  all figures,  tables,  and references) for
+full papers  (oral presentation) and 3 pages for short papers
+(poster presentation).  Accepted papers  will be submitted to
+IEEE Xplore.
+
+For more information please check https://cloudnet2020.ieee-cloudnet.org
+
+
+Important Dates:
+----------------
+- Submission deadline: Aug. 24th
+- Acceptance notification: Oct. 7th
+- Camera-ready paper: Oct. 21st
+- Conference: Nov. 4th-6th
+
+
+General Chair:
+- Jéferson Campos Nobre, UFRGS, Brazil
+
+Technical Program Co-Chairs:
+- Israat Haque, Dalhousie University, Canada
+- Lisandro Zambenedetti Granville, UFRGS, Brazil
+
+Steering Committee:
+- Raouf Boutaba, University of Waterloo, Canada
+- Guy Pujolle, University Pierre & Marie Curie, France
+- Deep Medhi, University of Missouri Kansas City, USA
+- Aki Nako, University of Tokyo, Japan
+- Dzmitry Kliazovich, University of Luxembourg, Luxembourg
+- Puneet Sharma, HP Labs, USA

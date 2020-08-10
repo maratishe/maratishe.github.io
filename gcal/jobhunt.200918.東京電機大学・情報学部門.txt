@@ -1,0 +1,10 @@
+no : 29
+id : D120071816 [NEW]
+update : 2020年07月30日
+univ : 東京電機大学・情報学部門
+title : 東京電機大学・理工学部理工学科・情報システムデザイン学系・准教授公募(情報学部門)
+field : 情報学 - 情報学フロンティア 人文学 - 芸術学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月18日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071816&ln_jor=0&top_btn=1 ----------
