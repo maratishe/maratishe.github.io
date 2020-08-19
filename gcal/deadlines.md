@@ -18,23 +18,27 @@ this file is generated automatically, do not make manual changes to it!
 2020-08-07 [hindawi・smartphoneauth](#97e20e0cb4)  
 2020-08-08 [IEEE.MSN@東京](#3f141c4974)  
 2020-08-15 [bigdatase★virtual](#f383035705)  
+2020-08-15 [EAI・adhocnets](#dbff94d4e7)  
 2020-08-15 [EAI・mobiquitous](#85821f77c7)  
 2020-08-15 [GIIS.infranets★virtual](#0dce142662)  
 2020-08-16 [EAI.AICON.chinoAI.commnets](#fc0d2329b3)  
 2020-08-16 [smartelectronics★jornal](#33f197b451)  
 2020-08-17 [tale.education.online](#bff7098c00)  
 2020-08-20 [inconf.ICNCC.netcomm★東京](#49f4867629)  
+2020-08-24 [IEEE・CloudNets](#64729412d1)  
 2020-08-30 [JCN(korea).wireless.mimo](#d92ba4f4b1)  
+2020-09-01 [mdpi・distwnets](#b5812b6481)  
 2020-09-07 [intconf.IEEE.NCA.netapps](#7b845b3b1a)  
 2020-09-11 [ACM.nanococoa.embedsensors](#d7b6e0b261)  
 2020-09-18 [CCIoT.smartIOT](#db8e35e33a)  
 2020-09-28 [ACMtran・IoV](#5303efd31e)  
 2020-09-30 [mdpi・stenography](#d91b1c57ba)  
 2020-10-01 [acm・edgeAI](#0056781663)  
+2020-10-01 [mdpi・wsensornets](#b06ffa0cc8)  
 2020-10-05 [BigDataJ.softcompute](#7322197f11)  
 2020-10-15 [tnsm・netmng](#acd9ce1eab)  
-2020-10-31 [WileyJ.software.innovations](#f6d0db1ffc)  
 2020-10-31 [springerj・cybersecAI](#e050f91cf8)  
+2020-10-31 [WileyJ.software.innovations](#f6d0db1ffc)  
 2020-11-01 [mdpij.wirelessprotocols](#ee527e2262)  
 2020-11-20 [mdpi.5g](#70c7073724)  
 2020-12-01 [IET・iot](#25d8432a90)  
@@ -751,6 +755,78 @@ Final Call for Papers (CFPs) of The 14th IEEE International Conference on Big Da
 
 
 Guangzhou, China, December 29, 2020 - January 1, 2021  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## EAI・adhocnets  (2020-08-15) <span id="dbff94d4e7"></span> <span style="color:#666;">[→top](#top)</span>
+
+November 17 - 18, 2020 | N/A, Cyberspace  
+Submission Deadline: August 15, 2020 (late track)  
+
+
+EAI is proud to announce that ADHOCNETS is going virtual and beyond borders.  
+
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
+
+
+SCOPE  
+The annual International Conference on Ad Hoc Networks (AdHocNets) focuses on ad hoc networking technologies and their applications. An ad hoc network is a wireless system, in which mobile or static nodes are connected using wireless links and cooperate to self-organize into a network without the requirement for any infrastructure such as access points or base stations.  
+
+
+The distributed and multi-hop nature of ad hoc networking as well as the highly dynamic topology of an ad hoc network due to node mobility has introduced many formidable challenges such as scalability, quality of service, reliability and security, and energy-constrained operations for the network.  
+
+
+Read More: Call for Papers  
+
+
+We are pleased to invite you to submit your paper to ADHOCNETS 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
+
+
+Submit Paper  
+ADHOCNETS authors have enjoyed over 222.000 downloads!  
+
+
+
+
+ADHOCNETS 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.  
+
+
+PUBLICATION  
+
+
+All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.  
+
+
+ADHOCNETS proceedings are indexed in leading indexing services, including Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).  
+
+
+Authors of selected best accepted and presented papers will be invited to submit an extended version to:  
+
+
+Mobile Networks and Applications (MONET) Journal (IF: 2.602)  
+All accepted authors are eligible to submit an extended version in a fast track of:  
+
+
+EAI Endorsed Transactions on Cognitive Communications  
+EAI Endorsed Transactions on Mobile Communications and Applications  
+Additional publication opportunities:  
+
+
+EAI/Springer Innovations in Communications and Computing Book Series  
+IMPORTANT DATES - LATE TRACK  
+
+
+FULL PAPER SUBMISSION DEADLINE: AUGUST 15, 2020  
+
+
+NOTIFICATION DEADLINE: SEPTEMBER 14, 2020  
+
+
+CAMERA-READY DEADLINE: SEPTEMBER 28, 2020  
+
+
+CONFERENCE DATES: NOVEMBER 17 - 18, 2020  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -1666,6 +1742,134 @@ We love you. We are sorry. Please forgive us. Thank you.
  <span style="color:#666;">[→top](#top)</span>
 
 
+## IEEE・CloudNets  (2020-08-24) <span id="64729412d1"></span> <span style="color:#666;">[→top](#top)</span>
+
+[apologies if you received multiple copies]  
+
+
++-----------------------------------------------------------+  
+| |  
+| 9th IEEE International Conference on Cloud Networking |  
+| 4-11 November 2020 |  
+| Virtual Conference |  
+| |  
+| CALL FOR PAPERS |  
+| |  
++-----------------------------------------------------------+  
+
+
+Cloud Networking has emerged as a promising direction for  
+cost-efficient and reliable service delivery across data  
+communication networks. The dynamic location of service  
+facilities and the virtualization of hardware and software  
+elements are stressing the communication network and  
+protocols, especially when data centers are interconnected  
+through the Internet. Emerging technologies like Network  
+Function Virtualization (NFV) and Software Defined Network  
+(SDN) can play significant roles by improving the dynamicity  
+and programmability of cloud networks. Middlebox has been  
+significantly improved the agility of cloud network  
+deployment and management. The 9th IEEE International  
+Conference on Cloud Networking (IEEE CloudNet 2020), part of  
+the IEEE Cloud Computing Initiative, can greatly promote  
+research in cloud networks and emerging research areas.  
+
+
+Topics of Interest (but not limited to):  
+----------------------------------------  
+
+
+Cloud network and resource management  
+- Data Center Network Optimization and Management  
+- Reliability of Data Center Network and Architecture  
+- Energy-Efficient Datacenters and Networks  
+- Cloud Traffic Characterization and Measurements  
+- Cloud Traffic Engineering  
+- Data Flow Management and Load Balancing  
+- Cloud Storage Management  
+- Green and Energy-Efficient Datacenters and Networks  
+
+
+Cloud network and virtualization  
+- Data Center Networks  
+- Virtual Ethernet Switching, Data Center Bridging  
+- Mobile Cloud Networking  
+- Virtualization of Network Equipment  
+- Software-Defined Networking  
+- Network Function Virtualization  
+- Middleware and Middleboxes  
+
+
+Cloud network and supported services  
+- Big Data Management  
+- Data Analytics in Cloud  
+- Network Services to support IaaS, PaaS, and SaaS  
+- Unified User and Machine Mobility Management  
+- Content and Service Distribution  
+- Complementing Edge Computing with Data Center Networks  
+
+
+Cloud network architecture  
+- Control-Plane Architectures  
+- Distributed Data Center Architectures  
+- Routing in cloud networks  
+- Intra-Cloud vs Inter-Cloud Management  
+- Cloud Federation and Hybrid Cloud Infrastructure  
+
+
+Cloud network security and privacy  
+- Security, Privacy, and Confidentiality in Cloud Networking  
+- Cloud Data Provenance and Data Loss Protection  
+- Cloud Storage Security  
+- Cloud Network Intrusion Detection/Prevention  
+- Firewall and Deep Packet Inspection Systems in Cloud  
+Networks  
+
+
+Authors are invited to submit original contributions that  
+have not been published or submitted for publication  
+elsewhere. Submissions must be in IEEE single-spaced double-  
+column style with a length limitation of 6 pages (including  
+title, abstract, all figures, tables, and references) for  
+full papers (oral presentation) and 3 pages for short papers  
+(poster presentation). Accepted papers will be submitted to  
+IEEE Xplore.  
+
+
+For more information please check [https://cloudnet2020.ieee-cloudnet.org](https://cloudnet2020.ieee-cloudnet.org)  
+
+
+
+
+Important Dates:  
+----------------  
+- Submission deadline: Aug. 24th  
+- Acceptance notification: Oct. 7th  
+- Camera-ready paper: Oct. 21st  
+- Conference: Nov. 4th-6th  
+
+
+
+
+General Chair:  
+- Jéferson Campos Nobre, UFRGS, Brazil  
+
+
+Technical Program Co-Chairs:  
+- Israat Haque, Dalhousie University, Canada  
+- Lisandro Zambenedetti Granville, UFRGS, Brazil  
+
+
+Steering Committee:  
+- Raouf Boutaba, University of Waterloo, Canada  
+- Guy Pujolle, University Pierre & Marie Curie, France  
+- Deep Medhi, University of Missouri Kansas City, USA  
+- Aki Nako, University of Tokyo, Japan  
+- Dzmitry Kliazovich, University of Luxembourg, Luxembourg  
+- Puneet Sharma, HP Labs, USA  
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## JCN(korea).wireless.mimo  (2020-08-30) <span id="d92ba4f4b1"></span> <span style="color:#666;">[→top](#top)</span>
 
 JCN SPECIAL ISSUE ON  
@@ -1777,6 +1981,74 @@ Dr. Iwao Hosako, NICT, Japan, hosaka@nict.go.jp
 
 
 Electronic submissions should be made through [http://mc.manuscriptcentral.com:/jcommnet.](http://mc.manuscriptcentral.com:/jcommnet.) Information for authors is available on the JCN web site, [http:/www.jcn.or.kr.](http:/www.jcn.or.kr.) The manuscript should be formatted in LaTex file and uploaded in PDF version, and its length should be greater than 8 pages in double column. Please direct inquiries and intent to submit notifications to the Lead Guest Editor. JCN is a high-quality bimonthly archival journal, published by the Korean Institute of Communications and Information Sciences with the technical co-sponsorship of the IEEE Communications Society, covering the fields of Communication Theory and Systems, Wireless Communications, and Networks and Services. JCN began publication in March 1999.  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## mdpi・distwnets  (2020-09-01) <span id="b5812b6481"></span> <span style="color:#666;">[→top](#top)</span>
+
+***** Please accept our apologies if you receive multiple copies of this announcement ****  
+
+
+
+
+Dear Colleagues,  
+
+
+Please find below a call for papers for the Special Issue “Distributed Algorithms for Wireless Sensor Networks”. This special issue belongs to Sensors Journal (ISSN 1424-8220, IF 2.475) and it is related to the section "Sensor Networks".  
+
+
+Link: [https://www.mdpi.com/journal/sensors/special_issues/Distributed_Algorithms_WSN](https://www.mdpi.com/journal/sensors/special_issues/Distributed_Algorithms_WSN)  
+
+
+
+
+
+
+Deadline for manuscript submissions: 1 October 2020  
+
+
+Scope and Motivation:  
+----------------------  
+
+
+Today, the growing interest in Wireless Sensor Networks has led to their deployment at large scale in several fields ranging from environmental monitoring to smart transportation, industrial systems, health and biomedical systems, intelligent environments, etc. Sensors being a key component of the Internet of Things, many IoT solutions entail their deployment in order to gather information from the surrounding environment, which will be forwarded for remote data processing (at sink level, fog/edge level or by a cloud-processing service). Sensor nodes have to cooperate in order to ensure a reliable forwarding for the different types of gathered data while respecting the QoS requirements. For some applications, other concerns have to be considered, such as security issues and energy limitation, as sensors have to operate for many years with limited batteries that cannot easily be replaced. To enhance network performances, additional contextual information can also be handled to adjust node and network behaviors. However, with the significant growth in the use of IoT and distributed sensor systems, many challenges arise and need to be addressed to support such large deployment, mainly in the context of smart cities and environments.  
+
+
+In this context, the recourse to distributed algorithms in which computation is distributed among all sensor nodes allows overcoming inherent WSN limitations related to the short range communication over a wireless medium, resource limitations in terms of energy, computational resources, unreliability of links, etc. Further, distributed algorithms are required to comprehend the aspects of the large implementations that lead to certain characteristics, i.e., scalability, efficiency, and optimization. This Special Issue welcomes contributions dealing with distributed algorithms for Wireless Sensor Networks tackling all aspects, from sensor deployment to data management.  
+
+
+This Special Issue welcomes contributions dealing with distributed algorithms for Wireless Sensor Networks tackling all aspects, from sensor deployment to data management. Submitted manuscripts should not have been published previously, nor be under consideration for publication:  
+
+
+Distributed Algorithms for Sensor Networks  
+Distributed communication and networking algorithms and protocols  
+Mobile and Wireless Network Computing for WSNs  
+Formal methods for Sensor Networks  
+Edge and fog computing  
+Artificial intelligence (or machine intelligence) in distributed sensor systems  
+Crowdsourcing and Wireless Sensors  
+Vehicle platoon networking  
+Distributed and federated Machine Learning  
+Internet of Things and cyber-physical systems  
+Sensor technologies and monitoring  
+Security, privacy, and trust in WSNs  
+MAC protocol  
+Routing protocols  
+
+
+
+
+
+
+
+
+Guest Editors of the Special Issue  
+--------------------------------------------  
+Prof. Mohamed Mosbah  
+Dr. Imen Jemili  
+
+
+Dr. Mohamed Tounsi  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -2440,6 +2712,48 @@ Revised Version Due: February 15, 2021
 Final Decision: March 31, 2021  
 Final Submission: April 15, 2021  
 Publication Date: To be scheduled in 2021  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## mdpi・wsensornets  (2020-10-01) <span id="b06ffa0cc8"></span> <span style="color:#666;">[→top](#top)</span>
+
+Dear Dr. Zhanikeev,  
+
+
+The open access journal Electronics (ISSN 2079-9292, IF 2.412) is pleased to announce a new Special Issue entitled "Wireless Sensor Networks in Intelligent Transportation Systems". Prof. Dr. Ilyoung Chung is serving as Guest Editor for this issue. The submission deadline is 31 December 2020 and papers may be submitted immediately or at any point until 31 December 2020, as papers will be published on an ongoing basis. For more information on this Special Issue and submission guidelines, please visit the following page: [https://www.mdpi.com/si/electronics/WSN_Intel_Transport.](https://www.mdpi.com/si/electronics/WSN_Intel_Transport.)  
+
+
+Kind regards,  
+
+
+Byron Yao  
+Assistant Editor  
+
+
+Electronics is fully open access. Manuscripts are peer-reviewed and a first decision provided to authors approximately 13.4 days after submission. An Article Processing Charge (APC) of CHF 1500 currently applies to all accepted papers.  
+
+
+To submit to the journal click here: [http://susy.mdpi.com/user/manuscripts/upload?journal=electronics.](http://susy.mdpi.com/user/manuscripts/upload?journal=electronics.)  
+
+
+Unsubscribe: [http://www.mdpi.com/unsub/managesubscriptions/mail/bWFyYXRpc2hlQGdtYWlsLmNvbQ==/c51b36fc096b0550cba5b4c1d309491085f4e7ba7b927b58dc3bf8945e319177.](http://www.mdpi.com/unsub/managesubscriptions/mail/bWFyYXRpc2hlQGdtYWlsLmNvbQ==/c51b36fc096b0550cba5b4c1d309491085f4e7ba7b927b58dc3bf8945e319177.)  
+
+
+Manage your subscriptions: [https://susy.mdpi.com/user/subscriptions.](https://susy.mdpi.com/user/subscriptions.)  
+
+
+MDPI  
+[http://www.mdpi.com/](http://www.mdpi.com/)  
+St. Alban-Anlage 66  
+4052 Basel  
+Switzerland  
+
+
+Tel. +41 61 683 77 34  
+Fax +41 61 302 89 18  
+
+
+Disclaimer: MDPI recognizes the importance of data privacy and protection. We treat personal data in line with the General Data Protection Regulation (GDPR) and with what the community expects of us. The information contained in this message is confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this message in error, please notify me and delete this message from your system. You may not copy this message in its entirety or in part, or disclose its contents to anyone.  
  <span style="color:#666;">[→top](#top)</span>
 
 

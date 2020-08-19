@@ -14,48 +14,44 @@ this file is generated automatically, do not make manual changes to it!
 2020-07-21 [<strike>東京大(missed13日締切)</strike>](#a94f938232)  
 2020-07-24 [<strike>慶應義塾.情報工学分野★推薦書</strike>](#3154cd9345)  
 2020-07-30 [滋賀大★byemail](#cfc365a4fb)  
-2020-07-31 [名古屋大.人間情報学★教授](#820744a453)  
 2020-07-31 [<strike>法政大.信号処理、統計、計測、機械学習分野(推薦書)</strike>](#e6593754c5)  
 2020-07-31 [<strike>九州国際大.情報学基礎(badformat)</strike>](#73585c7c51)  
 2020-07-31 [<strike>岡山理科大(ous).人工知能★toomuchwork+morelater</strike>](#1beb94e1bd)  
+2020-07-31 [<strong>名古屋大.人間情報学★教授</strong>](#fb8fa0cb3e)  
 2020-07-31 [<strong>埼玉工業大.情報学★エクセル業績</strong>](#18e59c9346)  
-2020-08-12 [三重大.知能工学講座・データサイエンス2jobs](#5287ecef42)  
-2020-08-17 [NAIST.ロボティクス分野](#2a5cbddcf2)  
-2020-08-17 [筑波大](#6bedfcd2ce)  
-2020-08-19 [岡山県立大.知覚情報処理](#ee1efdc1df)  
-2020-08-19 [近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs](#16a1d3b9d0)  
-2020-08-21 [玉川大学.国際教養学科](#18a05c382d)  
-2020-08-21 [龍谷大学・情報工学分野](#7bc63851a0)  
+2020-08-12 [<strong>三重大.知能工学講座・データサイエンス2jobs</strong>](#eba26c37a7)  
+2020-08-17 [<strong>筑波大</strong>](#cc72ebc329)  
+2020-08-17 [<strike>NAIST.ロボティクス分野</strike>](#6813c0372e)  
+2020-08-19 [<strong>岡山県立大.知覚情報処理</strong>](#6c5b98a780)  
+2020-08-19 [<strike>近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs★推薦書</strike>](#58dad3b578)  
+2020-08-21 [●玉川大学.国際教養学科](#4c84695e3c)  
 2020-08-21 [龍谷大学・通信工学分野](#31a2a90de5)  
-2020-08-22 [近畿大.総合理工](#2239e09e58)  
 2020-08-24 [中京大.コンピュータ処理論及び関連科目](#e9d0f232de)  
-2020-08-24 [久留米大.情報学フロンティア](#4c438c163f)  
-2020-08-25 [日本大.ロボット・制御](#3ef71d894d)  
+2020-08-25 [<strike>日本大.ロボット・制御★mismatch</strike>](#50bac5cba6)  
 2020-08-25 [大阪大学.社会イノベーション部門](#f539e83162)  
-2020-08-28 [広島工業大](#4f2559a4fd)  
-2020-08-28 [駿河台大学・映像メディア分野](#9801583787)  
+2020-08-28 [●広島工業大・経営情報システム](#1910c17cce)  
 2020-08-28 [和光大学.情報の基礎](#2df1a7a510)  
-2020-08-31 [東京電機大.人間情報学](#3b904bc834)  
 2020-08-31 [立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース](#1d2deb79a1)  
-2020-08-31 [般社団法人CRD](#ad2eb56a5b)  
-2020-08-31 [日本工業大](#56f2829a1f)  
+2020-08-31 [<strike>般社団法人CRD</strike>](#7863862135)  
+2020-08-31 [<strike>日本工業大★推薦書</strike>](#2113e18e0a)  
 2020-08-31 [東京都立大.情報学基礎.2posts](#955f81b4e2)  
 2020-08-31 [東京都市大学・情報学](#cd47a293be)  
 2020-08-31 [東京都市大学・経営情報システム](#8b4d0a2dce)  
-2020-08-31 [工学院大学.複合領域-デザイン学-総合理工-計算科学](#a8594191cf)  
-2020-08-31 [大阪大.情報科学](#3697049074)  
+2020-08-31 [<strike>東京電機大.人間情報学★推薦書</strike>](#1288510301)  
 2020-08-31 [滋賀県立大.センシング工学分野](#c56f9be485)  
+2020-08-31 [工学院大学.複合領域-デザイン学-総合理工-計算科学](#a8594191cf)  
 2020-08-31 [工学院大学.情報学フロンティア-情報学](#28aaf90588)  
-2020-08-31 [駒澤大.情報分野](#306428a9df)  
-2020-08-31 [京都大.通信情報システム](#039122b303)  
-2020-08-31 [株式会社Nextremer.計算科学.quantum](#5fa1a2f2e1)  
+2020-08-31 [<strike>京都大.通信情報システム★試用</strike>](#5745bd4e0c)  
+2020-08-31 [<strike>株式会社Nextremer.計算科学.quantum</strike>](#840cca4261)  
 2020-08-31 [岡山理科大(ous).情報数理.情報工学.2posts](#1a7a819628)  
 2020-08-31 [岡山大学.サイバーフィジカル情報の応用研究](#e9bdb6257a)  
+2020-08-31 [●大阪大.情報科学](#b41b6e00c8)  
+2020-08-31 [●駒澤大.情報分野](#c4e54c6397)  
 2020-09-07 [法政大学.情報学・計算基盤](#9d2f056f03)  
 2020-09-07 [明治大](#abe8802bd2)  
+2020-09-10 [広島工業大学・コンピュータシステム](#7028f433f1)  
 2020-09-10 [広島工業大学・情報ネットワーク](#973b1ff69b)  
 2020-09-10 [公立はこだて未来大.情報デザイン.複雑系知能分野](#26497bf949)  
-2020-09-10 [広島工業大学・コンピュータシステム](#7028f433f1)  
 2020-09-10 [公立はこだて未来大](#7a86734726)  
 2020-09-11 [金沢大学.IoT及び情報通信分野](#9d343defd9)  
 2020-09-11 [法政大学.情報科学部コンピュータ科学科](#fe6dddcbd9)  
@@ -144,167 +140,25 @@ No. ：22
 
 ## <strong>埼玉工業大.情報学★エクセル業績</strong>  (2020-07-31) <span id="18e59c9346"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strong>名古屋大.人間情報学★教授</strong>  (2020-07-31) <span id="fb8fa0cb3e"></span> <span style="color:#666;">[→top](#top)</span>
+
 ## <strike>岡山理科大(ous).人工知能★toomuchwork+morelater</strike>  (2020-07-31) <span id="1beb94e1bd"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>九州国際大.情報学基礎(badformat)</strike>  (2020-07-31) <span id="73585c7c51"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>法政大.信号処理、統計、計測、機械学習分野(推薦書)</strike>  (2020-07-31) <span id="e6593754c5"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 名古屋大.人間情報学★教授  (2020-07-31) <span id="820744a453"></span> <span style="color:#666;">[→top](#top)</span>
+## <strong>三重大.知能工学講座・データサイエンス2jobs</strong>  (2020-08-12) <span id="eba26c37a7"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 27  
-id : D120060324 [NEW]  
-update : 2020年06月06日  
-univ : 名古屋大学  
-title : 大学院工学研究科　教授公募(期間の延長)  
-field : 工学 - 全て 情報学 - 人間情報学  
-post : 教授相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年07月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060324&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060324&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
+## <strong>筑波大</strong>  (2020-08-17) <span id="cc72ebc329"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strike>NAIST.ロボティクス分野</strike>  (2020-08-17) <span id="6813c0372e"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 三重大.知能工学講座・データサイエンス2jobs  (2020-08-12) <span id="5287ecef42"></span> <span style="color:#666;">[→top](#top)</span>
+## <strong>岡山県立大.知覚情報処理</strong>  (2020-08-19) <span id="6c5b98a780"></span> <span style="color:#666;">[→top](#top)</span>
 
-No. ：46  
-データ番号 ：D120061332 [NEW]  
-更新日 ：2020年06月25日  
-機関名 ：三重大学  
-タイトル ：准教授の公募（三重大学 大学院工学研究科 情報工学専攻（知能工学講座 データサイエンス））  
-研究分野 ：情報学 - 全て  
-工学 - 電気電子工学  
-職種 ： 准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月12日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061332&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061332&ln_jor=0&top_btn=1)  
+## <strike>近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs★推薦書</strike>  (2020-08-19) <span id="58dad3b578"></span> <span style="color:#666;">[→top](#top)</span>
 
-
-No. ：48  
-データ番号 ：D120061334 [NEW]  
-更新日 ：2020年06月25日  
-機関名 ：三重大学  
-タイトル ：准教授の公募（三重大学 大学院工学研究科 情報工学専攻（知能工学講座 スマートシステム））  
-研究分野 ：情報学 - 全て  
-工学 - 電気電子工学  
-職種 ： 准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月12日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061334&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061334&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## NAIST.ロボティクス分野  (2020-08-17) <span id="2a5cbddcf2"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 27  
-id : D120060472 [NEW]  
-update : 2020年06月10日  
-univ : 奈良先端科学技術大学院大学  
-title : 先端科学技術研究科 情報科学領域 ロボティクス分野 教員（教授）公募  
-field : 情報学 - 人間情報学 情報学 - 計算基盤 工学 - 機械工学  
-post : 教授相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月17日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060472&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060472&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 筑波大  (2020-08-17) <span id="6bedfcd2ce"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：27  
-データ番号 ：D120041408 [NEW]  
-更新日 ：2020年05月02日  
-機関名 ：筑波大学  
-タイトル ：経営学学位プログラム　准教授の公募（知能情報学／経営情報学／データ科学関連領域）  
-研究分野 ：情報学 - 知能情報学、データ科学  
-情報学 - 情報学フロンティア  
-社会科学 - 経営学  
-職種 ： 准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月17日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041408&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041408&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 岡山県立大.知覚情報処理  (2020-08-19) <span id="ee1efdc1df"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 12  
-id : D120060650 [NEW]  
-update : 2020年06月12日  
-univ : 岡山県立大学  
-title : 情報工学部人間情報工学科　教授（知覚情報処理）の公募について  
-field : 情報学 - 人間情報学  
-post : 教授相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月19日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060650&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060650&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs  (2020-08-19) <span id="16a1d3b9d0"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 48  
-id : D120061144 [NEW]  
-update : 2020年06月23日  
-univ : 近畿大学  
-title : 近畿大学 産業理工学部 経営ビジネス学科 教授または准教授または講師の公募（統計・データ分析 グローバル経済／経営関連分野）  
-field : 社会科学 - 経営学 社会科学 - 経済学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月19日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061144&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061144&ln_jor=0&top_btn=1) ----------  
-
-
-no : 50  
-id : D120061140 [NEW]  
-update : 2020年06月23日  
-univ : 近畿大学  
-title : 近畿大学 産業理工学部 電気電子工学科　教授の公募（IoTに関連する電子工学分野）  
-field : 工学 - 電気電子工学  
-post : 教授相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月19日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061140&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061140&ln_jor=0&top_btn=1) ----------  
-
-
-no : 42  
-id : D120061145 [NEW]  
-update : 2020年06月23日  
-univ : 近畿大学  
-title : 近畿大学 産業理工学部 情報学科　教授または准教授または講師の公募（データサイエンス分野）  
-field : 情報学 - 情報学フロンティア 情報学 - 人間情報学 情報学 - 計算基盤  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月19日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061145&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061145&ln_jor=0&top_btn=1) ----------  
-
-
-no : 56  
-id : D120061212 [NEW]  
-update : 2020年06月23日  
-univ : 近畿大学  
-title : 近畿大学 産業理工学部 情報学科　教授または准教授または講師の公募（情報エンジニアリング分野）  
-field : 情報学 - 情報学フロンティア 情報学 - 人間情報学 情報学 - 計算基盤  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月19日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061212&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061212&ln_jor=0&top_btn=1) ----------  
-
-
-no : 57  
-id : D120061213 [NEW]  
-update : 2020年06月23日  
-univ : 近畿大学  
-title : 近畿大学 産業理工学部 情報学科　教授または准教授または講師の公募（メディア情報分野）  
-field : 情報学 - 情報学フロンティア 情報学 - 人間情報学 情報学 - 計算基盤  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月19日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061213&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061213&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 玉川大学.国際教養学科  (2020-08-21) <span id="18a05c382d"></span> <span style="color:#666;">[→top](#top)</span>
+## ●玉川大学.国際教養学科  (2020-08-21) <span id="4c84695e3c"></span> <span style="color:#666;">[→top](#top)</span>
 
 No. ：10  
 データ番号 ：D120070202 [UPDATE]  
@@ -320,24 +174,6 @@ No. ：10
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 龍谷大学・情報工学分野  (2020-08-21) <span id="7bc63851a0"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：5  
-データ番号 ：D120051249 [UPDATE]  
-更新日 ：2020年07月02日  
-機関名 ：龍谷大学  
-タイトル ：教授、准教授または講師の公募（電子、通信工学分野）  
-研究分野 ：工学 - 電気電子工学  
-情報学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月21日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1)  
-----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## 龍谷大学・通信工学分野  (2020-08-21) <span id="31a2a90de5"></span> <span style="color:#666;">[→top](#top)</span>
 
 no : 2  
@@ -350,41 +186,6 @@ post : 教授相当 准教授・常勤専任講師相当
 tenure : 常勤 (任期なし)  
 deadline : 2020年08月21日  
 url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 近畿大.総合理工  (2020-08-22) <span id="2239e09e58"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：11  
-データ番号 ：D120061063 [NEW]  
-更新日 ：2020年06月25日  
-機関名 ：近畿大学  
-タイトル ：理工学部 エネルギー・物質共創学科（仮称）准教授・講師または助教の公募  
-研究分野 ：総合理工 - 全て  
-職種 ： 准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月22日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061063&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061063&ln_jor=0&top_btn=1)  
-----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 久留米大.情報学フロンティア  (2020-08-24) <span id="4c438c163f"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：39  
-データ番号 ：D120061316 [NEW]  
-更新日 ：2020年06月25日  
-機関名 ：久留米大学  
-タイトル ：文学部情報社会学科(講師または准教授)の公募について  
-研究分野 ：情報学 - 情報学フロンティア  
-社会科学 - 全て  
-複合領域 - 全て  
-職種 ： 准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月24日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061316&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061316&ln_jor=0&top_btn=1)  
-----------  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -418,24 +219,9 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071218&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 日本大.ロボット・制御  (2020-08-25) <span id="3ef71d894d"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>日本大.ロボット・制御★mismatch</strike>  (2020-08-25) <span id="50bac5cba6"></span> <span style="color:#666;">[→top](#top)</span>
 
-No. ：19  
-データ番号 ：D120051265 [UPDATE]  
-更新日 ：2020年06月25日  
-機関名 ：日本大学  
-タイトル ：日本大学工学部機械工学科　教員公募　【ロボット，制御】  
-研究分野 ：工学 - 機械工学  
-工学 - 電気電子工学  
-職種 ： 准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月25日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051265&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051265&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 広島工業大  (2020-08-28) <span id="4f2559a4fd"></span> <span style="color:#666;">[→top](#top)</span>
+## ●広島工業大・経営情報システム  (2020-08-28) <span id="1910c17cce"></span> <span style="color:#666;">[→top](#top)</span>
 
 No. ：34  
 データ番号 ：D120041390 [NEW]  
@@ -453,21 +239,6 @@ No. ：34
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 駿河台大学・映像メディア分野  (2020-08-28) <span id="9801583787"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 50  
-id : D120072002 [NEW]  
-update : 2020年08月01日  
-univ : 駿河台大学・映像メディア分野  
-title : メディア情報学部准教授または教授の公募（映像メディア分野）  
-field : 社会科学 - 社会科学ー経済学ー社会学ーコミュニケーション・情報メディア 社会科学 - 情報学ー情報学フロンティアー図書館情報学・人文社会情報学ー情報メディア 社会科学 - 情報学ー情報学フロンティアー学習支援システムーソーシャルメディア  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月28日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120072002&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120072002&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## 和光大学.情報の基礎  (2020-08-28) <span id="2df1a7a510"></span> <span style="color:#666;">[→top](#top)</span>
 
 no : 21  
@@ -480,6 +251,39 @@ post : 准教授・常勤専任講師相当
 tenure : 常勤 (任期なし)  
 deadline : 2020年08月28日  
 url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070774&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070774&ln_jor=0&top_btn=1) ----------  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## ●駒澤大.情報分野  (2020-08-31) <span id="c4e54c6397"></span> <span style="color:#666;">[→top](#top)</span>
+
+No. ：37  
+データ番号 ：D120061721 [NEW]  
+更新日 ：2020年07月01日  
+機関名 ：駒澤大学  
+タイトル ：グローバル・メディア・スタディーズ学部専任教員（情報分野，任期なし）の募集について  
+研究分野 ：情報学 - 全て  
+職種 ： 教授相当  
+准教授・常勤専任講師相当  
+助教相当  
+勤務形態 ： 常勤 (任期なし)  
+募集終了日 ：2020年08月31日  
+ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061721&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061721&ln_jor=0&top_btn=1)  
+----------  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## ●大阪大.情報科学  (2020-08-31) <span id="b41b6e00c8"></span> <span style="color:#666;">[→top](#top)</span>
+
+no : 5  
+id : D120070733 [NEW]  
+update : 2020年07月13日  
+univ : 大阪大学  
+title : 准教授の公募（情報科学）  
+field : 情報学 - 計算基盤  
+post : 准教授・常勤専任講師相当  
+tenure : 常勤 (任期なし)  
+deadline : 2020年08月31日  
+url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070733&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070733&ln_jor=0&top_btn=1) JREC-IN Portalより、ご登録のマッチング条件に合った新着求人公募情報をお知らせします。 ※公開中の情報が更新された場合も含まれますので、ご了承ください。 ※新規情報には[NEW]、更新情報には[UPDATE]が表示されます。 ※URL欄に[→サイト名]が表示された情報は、連携する外部求人サイトから提供されたものです。求人の詳細は、各サイトの求人ページへジャンプし表示します。 ---【求人公募情報】--- ----------  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -529,59 +333,9 @@ No. ：58
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 株式会社Nextremer.計算科学.quantum  (2020-08-31) <span id="5fa1a2f2e1"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>株式会社Nextremer.計算科学.quantum</strike>  (2020-08-31) <span id="840cca4261"></span> <span style="color:#666;">[→top](#top)</span>
 
-No. ：1  
-データ番号 ：D120021168 [UPDATE]  
-更新日 ：2020年06月30日  
-機関名 ：株式会社Nextremer  
-タイトル ：【卓越研究員】主任研究員の公募  
-研究分野 ：総合理工 - 計算科学  
-数物系科学 - 物理学  
-総合理工 - ナノ・マイクロ科学  
-職種 ： 研究員・ポスドク相当  
-研究開発・技術者相当  
-卓越研究員  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120021168&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120021168&ln_jor=0&top_btn=1)  
-----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 京都大.通信情報システム  (2020-08-31) <span id="039122b303"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：17  
-データ番号 ：D120061780 [NEW]  
-更新日 ：2020年07月03日  
-機関名 ：京都大学  
-タイトル ：教授の公募（情報学研究科 通信情報システム専攻）  
-研究分野 ：情報学 - 計算基盤  
-工学 - 電気電子工学  
-職種 ： 教授相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061780&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061780&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 駒澤大.情報分野  (2020-08-31) <span id="306428a9df"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：37  
-データ番号 ：D120061721 [NEW]  
-更新日 ：2020年07月01日  
-機関名 ：駒澤大学  
-タイトル ：グローバル・メディア・スタディーズ学部専任教員（情報分野，任期なし）の募集について  
-研究分野 ：情報学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061721&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061721&ln_jor=0&top_btn=1)  
-----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>京都大.通信情報システム★試用</strike>  (2020-08-31) <span id="5745bd4e0c"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 工学院大学.情報学フロンティア-情報学  (2020-08-31) <span id="28aaf90588"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -628,36 +382,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060878&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 大阪大.情報科学  (2020-08-31) <span id="3697049074"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 5  
-id : D120070733 [NEW]  
-update : 2020年07月13日  
-univ : 大阪大学  
-title : 准教授の公募（情報科学）  
-field : 情報学 - 計算基盤  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070733&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070733&ln_jor=0&top_btn=1) JREC-IN Portalより、ご登録のマッチング条件に合った新着求人公募情報をお知らせします。 ※公開中の情報が更新された場合も含まれますので、ご了承ください。 ※新規情報には[NEW]、更新情報には[UPDATE]が表示されます。 ※URL欄に[→サイト名]が表示された情報は、連携する外部求人サイトから提供されたものです。求人の詳細は、各サイトの求人ページへジャンプし表示します。 ---【求人公募情報】--- ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 東京電機大.人間情報学  (2020-08-31) <span id="3b904bc834"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：12  
-データ番号 ：D120061694 [NEW]  
-更新日 ：2020年06月30日  
-機関名 ：東京電機大学  
-タイトル ：教授または准教授の公募  
-研究分野 ：情報学 - 人間情報学  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061694&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061694&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>東京電機大.人間情報学★推薦書</strike>  (2020-08-31) <span id="1288510301"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 東京都市大学・経営情報システム  (2020-08-31) <span id="8b4d0a2dce"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -720,67 +445,9 @@ No. ：3
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 日本工業大  (2020-08-31) <span id="56f2829a1f"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>日本工業大★推薦書</strike>  (2020-08-31) <span id="2113e18e0a"></span> <span style="color:#666;">[→top](#top)</span>
 
-No. ：35  
-データ番号 ：D120050492 [NEW]  
-更新日 ：2020年05月16日  
-機関名 ：日本工業大学  
-タイトル ：教授、准教授または助教の公募（情報工学、データベース、プログラミング分野）  
-研究分野 ：情報学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050492&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050492&ln_jor=0&top_btn=1)  
-----------  
-No. ：36  
-データ番号 ：D120050493 [NEW]  
-更新日 ：2020年05月16日  
-機関名 ：日本工業大学  
-タイトル ：教授、准教授または助教の公募（情報工学、情報セキュリティ分野）  
-研究分野 ：情報学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050493&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050493&ln_jor=0&top_btn=1)  
-----------  
-No. ：37  
-データ番号 ：D120050494 [NEW]  
-更新日 ：2020年05月16日  
-機関名 ：日本工業大学  
-タイトル ：教授、准教授または助教2名の公募（情報工学、データサイエンス、機械学習分野）  
-研究分野 ：情報学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050494&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050494&ln_jor=0&top_btn=1)  
-----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 般社団法人CRD  (2020-08-31) <span id="ad2eb56a5b"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：16  
-データ番号 ：D120041156 [NEW]  
-更新日 ：2020年05月01日  
-機関名 ：一般社団法人CRD協会  
-タイトル ：アナリスト募集（データ分析）  
-研究分野 ：社会科学 - 経済学  
-情報学 - 情報学基礎  
-情報学 - 計算基盤  
-職種 ： 研究員・ポスドク相当  
-研究開発・技術者相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041156&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041156&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>般社団法人CRD</strike>  (2020-08-31) <span id="7863862135"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース  (2020-08-31) <span id="1d2deb79a1"></span> <span style="color:#666;">[→top](#top)</span>
 
