@@ -10,43 +10,43 @@ this file is generated automatically, do not make manual changes to it!
 2020-07-15 [<strike>同志社大</strike>](#4417a089ab)  
 2020-07-17 [<strike>千葉商科大</strike>](#0f634778c3)  
 2020-07-17 [<strike>千葉商科大.情報・メディア</strike>](#11424e7100)  
-2020-07-20 [<strike>近畿大情報セキュリティ評価★推薦書</strike>](#a496e2fbce)  
+2020-07-20 [<strike>近畿大情報セキュリティ評価✘推薦書</strike>](#9c95c93d9b)  
 2020-07-21 [<strike>東京大(missed13日締切)</strike>](#a94f938232)  
-2020-07-24 [<strike>慶應義塾.情報工学分野★推薦書</strike>](#3154cd9345)  
-2020-07-30 [滋賀大★byemail](#cfc365a4fb)  
-2020-07-31 [<strike>法政大.信号処理、統計、計測、機械学習分野(推薦書)</strike>](#e6593754c5)  
-2020-07-31 [<strike>九州国際大.情報学基礎(badformat)</strike>](#73585c7c51)  
-2020-07-31 [<strike>岡山理科大(ous).人工知能★toomuchwork+morelater</strike>](#1beb94e1bd)  
+2020-07-24 [<strike>慶應義塾.情報工学分野✘推薦書</strike>](#f60e9eda87)  
+2020-07-30 [<strong>滋賀大✌email↓rejectletter</strong>](#2b49852886)  
+2020-07-31 [<strike>法政大.信号処理、統計、計測、機械学習分野✘推薦書</strike>](#5be1a16a7d)  
+2020-07-31 [<strike>九州国際大.情報学基礎✘badformat</strike>](#88df76a674)  
+2020-07-31 [<strike>岡山理科大(ous).人工知能✘toomuchwork+morelater</strike>](#3b91ad90e6)  
 2020-07-31 [<strong>名古屋大.人間情報学★教授</strong>](#fb8fa0cb3e)  
 2020-07-31 [<strong>埼玉工業大.情報学★エクセル業績</strong>](#18e59c9346)  
 2020-08-12 [<strong>三重大.知能工学講座・データサイエンス2jobs</strong>](#eba26c37a7)  
 2020-08-17 [<strong>筑波大</strong>](#cc72ebc329)  
 2020-08-17 [<strike>NAIST.ロボティクス分野</strike>](#6813c0372e)  
 2020-08-19 [<strong>岡山県立大.知覚情報処理</strong>](#6c5b98a780)  
-2020-08-19 [<strike>近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs★推薦書</strike>](#58dad3b578)  
-2020-08-21 [●玉川大学.国際教養学科](#4c84695e3c)  
-2020-08-21 [龍谷大学・通信工学分野](#31a2a90de5)  
-2020-08-24 [中京大.コンピュータ処理論及び関連科目](#e9d0f232de)  
-2020-08-25 [<strike>日本大.ロボット・制御★mismatch</strike>](#50bac5cba6)  
+2020-08-19 [<strike>近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs✘推薦書</strike>](#ebe3a401a3)  
+2020-08-21 [<strong>玉川大学.国際教養学科✌jrec</strong>](#ec0c9d0945)  
+2020-08-21 [<strong>龍谷大学・通信工学分野★給料明記</strong>](#e9e97adb29)  
+2020-08-24 [<strong>中京大.コンピュータ処理論及び関連科目</strong>](#4d3c9024ff)  
+2020-08-25 [<strike>日本大.ロボット・制御✘mismatch</strike>](#3b52ef5769)  
 2020-08-25 [大阪大学.社会イノベーション部門](#f539e83162)  
-2020-08-28 [●広島工業大・経営情報システム](#1910c17cce)  
+2020-08-28 [<strong>広島工業大・経営情報システム✌jrec</strong>](#7a9ddac77a)  
 2020-08-28 [和光大学.情報の基礎](#2df1a7a510)  
 2020-08-31 [立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース](#1d2deb79a1)  
 2020-08-31 [<strike>般社団法人CRD</strike>](#7863862135)  
-2020-08-31 [<strike>日本工業大★推薦書</strike>](#2113e18e0a)  
+2020-08-31 [<strike>日本工業大✘推薦書</strike>](#4bb5c2134d)  
 2020-08-31 [東京都立大.情報学基礎.2posts](#955f81b4e2)  
 2020-08-31 [東京都市大学・情報学](#cd47a293be)  
 2020-08-31 [東京都市大学・経営情報システム](#8b4d0a2dce)  
-2020-08-31 [<strike>東京電機大.人間情報学★推薦書</strike>](#1288510301)  
+2020-08-31 [<strike>東京電機大.人間情報学✘推薦書</strike>](#37848dfdf7)  
 2020-08-31 [滋賀県立大.センシング工学分野](#c56f9be485)  
 2020-08-31 [工学院大学.複合領域-デザイン学-総合理工-計算科学](#a8594191cf)  
 2020-08-31 [工学院大学.情報学フロンティア-情報学](#28aaf90588)  
-2020-08-31 [<strike>京都大.通信情報システム★試用</strike>](#5745bd4e0c)  
+2020-08-31 [<strike>京都大.通信情報システム中✘試用</strike>](#85650c17d1)  
 2020-08-31 [<strike>株式会社Nextremer.計算科学.quantum</strike>](#840cca4261)  
 2020-08-31 [岡山理科大(ous).情報数理.情報工学.2posts](#1a7a819628)  
 2020-08-31 [岡山大学.サイバーフィジカル情報の応用研究](#e9bdb6257a)  
-2020-08-31 [●大阪大.情報科学](#b41b6e00c8)  
-2020-08-31 [●駒澤大.情報分野](#c4e54c6397)  
+2020-08-31 [<strong>大阪大.情報科学☢試用6カ月✌jrec</strong>](#f7ab33943c)  
+2020-08-31 [<strong>駒澤大.情報分野✌jrec</strong>](#fe42bd3f2b)  
 2020-09-07 [法政大学.情報学・計算基盤](#9d2f056f03)  
 2020-09-07 [明治大](#abe8802bd2)  
 2020-09-10 [広島工業大学・コンピュータシステム](#7028f433f1)  
@@ -114,39 +114,23 @@ this file is generated automatically, do not make manual changes to it!
 
 ## <strike>千葉商科大.情報・メディア</strike>  (2020-07-17) <span id="11424e7100"></span> <span style="color:#666;">[→top](#top)</span>
 
-## <strike>近畿大情報セキュリティ評価★推薦書</strike>  (2020-07-20) <span id="a496e2fbce"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>近畿大情報セキュリティ評価✘推薦書</strike>  (2020-07-20) <span id="9c95c93d9b"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>東京大(missed13日締切)</strike>  (2020-07-21) <span id="a94f938232"></span> <span style="color:#666;">[→top](#top)</span>
 
-## <strike>慶應義塾.情報工学分野★推薦書</strike>  (2020-07-24) <span id="3154cd9345"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>慶應義塾.情報工学分野✘推薦書</strike>  (2020-07-24) <span id="f60e9eda87"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 滋賀大★byemail  (2020-07-30) <span id="cfc365a4fb"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：22  
-データ番号 ：D120041018 [NEW]  
-更新日 ：2020年04月25日  
-機関名 ：滋賀大学  
-タイトル ：教授・准教授の公募（情報学・数物系科学・総合理工）  
-研究分野 ：情報学 - 情報学基礎  
-数物系科学 - 数学  
-総合理工 - 計算科学  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年07月30日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041018&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041018&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strong>滋賀大✌email↓rejectletter</strong>  (2020-07-30) <span id="2b49852886"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strong>埼玉工業大.情報学★エクセル業績</strong>  (2020-07-31) <span id="18e59c9346"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strong>名古屋大.人間情報学★教授</strong>  (2020-07-31) <span id="fb8fa0cb3e"></span> <span style="color:#666;">[→top](#top)</span>
 
-## <strike>岡山理科大(ous).人工知能★toomuchwork+morelater</strike>  (2020-07-31) <span id="1beb94e1bd"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>岡山理科大(ous).人工知能✘toomuchwork+morelater</strike>  (2020-07-31) <span id="3b91ad90e6"></span> <span style="color:#666;">[→top](#top)</span>
 
-## <strike>九州国際大.情報学基礎(badformat)</strike>  (2020-07-31) <span id="73585c7c51"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>九州国際大.情報学基礎✘badformat</strike>  (2020-07-31) <span id="88df76a674"></span> <span style="color:#666;">[→top](#top)</span>
 
-## <strike>法政大.信号処理、統計、計測、機械学習分野(推薦書)</strike>  (2020-07-31) <span id="e6593754c5"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>法政大.信号処理、統計、計測、機械学習分野✘推薦書</strike>  (2020-07-31) <span id="5be1a16a7d"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strong>三重大.知能工学講座・データサイエンス2jobs</strong>  (2020-08-12) <span id="eba26c37a7"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -156,53 +140,13 @@ No. ：22
 
 ## <strong>岡山県立大.知覚情報処理</strong>  (2020-08-19) <span id="6c5b98a780"></span> <span style="color:#666;">[→top](#top)</span>
 
-## <strike>近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs★推薦書</strike>  (2020-08-19) <span id="58dad3b578"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs✘推薦書</strike>  (2020-08-19) <span id="ebe3a401a3"></span> <span style="color:#666;">[→top](#top)</span>
 
-## ●玉川大学.国際教養学科  (2020-08-21) <span id="4c84695e3c"></span> <span style="color:#666;">[→top](#top)</span>
+## <strong>玉川大学.国際教養学科✌jrec</strong>  (2020-08-21) <span id="ec0c9d0945"></span> <span style="color:#666;">[→top](#top)</span>
 
-No. ：10  
-データ番号 ：D120070202 [UPDATE]  
-更新日 ：2020年07月10日  
-機関名 ：玉川大学  
-タイトル ：玉川大学経営学部国際経営学科教員（教授または准教授）の公募について  
-研究分野 ：社会科学 - 経営学  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月21日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070202&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070202&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
+## <strong>龍谷大学・通信工学分野★給料明記</strong>  (2020-08-21) <span id="e9e97adb29"></span> <span style="color:#666;">[→top](#top)</span>
 
-
-## 龍谷大学・通信工学分野  (2020-08-21) <span id="31a2a90de5"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 2  
-id : D120051249 [UPDATE]  
-update : 2020年08月04日  
-univ : 龍谷大学・通信工学分野  
-title : 教授、准教授または講師の公募（電子、通信工学分野）  
-field : 工学 - 電気電子工学 情報学 - 全て  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月21日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120051249&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 中京大.コンピュータ処理論及び関連科目  (2020-08-24) <span id="e9d0f232de"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 7  
-id : D120060246 [UPDATE]  
-update : 2020年06月09日  
-univ : 中京大学  
-title : 中京大学教養教育研究院専任教員公募（コンピュータ処理論及び関連科目）（2021年4月採用）  
-field : 情報学 - 計算基盤 総合理工 - 計算科学 工学 - 電気電子工学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月24日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060246&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060246&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strong>中京大.コンピュータ処理論及び関連科目</strong>  (2020-08-24) <span id="4d3c9024ff"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 大阪大学.社会イノベーション部門  (2020-08-25) <span id="f539e83162"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -219,25 +163,9 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071218&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## <strike>日本大.ロボット・制御★mismatch</strike>  (2020-08-25) <span id="50bac5cba6"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>日本大.ロボット・制御✘mismatch</strike>  (2020-08-25) <span id="3b52ef5769"></span> <span style="color:#666;">[→top](#top)</span>
 
-## ●広島工業大・経営情報システム  (2020-08-28) <span id="1910c17cce"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：34  
-データ番号 ：D120041390 [NEW]  
-更新日 ：2020年05月01日  
-機関名 ：広島工業大学  
-タイトル ：教授、准教授、講師又は助教の公募（経営情報システム（経営工学、オペレーションズ・リサーチ、プロジェクトマネジメント、情報システム開発とマネジメント、意思決定支援システムなど）に関連する分野）  
-研究分野 ：情報学 - 全て  
-その他 - 経営情報システム  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月28日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041390&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120041390&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strong>広島工業大・経営情報システム✌jrec</strong>  (2020-08-28) <span id="7a9ddac77a"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 和光大学.情報の基礎  (2020-08-28) <span id="2df1a7a510"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -254,38 +182,9 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070774&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## ●駒澤大.情報分野  (2020-08-31) <span id="c4e54c6397"></span> <span style="color:#666;">[→top](#top)</span>
+## <strong>駒澤大.情報分野✌jrec</strong>  (2020-08-31) <span id="fe42bd3f2b"></span> <span style="color:#666;">[→top](#top)</span>
 
-No. ：37  
-データ番号 ：D120061721 [NEW]  
-更新日 ：2020年07月01日  
-機関名 ：駒澤大学  
-タイトル ：グローバル・メディア・スタディーズ学部専任教員（情報分野，任期なし）の募集について  
-研究分野 ：情報学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061721&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061721&ln_jor=0&top_btn=1)  
-----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## ●大阪大.情報科学  (2020-08-31) <span id="b41b6e00c8"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 5  
-id : D120070733 [NEW]  
-update : 2020年07月13日  
-univ : 大阪大学  
-title : 准教授の公募（情報科学）  
-field : 情報学 - 計算基盤  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070733&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070733&ln_jor=0&top_btn=1) JREC-IN Portalより、ご登録のマッチング条件に合った新着求人公募情報をお知らせします。 ※公開中の情報が更新された場合も含まれますので、ご了承ください。 ※新規情報には[NEW]、更新情報には[UPDATE]が表示されます。 ※URL欄に[→サイト名]が表示された情報は、連携する外部求人サイトから提供されたものです。求人の詳細は、各サイトの求人ページへジャンプし表示します。 ---【求人公募情報】--- ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strong>大阪大.情報科学☢試用6カ月✌jrec</strong>  (2020-08-31) <span id="f7ab33943c"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 岡山大学.サイバーフィジカル情報の応用研究  (2020-08-31) <span id="e9bdb6257a"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -335,7 +234,7 @@ No. ：58
 
 ## <strike>株式会社Nextremer.計算科学.quantum</strike>  (2020-08-31) <span id="840cca4261"></span> <span style="color:#666;">[→top](#top)</span>
 
-## <strike>京都大.通信情報システム★試用</strike>  (2020-08-31) <span id="5745bd4e0c"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>京都大.通信情報システム中✘試用</strike>  (2020-08-31) <span id="85650c17d1"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 工学院大学.情報学フロンティア-情報学  (2020-08-31) <span id="28aaf90588"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -382,7 +281,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060878&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## <strike>東京電機大.人間情報学★推薦書</strike>  (2020-08-31) <span id="1288510301"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>東京電機大.人間情報学✘推薦書</strike>  (2020-08-31) <span id="37848dfdf7"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 東京都市大学・経営情報システム  (2020-08-31) <span id="8b4d0a2dce"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -445,7 +344,7 @@ No. ：3
  <span style="color:#666;">[→top](#top)</span>
 
 
-## <strike>日本工業大★推薦書</strike>  (2020-08-31) <span id="2113e18e0a"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>日本工業大✘推薦書</strike>  (2020-08-31) <span id="4bb5c2134d"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>般社団法人CRD</strike>  (2020-08-31) <span id="7863862135"></span> <span style="color:#666;">[→top](#top)</span>
 
