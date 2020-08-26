@@ -1,10 +1,131 @@
-no : 32
-id : D120071556 [NEW]
-update : 2020年07月28日
-univ : 熊本大学
-title : 熊本大学大学院先端科学研究部 情報・エネルギー部門 先端工学第四分野（ビッグデータ） 教授候補者の公募
-field : 情報学 - 全て 総合理工 - 計算科学
+no : 33
+id : D120080991 [NEW]
+update : 2020年08月21日
+univ : 東京工業大学
+title : 教授公募（電気電子および情報通信における応用AI分野）
+field : 工学 - 電気電子工学 工学 - 総合工学 総合理工 - 計算科学
 post : 教授相当
 tenure : 常勤 (任期なし)
-deadline : 2020年09月30日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071556&ln_jor=0&top_btn=1 ----------
+deadline : 2020年10月23日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080991&ln_jor=0&top_btn=1 ----------
+
+no : 6
+id : D120080750 [NEW]
+update : 2020年08月19日
+univ : 職業能力開発総合大学校
+title : 令和3年度職業能力開発総合大学校教員募集「情報処理」
+field : 情報学 - 情報学フロンティア
+post : 准教授・常勤専任講師相当 助教相当 研究・教育補助者相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月18日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080750&ln_jor=0&top_btn=1 ----------
+
+no : 2
+id : D119010823 [UPDATE]
+update : 2020年08月17日
+univ : IT・通信・インターネット
+title : [非公開]シニアエンジニア職
+field : 数物系科学 - 数学 情報学 - 情報学基礎
+post : ITエンジニア職
+tenure : 常勤 (任期なし)
+deadline : 2021年03月31日
+url : [→アカリクAGENT] https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=10&id=D119010823&ln_jor=0&top_btn=1 ----------
+
+no : 4
+id : D119020252 [UPDATE]
+update : 2020年08月17日
+univ : IT・通信・インターネット
+title : [非公開]アルゴリズムエンジニア
+field : 数物系科学 - 数学 情報学 - 計算基盤
+post : 研究開発・技術者相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月31日
+url : [→アカリクAGENT] https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=10&id=D119020252&ln_jor=0&top_btn=1 ----------
+
+no : 5
+id : D119021203 [UPDATE]
+update : 2020年08月17日
+univ : コンサルティング
+title : [非公開]データサイエンティスト
+field : 数物系科学 - 数学 情報学 - 情報学基礎
+post : 研究開発・技術者相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月31日
+url : [→アカリクAGENT] https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=10&id=D119021203&ln_jor=0&top_btn=1 ----------
+
+no : 44
+id : D120080849 [NEW]
+update : 2020年08月18日
+univ : 国立研究開発法人理化学研究所
+title : 研究員または特別研究員募集（R-CCS2005）（離散事象シミュレーション研究チーム）
+field : 数物系科学 - 物理学 情報学 - 数理・情報科学 総合理工 - 計算科学
+post : 研究員・ポスドク相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月17日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080849&ln_jor=0&top_btn=1 ----------
+
+no : 60
+id : D120080852 [NEW]
+update : 2020年08月18日
+univ : 神奈川大学
+title : 教務技術職員の公募（工学部電気電子情報工学科）
+field : 工学 - 電気電子工学
+post : 研究・教育補助者相当
+tenure : 常勤 (任期なし)
+deadline : 2020年08月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080852&ln_jor=0&top_btn=1 ----------
+
+no : 33
+id : D120080668 [UPDATE]
+update : 2020年08月17日
+univ : 広島女学院大学
+title : 専任講師または准教授 （情報教育）
+field : 情報学 - 全て
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080668&ln_jor=0&top_btn=1 ----------
+
+no : 11
+id : D120080774 [NEW]
+update : 2020年08月15日
+univ : 京都大学
+title : 京都大学生存圏研究所生存圏診断統御研究系准教授の公募
+field : 数物系科学 - 地球惑星科学 工学 - 電気電子工学 情報学 - 全て
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月16日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080774&ln_jor=0&top_btn=1 ----------
+
+no : 13
+id : D120080794 [NEW]
+update : 2020年08月15日
+univ : 東京都市大学
+title : 情報科学科・准教授の公募（情報数理（計算科学）分野）
+field : 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080794&ln_jor=0&top_btn=1 ----------
+
+no : 12
+id : D120080697 [NEW]
+update : 2020年08月14日
+univ : 慶應義塾大学
+title : 慶應義塾⼤学総合政策学部、環境情報学部、政策・メディア研究科 教員募集（人間を中心とするコンピューティング領域）
+field : 情報学 - 人間を中心とするコンピューティング領域
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月13日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080697&ln_jor=0&top_btn=1 ----------
+
+no : 38
+id : D120080680 [NEW]
+update : 2020年08月13日
+univ : 福井大学
+title : 准教授または講師の公募（計算機ソフトウェア，IoT関連分野，データサイエンス，言語処理系等の分野）
+field : 情報学 - 情報学基礎 情報学 - 計算基盤 情報学 - 全て
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月01日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080680&ln_jor=0&top_btn=1 ----------
