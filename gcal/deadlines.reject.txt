@@ -1,0 +1,31 @@
+200906 conf~j.candar(naha+virtual)
+200907 conf.HPCS.highperf
+200907 conf.IEEE.cloudnet
+200910 conf.CNSM.workshops future evolution of internet protocols
+200910 conf.springer.MSPN mobile prog. networks
+200911 conf.IEEE.latincom communications
+200911 conf.IEEEComSoc.NoF networks of future
+200912 conf.IEEE.CogMI cognitive machine intel
+200912 conf.IEEE.TPS.intelsystems.apps
+200912 conf.IEEE.CIC.collaboration
+200914 conf.EAI.clouds
+200915 conf.3ICT.covid(free,online)
+200915 conf~j.EAI.HealthWear wearables in healthcare
+200915 conf.IEEE.comsnets comm systems and nets
+200915 conf+j.IFIP.perfomance
+200918 conf.ACM.SenSys smart iot systems
+200918 journal.hindawi intelligent techniques for infosecurity in IoT envs
+200920 conf.IFIP.IM experience session papers
+200924 conf.ACD.codeaspy data and app sec and privacy
+200925 conf+j.CVNET.springer
+200930 journal.IJCIS intel for manage social nets
+200930 journal.EAI.digitalSystems4Humans
+201001 mag.IEEEcommag network softwarization and mngmnt (opencall)
+201001 journal.mdpi intel sec IoT
+201010 conf.IEEE.MSN(tokyo) mobility sensing networking
+201015 journal.TNSM.cybersecurity sec manage nets services
+201015 journal.MDPI.ble bluetooth low energy
+201031 journal.Biosensors(JCR) machine learning
+201106 conf.VNC vehicular networking
+201200 journal.mdpi blockchain for 5g and IoT (opencall)
+210115 journal.ISF AI for covid

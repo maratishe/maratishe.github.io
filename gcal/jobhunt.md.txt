@@ -38,10 +38,10 @@ this file is generated automatically, do not make manual changes to it!
 2020-08-31 [<strike>東京電機大.人間情報学✘推薦書</strike>](#37848dfdf7)  
 2020-08-31 [<strike>滋賀県立大.センシング工学分野</strike>](#5a15378daf)  
 2020-08-31 [<strike>工学院大学.複合領域-デザイン学-総合理工-計算科学</strike>](#32698d566d)  
-2020-08-31 [工学院大学.情報学フロンティア-情報学](#28aaf90588)  
+2020-08-31 [<strike>工学院大学.情報学フロンティア-情報学✘推薦書</strike>](#f30c6a579f)  
 2020-08-31 [<strike>京都大.通信情報システム中✘試用</strike>](#85650c17d1)  
 2020-08-31 [<strike>株式会社Nextremer.計算科学.quantum</strike>](#840cca4261)  
-2020-08-31 [岡山理科大(ous).情報数理.情報工学.2posts](#1a7a819628)  
+2020-08-31 [<strike>岡山理科大(ous).情報数理.情報工学.2posts✘(still)toomuchwork</strike>](#f72003b137)  
 2020-08-31 [岡山大学.サイバーフィジカル情報の応用研究](#e9bdb6257a)  
 2020-08-31 [<strong>立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース★english</strong>](#1a938c377d)  
 2020-08-31 [<strong>東京都市大学・情報学</strong>](#3701387ba6)  
@@ -179,55 +179,13 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070882&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 岡山理科大(ous).情報数理.情報工学.2posts  (2020-08-31) <span id="1a7a819628"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：57  
-データ番号 ：D120061713 [NEW]  
-更新日 ：2020年07月01日  
-機関名 ：岡山理科大学  
-タイトル ：岡山理科大学 教授または准教授 公募（情報数理，情報工学分野）  
-研究分野 ：情報学 - 全て  
-総合理工 - 計算科学  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061713&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061713&ln_jor=0&top_btn=1)  
-----------  
-No. ：58  
-データ番号 ：D120061714 [NEW]  
-更新日 ：2020年07月01日  
-機関名 ：岡山理科大学  
-タイトル ：岡山理科大学 教授または准教授 公募（計算機工学，情報工学分野）  
-研究分野 ：情報学 - 全て  
-工学 - 電気電子工学  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年08月31日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061714&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061714&ln_jor=0&top_btn=1)  
-----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>岡山理科大(ous).情報数理.情報工学.2posts✘(still)toomuchwork</strike>  (2020-08-31) <span id="f72003b137"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>株式会社Nextremer.計算科学.quantum</strike>  (2020-08-31) <span id="840cca4261"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>京都大.通信情報システム中✘試用</strike>  (2020-08-31) <span id="85650c17d1"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 工学院大学.情報学フロンティア-情報学  (2020-08-31) <span id="28aaf90588"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 20  
-id : D120070867 [NEW]  
-update : 2020年07月15日  
-univ : 工学院大学  
-title : 工学院大学 情報学部 システム数理学科 教授の教員公募  
-field : 情報学 - 情報学フロンティア 情報学 - 情報学基礎 社会科学 - 経営学  
-post : 教授相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年08月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070867&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070867&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>工学院大学.情報学フロンティア-情報学✘推薦書</strike>  (2020-08-31) <span id="f30c6a579f"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>工学院大学.複合領域-デザイン学-総合理工-計算科学</strike>  (2020-08-31) <span id="32698d566d"></span> <span style="color:#666;">[→top](#top)</span>
 

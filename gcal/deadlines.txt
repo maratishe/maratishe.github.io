@@ -1,0 +1,2595 @@
+
+
+
+---deadline--- 200915 conf.3ICT.covid(free,online)
+Dear Colleagues,
+You are kindly invited to contribute to the 2020 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT2020), please forward to interested colleagues. 3ICT2020 is Technically Sponsored By IEEE Bahrain section & IET, UK, and will be held virtually on December 20-21, 2020. 3ICT2020 is organized by the University of Bahrain, KINGDOM OF BAHRAIN, in collaboration with Edge Hill University, King Abdulaziz University, Dubai University, and (CIRC) Sultan Qaboos University. The aim of 3ICT2020 is to provide a forum for researchers and industry practitioners to exchange the latest fundamental advances in the state of the art and practice of Computing, Advanced Technologies, and Innovative Research. Researchers present their latest research results and perspectives for future work in these areas of research. The conference includes but not limited to the following topics:
+
+1- COVID-19: Innovations and Technologies
+2- Financial Technology
+3- Artificial Intelligence
+4- Blockchain
+5- Cybersecurity
+6- Cloud Computing
+7- E-learning: challenges, transformation, and IT Solutions
+8- Internet of Things
+9- Women in Tech
+10- Smart Cities
+11- Big Data
+12- Telecommunication and Networking
+13- Informatics
+14- Software Engineering
+15- Robotics, Computer Vision, and HCI
+
+All papers registered and presented at 3ICT2020 conference will be submitted to IEEE Xplore (and Scopus). Authors of selected accepted papers presented at the conference will be invited to submit extended versions of their manuscripts for consideration in international reputable journals.
+
+For more details, please visit the conference website: http://iiict.uob.edu.bh/3ict20
+Submission Link: https://edas.info/N27509
+Registration Link: https://edas.info/r27509
+
+Important Dates:
+
+Submission of papers: September 15, 2020
+Acceptance notice (by Email): October 30, 2020
+Final Manuscript Due: November 30, 2020
+Early registration: November 30, 2020
+Preliminary Program: December 7, 2020
+Please contact iiict2018@uob.edu.bh for any further information.
+
+Past Conferences
+
+3ICT 2018&2019 IEEE Xplore: https://ieeexplore.ieee.org/xpl/conhome/1830644/all-proceedings
+3ICT 2018: http://iiict.uob.edu.bh/sites/it/
+3ICT 2019: http://iiict.uob.edu.bh/3ict19/
+
+Best Regards,
+3ICT'20 Chair 
+
+
+
+
+---deadline--- 200930 journal.EAI.digitalSystems4Humans
+all for Papers
+
+Special issue on: "Digital Systems for Humans"
+ 
+Manuscript submission deadline: September 30, 2020
+
+Publication Opportunities
+Papers will be published in
+EAI Endorsed Transactions on Smart Cities
+indexed in CrossRef, OCLC, EuroPub, Publons among others!
+
+
+Submit paper
+In order to submit, please select the journal and choose the special issue.
+
+Scope & Topics
+The objective of this special issue is to discuss and share the most technology advances and social-economic aspects, experiences and innovations to make the smart city a reality. Proposed studies will report on the latest developments, achievements, deployments, technology trends, and research findings as well as initiatives relative to Smart Cities and their applications. The special issue stimulates discussion on Smart Cities Living Labs and experimental platforms that could allow to gain practices, experiences, realistic data on techno-social systems of system behavior, resilience and vulnerability.
+
+Topics of interest include but are not limited to, the following:
+
+Digital Transformation: Next Generation Networks, Big Data, Artificial Intelligence, IoT, Blockchain, Augmented Technology, 5G, Sensors, Cyber, Cloud,
+Well-being and Living: Healthcare, Education, Hygiene and Food Safety, Housing and Home, Environment, Sustainability, Climate Change,
+Urban Operations: Lighting, Water, Waste, Planning, Emergency Response, Forensics, Safety, Security and Privacy, Green Energy, Grid, Utilities, Resilience, Disaster Prevention,
+Economy: Tourism, Agriculture, Business and Entrepreneurship, Trade and Commerce, Upskilling Technology Incubation,
+Infrastructure: Transportation, Mobility, Buildings, Communication, ICT Network, Standards, Platforms, Frameworks
+Civic and Social Engagement: Governance, Policy, Funding, Inclusion, Public Services,
+Innovation and Living Labs: Experiments, Testing Platforms, Case Study, Test Beds, Application Scenarios and Real-world Deployments for Smart Cities
+Read more: Call for Papers
+
+
+This issue will be published in EAI Endorsed Transactions on Smart Cities an open-access, peer-reviewed journal abstracted/indexed in CrossRef, OCLC, EuroPub, Publons, among others. It focuses on applications for Smart Cities with leverage on big-data applications, ICT devices used in the factory of the future, HPC, industrial processes, energy efficiency systems, social platforms and more. The journal publishes research articles, review articles, commentaries, editorials, technical articles, and short communications with a quarterly frequency. Authors are not charged for article submission and processing.
+
+
+Guest Editors:
+
+Fabien FERRERO - Université Côte d’Azur, France
+
+Nhan LE THANH - Danang University, Vietnam
+
+Van Ga BUI - University of Dasang, Vietnam
+
+
+
+
+
+---deadline--- 200914 conf.EAI.clouds
+December 11 - 13, 2020 | Qufu, People's Republic of China
+Submission Deadline: September 14, 2020 (late track)
+
+EAI is actively monitoring the COVID-19 situation to ensure the safety, comfort and quality of experience for attendees and a successful course of the event in 2020.
+
+EAI CloudComp is also welcoming submissions from authors who will be unable to attend the event in person due to restrictions caused by COVID-19. Accepted Authors will have the opportunity to present their paper online in an interactive virtual conference track
+that will be live-streamed to the entire EAI Community.
+
+In case the situation prevents the event from taking place in its original location, it will be held fully in an interactive, live online setting. In both cases, all matters related to publication and indexing will remain unchanged.
+
+Accepted Authors will be notified about the final decision regarding the conference format before the Camera-ready deadline.
+
+SCOPE
+CloudComp 2020 aims to bring together academic researchers, industry developers and domain users to discuss & share recent advances and viewpoints in cloud computing. The conference also aims at presenting the recent theories, experiences and results obtained in a wider area of cloud computing, giving users and researchers equally a chance to gain better insight on the capabilities, limitations and developing directions of current cloud computing paradigm.
+
+Conference topics: Cloud Architecture, Cloud Management, Cloud Applications
+
+Read More: Call for Papers
+
+We are pleased to invite you to submit your paper to CloudComp 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission). 
+
+Submit Paper
+CloudComp authors have enjoyed over 197.000 downloads.
+Top performing CloudComp paper is currently at 313 citations and counting!
+PUBLICATION
+
+All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.
+
+CloudComp proceedings are indexed in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).
+
+Authors of selected best accepted and presented papers will be invited to submit an extended version to:
+
+Wireless Networks (WINET) (IF: 2.659)
+Mobile Networks and Applications (MONET) Journal (IF: 2.602)
+All accepted authors are eligible to submit an extended version in a fast track of:
+
+EAI Endorsed Transactions on Cloud Systems
+Additional publication opportunities:
+
+EAI/Springer Innovations in Communications and Computing Book Series
+IMPORTANT DATES - LATE TRACK
+
+FULL PAPER SUBMISSION DEADLINE: SEPTEMBER 14, 2020
+
+NOTIFICATION DEADLINE: OCTOBER 1, 2020
+
+CAMERA-READY DEADLINE: OCTOBER 20, 2020
+
+CONFERENCE DATES: DECEMBER 11 - 13, 2020
+
+
+
+
+
+---deadline--- 200915 conf+j.IFIP.perfomance
+IFIP PERFORMANCE 2020 workshops are open for submissions.  We solicit contributions on themes related to the three workshops: Artificial Intelligence in Networks and Distributed Systems (WAIN), Cryptocurrency Analysis (SOCCA) and System Analytics and Characterization (SAC).  The deadlines are September 15th for WAIN and September 14th for SOCCA and SAC.  
+
+https://www.performance2020.deib.polimi.it/workshops-2/
+
+All accepted papers will appear at Performance Evaluation Review (PER) and will be presented virtually at the conference, which will go fully online.
+
+Submissions should take the form of a short paper, not to exceed 4 pages in length, in ACM PER format.
+
+More details on the workshops follow below.
+
+
+
+
+
+WAIN - 2nd Workshop on AI in Networks and Distributed Systems
+
+Co-located with IFIP Performance 2020
+
+6th November 2020, remote presentation only
+
+Website: https://www.performance2020.deib.polimi.it/wain
+
+ 
+
+Submission deadline: September 15th, 2020 (Anywhere on Earth), papers must be 3-4 pages long
+
+
+
+
+
+
+---deadline--- 200925 conf+j.CVNET.springer
+CALL FOR PAPERS 
+CVNET 2020: The First International Workshop on Cooperative Vehicular NETworking 
+ November 17th, 2020
+https://sites.google.com/usmba.ac.ma/cvnet2020
+
+To be held in conjunction with
+ EAI ADHOCNETS 2020 - 12th EAI International Conference on Ad Hoc Networks
+November 17-18, 2020
+https://adhocnets.eai-conferences.org/2020/
+************************************************************************************************************************************************************************************
+
+About the Workshop:
+Cooperative vehicular networking is widely acknowledged as a key enabler of the next generation of Intelligent Transportation Systems (ITS), known as Cooperative-ITS. The range of application of C-ITS is very large, including driving assistance - cooperative awareness, cooperative intersection management, cooperative platoon control, etc. Thanks to V2X (Vehicle-to-everything) communication technology, all ITS actors (vehicles, infrastructure and other road users) can cooperatively exchange real time information, leading to increasing levels of safety and efficiency. The V2X technology combines different communication technologies, from short and medium range ad-hoc direct communication to 3G/4G (future 5G) cellular network communication to realize vehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I) and vehicle-to-person (V2P) network connections. Developing C-ITS applications has to cope with many challenges, related to control theory and signal processing as well as wireless communication. C-ITS applications impose different requirements in terms of latency, throughput, reliability on the network and safety of the V2X environment.
+
+The CVNET workshop intends to cover all aspects of vehicular communication technologies and cooperative V2X systems. It aims to bring together engineers and scientists from both academia and industry to exchange ideas and foster discussion about the main challenges facing the deployment of C-ITS. The topics are not only limited to vehicular networks but also include applications of intelligent transportation systems, safety systems, connected vehicles and telematics.
+
+Workshop Topics:
+Areas of interest include, but are not limited to:
+Cooperative V2X communication
+Routing and protocols for cooperative V2X systems
+Big data, machine learning, and artificial intelligence technologies for V2X
+Vehicular networks and systems management
+Cross-layer design and optimization for vehicular networks
+Security and privacy issues in vehicular communication environment
+Vehicular data mining
+Architectures, algorithms and protocols design for data dissemination, processing, and aggregation in vehicular networks
+Heterogenous vehicular networks (ITS-G5, 3G/4G/5G,...)
+Vehicular data services
+Safety and non-safety automotive applications
+
+Submission guidelines:
+We solicit both theoretical and technical papers describing original and unpublished research, not currently under review by another conference. Accepted papers will be published in proceedings of the EAI ADHOCNETS, and will be submitted for publishing by Springer and made available through SpringerLink Digital Library. Papers are to be submitted electronically as pdf files via the EasyChair system.
+
+Submission Link: https://easychair.org/conferences/?conf=cvnet2020
+
+Important dates:
+  - Submission deadline: September 25th, 2020
+  - Author notification: October 15th, 2020
+  - Camera-ready deadline: October 30th, 2020
+  - Workshop date: November 17th, 2020  
+
+--
+Afaf Bouhoute
+Assistant Professor
+At Faculty of Science, Fez, SMBA University, Morocco
+Laboratoire de Physique Appliquée, Informatique et Statistique (LPAIS) 
+e-mail: afaf.bouhoute@usmba.ac.ma, afaf.bouhoute@gmail.com 
+
+
+
+
+
+---deadline--- 200912 conf.IEEE.TPS.intelsystems.apps
+The Second IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2020)
+
+Dec 1-3, 2020. FULLY VIRTUAL
+(Co-located with IEEE CIC and IEEE CogMI)
+http://www.sis.pitt.edu/lersais/conference/tps/2020/
+
+Important Dates
+
+ 
+Abstract Submission (optional)
+Sept. 12, 2020
+Full Paper Submission
+Sept. 20, 2020
+Notification of Acceptance
+Oct. 20, 2020
+Camera-ready Submission
+Nov. 4, 2020
+                
+Because of COVID-19, we have decided to reschedule the conference on Dec 1-3 as a FULLY VIRTUAL event.
+
+Recent advances in computing and information technologies such as IoT, mobile Edge computing, Cloud computing, cyber-physical-social systems, Artificial Intelligence, Machine Learning, Deep Learning, etc., have paved way for creating next generation smart and intelligent systems and applications that can have transformative impact in our society while accelerating rapid scientific discoveries and innovations. Such newer technologies and paradigms are getting increasingly embedded in the computing platforms and networked information systems and infrastructures that form the digital foundation for our personal, organizational and social processes and activities. It is increasingly becoming critical that the trust, privacy and security issues in such digital environments are holistically addressed to ensure the safety and well-being of individuals as well as our society.
+
+IEEE Conference on Trust, Privacy and Security in Intelligent Systems,  and Applications (IEEE TPS-ISA) is an international multidisciplinary forum for presentation of state-of-the art innovations, and discussion among academic, industrial researchers, and practitioners on issues related to trust, privacy and security in emerging smart and intelligent systems and applications.
+
+ 
+Topics
+
+Topics of interest are broadly from the areas of trust, privacy and security in emerging smart and intelligent systems and applications. Please check the conference website for details.
+
+Tracks
+
+TPS2020 will have the research track, industry/government track, and blue-sky/vision track. Please check the website for submission details.
+
+Panels and Tutorials
+
+We welcome panel and tutorial proposals. Please check the website for details.
+
+Awards
+
+IEEE TPS will feature a Best Paper Award and a Best Student Paper Award (to be selected by the program committee/best paper award team). A paper is eligible for the Best Student Paper Award if the first author is a full-time student at the time of submission. A partial travel grant or cash award may be offered to the winner student depending on fund availability.
+
+ 
+
+
+
+
+
+---deadline--- 200912 conf.IEEE.CIC.collaboration
+
+The 6th IEEE International Conference on Collaboration and Internet Computing (IEEE CIC 2020)
+
+(Co-located with IEEE CogMI, IEEE TPS)
+
+Dec 1-3, 2020. FULLY VIRTUAL
+http://www.sis.pitt.edu/lersais/conference/cic/2020/
+
+Important Dates (Round 2 Submissions)
+
+ 
+Abstract Submission (optional)
+Sept. 12, 2020
+Full Paper Submission
+Sept. 20, 2020
+Notification of Acceptance
+Oct. 20, 2020
+Camera-ready Submission
+Nov. 4, 2020
+                
+
+Because of COVID-19, we have decided to reschedule the conference on Dec 1-3 as a FULLY VIRTUAL event.
+
+Internet has revolutionized the globalized society and enabled the growth of infrastructures, applications, and technologies that significantly enhance global interactions and collaborations that have significant impact on society. Unprecedented cyber-social, and cyber-physical infrastructures and systems that span geographic boundaries are possible because of the Internet and the growing number of collaborations enabling technologies. Individuals and organizations have increasingly relied on electronic and/or Internet-enabled collaboration between distributed teams of humans, computer applications, and/or autonomous robots to achieve higher productivity and produce collaboratively developed products that would have been impossible to develop without the contributions of multiple collaborators.
+
+Technology has evolved from standalone tools, to open systems supporting collaboration in multi-organizational settings, and from general purpose tools to specialized collaboration platforms. Future collaboration and Internet computing solutions that further the goal of achieving the full potential of global level collaboration require advancements in networking, technology and systems, user interfaces and interaction, cooperation and collaboration paradigms, and interoperation with application-specific components and tools.
+
+IEEE Conference on Collaboration and Internet Computing (IEEE CIC) has been conceived as the key multidisciplinary venue to serve as a premier international forum for discussion among academic and industrial researchers, practitioners, and students interested in Internet technologies, applications and services, collaborative networking, technology and systems, and applications.
+
+Topics
+
+Topics of interest are broadly from the areas of Internet technologies, applications and services, collaborative networking, technology and systems, and applications. Please check the conference website for details.
+
+Tracks
+
+CIC2020 will have the research track, industry/government track, and blue-sky/vision track. Please check the website for submission details.
+
+Panels and Tutorials
+
+We welcome panel, and tutorial proposals. Please check the web site for details.
+
+Awards
+
+IEEE CIC will feature a Best Paper Award and a Best Student Paper Award (to be selected by the program committee/best paper award team). A paper is eligible for the Best Student Paper Award if the first author is a full-time student at the time of submission. A partial travel grant or cash award may be offered to the winner student depending on fund availability.
+
+
+
+---deadline--- 200907 conf.HPCS.highperf
+
+
+Call for Papers
+
+---------------
+
+International Symposium on High Performance Mobile Computing & Wireless Networks for HPC (MCWN 2020) As part of The 18th International Conference on High Performance Computing & Simulation (HPCS 2020)
+
+10 - 14 December, 2020, Barcelona, Spain (Virtual)
+
+http://hpcs2020.cisedu.info/2-conference/symposia-hpcs2020/symp03-mcwn
+
+ 
+
+All accepted and presented papers will be included in the HPCS 2020 conference proceedings. HPCS Proceedings are planned to be published in IEEE XPLORE and indexed by all major indexing services including SCOPUS, EI, SCI, dblp, etc.
+
+ 
+
+IMPORTANT DATES
+
+---------------
+
+Paper Submission: 07 September, 2020
+
+Notification: 28 September, 2020
+
+Camera-Ready: 09 October, 2020
+
+------------------------------------------------------------
+
+Submission link:   https://easychair.org/my/conference?conf=mcwn2020#
+
+------------------------------------------------------------
+
+Welcome to the International Symposium on High Performance Mobile Computing & Wireless Networks for HPC (MCWN 2020) taking place in Barcelona, Spain. As part of HPCS conference, MCWN 2020 will target original work focusing on modeling, performance analysis, testbeds, and simulation results in the areas of mobile and wireless networks, mobile computing, applications and systems. MCWN 2020 is aiming to attract a large number of high-quality submissions and stimulate cutting-edge research discussions among many academic researchers/scientists and industrial engineers/leaders from all around the world, especially with the intersection of mobility and future integrated HPC systems.
+
+ 
+
+Submission Instructions:
+
+------------------------
+
+Papers should neither have been published elsewhere nor currently under review by another conference or journal. All papers must be written in English and formatted according to the standard IEEE 2-column format. The IEEE template can be found here: https://www.ieee.org/conferences/publishing/templates.html
+
+The symposium accepts three types of submissions, specifically regular papers (5 to 8 pages), short papers (3 to 4 pages), and poster papers.
+
+ 
+
+The Symposium topics include (but are not limited to) the following:
+
+    Mobility and High Performance Computing Systems
+
+Mobile Cloud Computing for High-availability Computing
+
+    Mobility, Data Centers, and Data Analytics with HPC Environments
+
+    Internet of Things and High Performance Computing
+
+    Sensors Networks in High Performance Computing
+
+    Mobile Message Passing
+
+    Mobility Models for Opportunistic Networks
+
+    Machine Learning in mobile and wireless Communication Networks
+
+    Novel Architectures, Middleware Support, Prototypes and Testbeds
+
+    Communication Protocols
+
+    Resilient High Performance Mobile Computing and Wireless Nets
+
+    Middleware for High-performance Computing in Mobile Systems
+
+    Real-time Wireless systems’ simulation and Performance Analysis Using HPC
+
+    HPC Based Self-configurable Mobile and Wireless Networks
+
+    Large Scale Mobile Systems and Schemes for High-performance Computing 
+
+    Reliable Mobile and Wireless Applications and Services and High-performance Computing
+
+    Mobile Urban Sensing and Crowdsensing
+
+    Mobile Social Networking and Applications
+
+    Context-aware Computing for High Performance Computing Systems
+
+    Content-centric Architectures, Content management and Distribution for Mobile Users
+
+    Resource Availability and Management for Mobile and Wireless High Performance Computing
+
+    Modeling and Simulation of Complex Mobile and Wireless Networks
+
+    System Prototypes, Measurements, Real Deployment, and Experiences
+
+    Security and Privacy issues for Wireless and Mobile Computing
+
+    Adaptive and Self-Organizing Networks
+
+    Energy harvesting and green communication techniques in mobile and wireless networks
+
+    Optical Networks and Interconnects
+
+    Network Modeling and Simulation, Design and Evaluation
+
+ 
+
+SYMPOSIUM ORGANIZERS
+
+--------------------
+
+Dr. Gabriel-Miro Muntean, Dublin City University, Dublin, Ireland
+
+Dr. Irina Tal, Dublin City University, Dublin, Ireland
+
+Dr. Ramona Trestian, Middlesex University, London, U.K.
+
+Dr. Ioan-Sorin Comşa, AICOMM, Cluj-Napoca, Romania.
+
+ 
+
+Covid-19 Announcement from HPCS2020
+
+-----------------------------------
+
+Under the extenuating circumstances due to the international pandemic, HPCS 2020 is going fully virtual/online. Accepted and presented papers in the HPCS 2020 will be published in the conference proceedings as usual and submitted for inclusion in the Digital Library after they are successfully presented at the virtual conference. Information and instructions on how to prepare for the virtual presentation will be posted on the conference website and sent separately. Registration fees for the HPCS 2020 will be adjusted accordingly and posted on the HPCS 2020 website as well.
+
+ 
+
+Kind Regards,
+
+Ramona
+
+ 
+
+Dr. Ramona Trestian
+
+Senior Lecturer in Computing and Communications Engineering
+
+Programme Leader BEng/MEng Computer Systems Engineering
+
+Design, Engineering and Maths | Faculty of Science and Technology
+
+ 
+
+Middlesex University
+
+The Burroughs, Hendon
+
+London
+
+NW4 4BT
+
+ 
+
+
+---deadline--- 200918 conf.ACM.SenSys smart iot systems
+Workshop on Cloud Continuum Services for Smart IoT Systems (CCIoT)
+
+Website: http://cciot.nz.comm.waseda.ac.jp
+
+Call for Papers
+
+Internet of Things (IoT) is one of the hottest topic in the field of communications and computing. Many cloud providers offers cloud/edge services for IoT, to handle big data, to apply AI technologies, to support massive IoT devices, and to provide low-latency control. At the same time 5G cellular networks have Massive IoT as reference scenario, for which a huge number of smart sensors/actuators must be connected with low latency. Cloud and edge computing on the one and 5G on the other hand push for an IoT cloud continuum aimed at simplifying the integration, development and delivery processes of future, cloud-native, IoT applications, also considering related security and privacy issues.
+
+There are many alternatives for cloud and networking services and technologies in forming cloud continuum for IoT. The objectives of this workshop are to create a forum for researchers and practitioners to discuss issues in applying cloud/edge computing and AI technologies to IoT systems, in networking IoT devices and federating IoT systems, and in development of IoT services exploiting the computing and networking capabilities of IoT systems, and to set a direction in forming a cloud continuum where IoT systems work together towards well-being of humankind.
+
+Important Dates:
+        • Deadline for paper submission: September 18, 2020
+        • Paper acceptance notification: October 9, 2020
+        • Workshop date: November 16, 2020
+
+Topics of Interest:
+Original papers are welcome on (but not limited to) the following cloud continuum services for smart IoT systems:
+
+        • Cloud/edge computing platform and services for IoT applications
+        • Computing continuum and IoT
+        • Cloud-native IoT applications
+        • Performance evaluation of IoT cloud and networking platforms
+        • Light virtualization technologies for constrained devices
+        • Application of machine learning and AI in cloud-native IoT systems
+        • Testbeds, prototypes, and field trials of smart IoT systems, including smart city, agriculture, metering, safety, and health
+        • IoT security and privacy of IoT devices and services
+        • Security protocols for IoT in 5G
+        • Blockchain-based IoT applications
+        • 5G Networks, IoT and Tactile Internet
+        • Network services for massive IoT
+        • Application of Information Centric Networking in IoT applications
+
+Submission Guidelines:
+Submitted papers must be unpublished and must not be currently under review for any other publication. Submissions must be full papers, at most 6 single-spaced 8.5” x 11” pages with 9-pt font size in two-column format, including figures and tables. As for references, submissions may include as many pages as needed.
+For more detail, please visit
+        http://cciot.nz.comm.waseda.ac.jp
+
+Organizers
+        • Antonio Skarmeta (University Murcia/Odin’S)
+        • Andrea Detti (University of Rome “Tor Vergata”)
+        • Hidenori Nakazato (Waseda University)
+        
+        
+
+
+
+---deadline--- 200918 journal.hindawi intelligent techniques for infosecurity in IoT envs
+
+We want to let you know that the submission deadline for the below Special Issue(s) is in the coming weeks – don't miss your opportunity to submit your paper for consideration!
+
+Submission Deadline: Friday, 18 September 2020
+Computational Intelligence Techniques for Information Security and Forensics in IoT Environments
+Lead Guest Editor: Zhili Zhou, Nanjing University of Information Science & Technology, Nanjing, China
+
+This Special Issue welcomes original research and review articles on the following topics:
+Computational intelligence theories and methodologies for IoT data security
+Deep learning feature-based IoT data search
+Perceptual visual content representation, modelling, and understanding in IoT
+View the full list of topics.
+Submit your manuscript
+Following acceptance, all papers will be published under a Creative Commons Attribution License – meaning your article will be freely available for anyone to access and you will retain full copyright of the article, ensuring your research will always remain yours. To enable this, all papers are subject to a one-time article processing charge (APC) if, after peer review, the manuscript is accepted for publication.
+
+If you do not currently have a paper ready for submission but would like to publish with us in the future, bookmark our open Special Issues page and check back regularly to view the latest Special Issues as they open.
+
+Best wishes,
+
+The Content Development Team
+
+specialissues@hindawi.com
+
+Hindawi.com | Twitter | Facebook | LinkedIn | YouTube
+
+This email was sent to maratishe@gmail.com from Hindawi Limited (Company number: 08671628, with registered address: Adam House, Third Floor, 1 Fitzroy Square London, London, W1T 5HF, UK) as you have interacted with Hindawi as an author, editor or reviewer. Hindawi respects your right to privacy and will not disclose your email address to any third parties without your consent. To see the types of information we may hold or collect about you and how we may use that information, please see our Privacy Policy.
+
+If you would like to change your preferences in relation to the email communication you receive from us, please visit our Preference Centre.
+
+If you prefer not to receive any further messages from Wireless Communications and Mobile Computing or Hindawi, please contact Privacy@hindawi.com or click here to unsubscribe from all Hindawi lists.
+
+
+
+
+---deadline--- 200907 conf.IEEE.cloudnet 
+The paper submission deadline for CloudNet 2020 has been
+extended to Sept. 7th 2020.
+
++-----------------------------------------------------------+
+|                                                           |
+|   9th IEEE International Conference on Cloud Networking   |
+|                     CloudNet 2020                         |
+|                                                           |
+|                   9-11 November 2020                      |
+|                   Virtual Conference                      |
+|         https://cloudnet2020.ieee-cloudnet.org            |
+|                                                           |
+|                     CALL FOR PAPERS                       |
+|                                                           |
++-----------------------------------------------------------+
+
+Cloud  Networking  has emerged  as a promising  direction for
+cost-efficient  and  reliable  service  delivery across  data
+communication  networks.  The  dynamic  location  of  service
+facilities and the  virtualization  of hardware and  software
+elements   are   stressing   the  communication  network  and
+protocols,  especially when  data centers  are interconnected
+through  the  Internet.  Emerging  technologies  like Network
+Function  Virtualization (NFV)  and  Software Defined Network
+(SDN)  can play significant roles by improving the dynamicity
+and  programmability  of  cloud  networks. Middlebox has been
+significantly   improved   the   agility  of  cloud   network
+deployment   and   management.  The  9th  IEEE  International
+Conference on Cloud Networking (IEEE CloudNet 2020),  part of
+the IEEE  Cloud  Computing  Initiative,  can  greatly promote
+research in cloud networks and emerging research areas.
+
+Topics of Interest (but not limited to):
+----------------------------------------
+
+Cloud network and resource management
+- Data Center Network Optimization and Management
+- Reliability of Data Center Network and Architecture
+- Energy-Efficient Datacenters and Networks
+- Cloud Traffic Characterization and Measurements
+- Cloud Traffic Engineering
+- Data Flow Management and Load Balancing
+- Cloud Storage Management
+- Green and Energy-Efficient Datacenters and Networks
+
+Cloud network and virtualization
+- Data Center Networks
+- Virtual Ethernet Switching, Data Center Bridging
+- Mobile Cloud Networking
+- Virtualization of Network Equipment
+- Software-Defined Networking
+- Network Function Virtualization
+- Middleware and Middleboxes
+
+Cloud network and supported services
+- Big Data Management
+- Data Analytics in Cloud
+- Network Services to support IaaS, PaaS, and SaaS
+- Unified User and Machine Mobility Management
+- Content and Service Distribution
+- Complementing Edge Computing with Data Center Networks
+
+Cloud network architecture
+- Control-Plane Architectures
+- Distributed Data Center Architectures
+- Routing in cloud networks
+- Intra-Cloud vs Inter-Cloud Management
+- Cloud Federation and Hybrid Cloud Infrastructure
+
+Cloud network security and privacy
+- Security, Privacy, and Confidentiality in Cloud Networking
+- Cloud Data Provenance and Data Loss Protection
+- Cloud Storage Security
+- Cloud Network Intrusion Detection/Prevention
+- Firewall and Deep Packet Inspection Systems in Cloud
+ Networks
+
+Authors  are  invited  to  submit original contributions that
+have  not  been  published   or  submitted   for  publication
+elsewhere.  Submissions must be in IEEE single-spaced double-
+column  style with a length  limitation of 6 pages (excluding
+references) for full papers  (oral presentation)  and 3 pages
+for  short  papers  (poster  presentation).  Accepted  papers
+will be submitted to IEEE Xplore.
+
+For more information please check
+https://cloudnet2020.ieee-cloudnet.org
+
+
+Important Dates:
+----------------
+- Submission deadline: Sept. 7th (Aug. 24th)
+- Acceptance notification: Oct. 7th
+- Camera-ready paper: Oct. 21st
+- Conference: Nov. 4th-6th
+
+
+
+
+
+---deadline--- 200920  conf.IFIP.IM  experience session papers
+
+*CALL FOR EXPERIENCE SESSION PAPERS*
+
+*IFIP/IEEE IM 2021*
+
+International Symposium on Integrated Network Management
+17-21 May 2020, Bordeaux, France
+http://im2021.ieee-im.org/
+
+*Submission Deadline: September 20, 2020*
+
+--------------------------------------------------------------------
+
+Submit your paper at: https://jems.sbc.org.br/home.cgi?c=3682
+Accepted formats: IEEE 2-column papers and annotated slides.
+
+--------------------------------------------------------------------
+
+The IFIP/IEEE IM 2021 symposium will include an Experience Session
+program.  Experience Sessions will complement the Technical Sessions
+with contributions that emphasize practical experiences and lessons
+learned in applying,  implementing, and deploying management
+technologies. They will focus on aspects  such as real-world deployment
+scenarios, experiences with the management of new services and
+technology, industrial applications of management technologies,
+implementation examples of new management technologies, organizational
+impact, and business cases. Experience Sessions are particularly aimed
+at decision makers and experts from industry.
+
+Topics of Interest:
+
+Specific topics include but are not limited to the ones listed below.
+Please refer also to the general Call for Papers.
+
+   * Management case studies and best practices
+   * Issues and experiences with practical deployments
+   * Software Defined Networks (SDN) and enabling technologies
+   * Internet and networking measurements tools  and datasets
+   * Passive and active big data Internet measurement solutions
+   * SDN frameworks, OpenFlow deployments
+   * Orchestration for SDN controllers
+   * Development experience using P4
+   * Network function virtualization (NFV) implementations
+   * Data center automation
+   * Management of cloud, virtualized environments
+   * Cloud service assurance
+   * Internet of things, cyber-physical systems
+   * 5G networks and services
+   * Smart grids / cities / environments
+   * Big data analytics in management
+   * Cognitive networks, deep learning, IA
+   * Building automation and management
+   * Experiences with autonomic networking and self-management
+   * Industrial system automation and management
+   * Cyber-security and risk management
+   * Green management, energy and performance efficiency
+   * Managing interactive media, content-centric environments
+   * Social networking infrastructure and management
+   * Management of emerging networks and services
+   * Advances in standardization
+   * Management information models
+   * Management standards and enabling technologies
+   * Integration technologies for management
+   * Event correlation, diagnostics, fault, performance management
+   * Billing and accounting models and service level management
+   * Business alignment of IT service management
+   * Organizational aspects of IT service management
+   * OSS/BSS development
+   * Virtualization of operation centers and help desks
+   * Service engineering and operational challenges
+   * Experiences with call home frameworks
+   * Managed service provider issues
+   * Service delivery and service assurance
+   * Experiences with process engineering and frameworks (ITIL, eTOM, ONAP)
+
+
+Submission Instructions:
+
+Authors are invited so submit their papers using the JEMS conference
+submission system at https://jems.sbc.org.br/home.cgi?c=3682
+
+Papers for the Experience Sessions must be written in English
+and adhere to one of the following two format options:
+
+   * Option 1: Annotated slides. Papers should have a visual in the
+upper half of a page and the explanatory text in the lower half. Paper
+submissions must not exceed 15 annotated visuals including title and
+references, in PDF only.
+
+   * Option 2: IEEE 2-column format. This is the same format as for
+Technical Sessions. Paper submissions must not exceed 6 pages, in PDF
+only.
+
+The papers accepted for publication in the Experience Sessions, and
+actually presented at the symposium by one of the authors (as per the
+IEEE no show  policy), will be published in the official electronic
+proceedings of IM 2021 in IEEE Xplore.
+
+For more information, please contact us at im21exptrackchairs@gmail.com
+
+Experience Session Co-chairs:
+
+Marc-Oliver Pahl, IMT Atlantique, France
+Rémi Badonnel, Telecom Nancy - University of Lorraine, LORIA/INRIA, France
+
+
+
+
+
+
+---deadline--- 201001  mag.IEEEcommag  network softwarization and mngmnt (opencall)
+
+    Call for Papers
+                              IEEE Communications Magazine
+                             Impact Factor 2019-2020 11.052
+               <https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35>
+
+                         Network Softwarization and Management Series
+
+
+=====================================================================================
+
+This series focuses on softwarization, management, and their integration in communication networks and
+their services. “Network softwarization” advocates for architectures that separate the software implementing
+network functions, protocols and services from the hardware running them. Propelled by the maturity of
+technologies like network function virtualization and software-defined networking, softwarization is radically
+changing the way communication infrastructures are designed and operated enabling rapid and innovative
+service creation. “Network management“ is about administering networks and supporting their operations.
+It aims to integrate fault, configuration, accounting, performance and security management in the network;
+to leverage the self-management, automation and autonomic capabilities of networks, and to move from a
+“managed object” paradigm to a “management by objective” one.
+
+The key role that software and management are increasingly playing in telecommunications is enabling
+unprecedented levels of abstraction, disaggregation, operation, integration, and programmability in
+network infrastructures and services. This Series publishes in-depth, cutting-edge, articles on state-
+of-the-art technologies and solutions bringing together the latest advances, innovations, open-source
+projects, case studies, research, and development in Network Softwarization and Management.
+
+Authors are invited to submit manuscripts in all topics within the scope of this Series including, but
+not limited to, the following:
+
+Main Paradigms and Systems for Network Softwarization and Management
+- Management of softwarized networks.
+- Softwarization of network management.
+- Network Operations and Automation, Autonomic and Self-management, Zero-Configuration Networking,
+Self-Driving Networking, Intent-based management, AI-assisted softwarization and management.
+
+Architectures and Methodologies
+- Software-Defined Networking, Network Function Virtualization, Service Function Chaining.
+- Network Slicing, Edge/Cloud-native Networking, Softwarized network architectures/infrastructures,
+cloud/edge-native networking.
+- Management and orchestration architectures, platforms and systems including integrated management,
+policy-based management, model-driven management.
+- End-to-end and multi-domain softwarized networks, multi-domain management, green operations and
+ management.
+- Network (Data, Control, Management, Service Planes) Programmability.
+- Service provisioning and management, service assurance, fulfillment and resilience, DevOps management.
+- Security and Reliability issues in Network Softwarization and Management
+
+Software Approaches, Resources and Functions
+- Network operating systems, network functions, cloud-native functions, interfaces, deployment and
+ integration with software-based control, management and orchestration.
+- Microservices, serverless computing and new software paradigms for managing and operating network
+ functions.
+- New Fault, Configuration, Accounting, Performance and Security (FCAPS) Management functions.
+- New telecom software and tools for Operating Support Systems (OSS) and Business Support Systems
+(BSS).
+
+Modelling, Measurement and Performance Analysis
+- Performance measurements and evaluation, monitoring, data analytics, validation and debugging for
+ network management and softwarized networks.
+- Network and service quality, performance, reliability, scalability, elasticity, resilience,
+maintainability, safety and security with guarantees.
+- Profiling and performance evaluation of softwarized network functions/components.
+- High precision networking, management of cyber-networking systems supporting physical/digital twins.
+
+
+Submission Guidelines
+
+Manuscripts must be submitted through the magazine’s submissions website, Manuscript Central
+(<mc.manuscriptcentral.com/commag-ieee>). You will need to register and then proceed to the author
+center. On the manuscript details page, please select the Network Softwarization and Management Series
+from the drop-down menu. Manuscripts should be  scientific-oriented and should not be under review for
+any other conference or journal. They should be written in a style comprehensible and accessible to readers
+outside the specialty of the article.  Mathematical equations should not be used. For detailed submission
+guidelines please refer to the magazine website for the list of Paper Submission Guidelines
+(<comsoc.org/publications/magazines/ieee-communications-magazine/author-guidelines/manuscript-submission>)
+that must be followed by all submissions to the IEEE Communications Magazine.
+
+Papers can be submitted anytime during the year. They will receive a review process, and, if accepted,
+they will be published in the first slot available for this Series.
+
+
+Series Editors
+
+Walter Cerroni
+University of Bologna, Italy
+
+Alex Galis
+University College London, UK
+
+Kohei Shiomoto
+Tokyo City University, Japan
+
+Mohamed Faten Zhani
+École de Technologie Supérieure (ÉTS Montreal), Canada
+
+In our role as Series Editors, we strive to achieve a fast, quality and selective review process for
+all submissions in order to quickly publish high-quality and cutting-edge papers on relevant topics
+in this area.
+
+
+
+
+
+---deadline--- 200910 conf.springer.MSPN  mobile prog. networks
+ 6th Springer International Conference on Mobile, Secure and Programmable Networking
+                     --- MSPN'2020 (Virtual)---
+          Paris, October 28-29, 2020
+            https://mspn2020.roc.cnam.fr/
+
+MSPN 2020 is the 6th edition of the successful International Conference on Mobile, Secure and Programmable Networking. It aims at providing an elicited forum for researchers and industrial practitioners to present and discuss emerging trends in networking infrastructures, distributed yet intelligent protocols, security, services and applications while focusing manifold vertical tools on machine leaning and artificial intelligence, network programming and Cloud computing, Industrial Internet of things, Digital Twins, etc. Position papers are also appreciated and solicited. It should be clearly marked as such.
+MSPN 2020 will be held VIRTUALLY from October 28 to October 29, 2020 in Paris, France.
+Topics of interests include the following tracks, but are not limited to:
+ - Technologies and Applications for new Generation Networks and Systems
+ - Security of new Generation Networks and Systems
+ - Artificial Intelligence and Machine Learning for new Generation Networks and Systems
+
+Important dates
+---------------
+Paper submission: September 10, 2020
+Notification of acceptance: October 5, 2020
+Final manuscripts due: October 18, 2020
+Conference: October 28-29, 2020
+
+Publication
+-----------
+
+The accepted papers will be published as post-proceedings in Springer's LNCS. Lecture Notes in Computer Science (LNCS) series is indexed by the ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI Web of Science, EI Engineering Index (Compendex and Inspec databases), ACM Digital Library, dblp, Google Scholar, Scopus, etc.
+
+Authors of selected articles will be invited to submit an extended version to a Special Issue of the MDPI Computers journal.
+
+
+
+
+
+
+---deadline--- 201015  journal.TNSM.cybersecurity  sec manage nets services
+IEEE TNSM SPECIAL ISSUE ON LATEST DEVELOPMENTS FOR SECURITY MANAGEMENT OF NETWORKS AND SERVICES
+https://www.comsoc.org/publications/journals/ieee-tnsm/cfp
+
+-----------------------------------
+
+Submission Deadline: October 15, 2020
+
+Dear Colleagues:
+
+We cordially invite you to share your latest research results by submitting your manuscript to the IEEE Transactions on Network and Service Management Special Issue on "Latest Developments for Security Management of Networks and Services".
+
+------------------------
+CALL FOR PAPERS
+------------------------
+
+As the backbone of communications amongst objects, humans, companies, and administrations, the Internet has become a great integration platform capable of efficiently interconnecting billions of entities, from RFID chips to data centers. This platform provides access to multiple hardware and virtualized resources (servers, networking, storage, applications, connected objects) coming from cloud computing and internet-of-things infrastructures. From these resources that may be hosted and distributed amongst different providers and tenants, the building and operation of complex and value-added networked systems is enabled.
+
+These networked systems are, however, subject to a large variety of security attacks, such as distributed denial-of-service, man-in-the-middle, web-injection and malicious software attacks, orchestrated in a more or less stealthy manner through the Internet. While they are gaining in sophistication and coordination (i.e. advanced persistent threats), these attacks may affect the fundamental security goals of confidentiality, integrity, availability and non-repudiation of resources. The accessibility, distribution, and increased complexity of networked systems make them particularly vulnerable targets. In that context, cybersecurity techniques offer new perspectives for protecting these networked systems, through the elaboration of intelligent and efficient management methods for detecting, analyzing and mitigating such attacks.
+
+IEEE Transactions on Network and Service Management (IEEE TNSM) is a premier journal for timely publication of archival research on the management of networks, systems, services and applications. Following the success of the last recent TNSM special issue on cybersecurity techniques for managing networked systems in 2020, this special issue will also focus on latest developments for security management of networks and services. We welcome submissions addressing the important challenges (see the non-exhaustive list of topics below) and presenting novel research or experimentation results. Survey papers that offer a perspective on related work and identify key challenges for future research will be considered as well. We look forward to your submissions!
+------------------------
+ABOUT THE SPECIAL ISSUE
+------------------------
+
+Topics of interest for this special issue, include, but are not limited to the following:
+
+• Network and service management for security
+• Security of network and service management
+• Security management architecture, protocols and APIs
+• Secure and resilient design and deployment of networked systems
+• Monitoring and detection of threats and attacks
+• Artificial intelligence, machine learning for cyber-security
+• Analytics and big data for security management
+• Modeling for security management
+• Configuration and orchestration of security mechanisms
+• Algorithms for security management
+• Security automation, policy-based management
+• NFV-based security functions and services
+• Security of programmable components
+• Chaining and orchestration of security functions
+• Distributed security management
+• Intrusion detection, tolerance, and prevention
+• Resilience against large-scale distributed attacks
+• Trust and identity management
+• Verification and enforcement of security properties
+• Vulnerability prevention and remediation
+• Performance of security management
+• Security of cloud applications and services
+• Security of data-center infrastructures
+• Security of 5G networks and services
+• Security of smart environments
+• Security of Internet of Things
+• Security of SCADA, industrial and health networks
+• Security of SDN- and NFV-based systems
+• Network forensics, auditing and responses to incidents
+• Privacy-preserving solutions for cybersecurity
+• Detailed experience reports from experimental testbeds
+• Blockchains for security management
+• Security-related business, regulation and legal aspects
+
+------------------------
+SUBMISSION FORMAT
+------------------------
+
+Papers will be evaluated based on their originality, presentation, relevance and contribution to the field of management of software-defined virtualized systems, as well as their overall quality and suitability for the special issue. The submitted papers must be written in good English and describe original research which has not been published nor currently under review by other journals or conferences. Previously published conference papers should be clearly identified by the authors at the initial submission stage and an explanation should be provided of how such papers have been extended in order to be considered for this special issue.
+
+Author guidelines for preparation of the manuscript can be found at:
+http://www.comsoc.org/tnsm/author-guidelines
+For more information, please contact Remi Badonnel (remi.badonnel@loria.fr).
+
+------------------------
+SUBMISSION GUIDELINES
+------------------------
+
+All manuscripts and any supplementary material should be submitted through the IEEE ManuscriptCentral service located at: http://mc.manuscriptcentral.com/tnsm
+Authors must indicate in the submission cover letter that their manuscript is intended for the “Latest Developments for Security Management of Networks and Services” special issue.
+
+------------------------
+IMPORTANT DATES
+------------------------
+
+Paper submission date: October 15, 2020
+Notification of acceptance: February 15, 2021
+Publication date*: June 1st, 2021
+
+------------------------
+GUEST EDITORS
+------------------------
+
+Rémi Badonnel, Telecom Nancy – LORIA / INRIA, France
+Carol Fung, Virginia Commonwealth University, United States
+Sandra Scott-Hayward, Queen's University Belfast, United Kingdom
+Qi Li, Tsinghua University, China
+
+
+
+
+
+---deadline--- 200911  conf.IEEE.latincom  communications
+
+IEEE LATIN AMERICA CONFERENCE ON COMMUNICATIONS - VIRTUAL CONFERENCE
+NOV 18-20, 2020
+
+https://latincom2020.ieee-latincom.org
+
+NEW AND FIRM DEADLINE: SEP 11, 2020
+
+SUBMISSIONS: https://submissoes.sbc.org.br/latincom2020
+
+
+The IEEE Latin-American Conference on Communications (LATINCOM) is an
+international conference organized by the IEEE Communications Society
+(ComSoc). It is held annually and attracts submissions and participants
+from all around the world. It covers the scope of all ComSoc Technical
+Committees and has a broad technical program that includes comprehensive
+tutorials presenting the state-of-the-art in communications and renowned
+keynote speakers.
+
+In consideration of the current situation that humanity is experiencing,
+especially the research community and in accordance with the request for
+non-mobilization to combat COVID-19, the Organizing Committee of
+IEEE LATINCOM 2020, along with the Steering Committee, has decided that
+the conference will run as a virtual conference (i.e., using remote
+audio/video support) and not as an in-person event. Please note that the
+AUTHORS' REGISTRATION FEES WILL BE REDUCED ACCORDINGLY.
+
+
+
+KEYNOTE SPEAKERS
+****************
+
+Mohamed-Slim Alouini (King Abdullah University of Science and Technology,
+Saudi Arabia): Unleashing the Potential of Tethered Networked Flying
+Platforms.
+
+Zuqing Zhu (University of Science and Technology of China):
+Application-driven Virtual Network Slicing.
+
+Mohsen Guizani (Qatar University, Qatar): Security Schemes for Healthcare
+Devices in the IoT Era.
+
+Winston Seah (Victoria University of Wellington, New Zealand).
+
+Christos Verikoukis (Centre Tecnològic de Telecomunicacions de
+Catalunya)
+
+
+
+CONFERENCE PROCEEDINGS AND JOURNAL SPECIAL ISSUE
+************************************************
+Accepted and presented papers will be published in the IEEE LATINCOM 2020
+Conference  Proceedings and submitted to IEEE Xplore® as well as other
+Abstracting and Indexing (A&I) databases.
+
+
+The authors of selected best papers from the conference will be invited to
+submit an extended version in Spanish or Portuguese to the Special Issue
+on 5G and B5G Communications of the IEEE Latin America Transactions
+(https://latamt.ieeer9.org/index.php/transactions/announcement/view/31).
+
+
+
+
+CALL FOR PAPERS
+****************
+
+The LATINCOM 2020 Organizing Committee invitES the submission of original,
+unpublished, high-quality research papers focusing on (but not limited to)
+the following topics of interest:
+
+-       Ad-hoc and Sensor Networks
+-       Artificial Intelligence for Communications and Networks
+-       Big Data and Machine Learning for Communications and Networks
+-       Blockchain in Communications and Networks
+-       Cloud Computing, Edge Computing, and Internet of Things
+-       Communications and Information Security
+-       Communication QoS/QoE, Reliability & Modeling
+-       Communication Software, Services and Multimedia Applications
+-       Communications Theory and Systems
+-       Green, Cognitive, and Intelligent Communications and Networks
+-       Mobile and Wireless Networks
+-       Network and Service Management
+-       Network Science and Economics
+-       Next Generation Networking and Internet
+-       Optical Communications and Optical Networks
+-       Resource Management and Multiple Access
+-       Signal Processing for Communications
+-       Smart Grid and Power Line Communications
+-       Social Networks, Crowdsourcing and Crowdsensing
+-       Tactile Internet
+-       Underwater Communications and Networks
+-       Vehicular, Aerial, and Satellite Communications and Networks
+-       Wireless Communications
+
+
+
+In addition to papers for the main track, the LATINCOM 2020 Organizing
+Committee is inviting submissions to two special sessions:
+
+Next Challenges and Applications in Programmable Data Planes (Chair: Prof.
+Marcelo Caggiani Luizelli, University of Pampa - Brazil).
+
+Challenges and Applications in Hybrid VLC Communication Systems (Chair:
+Prof. Cesar Arzudia, University of Chile, Chile)
+
+
+
+Papers for the main track and special sessions must be written  in
+English, unpublished  and not considered  in  the  review  process  of
+other  conferences or journals.  Full  papers  must be formatted as the
+standard IEEE double-column  conference template and submitted exclusively
+in PDF on JEMS (https://submissoes.sbc.org.br/latincom2020). Maximum 6
+pages  are allowed for each paper, including all illustrations and
+references.
+
+
+
+CALL FOR TUTORIALS
+******************
+
+The LATINCOM 2020 Organizing Committee is also inviting submissions of
+tutorials in the areas mentioned above. A tutorial proposal must be
+submitted in PDF format, containing the following information:
+-       Title of the tutorial
+-       Abstract, objectives and motivation
+-       Timeliness and intended audience
+-       Name, affiliation, and a short biography of each tutorial speaker
+-       A description of the technical issues that the tutorial will address,
+emphasizing its timeliness
+-       An outline of the tutorial content, including its tentative schedule.
+
+Please take under consideration the virtual manner of the conference when
+laying out the schedule
+-       If appropriate, a description of the past/relevant experience of the
+speaker on the topic of the tutorial.
+-       A description of previous tutorial experience of the speaker(s), and
+past versions of the tutorial
+
+Tutorial proposals must also be submitted online via JEMS on the following
+link:
+https://submissoes.sbc.org.br/latincom2020
+
+
+
+IMPORTANT DATES
+***************
+- Paper submission hard-deadline for main track: September 11, 2020
+- Paper submission hard-deadline for special sessions: September 11,  2020
+- Submission of tutorial proposals (hard-deadline): September 11, 2020
+- Notification of acceptance: October 7, 2020
+- Camera-ready papers: October 15, 2020
+
+
+
+ORGANIZING COMMITTEE
+********************
+General Co-Chairs
+- Fabrizio Granelli, University of Trento, Italia
+- Carlos Lozano-Garzon, Universidad de los Andes, Colombia
+
+
+Technical Program Co-Chairs
+- Octavia A. Dobre, Memorial University, Canada
+- Oscar Mauricio Caicedo Rendon, Universidad del Cauca, Colombia
+
+Keynote & Tutorials Chairs
+- Marco Antonio To De León, Universidad Galileo, Guatemala
+- Carlos A. Gutierrez, UASLP, México
+
+Publicity Chair
+- Nury Gabriela Ramirez Cely, Continental, Mexico
+
+Publication Chair
+- Ramiro Velazquez, Panamericana University, Mexico
+
+
+STEERING COMMITTEE
+
+- Stefano Bregni (chair)
+- Carlos A. Gutierrez
+- Carlos Lozano Garzon
+- Fabrizio Granelli
+- Jose-David Cely
+- Marco To De Leon
+- Lisandro Zambenedetti Granville
+- Nelson Fonseca
+- Nury Gabriela Ramirez Celi
+- Pedro Aguilera
+
+IEEE Communications Society
+
+- Tina Gaerlan, Senior Conference Planner
+- Bruce Worthman, Treasurer
+
+
+
+
+---deadline--- 200924  conf.ACD.codeaspy  data and app sec and privacy
+
+********************************************************************************
+11th ACM Conference on Data and Application Security and Privacy.
+April 26 - 28, 2021.
+Taking place virtually.
+********************************************************************************
+
+Data and applications security and privacy has rapidly expanded as a research field with many important challenges to be addressed. The goal of the ACM Conference on Data and Applications Security (CODASPY) is to discuss novel, exciting research topics in data and application security and privacy, and to lay out directions for further research and development in this area.
+
+The conference seeks submissions from diverse communities, including corporate and academic researchers, open-source projects, standardization bodies, governments, system and security administrators, software engineers and application domain experts. Topics of interest include, but are not limited to:
+
+- Application-layer security policies
+- Access control for applications
+- Access control for databases
+- Data-dissemination controls
+- Data forensics
+- Data leak detection and prevention
+- Enforcement-layer security policies
+- Privacy-preserving techniques
+- Private information retrieval
+- Search on protected/encrypted data
+- Secure auditing
+- Secure collaboration
+- Secure data provenance
+- Secure electronic commerce
+- Secure information sharing
+- Secure knowledge management
+- Secure multiparty computation
+- Secure software development
+- Securing data/apps on untrusted platforms
+- Securing the semantic web
+- Security and privacy in GIS/spatial data
+- Security and privacy in healthcare
+- Security and privacy in the Internet of Things
+- Security policies for databases
+- Social computing security and privacy
+- Social networking security and privacy
+- Trust metrics for applications, data, and users
+- Usable security and privacy
+- Web application security
+
+CODASPY 2021 will also feature a dataset and tool paper track, which will provide a unique venue for researchers and practitioners to make available and citable their work done to achieve datasets or tools relevant in security and privacy domain. Papers accepted in this track have to describe the available datasets or reporting on the design and implementation of application security and privacy tools. Dataset/tool papers are limited to 6 pages.
+
+
+Instructions for Research Paper Authors
+Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal, conference or workshop. Simultaneous submission of the same work is not allowed.
+
+Submissions must be at most 12 pages in double-column ACM format (as specified at ACM Proceedings Template: https://www.acm.org/publications/proceedings-template). Submissions must be anonymized and avoid obvious self-references. Only PDF files will be accepted. Submissions not meeting these guidelines will be rejected without review.
+
+Submissions should be made electronically at EasyChair CODASPY 2021: https://easychair.org/conferences/?conf=codaspy2021.
+
+
+Instructions for Dataset/Tool Paper Authors
+Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal, conference or workshop. Simultaneous submission of the same work is not allowed.
+
+Submissions must be at most 6 pages in double-column ACM format (as specified at ACM Proceedings Template: https://www.acm.org/publications/proceedings-template). Submissions must be anonymized and avoid obvious self-references. Only PDF files will be accepted. Submissions not meeting these guidelines will be rejected without review.
+
+Submissions should be made electronically at EasyChair CODASPY 2021: https://easychair.org/conferences/?conf=codaspy2021.
+
+
+Important Dates
+
+Abstract submission deadline: September 24, 2020, 23:59 anywhere in the world
+
+Research paper submission deadline: October 1, 2020, 23:59 anywhere in the world
+
+Dataset/tool paper submission deadline: October 1, 2020, 23:59 anywhere in the world
+
+Rebuttal phase: November 28 - December 3, 2020
+
+Notification to (conference) authors: December 11, 2020
+
+
+COVID-19
+
+CODASPY 2021 will be a virtual event. However, should COVID-19 circumstances allow, the conference will include an in-person optional component in the USA. Participation in the in-person component will be entirely at authors' and attendees' discretion. All authors of accepted papers will have the option to present and participate virtually.
+
+
+Organization
+Program Co-Chairs
+
+Barbara Carminati, University of Insubria, Italy
+Rakesh M. Verma, University of Houston, USA
+
+
+
+
+---deadline--- 200910 conf.CNSM.workshops   future evolution of internet protocols
+
+Dear colleagues,
+
+Apologies in advance for any cross-posting!
+
+This year, there are two workshops co-located with CNSM 2020. 
+
+— International Workshop on Analytics for Service and Application Management
+
+— International Workshop on the Future Evolution of Internet Protocols
+
+The deadline for paper submission to workshops is: September 10, 2020.
+
+Authors will present their work virtually to ensure both the safety of participants and wide dissemination. Thus, the registration rates will be very low.
+
+Please consider submitting. More information is available at: http://www.cnsm-conf.org/2020/workshops.html
+
+Kind regards,
+Nur Zincir-Heywood, Mehmet Ulema, Muge Sayit, Stuart Clayman
+
+
+
+
+
+---deadline--- 200930  journal.IJCIS  intel for manage social nets
+Journal name: International Journal of Computational Intelligence Systems
+ 
+Special Issue on  "Computational Intelligence for the Development, Security, and Management of Social Networks"
+Atlantis Press-Amsterdam-Beijing-Paris
+
+Special issue circular details:
+
+https://assets.ctfassets.net/b4d0t67iwrjs/730tgKCUZ7FsYHcO1XABjp/5ce7ba4c0436fc26353fb0b28e63d4f5/SI_CFP_Social-Networks.pdf
+
+Aims and Scope
+
+Social network (SN) is a social structure and it is the combination of networks and graph theory. A SN contains two major parameters, viz. nodes (individual actors, people, or things within the network) and the edges, ties or links (interactions  or relationships) that connect nodes. In SNs, social structures are visualized, e.g. friendship and acquaintance networks, social media networks, business networks, information circulation, knowledge networks, difficult working relationships, disease transmission,  collaboration graphs, kinship, sexual relationships, etc. These networks are sometimes visualized using sociograms  where nodes are represented by points and edges are represented by lines. Now-a-days a huge amount of people are using SN throughout the globe and hence social network analysis becomes an important issue and it is a key technique in modern sociology. The mobile and Internet technologies have been the primary force behind the rise of social media, providing technological platforms for information dissemination,  interactive communications, content generation etc.
+
+Analysis of SN is used extensively in a wide range of applications and disciplines, e.g.   data aggregation and mining, network propagation modeling, network modeling and sampling, user attribute and behavior analysis, community-maintained resource support, location-based interaction analysis, social sharing and filtering, recommender systems development, and link prediction and entity resolution, businesses use social network analysis to support activities such as customer interaction and analysis, information system development analysis, marketing, and business intelligence needs,  development of leader engagement strategies, analysis of individual and group engagement and media use,  community-based problem solving and many more.
+
+Today, consumers constantly interact with social media. Companies are very eager to take advantage of our constant engagement with platforms such as Facebook, Twitter, Snapchat, etc. As a result, a growing number are incorporating artificial intelligence (AI) in social media to better connect with potential customers. Just a single click can impact what notifications pop up on our social media accounts, viz. posts, advertisements, friend suggestions, and more due to the use of AI.
+
+ 
+
+This special issue focuses on bringing together researchers and practitioners from both academia and industry to develop and manage SN. The aim of this special issue is provide a forum in which to publish state-of-the-art articles for development, security, management, etc. of SN.
+
+ 
+
+Main Topics and Quality Control
+
+This special issue will contain the high-quality research articles on various issues of SN.
+
+The major topics of interest include, but are not limited to:
+
+ 
+
+·         Design of social network
+
+·         Performance analysis
+
+·         Community structure
+
+·         Digital humanities
+
+·         Dynamic network analysis
+
+·         Friendship paradox
+
+·         Mathematical sociology
+
+·         Network-based diffusion analysis
+
+·         Security analysis of social network
+
+·         Social media analytics
+
+·         Social media mining
+
+·         Social network analysis software
+
+·         Social networking service
+
+·         Software for social network
+
+·         Social network in class room
+
+·         Textual analysis
+
+·         Applications of social network
+
+·         Intelligence system for social media
+
+·         Social media analytics
+
+·         Computational aspect in social media
+
+·         Web intelligence
+
+·         Internet and networks
+
+·         Fuzzy logic and social network
+
+ 
+
+ 
+
+Full papers will be subject to a strict review procedure for final selection to this special issue based on the following criteria:
+
+·         Quality, originality and relevance in theory, methodology and application in social network;
+
+·         Extended papers must contain at least 40% new material (qualitative) relative to the conference paper.
+
+ 
+
+Important Dates
+
+Submission of papers: 30  September 2020
+
+Notification of review results: 30 November 2020
+
+Submission of revised papers: 30 December 2020
+
+Notification of final review results: 30 January 2021
+
+ 
+
+ 
+
+Submit your paper
+
+All papers have to be submitted via the Editorial Manager online submission and peer review system. Instructions will be provided on screen and you will be stepwise guided through the process of uploading all the relevant article details and files associated with your submission. All manuscripts must be in the English language.
+
+
+To access the online submission site for the journal, please visit
+
+https://www.editorialmanager.com/ij-cis/default.aspx
+
+
+
+Special Issue Editor
+
+Madhumangal Pal
+
+Vidyasagar University, India
+
+Email: mmpalvu@gmail.com
+
+ 
+
+
+
+---deadline--- 200904  conf+j.candar(naha)  
+
+Eight workshops held conjunction with the Eighth International
+Symposium on Computing and Networking
+
+https://is-candar.org/workshops
+
+Naha(virtual), Okinawa, Japan, November 24-27, 2020
+
+ **** Special announcement regarding COVID-19 situation ****
+-       Due to the COVID-19 situation, CANDAR 2020 will be held
+virtually this year.
+-       The review process will be conducted as in previous editions.
+-       The details of online presentation will be informed later.
+-       All accepted papers will be published on IEEE CPS as previous years.
+
+[Introduction]
+Following the success of past CANDAR symposiums 2013 in Matsuyama,
+2014 in Shizuoka, 2015 in Sapporo, 2016 in Hiroshima, 2017 in Aomori,
+2018 in Takayama, 2019 in Nagasaki CANDAR 2020 will be held in Naha,
+Okinawa, Japan. CANDAR 2020 will serve as a forum for exchanging the
+latest findings and experiences ranging from theoretical research to
+practical system development in all aspects of computing and
+networking including parallel and distributed systems, algorithms,
+architectures, and applications. In addition to technical sessions
+consisting of contributed papers, the symposium will include invited
+presentations, poster sessions, tutorials, and workshops. We believe
+that participants will get new ideas and insight of computing and
+networking. CANDAR'20　will be held in Okinawa, Japan, from November
+24-27, 2020.
+
+[Publication]
+The main symposium Proceedings (CANDAR) and workshop Proceedings
+(CANDARW) will be published by Conference Publishing Service (IEEE
+CPS) and submitted to IEEE Xplore and CSDL digital libraries. Also
+they are submitted for indexing through INSPEC, EI (Compendex),
+Thomson ISI, and other indexing services.
+
+[Workshops] The authors should select one of the workshops to submit a paper.
+ASON: 13th International Workshop on Autonomous Self-Organizing Networks
+CSA: 8th International Workshop on Computer Systems and Architectures
+GCA: 5th International Workshop on GPU Computing and AI
+LHAM: 7th International Workshop on Large-scale HPC Application Modernization
+PDAA: 11th International Workshop on Parallel and Distributed
+Algorithms and Applications
+SUSCW: 3rd Sustainable Computing Systems Workshop
+WICS: 7th International Workshop on Information and Communication Security
+WANC: 11th International Workshop on Advances in Networking and Computing
+
+[Submission]
+Please see https://is-candar.org/workshop_submission
+
+[Special Issue]
+We plan to publish extended versions of selected papers from CANDAR
+main symposium and workshops in
+-       IEICE Transactions on Information and Systems (pending approval)
+-       Concurrency and Computation: Practice and Experience
+-       International Journal of Networking and Computing
+
+[Important Dates]
+Workshop abstract submission due: September 6, 2020 (extended, firm)
+Workshop paper submission due: September 11, 2020 (extended, firm)
+Workshop paper notification: October 9, 2020
+Final camera-ready paper: October 23, 2020
+Symposium: November 26-29, 2020
+
+
+
+
+
+---deadline--- 201106  conf.VNC  vehicular networking
+
+The 2020 IEEE Vehicular Networking Conference (VNC 2020)
+December 16?18, 2020 | Virtual Conference
+http://www.ieee-vnc.org
+**********************************************************************************
+************
+The Conference
+************
+The IEEE Vehicular Networking Conference (VNC) is the premiere conference on vehicular networks and applications. It brings together researchers, professionals, and practitioners to share the latest results and to brainstorm the next phases of exploration in the foundations, technologies, and applications of vehicular communication networks. The 2020 VNC will be held virtually between December 16-18, 2020.
+
+************
+Important Dates
+************
+Full/short paper submission deadline: September 18, 2020, 23:59 AOE (Anywhere on Earth, UTC-12)
+Demo/Poster paper Submission Deadline: September 30, 2020, 23:59 AOE (Anywhere on Earth, UTC-12)
+Acceptance notification: November 6, 2020
+Camera ready paper due: November 20, 2020
+Presentation videos due: December 4, 2020
+Conference: December 16-18, 2020
+
+************
+Topics of Interest
+************
+Connectivity
+
+       * 5G technologies for connected vehicles
+       * Emerging V2X communication technologies, including dynamic spectrum sharing, mmWave, massive MIMO, beamforming, and vehicular visible light communications (VLC)
+       * Networking, transport and QoS management for vehicular networks
+       * In-vehicle communication and networking systems
+       * Radio for vehicular networks: channel measurements, propagation models, antenna design, etc
+
+Architecture and System Design
+
+       * Heterogeneous vehicular networking (e.g., multi-radio, multi-channel, multi-application, multi-technology)
+       * Architectures and system designs for connected, automated driving
+       * Edge computing and cloud
+       * Security, privacy, liability, and dependability of vehicular networks
+       * Integration of V2C with on-board systems and networks
+
+Tools & Methods
+
+       * Hardware and software platforms for the simulation, emulation, prototyping, measurement, and/or real-world deployment of vehicular networks and applications
+       * Field measurements and/or real-world deployments of vehicular networks and applications
+       * Modeling, design, and analysis of vehicular networks and applications
+
+Connected & Automated Driving and Other Applications
+
+       * Cooperative perception and cooperative driving
+       * Innovative vehicular network applications and their communication requirements
+       * Vulnerable road user protection
+       * Vehicular networks and IoT integration
+       * Impact assessments of vehicular networks on transportation
+
+************
+Manuscript submissions
+************
+The submitted papers must be written in English and be formatted in the standard IEEE two-column format and with a font size no less than 10-point. The mandatory IEEE template in Microsoft Word and LaTeX format can be found at the IEEE templates page. Only Adobe PDF files will be accepted for the review process. All submissions must be made electronically through EDAS. Details will be available at the conference webpage http://www.ieee-vnc.org/ soon.
+
+The conference will consider four categories of submissions:
+       ? Full papers should describe novel research contributions and are limited in length to eight (8) printed pages including figures, tables, and references. Papers exceeding 8 pages will be declined automatically and will not be reviewed.
+       ? Short papers should be more visionary in nature and may report on work-in-progress without fully finished results. They are meant to present novel perspectives, so as to foster discussions about innovative directions and new points of view. They are limited to at most four (4) pages including figures, tables, and references, but might in many cases be even shorter. Accepted short papers will be included in the proceedings and will be given (a shorter) time for oral presentation at the conference.
+       ? Posters are especially suited for presenting controversial research directions that may generate discussion, or promising ideas not yet fully validated through complete extensive evaluation.
+       ? Demonstration (demo) papers are suited for researchers to showcase their latest prototypes with media, models, or live demonstrations. The demo session will be co-located with the poster session to ensure maximum visibility and a close interaction with the conference audience.
+Poster/demo papers should be 2-page papers following standard IEEE 2-column format using 10-point font. All paper submissions must be written in English. The title of the paper should begin with either "Poster:" or "Demo:”.
+
+************
+Conference Chairs
+************
+Frank Kargl, Ulm University, Germany, General Co-chair
+Onur Altintas, Toyota Motor North America R&D, USA, General Co-chair
+Ana Aguiar, University of Porto, Portugal, TPC Co-chair
+Andre Weimerkirch, Lear Corporation, USA, TPC Co-chair
+*********************************************************************************************************************************
+
+
+
+
+
+---deadline--- 201031  journal.Biosensors(JCR)  machine learning
+
+Special Issue "Advanced Machine Learning Techniques for Modeling, Signal Processing, and Intelligent Circuits and Biosensors"
+Special Issue Editors
+Special Issue Information
+Keywords
+Published Papers
+A special issue of Biosensors (ISSN 2079-6374).
+
+Deadline for manuscript submissions: 31 October 2020.
+
+Special Issue Editors
+Prof. Dr. Chi-Hua Chen
+E-Mail Website
+Guest Editor
+College of Mathematics and Computer Science, Fuzhou University, Fuzhou 350108, China
+Interests: machine learning; internet of things; healthcare systems
+
+Prof. Dr. Liang-Hung Wang
+E-Mail Website
+Guest Editor
+College of Physics and Information Engineering, Fuzhou University, Fuzhou 350108, China
+Interests: ECG acquisition sensor; automatic identification and classification of ECG features; cardiac medical information analysis
+
+Dr. Lingjuan Lyu
+E-Mail Website
+Guest Editor
+Department of Computer Science, National University of Singapore, 119077, Singapore
+Interests: privacy-preserving; machine/deep learning; Internet of Things
+
+Prof. Dr. Genggeng Liu
+E-Mail
+Guest Editor
+College of Mathematics and Computer Science, Fuzhou University, Fuzhou 350108, China
+Interests: computational intelligence; Internet of things; IC design algorithm
+
+Prof. Dr. Hsiao-Ting Tseng
+E-Mail
+Guest Editor
+Department of Information Management, National United University, Miaoli 36063, Taiwan
+Interests: healthcare information analysis; AI; clinical decision support system; Internet of Things
+Special Issue Information
+Dear Colleagues,
+
+The latest advanced machine learning techniques have contributed to great developments in various areas of interest to the academic and engineering community. In terms of methodologies employed in this field, it has seen the rise of deep learning techniques and the novel methodologies such as generative adversarial networks and natural language generation (including deep learning, reinforcement learning, transfer, and extreme learning), but may also promote the development of deep learning algorithms or methods, optimization approaches, novel hardware, software, network, and communication architectures.
+
+The purpose of the Special Issue “Advanced Machine Learning Techniques for Modeling, Signal Processing, and Intelligent Circuits and Biosensors” is to provide a forum for academic researcher, engineers, and nature and social scientists, and practitioners to present new academic research and industrial development on machine learning for modeling, signal processing, and intelligent circuits and biosensors. This Special Issue will publish original research papers in the machine learning field, covering new theories, algorithms, circuits, systems, and biosensors, as well as novel implementations and applications. The Special Issue invites papers on various disciplines of biosensor techniques and applications that address but are not limited to the following topics:
+
+Research on sensors networks for engineering applications
+Software and hardware architectures for sensorial systems
+Electrical and mechanical engineering, manufacturing, failure detection, energy management, smart grid management, and optimization
+Robotics and automation, computer vision, and pattern recognition applications
+Transportation management, environmental engineering, surveying and geospatial engineering, spatial planning, and remote sensing
+Materials science and engineering
+Machine/deep learning and computer-aided design, manufacturing, and diagnosis engineering
+Evolutionary intelligent optimization and applications
+Data analysis with machine learning at the edge, and on the move, including localization, personalization, and optimization
+Biomedical circuits and systems engineering
+Biomedical sensing and health outcomes
+Biomedical image reconstruction and quantitative image analysis
+Biosignal processing of wearable sensors, mobile sensors, EEG headcaps and headbands, ECG sensors, breathing monitors, EMG sensors, and temperature sensors
+Prof. Dr. Chi-Hua Chen
+Prof. Dr. Liang-Hung Wang
+Dr. Lingjuan Lyu
+Prof. Dr. Genggeng Liu
+Prof. Dr. Hsiao-Ting Tseng
+Guest Editors
+
+Manuscript Submission Information
+
+Manuscripts should be submitted online at www.mdpi.com by registering and logging in to this website. Once you are registered, click here to go to the submission form. Manuscripts can be submitted until the deadline. All papers will be peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a single-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the Instructions for Authors page. Biosensors is an international peer-reviewed open access monthly journal published by MDPI.
+
+Please visit the Instructions for Authors page before submitting a manuscript. The Article Processing Charge (APC) for publication in this open access journal is 1400 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's English editing service prior to publication or during author revisions.
+
+Keywords
+Biosensors networks for engineering applications
+Software and hardware architectures for sensorial systems
+Machine/deep learning and computer- aided design, manufacturing, and diagnosis engineering
+Biomedical circuits and systems engineering
+Biomedical sensing and health outcomes
+
+
+
+
+---deadline--- 201010 conf.IEEE.MSN(tokyo)  mobility sensing networking
+
+The 16th International Conference on Mobility, Sensing and Networking
+
+ (IEEE MSN 2020)
+December 17-19, Tokyo, Japan
+
+https://conference.cs.cityu.edu.hk/msn2020/index.php
+
+ 
+
+ 
+
+CALL FOR POSTERS and DEMOS
+
+Technical demonstrations and posters showing/presenting innovative and original research are solicited. In general IEEE MSN is interested in demonstrations and posters of technology that validate important research issues or showcase realistic applications in the following topics of interest (but not limited to):
+
+Algorithms, Theory, and Protocols
+Systems & Tools
+Experiments & Applications
+Mobile & Wireless Networks
+Edge and Fog Computing
+Network Security, Privacy, Trust, and Blockchain
+Big Data and AI in Networking
+Wireless and Ubiquitous Sensing
+ 
+
+POSTER and DEMO SUBMISSION INSTRUCTIONS
+
+Submissions should be a two-page abstract/proposal that follows IEEE Computer Society Proceedings Format (double column, 10pt font, letter paper) and submitted in PDF file format: refer to the IEEE submission instructions for details. Be as specific as possible in describing what you will demonstrate or display as poster or demo. In the submission, specify clearly whether you will be presenting a poster or a demo (the latter can be accompanied by a poster also). The demo/poster session will have power and wireless Internet connectivity available. If a demonstration requires special arrangements or additional equipment, please detail it in the submission. All additional equipment/needs are subject to budget approval. Abstracts of accepted demos/posters will be included in the MSN2020 Proceedings. Accepted and presented abstracts will be submitted to IEEE Xplore®. 
+
+ 
+
+Poster/Demo submissions should be made via EasyChair using this
+
+link: https://conference.cs.cityu.edu.hk/msn2020/submission.php .
+
+ 
+
+In the submission, please select poster presentation or demonstration.
+
+For demos, providing a web link to a 90 second video is recommended.
+
+ 
+
+IMPORTANT DATES
+
+Two-page poster or demo descriptions: 11:59 pm (GMT), September 22nd, 2020
+
+Notification of acceptance: October 10, 2020
+
+IEEE MSN 2020 Conference dates: December 17-19, 2020
+
+IEEE MSN 2020 Poster/Demo Session Dates: to be announced
+
+
+
+
+
+---deadline--- 200915  conf.IEEE.comsnets   comm systems and nets
+
+Please consider contributing papers/posters to the COMSNETS 2021 (www.comsnets.org) conference and distribute the Call for Papers to your colleagues/students who might be interested.  The submission deadline is 15th September 2020 at 11:59 pm AoE. THANK YOU!
+
+Due to the uncertainties caused by the COVID-19 pandemic, COMSNETS will allow authors of accepted papers to present and participate remotely if they wish to do so.
+
+The 13th International Conference on COMmunication Systems and NETworkS (COMSNETS) will be held in Bangalore, India, from January 5 - 9, 2021. COMSNETS is a premier international conference dedicated to advances in Networking and Communications Systems. The conference is a yearly event for a world-class gathering of researchers from academia and industry, practitioners, and business leaders, providing a forum for discussing cutting edge research, and directions for new innovative business and technology.
+
+The conference will include a highly selective technical program consisting of submitted papers, a small set of invited papers on important and timely topics from well-known leaders in the field, and a poster session of work in progress.
+
+Focused workshops and panel discussions will be held on emerging topics to allow for a lively exchange of ideas. International business and government leaders will be invited to share their perspectives and will complement the technical program.
+
+Topics of Interest
+
+The topics of interest for the technical program include (but are not limited to) the following:
+
+5G and wireless broadband networks
+Technologies for 6-100 GHz spectrum
+Visible light communications
+Heterogeneous networks (HetNets)
+Cognitive radio and white-space networking
+Economics of networks
+Energy-efficient communications
+Cloud computing
+Enterprise, data center, and storage-area networks
+Internet architecture and protocols, Internet science and emergent behavior
+Mobility and location management
+Mobile Sensing
+Traffic analysis and engineering
+Internet of Things (IoT)
+Caching & content delivery systems
+Information/Content centric networks (ICN)
+Network management and operations
+Network security and privacy
+Trusted computing
+Network science
+Online social networks
+SDN/NFV and Network Programmability
+Internet Measurement and Modeling
+Systems and networks for smarter energy and sustainability
+Vehicular communications
+Smart Grid communications and networking
+Machine Learning and AI in Networking
+Big Data Analytics in Networking, including IoT Analytics
+Blockchain and Distributed Ledger
+Papers submitted to the main conference should be prepared in standard IEEE conference format and should contain no more than eight pages of technical content, plus one page of references. We will follow a single-blind review policy. Please check the conference website for more details.
+
+The selected best papers from COMSNETS 2021 will be invited for submission of their significant extended version at a special issue in Elsevier Ad Hoc Networks Journal (2019 I.F. 3.643).
+
+Conference Highlights
+
+Keynote/Invited/Banquet Talks
+Technical Paper and Poster Sessions
+Graduate Research Forum
+Panel Discussions
+Demos and Exhibits
+Mentoring Sessions
+COMSJOB
+Co-located Workshops
+Cyber Security & BlockChain
+MINDS
+IMOBILE AIMS
+NetHealth
+LastMileS
+ITS
+Keynote Speakers
+
+Sunita Sarawagi, IIT Bombay, India 
+Jennifer Rexford, Princeton University, USA
+Michele Zorzi, University of Padua, Italy
+Important Dates and Deadlines
+ 
+Abstract submission:	15th September 2020, 11:59 pm AoE
+Paper submission:	15th September 2020, 11:59 pm AoE
+Notification of Acceptance:	31st October 2020
+Camera-Ready Submission:	15th November 2020
+Main Conference:	6th – 8th January 2021
+Workshops:	5th & 9th January 2021
+COMSNETS provides generous travel grants to International student applicants who have an accepted paper at the conference. Please see the home page for details.
+Poster Session
+The COMSNETS 2021 Poster Session is a forum to showcase preliminary/ongoing work in the area of computer networking and communications. Poster presenters will benefit from lively discussions and critical feedback on their work in progress. Accepted posters will be published in the conference proceedings.
+
+Important Dates and Deadlines for Posters
+
+Paper submission:	1st October 2020, 11:59 pm AoE
+Notification of Acceptance:	1st December 2020
+Camera-Ready Submission:	15th December 2020
+Demos and Exhibits
+COMSNETS invites demos from researchers, startups, and corporates showcasing cutting edge information technologies and their applications. All accepted demos will be considered for the Best Demo Award.
+
+Important Dates and Deadlines for Demos
+
+Paper submission:	1st November 2020
+Notification of Acceptance:	1st December 2020
+Camera-Ready Submission:	15th December 2020	 
+
+Please see comsnets.org for detailed information. For queries email us at comsnets.conference@gmail.com
+
+ 
+
+
+---deadline--- 200915 conf~j.EAI.HealthWear  wearables in healthcare
+December 10 - 11, 2020 | N/A, Cyberspace
+Submission Deadline: September 15, 2020 (late track)
+
+EAI is proud to announce that HealthWear is going virtual and beyond borders.
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.
+
+SCOPE
+A variety of relevant health and fitness parameters are now being captured via an ecosystem of consumer-oriented wearable self-tracking devices, smartphone apps and related services. Techniques from information science, sociology, psychology, statistics, machine learning and data mining are applied to analyze collected data.
+
+HealthWear will bring together researchers, developers, designer and industry professionals from both Healthcare community and University to discuss key issues, opportunities and obstacles for personal health data research. These include challenges of capturing, summarizing, presenting and retrieving relevant information from heterogeneous sources to support a new vision of pervasive personal healthcare.
+
+We are pleased to invite you to submit your paper to HealthWear 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission). 
+
+Read More: Call for Papers
+
+Submit Paper
+HealthWear 2020 will take place online due to safety concerns and travel restrictions caused by COVID-19. Although we will miss having everyone meet and connect in person, we feel strongly that knowledge exchange must continue, if not more so. That is why we have equipped our online conferences with live viewing with chat, virtual Q&A, and a multitude of other measures to provide you with a great experience. All of this while making the registration for co-authors and non-authors completely free to give you the biggest possible audience. You can learn more about EAI’s online conferences here.
+
+PUBLICATION
+All registered papers will be submitted for publication by Springer and made available through SpringerLink Digital Library.
+
+Proceedings will be submitted for inclusion in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).
+
+Authors of selected papers will be invited to submit an extended version to:
+
+Sensors Special Issue (IF: 3.031)
+All accepted authors are eligible to submit an extended version in a fast track of:
+
+EAI Endorsed Transactions on Pervasive Health and Technology
+(Open Access) - Scopus indexed
+Additional publication opportunities:
+
+EAI/Springer Innovations in Communications and Computing Book Series
+IMPORTANT DATES
+
+FULL PAPER SUBMISSION DEADLINE: SEPTEMBER 15, 2020 (LATE TRACK)
+
+NOTIFICATION DEADLINE: OCTOBER 5, 2020
+
+CAMERA-READY DEADLINE: OCTOBER 21, 2020 
+
+CONFERENCE DATES: DECEMBER 10 - 11, 2020
+
+
+
+
+
+
+---deadline--- 200906  conf~j.candar(naha+virtual)
+
+PDAA'20: http://is-candar.org/pdaa20/
+
+The 12th International Workshop on Parallel and Distributed Algorithms and Applications (PDAA'20)
+http://is-candar.org/pdaa20/
+
+To be held in conjunction with CANDAR'20, Japan, November 24-27, 2020
+http://is-candar.org/
+====================================================
+
+** Due to the COVID-19 situation, PDAA 2020 will be held virtually this year.
+
+[Bridging Theory and Practice in Parallel and Distributed Computing]
+
+The main goal of this workshop is to provide a timely forum for the exchange and dissemination of new ideas, techniques and research in the field of parallel and distributed algorithms and
+applications. The workshop is meant to bridge research of theory and practice in all aspects of parallel and distributed computing. We are convinced that the workshop atmosphere will be conducive to
+open and mutually beneficial exchanges of ideas between the participants of these areas.
+
+[Topics of interest include, but are not limited to]
+
+* Theory and Algorithms
+Parallel and distributed algorithms, Hardware algorithms,
+Graph-theoretic concepts in parallel and distributed computing,
+Geometric and graph algorithms, Complexity theory in parallel and
+distributed computing, Parallel and distributed computing models,
+Network routing and communication algorithms, Combinatorial
+algorithms, Randomized and approximation techniques, Cellular Automata
+
+
+* Parallel and Distributed Computing
+DNA Computing, Membrane Computing, Quantum Computing, Internet
+Computing, Wireless networks and mobile computing, Internet computing,
+Reconfigurable Computing, Internet Computing, Optical Computing
+
+* Practical Aspects and Applications
+Parallel computing systems, Supercomputing, Cluster computing, Grid Computing, Parallel/distributed architectures, P-to-P networks, Performance analysis and simulation, PVM/MPI, CUDA/GPGPU, Multi-core
+processors, Programmable logic arrays, Reconfigurable Architectures, Image Processing, Security Issues
+
+[Paper format]
+
+- Regular paper: 5-7 pages
+- Poster paper: 3-4 pages
+
+[Submission Instruction]
+
+Please see Workshop Paper Submission Instruction.
+http://is-candar.org/workshop_submission
+
+[Publication]
+
+The conference and workshop proceedings will be published by
+Conference Publishing Service and submitted to IEEE Xplore and CSDL
+digital libraries. Also they are submitted for indexing through
+INSPEC, EI (Compendex), Thomson ISI, and other indexing services.
+
+
+[Important dates]
+
+Workshop abstract submission due: September 6, 2020 (extended, firm)
+Workshop paper submission due: September 11, 2020 (extended, firm)
+Workshop paper notification: October 9, 2020 (extended)
+Final camera-ready paper submission due: October 23, 2020
+Symposium: November 24-27, 2020.
+
+[Organizers]
+
+* Workshop co-chairs
+
+Sayaka Kamei (Hiroshima University)
+Fukuhito Ooshita (NAIST)
+
+* Program Committee
+
+Stéphane Devismes (VERIMAG UMR 5104)
+Noriyuki Fujimoto (Osaka Prefecture University)
+Akihiro Fujiwara (Kyushu Institute of Technology)
+Yan Gu (University of California)
+Teijiro Isokawa (University of Hyogo)
+Yasuaki Ito (Hiroshima University)
+Chuzo Iwamoto (Hiroshima University)
+Genaro Juarez (Martinez University of the West of England)
+Hirotsugu Kakugawa (Ryukoku University)
+Yonghwan Kim (Nagoya Institute of Technology)
+Teruaki Kitasuka (Hiroshima University)
+Anissa Lamani (EISTI)
+Jia Lee (Chongqing University)
+Luca Manzoni (Dipartimento di Matematica e Geoscienze, Università degli Studi di Trieste)
+Bruno Martin (Univ. Nice-Sophia Antipolis)
+Susumu Matsumae (Saga University)
+Takayuki Nagoya (Tottori University of Environmental Studies)
+Junya Nakamura (Toyohashi University of Technology)
+Victor Poupet (Université Montpellier 2)
+Stephane Rovedakis (Laboratoire CEDRIC)
+Masahiro Shibata (Kyushu Institute of Technology)
+Yuichi Sudo (Osaka University)
+Yasuhiro Suzuki (Nagoya University)
+Yasuhiko Takenaga (The University of Electro-Communications)
+Jerry Trahan (Louisiana State University, Baton Rouge)
+Giovanni Viglietta (JAIST)
+Shinichi Yamagiwa (University of Tsukuba)
+Jean-Baptiste Yunès (Université Paris 7 - Denis Diderot)
+
+
+
+---deadline--- 200911  conf.IEEEComSoc.NoF  networks of future
+
+ Call for Demo Papers
+
+                          Deadline: September 11, 2020
+
+
+                                    NoF 2020
+
+           The 11th International Conference on Network of the Future 
+                              Virtual Conference
+
+                                         
+                            http://nof2020.dnac.org                         
+
+********************************************************************************
+Technically co-sponsored by IEEE, IEEE ComSoc  
+
+All accepted & presented papers will be submitted for publication in IEEE Xplore
+
+ 
+
+Demo Paper submission deadline: September 11, 2020
+
+
+The  11th  International Conference on  Network of the Future ( NoF) is  inviting
+
+authors to  submit demo paper  proposals in the area of  Future Internet design,
+
+with emphasis on enabling and cutting-edge technologies from the perspectives of
+
+specification,  design and  analysis related to  network of future architecture,
+
+applications, services, management, implementation, scalability, standardization,
+
+business  and legal  aspects, just to name a few.
+
+The  conference  aims  at  providing  a  forum  for  researchers,  students, and
+
+professionals  to  exchange ideas,  share  their experiences,  and discuss their
+
+research results  around a single-track  of technical sessions  and a series  of
+
+keynote speeches. The program will also include tutorials.
+
+ 
+
+Initially planned in Bordeaux, France, NoF 2020 will run as a fully virtual web-
+
+based event, due to the uncertainty raised by the Covid-19 pandemics.
+
+*** Topics of interest ***
+**************************
+The topics of interest include, but are not limited to:
+
+Networks
+
+  * 5G networks
+
+  * Software-defined networks 
+
+  * Virtual networks 
+
+  * Overlay networks 
+
+  * Wireless networks and cellular networks 
+
+  * Wireless sensor networks 
+
+  * Internet of Things networks 
+
+  * Information-centric networks
+
+  * Enterprise networks and campus networks 
+
+  * Time-sensitive networks
+
+  * Data center networks 
+
+  * Optical networks 
+
+  * IP networks 
+
+  * Home networks 
+
+  * Access networks 
+
+  * SCADA networks and distributed control systems 
+
+  * Smart Cities and Smart Grids
+
+  * Access, metro, backbone and core networks
+
+  * Vehicular ad hoc networks and intelligent transportation systems
+
+  * Mesh, ad hoc, and sensor networks
+
+ 
+
+Enablers
+
+  * 5G Network Architecture, Services and Protocols
+
+  * 5G Control and Management Architecture
+
+  * 5G Functional Decomposition and Composition
+
+  * Advanced 5G Infrastructure Slicing and Radio Slicing
+
+  * Scalability and multi-tenancy in 5G 
+
+  * Protocols for Ultra-Low Latency and Ultra-High Reliability
+
+  * Network Programmability and Softwarization 
+
+  * Autonomic, Cognitive and Intent-based Networking 
+
+  * Fog, Edge and Multi-Access Computing
+
+  * Network automation and orchestration 
+
+  * Software Defined Networking and High Availability
+
+  * Network Function Virtualization (NFV) and Orchestration
+
+  * Service Function Chaining and Virtual Network Embedding
+
+  * Network Artificial Intelligence, Machine Learning and Reasoning
+
+  * Network Data Analytics, Anomaly Detection, Feature Extraction
+
+  * Big data and Fast Data Processing and Management
+
+  * CDN Architectures and Network Cache Allocation Schemes
+
+  * Advanced multimedia and real-time communications
+
+  * Security, Trust and Privacy
+
+  * Use of Blockchains in Networking and Servicing
+
+ 
+
+
+*** Submission guidelines ***
+
+*****************************
+Prospective authors are invited to submit Demo proposals in the form of a 3-page
+
+paper  in IEEE conference  double-column format, preferably incorporating a demo
+
+system architecture  illustration.  The proposal should also  describe in detail
+
+what NoF 2020 attendees  will experience during the demonstration.  The proposal
+
+should indicate  the demo background, and further focus on the demo settings and
+
+the application, possibly with visual outcomes  to highlight the interest of the
+
+demo.
+
+Authors are also encouraged to optionally include in the paper submission a link
+
+that opens a quite short (1-3min) video illustrating the demo and its scope.
+
+ 
+
+Demo papers must be submitted electronically through EDAS in PDF format only.
+
+See https://edas.info/newPaper.php?c=27007&track=103381
+
+ 
+
+Demo papers will be  peer-reviewed and  accepted demo papers will be included in
+
+the electronic conference proceedings provided to NoF 2020 attendees and will be
+
+subsequently submitted to IEEE Xplore.
+
+ 
+
+At least  one author  of each accepted demo proposal is required  to register to
+
+NoF 2020 conference and present the demo at the scheduled demo session.
+
+*** Important dates ***
+
+***********************
+- Demo Paper submission deadline: September 11, 2020
+- Paper acceptance notification: September 23, 2020
+- Camera-ready Papers:  September 30, 2020
+
+
+*** Demo Co-Chair ***
+*********************
+Jérémie Leguay, Huawei, France
+
+Thomas Zinner, NTNU, Norway
+
+
+*** TPC Co-Chairs ***
+*********************
+Toufik Ahmed, Bordeaux INP, France
+Tobias Hossfeld, University of Würzburg, Germany
+
+
+*** General Co-Chairs ***
+*************************
+Prosper Chemouil, Cnam, France
+
+Francine Krief, Bordeaux INP, France
+
+
+
+
+
+
+---deadline--- 200912  conf.IEEE.CogMI  cognitive machine intel
+
+The Second IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI 2020)
+
+(Co-located with IEEE CIC and IEEE TPS)
+
+Dec 1-3, 2020. FULLY VIRTUAL
+http://www.sis.pitt.edu/lersais/conference/cogmi/2020/
+
+Important Dates (Round 2 Submissions)
+
+ 
+
+Abstract Submission (optional)
+Sept. 12, 2020
+Full Paper Submission
+Sept. 20, 2020
+Notification of Acceptance
+Oct. 20, 2020
+Camera-ready Submission
+Nov. 4, 2020
+                
+Because of COVID-19, we have decided to reschedule the conference on Dec 1-3 as a FULLY VIRTUAL event.
+
+The cognitive machine intelligence (CogMI) is creating unprecedented opportunities for impactful scientific innovations and societal transformations by significantly augmenting the human ability for problem solving and rapid decision making in terms of speed, precision, and variety, while fostering innovations in all our human endeavors from scientific discoveries, solving long-standing healthcare problems, modeling highly interconnected and globally distributed systems, and so forth. As we enter the new social, physical and cyber world empowered by such cognitive machine intelligence, it is important to understand and explore the foundational characteristics of the algorithmic theory and processes behind the cognitive machine intelligence, the behavioral and cognitive enhancement of intelligent machines that promote a productive and creative partnership and collaboration between the humans and the machines so as to ensure an equitable, fair and transparent CogMI-enhanced society and cyber-physical-social worlds around us.
+
+The goal of the IEEE Conference on Cognitive Machine Intelligence (IEEE CogMI) is to create a research and development forum on cognitive machine intelligence to foster research results on AI and ML with cognitive science and behavioral science. It promotes productive collaborations among experts from multiple disciplines, such as but not limited to computer science, electronic and computer engineering, information science, economics, industrial engineering, psychology, social and behavioral sciences, biological and physical sciences, and ethics, law, and policy. IEEE CogMI 2020 aims to be a premier, highly multidisciplinary forum to foster interaction and exchange of innovative ideas, and collaboration among researchers, practitioners, philosophers from academia, industry and government sectors who are interested in developing innovative AI/ML algorithms, applications and systems by integrating cognitive science and putting humans in the loop, promoting innovations in cognitive machine intelligence.
+
+Topics
+
+Topics of interest are broadly from the areas of machine intelligence, behavior and cognition. Please check the conference website for details.
+
+Tracks
+
+CogMI2020 will have the research track, industry/government track, and blue-sky/vision track. Please check the website for submission details.
+
+Panels and Tutorials
+
+We welcome panel, and tutorial proposals. Please check the web site for details.
+
+Awards
+
+IEEE CogMI will feature a Best Paper Award and a Best Student Paper Award (to be selected by the program committee/best paper award team). A paper is eligible for the Best Student Paper Award if the first author is a full-time student at the time of submission. A partial travel grant or cash award may be offered to the winner student depending on fund availability.
+
+
+
+
+---deadline--- 201001 journal.mdpi  intel sec IoT
+
+We kindly invite you to contribute a paper as comprehensive literature
+review or full research article to our Special Issue " Intelligent and
+Adaptive Security in Internet of Things” in /Sensors/.
+
+Special Issue Website:
+https://www.mdpi.com/journal/sensors/special_issues/Intelligent_Security_IoT
+Deadline for manuscript submissions: 1 October 2020
+*Guest Editors*: Dr. Hyoungshick Kim and Dr. Jin B. Hong
+
+*The particular topics of interest include, but are not limited to:*
+
+•       AI and ML techniques for securing IoT;
+•       Cyber threats and incident analysis in IoT;
+•       Data-driven security for IoT;
+•       Intrusion and anomaly detection in IoT;
+•       Risk identification and assessment in IoT;
+•       Adversarial machine learning in IoT;
+•       Collaborative learning for IoT;
+•       Malware and botnets in IoT.
+
+If you are interested in contributing, please contact
+<angelina.wang@mdpi.com >. /Sensors/ manages a rigorous and efficient
+peer review process for all submissions, i.e., a first decision provided
+to authors approximately 17.9 days after submission. There are around
+40,000 verified reviews in Sensors on Publons.
+
+/Sensors/ (ISSN 1424-8220; https://www.mdpi.com/journal/sensors) is a
+leading international peer-reviewed open access journal on the science
+and technology of sensors. /Sensors/’ Impact Factor 2019 is 3.275, and
+5-year IF of 3.427. It ranks 15/64 (Q1) in "Instruments &
+Instrumentation"; 22/86 (Q2) in "Chemistry, Analytical"; 77/266 (Q2) in
+"Engineering, Electrical & Electronic" from JCR.
+
+As a fully open access journal, the Article Processing Charges of 2000
+CHF is applied for accepted paper. Authors affiliated to our IOAP
+universities or institutions will be entitled a discount on APC, see
+https://www.mdpi.com/ioap.
+
+We look forward to hearing from you.
+
+--
+Best regards,
+Ms. Angelina Wang
+Assistant Editor
+E-Mail: angelina.wang@mdpi.com
+Sensors (http://www.mdpi.com/journal/sensors)
+
+Sensors Impact Factor 2019: 3.275
+
+20th Anniversary of Sensors: A series of special content and events at
+https://www.mdpi.com/journal/sensors/anniversary
+
+7th International Electronic Conference on Sensors and Applications (ECSA-7)
+Abstract Submission Deadline: 10 September 2020
+No fees for participation
+https://ecsa-7.sciforum.net/
+
+--
+MDPI Branch Office
+Room 2207, Jincheng Center, No. 21 Cuijingbeili,
+Tongzhou District, 101101 Beijing, China
+
+MDPI
+St. Alban-Anlage 66
+4052 Basel
+Postfach, CH-4020 Basel
+Switzerland
+
+Disclaimer: MDPI recognizes the importance of data privacy and
+protection. We treat personal data in line with the General Data
+Protection Regulation (GDPR) and with what the community expects of us.
+The information contained in this message is confidential and intended
+solely for the use of the individual or entity to whom they are
+addressed. If you have received this message in error, please notify me
+and delete this message from your system. You may not copy this message
+in its entirety or in part, or disclose its contents to anyone.
+
+
+
+
+
+
+---deadline--- 201200 journal.mdpi   blockchain for 5g and IoT (opencall)
+
+Dear Colleague,
+
+We hope you are doing well during this global pandemic and keeping up with your exciting research work!
+
+Electronics (ISSN 2079-9292) is an open-access journal of MDPI indexed by the Science Citation Index Expanded—Web of Science (Impact Factor—SCIE (2019) = 2.412). This journal is currently running a Special Issue on “Blockchain for 5G and IoT: Opportunities and Challenges”, in which I am serving as the Guest Editor.
+
+Based on your expertise, we would like to invite you to publish an original research article or Review paper in this Special Issue.
+
+Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. This Special Issue of MDPI Electronics aims to feature enlightening research works on the convergence of 5G/IoT and blockchain technology as well as to communicate to the research community regarding the latest developments in this important direction. Topics of interest include but are not limited to the following applications:
+
+•       Security and privacy in 5G networks
+•       Blockchains to build trust in multi-domain networks
+•       Blockchain, Fog, and IoT integration
+•       Role of blockchain in virtual network function (VNF) migration
+•       Blockchain for multiaccess edge computing (MEC)
+•       Integration of blockchain and AI for 5G applications
+•       5G network pricing models using blockchain and smart contracts
+•       Blockchain for Industry 4.0
+
+Please click here for further information:
+https://www.mdpi.com/journal/electronics/special_issues/Blockchain_5G_IoT
+
+We hope you find this topic to be of interest. In this case, we would appreciate receiving a preliminary title and list of authors at your
+earliest convenience.
+
+The submission deadline is *30 April 2021* and manuscripts may be submitted at any point until 30 April 2021 as papers will be published on an ongoing basis.
+
+*Indexing*
+Electronics is a peer-reviewed, open-access journal on the science of electronics and its applications. The journal is indexed by the Science Citation Index Expanded (Web of Science), Inspec (IET), and Scopus. Its Impact Factor is 2.412 (2019).
+
+*Fast Publication*
+Manuscripts are peer-reviewed, and a first decision is provided to authors approximately 15.1 days after submission; acceptance to publication is then undertaken in 2.8 days (median values for papers published in the second half of 2019).
+
+*Article Processing Charge*
+An article-processing charge (APC) of 1500 CHF (Swiss Francs) applies to each paper accepted after peer review. For further details on the submission process, please refer to the instructions for authors at http://www.mdpi.com/journal/electronics/instructions.
+
+We appreciate it if you could let us know if you are interested in this Special Issue, such that we can send you further details regarding the submission process.
+
+Please get in touch with any questions, and we look forward to collaborating with you in the near future.
+
+Kind regards,
+
+Guest Editor
+Avishek Nag, PhD
+Lecturer/Assistant Professor
+School of Electrical and Electronic Engineering
+University College Dublin, Ireland
+Ph: +353860306405
+Email: avishek.nag@ucd.ie
+linkedin.com/in/avisheknag
+
+
+
+
+
+
+
+
+---deadline--- 210115 journal.ISF   AI for covid
+
+Information Systems Frontiers (ISF) is a SCI Q1 journal. We're honoured to have 1 special issue (SI) on Novel Machine Learning, AI and Big Data Methods and Findings for COVID-19. We seek very high-quality and unpublished papers demonstrating any new findings and poineering techniques. Early submissions are encouraged.
+
+Please read details below. Thanks.
+https://resource-cms.springernature.com/springer-cms/rest/v1/content/18246802/data/v3  
+
+Thanks and regards,
+
+Victor
+
+
+Special Issue on Novel Machine Learning, AI and Big Data Methods and Findings for COVID-19
+
+
+
+Brief description/Scope
+
+
+
+COVID-19 has become the most significant challenge the human beings have encountered since World War 2 (WW2). It is reported to have more deaths in the US than the combination of the Pearl Harbor War and the September 11 terror attacks. COVID-19 itself is highly infectious and speed in which it can mutate is rapid and in different varieties, with reported six strands of active coronaviruses widely spread worldwide. It has infected more than 17 million of the population worldwide in late July 2020. In early March 2020, the total infected cases were still not reaching 100,000 (WHO, 2020). This global challenge is causing rapidly increased numbers of infected cases, death, and the way we live, such as social distancing. This has caused a lack of medical resources and healthcare crisis to fight against the infection before the development of vaccines and drugs. Other economic and social problems are common, such as job loss, insecurity, lack of movements, increases in crimes, improvements in fighting limited resources and has been seen (Ecke, 2020). In addition to this, the computing services for the identification and development of drugs are also challenging. In such cases, the quality and the quantity of the collected data plays a major role which uses cloud computing architectures (Chang, 2014; Sicari et al., 2016; Hosseinian-Far et al., 2018). The technology of the Internet of Things combined with Artificial Intelligence techniques may provide good solutions to this health-oriented problem (Vaishya et al., 2017).
+
+Solutions for those urgent needs are required globally to understand how to tackle this challenge. Scientists have a crucial role, not only in research and development, but also provide positive impacts to the society. In terms of Machine Learning, AI and Big Data research, scientists can offer recommendations, new discoveries and pioneering methods (Gupta et al. 2018), which may provide positive impacts and findings to the causes, cure and analysis of treatment. The recent diagnosis of COVID-19 is based on real-time reverse-transcriptase polymerase chain reaction (RT-PCR) and used widely for confirmation of infection (Kim et al., 2020). Moreover, secure transmission of messages among medical professionals is also a challenging task during COVID-19 diagnosis and the subsequent treatment (Wang et al., 2020). It has already been widely recognized that novel Machine Learning, AI and Big Data methods can potentially have significant substantial roles in streamlining and accelerating the diagnosis of COVID-19 patients, offering high-quality research outputs and accurate predictive modeling (Oksavik et al., 2020; Tuli et al., 2020). Therefore, this requires novel methods such as blended LSTM, hybrid reinforcement learning, advanced deep learning, modern artificial intelligence and computational data intelligence since they are crucial for research findings. Together with pioneering methods, innovative Machine Learning, AI and Big Data for COVID-19 can provide added values for scientists. In this special issue, we seek unpublished and high quality work based on unique Machine Learning, AI and Big Data methods and findings. Best paper winners and top authors from IIoTBDSC 2020 will also be invited.
+
+ 
+
+Topics of interest include, but are not limited to:
+
+Novel Machine Learning, AI and Big Data methods based COVID-19 diagnostic systems
+Novel AI and Data Science Techniques for lung and infection segmentation
+Accurate prediction of COVID-19 based on advanced Pioneering AI and Data Science methods
+Novel Machine Learning, AI and Big Data methods for tracking and detecting COVID-19
+Novel Machine Learning, AI and Big Data methods for data mining and analytics in COVID-19
+Novel Machine Learning, AI and Big Data methods for computational analysis of COVID-19
+Novel Machine Learning, AI and Big Data methods for predicting the long-term risk of COVID-19
+Novel Predictive Modeling for Viruses & in the Era of post-COVID-19
+Novel Recommendation System for treatment of COVID-19 patients based on psychological factors
+ 
+
+ 
+
+ISF is a high-ranking research journal. The journal is abstracted or indexed in Science Citation Index Expanded, Current Contents/Engineering and other major sources.
+
+ 
+
+Submission Instruction
+
+ 
+
+Manuscripts must be submitted in PDF format to the ISF-Springer online submission system at https://www.editorialmanager.com/isfi and the authors need to select "Special Issue:
+
+“Novel Machine Learning, AI and Big Data Methods and Findings for COVID-19" during the submission process. Paper submissions must conform to the format guidelines of Information Systems Frontiers available at https://www.springer.com/journal/10796/submissionguidelines. Submissions should be approximately 32 pages double spaced, including references.
+
+ 
+
+Important Dates
+
+Submissions Due: January 15, 2021
+
+Pre-screening: January 31, 2021, or as soon as possible
+
+First Round Review Completion: March 31, 2021
+
+Second Round Review Completion: June 15, 2021
+
+Final/revised manuscript due: August 15, 2021
+
+ 
+
+Guest Editors
+
+ 
+
+Prof. Victor Chang, Teesside University, UK (Lead guest editor; email for queries). Email: victorchang.research@gmail.com
+Prof. Carole Goble, University of Manchester, UK. Email: carole.goble@manchester.ac.uk
+Dr. Muthu Ramachandran, Leeds Beckett University, UK. Email: M.Ramachandran@leedsbeckett.ac.uk  
+Dr. Lazarus Jegatha Deboarh, Anna University, India. Email: blessedjeny@gmail.com
+Prof. Reinhold Behringer, Knorr-Bremse GmbH, Germany. Email: reinhold.behringer@gmail.com
+
+
+
+
+
+---deadline--- 201015  journal.MDPI.ble   bluetooth low energy
+
+MDPI Sensors - Special Issue
+
+Bluetooth Low Energy: Advances and Applications
+https://www.mdpi.com/journal/sensors/special_issues/BLE
+
+Call for Papers
+
+Bluetooth low energy (BLE) was first specified in 2010. Since then, its
+popularity has not ceased to increase. In fact, BLE has become the
+dominant low-power wireless technology in a variety of consumer
+electronics devices, including the smartphone. The latter is crucially
+important, as it brings widespread presence to BLE. This feature of BLE,
+along with its suitability for simple, energy-constrained devices (e.g.,
+battery-enabled sensors), allows positioning BLE as a fundamental enabler
+of networking paradigms such as wireless sensor networks and the Internet
+of Things.
+
+BLE technology and BLE-based networking have also expanded in parallel to
+their success. The panoply of BLE features, options, and mechanisms has
+significantly increased in the last few years. Significant additions to
+the BLE universe include several Bluetooth specification updates (the
+latest being Bluetooth 5.2), IPv6 support for BLE devices,
+and many initiatives for enabling BLE mesh networks.
+
+BLE applications can be found in a wide range of domains, e.g., smart
+home, smart cities, smart health, smart agriculture, or Industry 4.0. BLE
+is enabling the interaction between humans and smart objects, as well as
+between smart objects themselves. BLE has also been leveraged for
+innovative location-based applications, opportunistic data collection,
+crowd-sensing, etc.
+
+Remarkably, BLE is also playing a fundamental role in the context of
+combatting COVID-19. BLE-enabled sensors are being used in hospitals to
+remotely collect vital parameter readings (e.g. temperature, blood
+pressure, etc.), minimizing the risk of infection for medical personnel.
+Furthermore, the widespread presence of BLE in smartphones is crucial to
+enable contact tracing applications being developed and used worldwide.
+
+This Special Issue aims at collecting high quality research papers and
+review articles focusing on recent advances in BLE. Original, high-quality
+contributions that have not been published before and are not currently
+under review by other journals or conferences are sought.
+
+Potential topics of interest include, but are not limited to, the following:
+
+- Performance evaluation (e.g., mathematical analysis, simulation and/or
+  experimentation) of BLE networks.
+- BLE version-oriented studies (Bluetooth 4.x, Bluetooth 5.x).
+- Internet connectivity of BLE devices: 6LoWPAN/6Lo, gateway-based
+  approaches, etc.
+- BLE mesh networking standardization efforts: Bluetooth Mesh (Bluetooth
+  SIG), IPv6 mesh over BLE (IETF), etc.
+- Novel approaches to BLE mesh networks.
+- Coexistence of BLE with other wireless technologies.
+- BLE beacons.
+- BLE-based localization.
+- BLE-based opportunistic sensor data collection.
+- Innovative applications of BLE in smart home, smart cities, smart
+  transportation, smart agriculture, smart health, Industry 4.0, etc.
+- Applications of BLE for combatting COVID-19: parameter monitoring, contact
+  tracing, etc.
+
+Manuscript submission instructions, and details on Article Processing
+Charges (APCs), can be found at:
+https://www.mdpi.com/journal/sensors/special_issues/BLE
+
+Submission Deadline:     15 October 2020
+
+Papers are published upon acceptance, regardless of the Special Issue
+publication date.
+
+The most recent Journal Citation Reports Impact Factor released for MDPI
+Sensors is 3.275 (Q1 in the category of ‘Instruments & Instrumentation’).
+
+For questions, please do not hesitate to contact the guest editor,
+Dr. Carles Gomez, Universitat Politècnica de Catalunya, Spain
+(carlesgo@entel.upc.edu).
+
+
+-------------------------------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Mycolleagues mailing list
+Mycolleagues@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/mycolleagues
+
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
+
+
+
+
+
+
