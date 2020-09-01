@@ -101,12 +101,13 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 		if ( ! is_file( $reject)) { foreach ( $H as $k => $v) echo "$k\n"; echo "# put the above text in $reject  for further processing logic.\n"; die(); }
 		// reject logic
 		$file = 'deadlines.backup.' . substr( tyyyymmdd(), 2) . '.tbz'; `rm -Rf $file`; $c = "tar jcvf $file deadlines.*.txt"; echo "BACKUP   $c   ... "; procpipe( $c); echo " ok\n"; 
+		echo "SIZECHECK"; foreach ( $H as $k => $vs) echo '  ' . count( $vs) . '/' . strlen( implode( ' ', $vs)); echo " OK\n"; sleep( 3); //die();
 		echo "CLEANUP"; foreach ( flget( '.', 'deadlines', '', 'txt') as $f) { $L = ttl( $f, '.'); lshift( $L); $when = lshift( $L); if ( ! is_numeric( $when) || strlen( $when) != 6) continue; $c = 'rm -Rf "' . $f . '"'; echo '.'; procpipe( $c); }
 		echo " ok\n"; //die();
-		echo "PRUNE/DUMP(leave only rejects)"; 
-		foreach ( file( $reject) as $v) { $v = trim( $v); if ( ! $v) continue; if ( ! isset( $H[ "$v"])) continue; unset( $H[ "$v"]); echo '.'; $out = fopen( 'deadlines.' . ltt( ttl( $v, ' '), '.') . '.txt', 'w'); foreach ( $H[ "$v"] as $v2) fwrite( $out, trim( $v2) . "\n"); fclose( $out); }
+		echo "PRUNE/DUMP(leave only rejects) (starting with " . count( $H) . " keys) "; 
+		foreach ( file( $reject) as $v) { $v = trim( $v); if ( ! $v) continue; if ( ! isset( $H[ "$v"])) { echo "x"; continue; }; echo '.'; $out = fopen( 'deadlines.' . ltt( ttl( $v, ' '), '.') . '.txt', 'w'); foreach ( $H[ "$v"] as $v2) fwrite( $out, trim( $v2) . "\n"); fclose( $out); unset( $H[ "$v"]); }
 		echo " ok\n"; //die();
-		echo "# " . count( $H) . " keys left, will remove them  (dryrun:" . jsonraw( $dryrun) . ")\n"; 
+		echo "# " . count( $H) . " keys left, will remove them  (dryrun:" . jsonraw( $dryrun) . ")  sleep(5)..."; sleep( 5); echo " ok\n";   
 		foreach ( $H as $k => $vs) {
 			$L = ttl( $k); $when = lshift( $L); $what = ltt( $L, ' '); echo "REMOVE $when $what : "; 
 			$file = null; foreach ( flget( '.') as $f) { if ( $file) continue; extract( fpathparse( $f)); if ( $filetype != 'txt') continue; if ( count( ttl( "***$f**", $when)) == 1 || count( ttl( "***$f***", $what)) == 1)  if ( $file) continue; $file = $f; }

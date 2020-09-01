@@ -1,0 +1,59 @@
+
+Dear Colleague,
+
+We hope you are doing well during this global pandemic and keeping up with your exciting research work!
+
+Electronics (ISSN 2079-9292) is an open-access journal of MDPI indexed by the Science Citation Index Expanded—Web of Science (Impact Factor—SCIE (2019) = 2.412). This journal is currently running a Special Issue on “Blockchain for 5G and IoT: Opportunities and Challenges”, in which I am serving as the Guest Editor.
+
+Based on your expertise, we would like to invite you to publish an original research article or Review paper in this Special Issue.
+
+Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. This Special Issue of MDPI Electronics aims to feature enlightening research works on the convergence of 5G/IoT and blockchain technology as well as to communicate to the research community regarding the latest developments in this important direction. Topics of interest include but are not limited to the following applications:
+
+•       Security and privacy in 5G networks
+•       Blockchains to build trust in multi-domain networks
+•       Blockchain, Fog, and IoT integration
+•       Role of blockchain in virtual network function (VNF) migration
+•       Blockchain for multiaccess edge computing (MEC)
+•       Integration of blockchain and AI for 5G applications
+•       5G network pricing models using blockchain and smart contracts
+•       Blockchain for Industry 4.0
+
+Please click here for further information:
+https://www.mdpi.com/journal/electronics/special_issues/Blockchain_5G_IoT
+
+We hope you find this topic to be of interest. In this case, we would appreciate receiving a preliminary title and list of authors at your
+earliest convenience.
+
+The submission deadline is *30 April 2021* and manuscripts may be submitted at any point until 30 April 2021 as papers will be published on an ongoing basis.
+
+*Indexing*
+Electronics is a peer-reviewed, open-access journal on the science of electronics and its applications. The journal is indexed by the Science Citation Index Expanded (Web of Science), Inspec (IET), and Scopus. Its Impact Factor is 2.412 (2019).
+
+*Fast Publication*
+Manuscripts are peer-reviewed, and a first decision is provided to authors approximately 15.1 days after submission; acceptance to publication is then undertaken in 2.8 days (median values for papers published in the second half of 2019).
+
+*Article Processing Charge*
+An article-processing charge (APC) of 1500 CHF (Swiss Francs) applies to each paper accepted after peer review. For further details on the submission process, please refer to the instructions for authors at http://www.mdpi.com/journal/electronics/instructions.
+
+We appreciate it if you could let us know if you are interested in this Special Issue, such that we can send you further details regarding the submission process.
+
+Please get in touch with any questions, and we look forward to collaborating with you in the near future.
+
+Kind regards,
+
+Guest Editor
+Avishek Nag, PhD
+Lecturer/Assistant Professor
+School of Electrical and Electronic Engineering
+University College Dublin, Ireland
+Ph: +353860306405
+Email: avishek.nag@ucd.ie
+linkedin.com/in/avisheknag
+
+
+
+
+
+
+
+

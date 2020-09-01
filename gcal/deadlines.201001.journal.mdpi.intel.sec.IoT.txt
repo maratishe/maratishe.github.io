@@ -1,0 +1,83 @@
+
+We kindly invite you to contribute a paper as comprehensive literature
+review or full research article to our Special Issue " Intelligent and
+Adaptive Security in Internet of Things” in /Sensors/.
+
+Special Issue Website:
+https://www.mdpi.com/journal/sensors/special_issues/Intelligent_Security_IoT
+Deadline for manuscript submissions: 1 October 2020
+*Guest Editors*: Dr. Hyoungshick Kim and Dr. Jin B. Hong
+
+*The particular topics of interest include, but are not limited to:*
+
+•       AI and ML techniques for securing IoT;
+•       Cyber threats and incident analysis in IoT;
+•       Data-driven security for IoT;
+•       Intrusion and anomaly detection in IoT;
+•       Risk identification and assessment in IoT;
+•       Adversarial machine learning in IoT;
+•       Collaborative learning for IoT;
+•       Malware and botnets in IoT.
+
+If you are interested in contributing, please contact
+<angelina.wang@mdpi.com >. /Sensors/ manages a rigorous and efficient
+peer review process for all submissions, i.e., a first decision provided
+to authors approximately 17.9 days after submission. There are around
+40,000 verified reviews in Sensors on Publons.
+
+/Sensors/ (ISSN 1424-8220; https://www.mdpi.com/journal/sensors) is a
+leading international peer-reviewed open access journal on the science
+and technology of sensors. /Sensors/’ Impact Factor 2019 is 3.275, and
+5-year IF of 3.427. It ranks 15/64 (Q1) in "Instruments &
+Instrumentation"; 22/86 (Q2) in "Chemistry, Analytical"; 77/266 (Q2) in
+"Engineering, Electrical & Electronic" from JCR.
+
+As a fully open access journal, the Article Processing Charges of 2000
+CHF is applied for accepted paper. Authors affiliated to our IOAP
+universities or institutions will be entitled a discount on APC, see
+https://www.mdpi.com/ioap.
+
+We look forward to hearing from you.
+
+--
+Best regards,
+Ms. Angelina Wang
+Assistant Editor
+E-Mail: angelina.wang@mdpi.com
+Sensors (http://www.mdpi.com/journal/sensors)
+
+Sensors Impact Factor 2019: 3.275
+
+20th Anniversary of Sensors: A series of special content and events at
+https://www.mdpi.com/journal/sensors/anniversary
+
+7th International Electronic Conference on Sensors and Applications (ECSA-7)
+Abstract Submission Deadline: 10 September 2020
+No fees for participation
+https://ecsa-7.sciforum.net/
+
+--
+MDPI Branch Office
+Room 2207, Jincheng Center, No. 21 Cuijingbeili,
+Tongzhou District, 101101 Beijing, China
+
+MDPI
+St. Alban-Anlage 66
+4052 Basel
+Postfach, CH-4020 Basel
+Switzerland
+
+Disclaimer: MDPI recognizes the importance of data privacy and
+protection. We treat personal data in line with the General Data
+Protection Regulation (GDPR) and with what the community expects of us.
+The information contained in this message is confidential and intended
+solely for the use of the individual or entity to whom they are
+addressed. If you have received this message in error, please notify me
+and delete this message from your system. You may not copy this message
+in its entirety or in part, or disclose its contents to anyone.
+
+
+
+
+
+

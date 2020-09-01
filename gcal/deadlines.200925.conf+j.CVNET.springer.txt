@@ -1,0 +1,52 @@
+CALL FOR PAPERS
+CVNET 2020: The First International Workshop on Cooperative Vehicular NETworking
+November 17th, 2020
+https://sites.google.com/usmba.ac.ma/cvnet2020
+
+To be held in conjunction with
+EAI ADHOCNETS 2020 - 12th EAI International Conference on Ad Hoc Networks
+November 17-18, 2020
+https://adhocnets.eai-conferences.org/2020/
+************************************************************************************************************************************************************************************
+
+About the Workshop:
+Cooperative vehicular networking is widely acknowledged as a key enabler of the next generation of Intelligent Transportation Systems (ITS), known as Cooperative-ITS. The range of application of C-ITS is very large, including driving assistance - cooperative awareness, cooperative intersection management, cooperative platoon control, etc. Thanks to V2X (Vehicle-to-everything) communication technology, all ITS actors (vehicles, infrastructure and other road users) can cooperatively exchange real time information, leading to increasing levels of safety and efficiency. The V2X technology combines different communication technologies, from short and medium range ad-hoc direct communication to 3G/4G (future 5G) cellular network communication to realize vehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I) and vehicle-to-person (V2P) network connections. Developing C-ITS applications has to cope with many challenges, related to control theory and signal processing as well as wireless communication. C-ITS applications impose different requirements in terms of latency, throughput, reliability on the network and safety of the V2X environment.
+
+The CVNET workshop intends to cover all aspects of vehicular communication technologies and cooperative V2X systems. It aims to bring together engineers and scientists from both academia and industry to exchange ideas and foster discussion about the main challenges facing the deployment of C-ITS. The topics are not only limited to vehicular networks but also include applications of intelligent transportation systems, safety systems, connected vehicles and telematics.
+
+Workshop Topics:
+Areas of interest include, but are not limited to:
+Cooperative V2X communication
+Routing and protocols for cooperative V2X systems
+Big data, machine learning, and artificial intelligence technologies for V2X
+Vehicular networks and systems management
+Cross-layer design and optimization for vehicular networks
+Security and privacy issues in vehicular communication environment
+Vehicular data mining
+Architectures, algorithms and protocols design for data dissemination, processing, and aggregation in vehicular networks
+Heterogenous vehicular networks (ITS-G5, 3G/4G/5G,...)
+Vehicular data services
+Safety and non-safety automotive applications
+
+Submission guidelines:
+We solicit both theoretical and technical papers describing original and unpublished research, not currently under review by another conference. Accepted papers will be published in proceedings of the EAI ADHOCNETS, and will be submitted for publishing by Springer and made available through SpringerLink Digital Library. Papers are to be submitted electronically as pdf files via the EasyChair system.
+
+Submission Link: https://easychair.org/conferences/?conf=cvnet2020
+
+Important dates:
+- Submission deadline: September 25th, 2020
+- Author notification: October 15th, 2020
+- Camera-ready deadline: October 30th, 2020
+- Workshop date: November 17th, 2020
+
+--
+Afaf Bouhoute
+Assistant Professor
+At Faculty of Science, Fez, SMBA University, Morocco
+Laboratoire de Physique Appliquée, Informatique et Statistique (LPAIS)
+e-mail: afaf.bouhoute@usmba.ac.ma, afaf.bouhoute@gmail.com
+
+
+
+
+

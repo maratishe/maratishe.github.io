@@ -1,0 +1,46 @@
+
+CALL FOR PAPERS
+
+ACM Transactions on
+Internet Technology
+
+Special Issue on Edge-AI for Connected Living
+
+
+Guest Editors
+Prof. M. Shamim Hossain, King Saud University, Saudi Arabia
+Prof. Changsheng Xu, Chinese Academy of Sciences, China
+Dr. Josu Bilbao, IK4-IKERLAN, Spain
+Dr. Md. Abdur Rahman, University of Prince Mugrin, KSA
+Prof. Abdulmotaleb El Saddik, University of Ottawa, Canada
+
+Background
+
+With the digital revolution, edge analytics along with Artificial Intelligence (AI) have become important parts of our lives and are getting tremendous attention from industry, academia, governments, and from the smart connected living community as a whole. The Internet of Things (IoT) has brought the true vision of the connected world into reality with a massive amount of data and numerous services. However, because of the massive connectivity of IoT-connected devices in providing numerous connected living services, computation becomes more intensive and storage burden increases at each edge device. To address these challenges, AI-powered edge computing provides powerful computation services and massive data acquisition at edge networks in an intelligent manner for autonomous decision-making, at a level that is impossible for individual human analysts. The edge-AI (edge analytics driven by AI) has the capability to self-learn from data, understand patterns, optimize, make predictions, and provide fresh insights to stakeholders of connected living for better decisions with improved Quality of Services (QoS). Even though researchers have been making advances in AI and edge data analytics individually, relatively less attention has been given to build a cost-effective edge-AI driven connected living ecosystem while considering many aspects of its algorithms, communications, offloading, caching, architectures, framework, and services. Even today, many technical challenges need to be addressed in this convergence of edge-AI driven connected living paradigm.
+
+The aim of this special issue is to bring academic researchers and industry developers together for sharing the recent advances and future trends of AI-driven edge intelligence for connected living. Topics of interest include, but are not limited to, the following:
+
+Explainable AI (XAI) and predictive edge analytics for infectious diseases such as COVID-19
+Edge AI-assisted COVID-19 and similar infectious disease detection or diagnosis systems
+AI-centric Mobile Edge Computing approach for Connected Living
+AI-enabled IoT-edge data analytics for Connected Living
+AI-enabled edge data fusion for Connected Living
+ML-driven edge approach to Connected Living
+AI/Deep Learning/Machine Learning based networked applications, techniques and testbeds for Connected Living
+AI-driven multi access edge computing approach for Connected Living
+New opportunities, challenges, case studies, and applications of Edge-AI for Connected Living
+Security, Privacy, and Trust of Edge-AI for Connected Living
+
+Submission Instructions
+
+Please refer to dl.acm.org/journal/toit/author-guidelines.
+Please select "SI: Edge-AI for Connected Living" in the TOIT Manuscript Central website, mc.manuscriptcentral.com/toit.
+
+Important Dates
+
+Manuscript Submission: October 1, 2020
+First Notification: December 15, 2020
+Revised Version Due: February 15, 2021
+Final Decision: March 31, 2021
+Final Submission: April 15, 2021
+Publication Date: To be scheduled in 2021

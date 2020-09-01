@@ -1,0 +1,47 @@
+The Second IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2020)
+
+Dec 1-3, 2020. FULLY VIRTUAL
+(Co-located with IEEE CIC and IEEE CogMI)
+http://www.sis.pitt.edu/lersais/conference/tps/2020/
+
+Important Dates
+
+
+Abstract Submission (optional)
+Sept. 12, 2020
+Full Paper Submission
+Sept. 20, 2020
+Notification of Acceptance
+Oct. 20, 2020
+Camera-ready Submission
+Nov. 4, 2020
+
+Because of COVID-19, we have decided to reschedule the conference on Dec 1-3 as a FULLY VIRTUAL event.
+
+Recent advances in computing and information technologies such as IoT, mobile Edge computing, Cloud computing, cyber-physical-social systems, Artificial Intelligence, Machine Learning, Deep Learning, etc., have paved way for creating next generation smart and intelligent systems and applications that can have transformative impact in our society while accelerating rapid scientific discoveries and innovations. Such newer technologies and paradigms are getting increasingly embedded in the computing platforms and networked information systems and infrastructures that form the digital foundation for our personal, organizational and social processes and activities. It is increasingly becoming critical that the trust, privacy and security issues in such digital environments are holistically addressed to ensure the safety and well-being of individuals as well as our society.
+
+IEEE Conference on Trust, Privacy and Security in Intelligent Systems,  and Applications (IEEE TPS-ISA) is an international multidisciplinary forum for presentation of state-of-the art innovations, and discussion among academic, industrial researchers, and practitioners on issues related to trust, privacy and security in emerging smart and intelligent systems and applications.
+
+
+Topics
+
+Topics of interest are broadly from the areas of trust, privacy and security in emerging smart and intelligent systems and applications. Please check the conference website for details.
+
+Tracks
+
+TPS2020 will have the research track, industry/government track, and blue-sky/vision track. Please check the website for submission details.
+
+Panels and Tutorials
+
+We welcome panel and tutorial proposals. Please check the website for details.
+
+Awards
+
+IEEE TPS will feature a Best Paper Award and a Best Student Paper Award (to be selected by the program committee/best paper award team). A paper is eligible for the Best Student Paper Award if the first author is a full-time student at the time of submission. A partial travel grant or cash award may be offered to the winner student depending on fund availability.
+
+
+
+
+
+
+

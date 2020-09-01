@@ -1,0 +1,82 @@
+
+Information Systems Frontiers (ISF) is a SCI Q1 journal. We're honoured to have 1 special issue (SI) on Novel Machine Learning, AI and Big Data Methods and Findings for COVID-19. We seek very high-quality and unpublished papers demonstrating any new findings and poineering techniques. Early submissions are encouraged.
+
+Please read details below. Thanks.
+https://resource-cms.springernature.com/springer-cms/rest/v1/content/18246802/data/v3
+
+Thanks and regards,
+
+Victor
+
+
+Special Issue on Novel Machine Learning, AI and Big Data Methods and Findings for COVID-19
+
+
+
+Brief description/Scope
+
+
+
+COVID-19 has become the most significant challenge the human beings have encountered since World War 2 (WW2). It is reported to have more deaths in the US than the combination of the Pearl Harbor War and the September 11 terror attacks. COVID-19 itself is highly infectious and speed in which it can mutate is rapid and in different varieties, with reported six strands of active coronaviruses widely spread worldwide. It has infected more than 17 million of the population worldwide in late July 2020. In early March 2020, the total infected cases were still not reaching 100,000 (WHO, 2020). This global challenge is causing rapidly increased numbers of infected cases, death, and the way we live, such as social distancing. This has caused a lack of medical resources and healthcare crisis to fight against the infection before the development of vaccines and drugs. Other economic and social problems are common, such as job loss, insecurity, lack of movements, increases in crimes, improvements in fighting limited resources and has been seen (Ecke, 2020). In addition to this, the computing services for the identification and development of drugs are also challenging. In such cases, the quality and the quantity of the collected data plays a major role which uses cloud computing architectures (Chang, 2014; Sicari et al., 2016; Hosseinian-Far et al., 2018). The technology of the Internet of Things combined with Artificial Intelligence techniques may provide good solutions to this health-oriented problem (Vaishya et al., 2017).
+
+Solutions for those urgent needs are required globally to understand how to tackle this challenge. Scientists have a crucial role, not only in research and development, but also provide positive impacts to the society. In terms of Machine Learning, AI and Big Data research, scientists can offer recommendations, new discoveries and pioneering methods (Gupta et al. 2018), which may provide positive impacts and findings to the causes, cure and analysis of treatment. The recent diagnosis of COVID-19 is based on real-time reverse-transcriptase polymerase chain reaction (RT-PCR) and used widely for confirmation of infection (Kim et al., 2020). Moreover, secure transmission of messages among medical professionals is also a challenging task during COVID-19 diagnosis and the subsequent treatment (Wang et al., 2020). It has already been widely recognized that novel Machine Learning, AI and Big Data methods can potentially have significant substantial roles in streamlining and accelerating the diagnosis of COVID-19 patients, offering high-quality research outputs and accurate predictive modeling (Oksavik et al., 2020; Tuli et al., 2020). Therefore, this requires novel methods such as blended LSTM, hybrid reinforcement learning, advanced deep learning, modern artificial intelligence and computational data intelligence since they are crucial for research findings. Together with pioneering methods, innovative Machine Learning, AI and Big Data for COVID-19 can provide added values for scientists. In this special issue, we seek unpublished and high quality work based on unique Machine Learning, AI and Big Data methods and findings. Best paper winners and top authors from IIoTBDSC 2020 will also be invited.
+
+
+
+Topics of interest include, but are not limited to:
+
+Novel Machine Learning, AI and Big Data methods based COVID-19 diagnostic systems
+Novel AI and Data Science Techniques for lung and infection segmentation
+Accurate prediction of COVID-19 based on advanced Pioneering AI and Data Science methods
+Novel Machine Learning, AI and Big Data methods for tracking and detecting COVID-19
+Novel Machine Learning, AI and Big Data methods for data mining and analytics in COVID-19
+Novel Machine Learning, AI and Big Data methods for computational analysis of COVID-19
+Novel Machine Learning, AI and Big Data methods for predicting the long-term risk of COVID-19
+Novel Predictive Modeling for Viruses & in the Era of post-COVID-19
+Novel Recommendation System for treatment of COVID-19 patients based on psychological factors
+
+
+
+
+ISF is a high-ranking research journal. The journal is abstracted or indexed in Science Citation Index Expanded, Current Contents/Engineering and other major sources.
+
+
+
+Submission Instruction
+
+
+
+Manuscripts must be submitted in PDF format to the ISF-Springer online submission system at https://www.editorialmanager.com/isfi and the authors need to select "Special Issue:
+
+“Novel Machine Learning, AI and Big Data Methods and Findings for COVID-19" during the submission process. Paper submissions must conform to the format guidelines of Information Systems Frontiers available at https://www.springer.com/journal/10796/submissionguidelines. Submissions should be approximately 32 pages double spaced, including references.
+
+
+
+Important Dates
+
+Submissions Due: January 15, 2021
+
+Pre-screening: January 31, 2021, or as soon as possible
+
+First Round Review Completion: March 31, 2021
+
+Second Round Review Completion: June 15, 2021
+
+Final/revised manuscript due: August 15, 2021
+
+
+
+Guest Editors
+
+
+
+Prof. Victor Chang, Teesside University, UK (Lead guest editor; email for queries). Email: victorchang.research@gmail.com
+Prof. Carole Goble, University of Manchester, UK. Email: carole.goble@manchester.ac.uk
+Dr. Muthu Ramachandran, Leeds Beckett University, UK. Email: M.Ramachandran@leedsbeckett.ac.uk
+Dr. Lazarus Jegatha Deboarh, Anna University, India. Email: blessedjeny@gmail.com
+Prof. Reinhold Behringer, Knorr-Bremse GmbH, Germany. Email: reinhold.behringer@gmail.com
+
+
+
+
+

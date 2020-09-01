@@ -1,0 +1,87 @@
+
+********************************************************************************
+11th ACM Conference on Data and Application Security and Privacy.
+April 26 - 28, 2021.
+Taking place virtually.
+********************************************************************************
+
+Data and applications security and privacy has rapidly expanded as a research field with many important challenges to be addressed. The goal of the ACM Conference on Data and Applications Security (CODASPY) is to discuss novel, exciting research topics in data and application security and privacy, and to lay out directions for further research and development in this area.
+
+The conference seeks submissions from diverse communities, including corporate and academic researchers, open-source projects, standardization bodies, governments, system and security administrators, software engineers and application domain experts. Topics of interest include, but are not limited to:
+
+- Application-layer security policies
+- Access control for applications
+- Access control for databases
+- Data-dissemination controls
+- Data forensics
+- Data leak detection and prevention
+- Enforcement-layer security policies
+- Privacy-preserving techniques
+- Private information retrieval
+- Search on protected/encrypted data
+- Secure auditing
+- Secure collaboration
+- Secure data provenance
+- Secure electronic commerce
+- Secure information sharing
+- Secure knowledge management
+- Secure multiparty computation
+- Secure software development
+- Securing data/apps on untrusted platforms
+- Securing the semantic web
+- Security and privacy in GIS/spatial data
+- Security and privacy in healthcare
+- Security and privacy in the Internet of Things
+- Security policies for databases
+- Social computing security and privacy
+- Social networking security and privacy
+- Trust metrics for applications, data, and users
+- Usable security and privacy
+- Web application security
+
+CODASPY 2021 will also feature a dataset and tool paper track, which will provide a unique venue for researchers and practitioners to make available and citable their work done to achieve datasets or tools relevant in security and privacy domain. Papers accepted in this track have to describe the available datasets or reporting on the design and implementation of application security and privacy tools. Dataset/tool papers are limited to 6 pages.
+
+
+Instructions for Research Paper Authors
+Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal, conference or workshop. Simultaneous submission of the same work is not allowed.
+
+Submissions must be at most 12 pages in double-column ACM format (as specified at ACM Proceedings Template: https://www.acm.org/publications/proceedings-template). Submissions must be anonymized and avoid obvious self-references. Only PDF files will be accepted. Submissions not meeting these guidelines will be rejected without review.
+
+Submissions should be made electronically at EasyChair CODASPY 2021: https://easychair.org/conferences/?conf=codaspy2021.
+
+
+Instructions for Dataset/Tool Paper Authors
+Submitted papers must not substantially overlap papers that have been published or that are simultaneously submitted to a journal, conference or workshop. Simultaneous submission of the same work is not allowed.
+
+Submissions must be at most 6 pages in double-column ACM format (as specified at ACM Proceedings Template: https://www.acm.org/publications/proceedings-template). Submissions must be anonymized and avoid obvious self-references. Only PDF files will be accepted. Submissions not meeting these guidelines will be rejected without review.
+
+Submissions should be made electronically at EasyChair CODASPY 2021: https://easychair.org/conferences/?conf=codaspy2021.
+
+
+Important Dates
+
+Abstract submission deadline: September 24, 2020, 23:59 anywhere in the world
+
+Research paper submission deadline: October 1, 2020, 23:59 anywhere in the world
+
+Dataset/tool paper submission deadline: October 1, 2020, 23:59 anywhere in the world
+
+Rebuttal phase: November 28 - December 3, 2020
+
+Notification to (conference) authors: December 11, 2020
+
+
+COVID-19
+
+CODASPY 2021 will be a virtual event. However, should COVID-19 circumstances allow, the conference will include an in-person optional component in the USA. Participation in the in-person component will be entirely at authors' and attendees' discretion. All authors of accepted papers will have the option to present and participate virtually.
+
+
+Organization
+Program Co-Chairs
+
+Barbara Carminati, University of Insubria, Italy
+Rakesh M. Verma, University of Houston, USA
+
+
+
+

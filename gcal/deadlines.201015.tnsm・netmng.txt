@@ -1,3 +1,4 @@
+CALL FOR PAPERS
 IEEE TNSM SPECIAL ISSUE ON LATEST DEVELOPMENTS FOR SECURITY MANAGEMENT OF NETWORKS AND SERVICES
 https://www.comsoc.org/publications/journals/ieee-tnsm/cfp
 
@@ -18,6 +19,7 @@ As the backbone of communications amongst objects, humans, companies, and admini
 These networked systems are, however, subject to a large variety of security attacks, such as distributed denial-of-service, man-in-the-middle, web-injection and malicious software attacks, orchestrated in a more or less stealthy manner through the Internet. While they are gaining in sophistication and coordination (i.e. advanced persistent threats), these attacks may affect the fundamental security goals of confidentiality, integrity, availability and non-repudiation of resources. The accessibility, distribution, and increased complexity of networked systems make them particularly vulnerable targets. In that context, cybersecurity techniques offer new perspectives for protecting these networked systems, through the elaboration of intelligent and efficient management methods for detecting, analyzing and mitigating such attacks.
 
 IEEE Transactions on Network and Service Management (IEEE TNSM) is a premier journal for timely publication of archival research on the management of networks, systems, services and applications. Following the success of the last recent TNSM special issue on cybersecurity techniques for managing networked systems in 2020, this special issue will also focus on latest developments for security management of networks and services. We welcome submissions addressing the important challenges (see the non-exhaustive list of topics below) and presenting novel research or experimentation results. Survey papers that offer a perspective on related work and identify key challenges for future research will be considered as well. We look forward to your submissions!
+
 ------------------------
 ABOUT THE SPECIAL ISSUE
 ------------------------
@@ -91,8 +93,3 @@ Rémi Badonnel, Telecom Nancy – LORIA / INRIA, France
 Carol Fung, Virginia Commonwealth University, United States
 Sandra Scott-Hayward, Queen's University Belfast, United Kingdom
 Qi Li, Tsinghua University, China
-
-
-
-
-

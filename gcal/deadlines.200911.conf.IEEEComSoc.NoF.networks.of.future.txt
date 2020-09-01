@@ -1,0 +1,216 @@
+
+Call for Demo Papers
+
+Deadline: September 11, 2020
+
+
+NoF 2020
+
+The 11th International Conference on Network of the Future
+Virtual Conference
+
+
+http://nof2020.dnac.org
+
+********************************************************************************
+Technically co-sponsored by IEEE, IEEE ComSoc
+
+All accepted & presented papers will be submitted for publication in IEEE Xplore
+
+
+
+Demo Paper submission deadline: September 11, 2020
+
+
+The  11th  International Conference on  Network of the Future ( NoF) is  inviting
+
+authors to  submit demo paper  proposals in the area of  Future Internet design,
+
+with emphasis on enabling and cutting-edge technologies from the perspectives of
+
+specification,  design and  analysis related to  network of future architecture,
+
+applications, services, management, implementation, scalability, standardization,
+
+business  and legal  aspects, just to name a few.
+
+The  conference  aims  at  providing  a  forum  for  researchers,  students, and
+
+professionals  to  exchange ideas,  share  their experiences,  and discuss their
+
+research results  around a single-track  of technical sessions  and a series  of
+
+keynote speeches. The program will also include tutorials.
+
+
+
+Initially planned in Bordeaux, France, NoF 2020 will run as a fully virtual web-
+
+based event, due to the uncertainty raised by the Covid-19 pandemics.
+
+*** Topics of interest ***
+**************************
+The topics of interest include, but are not limited to:
+
+Networks
+
+* 5G networks
+
+* Software-defined networks
+
+* Virtual networks
+
+* Overlay networks
+
+* Wireless networks and cellular networks
+
+* Wireless sensor networks
+
+* Internet of Things networks
+
+* Information-centric networks
+
+* Enterprise networks and campus networks
+
+* Time-sensitive networks
+
+* Data center networks
+
+* Optical networks
+
+* IP networks
+
+* Home networks
+
+* Access networks
+
+* SCADA networks and distributed control systems
+
+* Smart Cities and Smart Grids
+
+* Access, metro, backbone and core networks
+
+* Vehicular ad hoc networks and intelligent transportation systems
+
+* Mesh, ad hoc, and sensor networks
+
+
+
+Enablers
+
+* 5G Network Architecture, Services and Protocols
+
+* 5G Control and Management Architecture
+
+* 5G Functional Decomposition and Composition
+
+* Advanced 5G Infrastructure Slicing and Radio Slicing
+
+* Scalability and multi-tenancy in 5G
+
+* Protocols for Ultra-Low Latency and Ultra-High Reliability
+
+* Network Programmability and Softwarization
+
+* Autonomic, Cognitive and Intent-based Networking
+
+* Fog, Edge and Multi-Access Computing
+
+* Network automation and orchestration
+
+* Software Defined Networking and High Availability
+
+* Network Function Virtualization (NFV) and Orchestration
+
+* Service Function Chaining and Virtual Network Embedding
+
+* Network Artificial Intelligence, Machine Learning and Reasoning
+
+* Network Data Analytics, Anomaly Detection, Feature Extraction
+
+* Big data and Fast Data Processing and Management
+
+* CDN Architectures and Network Cache Allocation Schemes
+
+* Advanced multimedia and real-time communications
+
+* Security, Trust and Privacy
+
+* Use of Blockchains in Networking and Servicing
+
+
+
+
+*** Submission guidelines ***
+
+*****************************
+Prospective authors are invited to submit Demo proposals in the form of a 3-page
+
+paper  in IEEE conference  double-column format, preferably incorporating a demo
+
+system architecture  illustration.  The proposal should also  describe in detail
+
+what NoF 2020 attendees  will experience during the demonstration.  The proposal
+
+should indicate  the demo background, and further focus on the demo settings and
+
+the application, possibly with visual outcomes  to highlight the interest of the
+
+demo.
+
+Authors are also encouraged to optionally include in the paper submission a link
+
+that opens a quite short (1-3min) video illustrating the demo and its scope.
+
+
+
+Demo papers must be submitted electronically through EDAS in PDF format only.
+
+See https://edas.info/newPaper.php?c=27007&track=103381
+
+
+
+Demo papers will be  peer-reviewed and  accepted demo papers will be included in
+
+the electronic conference proceedings provided to NoF 2020 attendees and will be
+
+subsequently submitted to IEEE Xplore.
+
+
+
+At least  one author  of each accepted demo proposal is required  to register to
+
+NoF 2020 conference and present the demo at the scheduled demo session.
+
+*** Important dates ***
+
+***********************
+- Demo Paper submission deadline: September 11, 2020
+- Paper acceptance notification: September 23, 2020
+- Camera-ready Papers:  September 30, 2020
+
+
+*** Demo Co-Chair ***
+*********************
+Jérémie Leguay, Huawei, France
+
+Thomas Zinner, NTNU, Norway
+
+
+*** TPC Co-Chairs ***
+*********************
+Toufik Ahmed, Bordeaux INP, France
+Tobias Hossfeld, University of Würzburg, Germany
+
+
+*** General Co-Chairs ***
+*************************
+Prosper Chemouil, Cnam, France
+
+Francine Krief, Bordeaux INP, France
+
+
+
+
+
+

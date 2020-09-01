@@ -1,0 +1,198 @@
+(Our apologies if you receive multiple copies of this message)
+
+** Please forward to anyone who might be interested **
+
+This CFP  along with submission instructions are available at: http://www.ieee-nca.org/2020/index.php?p=20_Call_for_Papers.md
+
+
+------------------------------------------------------------------------------------------------------------------------
+19th IEEE International Symposium on Network Computing and Applications (NCA 2020)
+
+Sponsored by the IEEE Computer Society - Technical Committee on Distributed Processing
+
+Virtual Conference due to COVID-19  --  26-28 November 2020
+------------------------------------------------------------------------------------------------------------------------
+
+*CALL FOR PAPERS*
+
+NCA is a successful series of conferences that serves as a large international forum for presenting and sharing recent research
+results and technological developments in the fields of Network and Cloud Computing. NCA, which is sponsored by the IEEE Computer
+Society, reaches out to both researchers and practitioners, and to both academia and industry. The conference features keynotes,
+technical presentations, and workshops.
+
+The IEEE International Symposium on Network Computing and Applications (NCA) is seeking articles concerning fundamental research
+and practical experience reports.
+
+The topics of interest include, but are not limited to:
+- Theory of Network Computing
+- Autonomic Network Computing
+- Content Delivery Network (CDN)
+- High Speed Networks/Protocols and Middleware
+- Routing Mechanisms
+- Overlay Networks/Peer-to-Peer Systems
+- System Area Networks (SAN)/Clusters
+- Performance Modeling/Quality of Services (QoS) Issues
+- Web Caching and Switching
+- Dependable Wide, Local, and System Area Networks
+- Network Security
+- Intrusion-Tolerant Networked Systems
+- Scalable and Dependable Servers and Data Centers
+- Middleware for Dependable Network Computing
+- Self* (Configuring, Healing, Optimizing, Protecting, Organizing, Aware)
+- Platforms for Network Computing
+- Network Protocols: Verification and Validation
+- Autonomic Network Computing for Achieving Self* Properties and Applications Availability
+- Seamless and Virtual Capabilities for Implementing Self* Properties
+- Software Defined Networking (SDN): Principles and Implementation
+- Designing Highly-Available and Secure SDN
+- Network Functions Virtualization (NFV): Design and Optimization
+- Network Cloud Computing
+- Machine Learning Techniques for Cloud Resources Management
+- Big Data in Clouds for IoT
+- Future Internet and Communicating Objects
+- Mobile Ad-Hoc Networks (MANET)
+- Sensor Networks
+- Fog/Edge Computing
+- Energy-Efficient Computation and Communication
+- Applications to Real and/or Complex Problems, Practical Experiences and Prototypes
+- Programming Environments for Distributed Systems
+- Blockchain
+- Byzantine Fault Tolerance
+- Web and Mobile Security
+- Solutions Relevant to the COVID-19 Pandemic
+
+
+*IMPORTANT DATES*
+
+- Title and Abstract Due:     7 September 2020
+- Manuscript Due:               7 September 2020
+- Author Notification:          7 October 2020
+- Camera Ready Papers:    14 October 2020
+- Authors Registration:      26 October 2020
+- Conference Dates:     26-28 November 2020
+
+
+*MANUSCRIPT SUBMISSIONS*
+
+Paper submissions are managed through EasyChair. Please visit the submission link to send your manuscript:
+http://easychair.org/conferences/?conf=nca2020
+(The submission site will open soon)
+
+Submitted manuscripts must not have been previously published or currently submitted for publication elsewhere and must be
+cleared for publication in the NCA Proceedings, which will be published by the IEEE Computer Society Press. The manuscript
+must be written in English, and must not exceed 8 pages for NCA papers or 4 pages for workshop papers. Following last year's
+success, NCA also invites manuscripts presenting Work-in-Progress (WiP), which must not exceed 3 pages. More details about
+the WiP track can be found in the NCA website. All submissions must be in PDF format.
+
+
+Manuscript page limit:
+
+Regular Papers: 8 pages, including all figures, tables, and references.
+Short Papers: 4 pages, including all figures, tables, and references.
+WiP Papers: 3 pages, including all figures, tables, and references.
+
+
+Purchasing extra pages:
+
+Regular Papers: Up to 2 extra pages may be purchased at $100 (US dollars) per extra page.
+Short Papers: Up to 1 extra page may be purchased at $100 (US dollars).
+
+Authors can decide to submit papers longer than 8/4 pages (up to 10 and 5, depending on the category) before the reviewing
+process. This is an indication of their will to purchase extra pages during the registration process. Therefore, longer
+papers cannot be shrunk when preparing camera ready versions, in case of acceptance. This is to respect the work made by
+reviewers and other authors who decided to stay in the limits.
+
+
+*ACCEPTED PAPERS AND PUBLICATION POLICIES*
+
+Every paper accepted at NCA must have attached to it at least one registration at the full (member or non-member) rate. Thus,
+for a manuscript for which all authors are students, one student author will be required to register at the full registration
+rate. For manuscripts where at least one author is already registered at the full rate, this fulfills the obligation for up to
+two (2) papers.
+
+No-show papers are defined as papers submitted by authors who subsequently did not present the paper at the technical meeting.
+This year, due to COVID-19, NCA will be a fully virtual conference, with no travel involved. All presentations will be given
+via pre-recorded videos, followed by synchronized online discussions during the conference period. For an accepted paper to not
+be considered as "no-show", at least one of its authors will have to prepare a video presentation and provide it to the organizers
+who will make it available to the participants of the conference. Moreover, at least one author of the accepted paper will have
+to participate to the online discussions that are relevant to their paper. Instructions for these will be provided at the NCA
+website.
+
+Presentations by proxies are not allowed, unless explicitly approved *before* the conference by the technical co-chairs. No-show
+papers that were not withdrawn and were published in the Proceedings must be identified as "No-Show" in the files submitted to IEEE
+for further publication (IEEE Xplore). No-shows will not be available on IEEE Xplore or other public access IEEE forums. IEEE will
+maintain an archive of no-shows.
+
+The IEEE strongly discourages changes and, in particular, withdrawals of papers once submitted and included in the program.
+
+If under any circumstances it becomes necessary for the author to withdraw or change a paper, IEEE policy dictates that the
+request to do this must come directly from the author and not from any third party. IEEE policy also states that in this case,
+the author will be held liable for all costs that are incurred. It would then be up to the author to get reimbursed for the
+expense from any third party if he/she feels it is justified. The IEEE cannot act as a policing entity on behalf of the author in
+this regard.
+
+
+*BEST PAPER AWARDS*
+
+The IEEE NCA 2020 Program Committee will select Best Paper and Best Student Paper. The first author of the Best Student Paper must
+be a PhD student.
+
+
+*ORGANIZATION*
+
+Steering Committee Chair: Dimiter R. Avresky, IRIANC - Boston, USA / Munich, Germany
+Program Chair: Aris Gkoulalas-Divanis, IBM Watson Health - Boston, USA
+Program Co-Chair: Mirco Marchetti, University of Modena, Italy
+Program Co-Chair: Dimiter R. Avresky, IRIANC - Boston, USA / Munich, Germany
+General Chair: Aris Gkoulalas-Divanis, IBM Watson Health - Boston, USA
+Financial Chair: Mirco Marchetti, University of Modena, Italy
+
+
+Technical Program Committee (tentative):
+- E. Anceaume, IRISA/CNRS, France
+- M. Andreolini, University of Modena, Italy
+- G. Apruzzese, University of Modena, Italy
+- L. Arantes, Lip 6, Paris, France
+- F. Araujo, U. Coimbra, Portugal
+- D. Bruneo, University of Messina, Italy
+- Y. Busnel, IMT, Rennes, France
+- P. Carpenter, Barcelona Supercomputing Center, Spain
+- A. Ceccarelli, University of Florence, Italy
+- B. Ciciani, University of Roma, Italy
+- M. Colajanni, University of Modena, Italy
+- M. Correia, INESC-ID / IST, Lisboa, Portugal
+- A. De Salve, University of Parma, Italy
+- E. Dedu, University of Bourgogne Franche-Comte, CNRS, France
+- S. Dolev, BGU University, Israel
+- S. Duan, University of Maryland, USA
+- L. Ferretti, University of Modena, Italy
+- S. Frechette, Northeastern University, USA
+- A. Goldman, University of Sao Paulo, Brazil
+- H. Hellwagner, University of Klagenfurt, Austria
+- D. B. Hoang, University of Technology, Sydney, Australia
+- P. Inacio, Universidade da Beira Interior, Portugal
+- N. Koziris, NTUA, Athens, Greece
+- R. Lancellotti, University of Modena and Reggio Emilia, Italy
+- F. Longo, University of Calabria, Italy
+- E. Losiouk, University of Padova, Italy
+- T. Loukopoulos, University of Thessaly, Greece
+- R. Ludinard, ENSAI, France
+- T. Madsen, Aalborg University, Denmark
+- E. Maehle, University of Luebeck, Germany
+- P. Massonet, CETIC, Brussels, Belgium
+- G. Merlino, University of Messina, Italy
+- Y. Nan, The University of Sydney, Australia
+- R. Palmieri, Virginia Tech. USA
+- M. Pardal, INESC-ID / IST, Portugal
+- F. Pierazzi, King's College London, UK
+- A. Puliafito, University of Messina, Italy
+- F. Quaglia, University of Roma, Italy
+- H. Schwefel, Aalborg University, Denmark
+- P. Sens, Lip 6, Paris, France
+- P. Solis, University of Brasilia, Brazil
+- V. Sourlas, University College London, UK
+- D. Stabili, University of Modena and Reggio Emilia, Italy
+- D. Syrivelis, IBM Research, Ireland
+- N. Tziritas, Shenzhen Institutes of Advanced Technology, China
+- M. Vouk, NC State University, USA
+- A. Y. Zomaya, The University of Sydney, Australia

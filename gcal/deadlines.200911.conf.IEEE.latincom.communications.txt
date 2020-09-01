@@ -1,0 +1,198 @@
+
+IEEE LATIN AMERICA CONFERENCE ON COMMUNICATIONS - VIRTUAL CONFERENCE
+NOV 18-20, 2020
+
+https://latincom2020.ieee-latincom.org
+
+NEW AND FIRM DEADLINE: SEP 11, 2020
+
+SUBMISSIONS: https://submissoes.sbc.org.br/latincom2020
+
+
+The IEEE Latin-American Conference on Communications (LATINCOM) is an
+international conference organized by the IEEE Communications Society
+(ComSoc). It is held annually and attracts submissions and participants
+from all around the world. It covers the scope of all ComSoc Technical
+Committees and has a broad technical program that includes comprehensive
+tutorials presenting the state-of-the-art in communications and renowned
+keynote speakers.
+
+In consideration of the current situation that humanity is experiencing,
+especially the research community and in accordance with the request for
+non-mobilization to combat COVID-19, the Organizing Committee of
+IEEE LATINCOM 2020, along with the Steering Committee, has decided that
+the conference will run as a virtual conference (i.e., using remote
+audio/video support) and not as an in-person event. Please note that the
+AUTHORS' REGISTRATION FEES WILL BE REDUCED ACCORDINGLY.
+
+
+
+KEYNOTE SPEAKERS
+****************
+
+Mohamed-Slim Alouini (King Abdullah University of Science and Technology,
+Saudi Arabia): Unleashing the Potential of Tethered Networked Flying
+Platforms.
+
+Zuqing Zhu (University of Science and Technology of China):
+Application-driven Virtual Network Slicing.
+
+Mohsen Guizani (Qatar University, Qatar): Security Schemes for Healthcare
+Devices in the IoT Era.
+
+Winston Seah (Victoria University of Wellington, New Zealand).
+
+Christos Verikoukis (Centre Tecnològic de Telecomunicacions de
+Catalunya)
+
+
+
+CONFERENCE PROCEEDINGS AND JOURNAL SPECIAL ISSUE
+************************************************
+Accepted and presented papers will be published in the IEEE LATINCOM 2020
+Conference  Proceedings and submitted to IEEE Xplore® as well as other
+Abstracting and Indexing (A&I) databases.
+
+
+The authors of selected best papers from the conference will be invited to
+submit an extended version in Spanish or Portuguese to the Special Issue
+on 5G and B5G Communications of the IEEE Latin America Transactions
+(https://latamt.ieeer9.org/index.php/transactions/announcement/view/31).
+
+
+
+
+CALL FOR PAPERS
+****************
+
+The LATINCOM 2020 Organizing Committee invitES the submission of original,
+unpublished, high-quality research papers focusing on (but not limited to)
+the following topics of interest:
+
+-       Ad-hoc and Sensor Networks
+-       Artificial Intelligence for Communications and Networks
+-       Big Data and Machine Learning for Communications and Networks
+-       Blockchain in Communications and Networks
+-       Cloud Computing, Edge Computing, and Internet of Things
+-       Communications and Information Security
+-       Communication QoS/QoE, Reliability & Modeling
+-       Communication Software, Services and Multimedia Applications
+-       Communications Theory and Systems
+-       Green, Cognitive, and Intelligent Communications and Networks
+-       Mobile and Wireless Networks
+-       Network and Service Management
+-       Network Science and Economics
+-       Next Generation Networking and Internet
+-       Optical Communications and Optical Networks
+-       Resource Management and Multiple Access
+-       Signal Processing for Communications
+-       Smart Grid and Power Line Communications
+-       Social Networks, Crowdsourcing and Crowdsensing
+-       Tactile Internet
+-       Underwater Communications and Networks
+-       Vehicular, Aerial, and Satellite Communications and Networks
+-       Wireless Communications
+
+
+
+In addition to papers for the main track, the LATINCOM 2020 Organizing
+Committee is inviting submissions to two special sessions:
+
+Next Challenges and Applications in Programmable Data Planes (Chair: Prof.
+Marcelo Caggiani Luizelli, University of Pampa - Brazil).
+
+Challenges and Applications in Hybrid VLC Communication Systems (Chair:
+Prof. Cesar Arzudia, University of Chile, Chile)
+
+
+
+Papers for the main track and special sessions must be written  in
+English, unpublished  and not considered  in  the  review  process  of
+other  conferences or journals.  Full  papers  must be formatted as the
+standard IEEE double-column  conference template and submitted exclusively
+in PDF on JEMS (https://submissoes.sbc.org.br/latincom2020). Maximum 6
+pages  are allowed for each paper, including all illustrations and
+references.
+
+
+
+CALL FOR TUTORIALS
+******************
+
+The LATINCOM 2020 Organizing Committee is also inviting submissions of
+tutorials in the areas mentioned above. A tutorial proposal must be
+submitted in PDF format, containing the following information:
+-       Title of the tutorial
+-       Abstract, objectives and motivation
+-       Timeliness and intended audience
+-       Name, affiliation, and a short biography of each tutorial speaker
+-       A description of the technical issues that the tutorial will address,
+emphasizing its timeliness
+-       An outline of the tutorial content, including its tentative schedule.
+
+Please take under consideration the virtual manner of the conference when
+laying out the schedule
+-       If appropriate, a description of the past/relevant experience of the
+speaker on the topic of the tutorial.
+-       A description of previous tutorial experience of the speaker(s), and
+past versions of the tutorial
+
+Tutorial proposals must also be submitted online via JEMS on the following
+link:
+https://submissoes.sbc.org.br/latincom2020
+
+
+
+IMPORTANT DATES
+***************
+- Paper submission hard-deadline for main track: September 11, 2020
+- Paper submission hard-deadline for special sessions: September 11,  2020
+- Submission of tutorial proposals (hard-deadline): September 11, 2020
+- Notification of acceptance: October 7, 2020
+- Camera-ready papers: October 15, 2020
+
+
+
+ORGANIZING COMMITTEE
+********************
+General Co-Chairs
+- Fabrizio Granelli, University of Trento, Italia
+- Carlos Lozano-Garzon, Universidad de los Andes, Colombia
+
+
+Technical Program Co-Chairs
+- Octavia A. Dobre, Memorial University, Canada
+- Oscar Mauricio Caicedo Rendon, Universidad del Cauca, Colombia
+
+Keynote & Tutorials Chairs
+- Marco Antonio To De León, Universidad Galileo, Guatemala
+- Carlos A. Gutierrez, UASLP, México
+
+Publicity Chair
+- Nury Gabriela Ramirez Cely, Continental, Mexico
+
+Publication Chair
+- Ramiro Velazquez, Panamericana University, Mexico
+
+
+STEERING COMMITTEE
+
+- Stefano Bregni (chair)
+- Carlos A. Gutierrez
+- Carlos Lozano Garzon
+- Fabrizio Granelli
+- Jose-David Cely
+- Marco To De Leon
+- Lisandro Zambenedetti Granville
+- Nelson Fonseca
+- Nury Gabriela Ramirez Celi
+- Pedro Aguilera
+
+IEEE Communications Society
+
+- Tina Gaerlan, Senior Conference Planner
+- Bruce Worthman, Treasurer
+
+
+
+

@@ -1,0 +1,31 @@
+6th Springer International Conference on Mobile, Secure and Programmable Networking
+--- MSPN'2020 (Virtual)---
+Paris, October 28-29, 2020
+https://mspn2020.roc.cnam.fr/
+
+MSPN 2020 is the 6th edition of the successful International Conference on Mobile, Secure and Programmable Networking. It aims at providing an elicited forum for researchers and industrial practitioners to present and discuss emerging trends in networking infrastructures, distributed yet intelligent protocols, security, services and applications while focusing manifold vertical tools on machine leaning and artificial intelligence, network programming and Cloud computing, Industrial Internet of things, Digital Twins, etc. Position papers are also appreciated and solicited. It should be clearly marked as such.
+MSPN 2020 will be held VIRTUALLY from October 28 to October 29, 2020 in Paris, France.
+Topics of interests include the following tracks, but are not limited to:
+- Technologies and Applications for new Generation Networks and Systems
+- Security of new Generation Networks and Systems
+- Artificial Intelligence and Machine Learning for new Generation Networks and Systems
+
+Important dates
+---------------
+Paper submission: September 10, 2020
+Notification of acceptance: October 5, 2020
+Final manuscripts due: October 18, 2020
+Conference: October 28-29, 2020
+
+Publication
+-----------
+
+The accepted papers will be published as post-proceedings in Springer's LNCS. Lecture Notes in Computer Science (LNCS) series is indexed by the ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI Web of Science, EI Engineering Index (Compendex and Inspec databases), ACM Digital Library, dblp, Google Scholar, Scopus, etc.
+
+Authors of selected articles will be invited to submit an extended version to a Special Issue of the MDPI Computers journal.
+
+
+
+
+
+

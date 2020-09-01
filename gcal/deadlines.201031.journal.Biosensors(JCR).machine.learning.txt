@@ -1,0 +1,85 @@
+
+Special Issue "Advanced Machine Learning Techniques for Modeling, Signal Processing, and Intelligent Circuits and Biosensors"
+Special Issue Editors
+Special Issue Information
+Keywords
+Published Papers
+A special issue of Biosensors (ISSN 2079-6374).
+
+Deadline for manuscript submissions: 31 October 2020.
+
+Special Issue Editors
+Prof. Dr. Chi-Hua Chen
+E-Mail Website
+Guest Editor
+College of Mathematics and Computer Science, Fuzhou University, Fuzhou 350108, China
+Interests: machine learning; internet of things; healthcare systems
+
+Prof. Dr. Liang-Hung Wang
+E-Mail Website
+Guest Editor
+College of Physics and Information Engineering, Fuzhou University, Fuzhou 350108, China
+Interests: ECG acquisition sensor; automatic identification and classification of ECG features; cardiac medical information analysis
+
+Dr. Lingjuan Lyu
+E-Mail Website
+Guest Editor
+Department of Computer Science, National University of Singapore, 119077, Singapore
+Interests: privacy-preserving; machine/deep learning; Internet of Things
+
+Prof. Dr. Genggeng Liu
+E-Mail
+Guest Editor
+College of Mathematics and Computer Science, Fuzhou University, Fuzhou 350108, China
+Interests: computational intelligence; Internet of things; IC design algorithm
+
+Prof. Dr. Hsiao-Ting Tseng
+E-Mail
+Guest Editor
+Department of Information Management, National United University, Miaoli 36063, Taiwan
+Interests: healthcare information analysis; AI; clinical decision support system; Internet of Things
+Special Issue Information
+Dear Colleagues,
+
+The latest advanced machine learning techniques have contributed to great developments in various areas of interest to the academic and engineering community. In terms of methodologies employed in this field, it has seen the rise of deep learning techniques and the novel methodologies such as generative adversarial networks and natural language generation (including deep learning, reinforcement learning, transfer, and extreme learning), but may also promote the development of deep learning algorithms or methods, optimization approaches, novel hardware, software, network, and communication architectures.
+
+The purpose of the Special Issue “Advanced Machine Learning Techniques for Modeling, Signal Processing, and Intelligent Circuits and Biosensors” is to provide a forum for academic researcher, engineers, and nature and social scientists, and practitioners to present new academic research and industrial development on machine learning for modeling, signal processing, and intelligent circuits and biosensors. This Special Issue will publish original research papers in the machine learning field, covering new theories, algorithms, circuits, systems, and biosensors, as well as novel implementations and applications. The Special Issue invites papers on various disciplines of biosensor techniques and applications that address but are not limited to the following topics:
+
+Research on sensors networks for engineering applications
+Software and hardware architectures for sensorial systems
+Electrical and mechanical engineering, manufacturing, failure detection, energy management, smart grid management, and optimization
+Robotics and automation, computer vision, and pattern recognition applications
+Transportation management, environmental engineering, surveying and geospatial engineering, spatial planning, and remote sensing
+Materials science and engineering
+Machine/deep learning and computer-aided design, manufacturing, and diagnosis engineering
+Evolutionary intelligent optimization and applications
+Data analysis with machine learning at the edge, and on the move, including localization, personalization, and optimization
+Biomedical circuits and systems engineering
+Biomedical sensing and health outcomes
+Biomedical image reconstruction and quantitative image analysis
+Biosignal processing of wearable sensors, mobile sensors, EEG headcaps and headbands, ECG sensors, breathing monitors, EMG sensors, and temperature sensors
+Prof. Dr. Chi-Hua Chen
+Prof. Dr. Liang-Hung Wang
+Dr. Lingjuan Lyu
+Prof. Dr. Genggeng Liu
+Prof. Dr. Hsiao-Ting Tseng
+Guest Editors
+
+Manuscript Submission Information
+
+Manuscripts should be submitted online at www.mdpi.com by registering and logging in to this website. Once you are registered, click here to go to the submission form. Manuscripts can be submitted until the deadline. All papers will be peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a single-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the Instructions for Authors page. Biosensors is an international peer-reviewed open access monthly journal published by MDPI.
+
+Please visit the Instructions for Authors page before submitting a manuscript. The Article Processing Charge (APC) for publication in this open access journal is 1400 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's English editing service prior to publication or during author revisions.
+
+Keywords
+Biosensors networks for engineering applications
+Software and hardware architectures for sensorial systems
+Machine/deep learning and computer- aided design, manufacturing, and diagnosis engineering
+Biomedical circuits and systems engineering
+Biomedical sensing and health outcomes
+
+
+
+

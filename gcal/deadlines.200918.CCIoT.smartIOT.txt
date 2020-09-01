@@ -1,6 +1,5 @@
+=========================================================================================================
 Workshop on Cloud Continuum Services for Smart IoT Systems (CCIoT)
-
-Website: http://cciot.nz.comm.waseda.ac.jp
 
 Call for Papers
 
@@ -39,8 +38,5 @@ Organizers
 • Antonio Skarmeta (University Murcia/Odin’S)
 • Andrea Detti (University of Rome “Tor Vergata”)
 • Hidenori Nakazato (Waseda University)
-
-
-
-
-
+------------------------------------------------------------------:-)
+Hidenori Nakazato    nakazato@waseda.jp

@@ -1,0 +1,48 @@
+ACM Transactions on
+Internet Technology
+
+Special Issue on Cyber Security in Internet of Vehicles
+
+
+Guest Editors
+Ching-Hsien Hsu, Chair Professor and Dean, Asia University, Taiwan
+Amir H. Alavi, University of Pittsburgh, USA
+Mianxiong Dong, Muroran Institute of Technology, Japan
+
+
+
+In today’s scenario, each individual faces substantial complications relating to transportation systems such as congestion, vehicle parking difficulties, pollution caused by an increased level of carbon dioxide emission, longer traveling times, road accidents, etc. These consequences are due to the rising number of vehicular systems and rapid urbanization processes. This leads to the development of modern technologies such as Intelligent Transport Systems (ITS), Vehicular ad-hoc Networks (VANET), VANET cloud (VC), and Internet of Vehicles (IoV). Among all these techniques, IoV remains the most prominent and emerging one. IoV is a series of interconnected vehicles that communicate with each other through a common public network. It is a highly integrated application of two major domains IoT and ITS. The communication across the IoV network includes three different types: Vehicle to Vehicle (V2V), Vehicle to Infrastructure (V2I), and Vehicle to Pedestrian (V2P).
+
+Smart vehicles with progressive communication abilities do not only communicate with broadcast and navigation satellites but also with various smart devices such as roadside units, smart vehicles, and passenger smartphones. Since IoV has widespread interconnected networks with numerous users, there is an increased risk of security and privacy measures. These security and privacy concerns may lead to serious consequences if they are not addressed and dealt with in an appropriate manner. Thus, advanced security measures for IoV systems have become the most essential requirement.
+
+This special issue focuses mainly on the development of various cybersecurity mechanisms for IoV systems with improved security and privacy features. Further, it seeks to bring together the various researchers and industry people from different fields of computer science to contribute novel and effective cyber-security solutions for security protection in IoV systems.
+
+Potential topics include but are not limited to the following:
+
+Security and Privacy in IoV using cyber-security mechanisms
+Enhanced cybersecurity mechanisms for Vehicle to Vehicle (V2V), Vehicle to Infrastructure (V2I) and Vehicle to Pedestrian (V2P) communication in IoV
+Novel and efficient frameworks for improving trust based secure communication in IoV
+Secure Cloud assisted cyber-security mechanisms for IoV
+Trust based security algorithms for Social Internet of Vehicles (SIoV)
+Social Internet of Vehicles (SIoV): Architecture, security, privacy and future directions
+Security protocols for various applications of IoV using cyber-security
+Protection and management of cyber-security across critical IoV systems
+Secure Authentication and access control mechanisms for IoV using cybersecurity
+Novel and improved cybersecurity solutions for IoV in smart cities
+
+Submission Instructions
+Please refer to dl.acm.org/journal/toit/author-guidelines and select the paper type "Cyber Security in Internet of Vehicles" in the TOIT Manuscript Central Website, mc.manuscriptcentral.com/toit.
+
+Important Dates:
+
+Manuscript Submission: September 28, 2020
+First Notification: December 30, 2020
+Submission of Revised Manuscript: February 25, 2021
+Final Notification: April 30, 2021
+Final Paper Due: June 20, 2021
+Publication Date: To be scheduled in later 2021
+
+
+For questions and further information, please contact Ching-Hsien Hsu at robertchh@asia.edu.tw.
+
+The pubs@acm.org email address is not monitored. Please do not reply to it directly.

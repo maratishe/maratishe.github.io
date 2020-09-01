@@ -1,0 +1,89 @@
+Applied Energy (Impact Factor 8.848)  - Special Issue on "Energy Sharing in the Peer-to-Peer Network – Moving towards Real Implementation"
+
+
+
+Over the last few years, there has been extensive growth in small-scale distributed energy resources (DER), which encompass behind-the-meter generation, energy storage, inverters, electric vehicles, and controllable loads at the household level. These small-scale resources can be utilized not only to manage the energy demand more efficiently but also to enable a significant mix of clean energy into the grid. However, to do so, it is important for the owners of these assets to actively participate in the energy market. As a consequence, peer-to-peer trading has emerged as a next-generation energy management technique for the smart grid that can enable the owners of small scale DERs - also known as prosumers - to actively participate in the energy market. With the prosumers in control of setting the terms of transactions and the delivery of goods and services, it is expected that the gain that the prosumers can reap from participating in peer-to-peer trading would be substantial. At the same time, the grid — consisting of generators, retailers, and distribution network system providers — can also obtain a significant benefit in terms of reducing peak demand, lowering investment and operational costs, minimizing reserve requirements, and improving power system reliability.
+
+
+
+As a result, a large number of studies have been reported on peer-to-peer trading in electricity networks over the past few years. These studies have focused on a number of important decision-making problems of participants in the virtual layer as well as investigated the impacts of peer-to-peer energy trading on the physical distribution network. A large number of pilot projects have also been established in the USA, Europe, and Australia. However, interestingly, there has been no indication of the implementation of peer-to-peer trading in the actual energy market in any country. The purpose of this special section is to address this gap by publishing findings from innovative research that have the potential to establish peer-to-peer sharing in today’s electricity market as an energy trading mechanism. The published articles will demonstrate a set of new research outcomes that can successfully decide on energy trading parameters that are beneficial not only for the prosumers but also for other stakeholders within the market. At the same time, transacted energy by prosumers over the physical layer will not detrimentally impact the physical power system network in terms of violating any constraints and increasing the loss significantly.
+
+
+
+The targeted audience includes both academic researchers and industrial practitioners. The purpose of the special issue is to provide a platform to enhance interdisciplinary research and share the most recent ideas in the above-related fields. In particular, the published article would cover, but not limited to, the following topics of energy system via designing new peer-to-peer energy trading mechanisms:
+
+·        Electricity market regulation
+
+·        Sharing of energy storage
+
+·        Providing demand flexibility to the grid
+
+·        Trading of renewable energy in microgrid
+
+·        Designing prosumer engagement plans
+
+·        Modelling flexibility of distributed energy resources
+
+·        Providing voltage and frequency regulation service
+
+·        Pricing model
+
+·        Minimizing of network loss
+
+
+
+Submission Format and Guideline
+
+
+
+This Special Issue solicits original work on novel geographic information technologies for peer-to-peer energy sharing. All submitted papers must be clearly written in excellent English and contain only original work, which has not been published by or is currently under review for any other journals or conferences. Papers must not exceed 25 pages (one-column, at least 11pt fonts) including figures, tables, and references. A detailed submission guideline is available as “Guide to Authors” at: http://www.journals.elsevier.com/applied-energy.
+
+
+
+All manuscripts and any supplementary material should be submitted through Elsevier Editorial System (EES): http://ees.elsevier.com/apen/default.asp.
+
+
+
+Authors must select “P2P sharing & application” when they reach the “Article Type” step in the submission process.
+
+
+
+All papers will be peer-reviewed by at least two independent reviewers. Requests for additional information should be addressed to the editors.
+
+
+
+Important Dates:
+
+First submission date: December 20, 2020
+
+Revised manuscript due: May 20, 2021
+
+Final decision notification: June 20, 2021
+
+
+
+Editor in Chief:
+
+Prof. Jinyue YAN
+
+
+
+Guest Editors:
+
+Chau YUEN, Singapore University of Technology and Design, Singapore
+
+Tapan K. SAHA, The University of Queensland, Australia
+
+H. Vincent POOR, Princeton University, USA
+
+Thomas MORSTYN, University of Oxford, UK
+
+
+
+You can find the CFP at: https://www.journals.elsevier.com/applied-energy/call-for-papers/energy-sharing-in-the-peer-to-peer-network
+
+You are also encouraged to share relevant research related to peer-to-peer energy sharing to the community at: http://enerarxiv.org/page/category.html?id=8
+
+
+
+[Sorry if you receive this message multiple times.]

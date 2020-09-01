@@ -1,0 +1,54 @@
+December 11 - 13, 2020 | Qufu, People's Republic of China
+Submission Deadline: September 14, 2020 (late track)
+
+EAI is actively monitoring the COVID-19 situation to ensure the safety, comfort and quality of experience for attendees and a successful course of the event in 2020.
+
+EAI CloudComp is also welcoming submissions from authors who will be unable to attend the event in person due to restrictions caused by COVID-19. Accepted Authors will have the opportunity to present their paper online in an interactive virtual conference track
+that will be live-streamed to the entire EAI Community.
+
+In case the situation prevents the event from taking place in its original location, it will be held fully in an interactive, live online setting. In both cases, all matters related to publication and indexing will remain unchanged.
+
+Accepted Authors will be notified about the final decision regarding the conference format before the Camera-ready deadline.
+
+SCOPE
+CloudComp 2020 aims to bring together academic researchers, industry developers and domain users to discuss & share recent advances and viewpoints in cloud computing. The conference also aims at presenting the recent theories, experiences and results obtained in a wider area of cloud computing, giving users and researchers equally a chance to gain better insight on the capabilities, limitations and developing directions of current cloud computing paradigm.
+
+Conference topics: Cloud Architecture, Cloud Management, Cloud Applications
+
+Read More: Call for Papers
+
+We are pleased to invite you to submit your paper to CloudComp 2020. Submissions should be in English, following the Springer formatting guidelines (see Submission).
+
+Submit Paper
+CloudComp authors have enjoyed over 197.000 downloads.
+Top performing CloudComp paper is currently at 313 citations and counting!
+PUBLICATION
+
+All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.
+
+CloudComp proceedings are indexed in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).
+
+Authors of selected best accepted and presented papers will be invited to submit an extended version to:
+
+Wireless Networks (WINET) (IF: 2.659)
+Mobile Networks and Applications (MONET) Journal (IF: 2.602)
+All accepted authors are eligible to submit an extended version in a fast track of:
+
+EAI Endorsed Transactions on Cloud Systems
+Additional publication opportunities:
+
+EAI/Springer Innovations in Communications and Computing Book Series
+IMPORTANT DATES - LATE TRACK
+
+FULL PAPER SUBMISSION DEADLINE: SEPTEMBER 14, 2020
+
+NOTIFICATION DEADLINE: OCTOBER 1, 2020
+
+CAMERA-READY DEADLINE: OCTOBER 20, 2020
+
+CONFERENCE DATES: DECEMBER 11 - 13, 2020
+
+
+
+
+

@@ -1,0 +1,47 @@
+
+The 6th IEEE International Conference on Collaboration and Internet Computing (IEEE CIC 2020)
+
+(Co-located with IEEE CogMI, IEEE TPS)
+
+Dec 1-3, 2020. FULLY VIRTUAL
+http://www.sis.pitt.edu/lersais/conference/cic/2020/
+
+Important Dates (Round 2 Submissions)
+
+
+Abstract Submission (optional)
+Sept. 12, 2020
+Full Paper Submission
+Sept. 20, 2020
+Notification of Acceptance
+Oct. 20, 2020
+Camera-ready Submission
+Nov. 4, 2020
+
+
+Because of COVID-19, we have decided to reschedule the conference on Dec 1-3 as a FULLY VIRTUAL event.
+
+Internet has revolutionized the globalized society and enabled the growth of infrastructures, applications, and technologies that significantly enhance global interactions and collaborations that have significant impact on society. Unprecedented cyber-social, and cyber-physical infrastructures and systems that span geographic boundaries are possible because of the Internet and the growing number of collaborations enabling technologies. Individuals and organizations have increasingly relied on electronic and/or Internet-enabled collaboration between distributed teams of humans, computer applications, and/or autonomous robots to achieve higher productivity and produce collaboratively developed products that would have been impossible to develop without the contributions of multiple collaborators.
+
+Technology has evolved from standalone tools, to open systems supporting collaboration in multi-organizational settings, and from general purpose tools to specialized collaboration platforms. Future collaboration and Internet computing solutions that further the goal of achieving the full potential of global level collaboration require advancements in networking, technology and systems, user interfaces and interaction, cooperation and collaboration paradigms, and interoperation with application-specific components and tools.
+
+IEEE Conference on Collaboration and Internet Computing (IEEE CIC) has been conceived as the key multidisciplinary venue to serve as a premier international forum for discussion among academic and industrial researchers, practitioners, and students interested in Internet technologies, applications and services, collaborative networking, technology and systems, and applications.
+
+Topics
+
+Topics of interest are broadly from the areas of Internet technologies, applications and services, collaborative networking, technology and systems, and applications. Please check the conference website for details.
+
+Tracks
+
+CIC2020 will have the research track, industry/government track, and blue-sky/vision track. Please check the website for submission details.
+
+Panels and Tutorials
+
+We welcome panel, and tutorial proposals. Please check the web site for details.
+
+Awards
+
+IEEE CIC will feature a Best Paper Award and a Best Student Paper Award (to be selected by the program committee/best paper award team). A paper is eligible for the Best Student Paper Award if the first author is a full-time student at the time of submission. A partial travel grant or cash award may be offered to the winner student depending on fund availability.
+
+
+

@@ -1,0 +1,31 @@
+テーマは下記の通りとなっておりまして、
+投稿締切は12月1日、出版は来年2021年の6月となっております。
+
+Technologies:
+- Energy-efficient wireless sensor networks architecture
+- Energy-efficient data routing, processing and storage strategies
+- Energy-efficient harvesting/charging
+- Energy-efficient sensing techniques
+- Energy-efficient sensor data techniques
+- Long-life sensor node deployment and topology control
+- AI-based coordinating sensor devices
+- AI-based scheduling sensor algorithms
+- AI-based sensor resource orchestration
+- Secured sensor communications and networking
+- Testbed for massive IoT sensing
+- AI and 5G based massive IoT technologies
+- UAV aided IoT technologies
+
+Sensing and Applications:
+- Sensing for urban intelligent transport
+- Sensing for urban homes and offices
+- Sensing for localised urban utilities
+- Sensing for urban environments
+- Sensing for city residents' public health and wellbeing
+
+Editors-in-Chief:
+Prof. Chai K. Toh, GLG, USA, National Tsing Hua University, Taiwan
+Prof. William Webb, Webb Consulting, UK
+
+Call for Papers: https://digital-library.theiet.org/files/IET_SMC_CFP_IOTSATSSC.pdf
+投稿等: www.ietdl.org/IET-SMC

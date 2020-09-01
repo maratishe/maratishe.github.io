@@ -1,0 +1,45 @@
+all for Papers
+
+Special issue on: "Digital Systems for Humans"
+
+Manuscript submission deadline: September 30, 2020
+
+Publication Opportunities
+Papers will be published in
+EAI Endorsed Transactions on Smart Cities
+indexed in CrossRef, OCLC, EuroPub, Publons among others!
+
+
+Submit paper
+In order to submit, please select the journal and choose the special issue.
+
+Scope & Topics
+The objective of this special issue is to discuss and share the most technology advances and social-economic aspects, experiences and innovations to make the smart city a reality. Proposed studies will report on the latest developments, achievements, deployments, technology trends, and research findings as well as initiatives relative to Smart Cities and their applications. The special issue stimulates discussion on Smart Cities Living Labs and experimental platforms that could allow to gain practices, experiences, realistic data on techno-social systems of system behavior, resilience and vulnerability.
+
+Topics of interest include but are not limited to, the following:
+
+Digital Transformation: Next Generation Networks, Big Data, Artificial Intelligence, IoT, Blockchain, Augmented Technology, 5G, Sensors, Cyber, Cloud,
+Well-being and Living: Healthcare, Education, Hygiene and Food Safety, Housing and Home, Environment, Sustainability, Climate Change,
+Urban Operations: Lighting, Water, Waste, Planning, Emergency Response, Forensics, Safety, Security and Privacy, Green Energy, Grid, Utilities, Resilience, Disaster Prevention,
+Economy: Tourism, Agriculture, Business and Entrepreneurship, Trade and Commerce, Upskilling Technology Incubation,
+Infrastructure: Transportation, Mobility, Buildings, Communication, ICT Network, Standards, Platforms, Frameworks
+Civic and Social Engagement: Governance, Policy, Funding, Inclusion, Public Services,
+Innovation and Living Labs: Experiments, Testing Platforms, Case Study, Test Beds, Application Scenarios and Real-world Deployments for Smart Cities
+Read more: Call for Papers
+
+
+This issue will be published in EAI Endorsed Transactions on Smart Cities an open-access, peer-reviewed journal abstracted/indexed in CrossRef, OCLC, EuroPub, Publons, among others. It focuses on applications for Smart Cities with leverage on big-data applications, ICT devices used in the factory of the future, HPC, industrial processes, energy efficiency systems, social platforms and more. The journal publishes research articles, review articles, commentaries, editorials, technical articles, and short communications with a quarterly frequency. Authors are not charged for article submission and processing.
+
+
+Guest Editors:
+
+Fabien FERRERO - Université Côte d’Azur, France
+
+Nhan LE THANH - Danang University, Vietnam
+
+Van Ga BUI - University of Dasang, Vietnam
+
+
+
+
+

@@ -1,31 +1,52 @@
 200906 conf~j.candar(naha+virtual)
-200907 conf.HPCS.highperf
+200907 intconf.IEEE.NCA.netapps
 200907 conf.IEEE.cloudnet
+200907 conf.HPCS.highperf
 200910 conf.CNSM.workshops future evolution of internet protocols
 200910 conf.springer.MSPN mobile prog. networks
-200911 conf.IEEE.latincom communications
+200911 ACM.nanococoa.embedsensors
 200911 conf.IEEEComSoc.NoF networks of future
+200911 conf.IEEE.latincom communications
 200912 conf.IEEE.CogMI cognitive machine intel
-200912 conf.IEEE.TPS.intelsystems.apps
 200912 conf.IEEE.CIC.collaboration
+200912 conf.IEEE.TPS.intelsystems.apps
 200914 conf.EAI.clouds
-200915 conf.3ICT.covid(free,online)
-200915 conf~j.EAI.HealthWear wearables in healthcare
-200915 conf.IEEE.comsnets comm systems and nets
 200915 conf+j.IFIP.perfomance
-200918 conf.ACM.SenSys smart iot systems
+200915 conf~j.EAI.HealthWear wearables in healthcare
+200915 conf.3ICT.covid(free,online)
+200915 conf.IEEE.comsnets comm systems and nets
+200918 CCIoT.smartIOT
 200918 journal.hindawi intelligent techniques for infosecurity in IoT envs
+200918 conf.ACM.SenSys smart iot systems
 200920 conf.IFIP.IM experience session papers
 200924 conf.ACD.codeaspy data and app sec and privacy
 200925 conf+j.CVNET.springer
-200930 journal.IJCIS intel for manage social nets
+200928 ACMtran・IoV
 200930 journal.EAI.digitalSystems4Humans
-201001 mag.IEEEcommag network softwarization and mngmnt (opencall)
+200930 mdpi・stenography
+200930 journal.IJCIS intel for manage social nets
+201001 acm・edgeAI
 201001 journal.mdpi intel sec IoT
+201001 mdpi・wsensornets
+201001 mag.IEEEcommag network softwarization and mngmnt (opencall)
+201005 BigDataJ.softcompute
 201010 conf.IEEE.MSN(tokyo) mobility sensing networking
-201015 journal.TNSM.cybersecurity sec manage nets services
 201015 journal.MDPI.ble bluetooth low energy
+201015 journal.TNSM.cybersecurity sec manage nets services
+201015 tnsm・netmng
+201031 springerj・cybersecAI
+201031 WileyJ.software.innovations
 201031 journal.Biosensors(JCR) machine learning
+201101 mdpij.wirelessprotocols
 201106 conf.VNC vehicular networking
+201120 mdpi.5g
 201200 journal.mdpi blockchain for 5g and IoT (opencall)
+201201 IETj.smartcities
+201201 IET・iot
+201210 MDPI.geotech.spatiotemporal
+201220 AppliedEnergyJ・P2Penergyshare
+201231 MDPI.SloT.sensing.IoT
+201231 MDPI.drone.swarms
 210115 journal.ISF AI for covid
+210131 MDPI.sustain
+# put the above text in deadlines.reject.txt  for further processing logic.

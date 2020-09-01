@@ -1,0 +1,104 @@
+
+Call for Papers
+IEEE Communications Magazine
+Impact Factor 2019-2020 11.052
+<https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35>
+
+Network Softwarization and Management Series
+
+
+=====================================================================================
+
+This series focuses on softwarization, management, and their integration in communication networks and
+their services. “Network softwarization” advocates for architectures that separate the software implementing
+network functions, protocols and services from the hardware running them. Propelled by the maturity of
+technologies like network function virtualization and software-defined networking, softwarization is radically
+changing the way communication infrastructures are designed and operated enabling rapid and innovative
+service creation. “Network management“ is about administering networks and supporting their operations.
+It aims to integrate fault, configuration, accounting, performance and security management in the network;
+to leverage the self-management, automation and autonomic capabilities of networks, and to move from a
+“managed object” paradigm to a “management by objective” one.
+
+The key role that software and management are increasingly playing in telecommunications is enabling
+unprecedented levels of abstraction, disaggregation, operation, integration, and programmability in
+network infrastructures and services. This Series publishes in-depth, cutting-edge, articles on state-
+of-the-art technologies and solutions bringing together the latest advances, innovations, open-source
+projects, case studies, research, and development in Network Softwarization and Management.
+
+Authors are invited to submit manuscripts in all topics within the scope of this Series including, but
+not limited to, the following:
+
+Main Paradigms and Systems for Network Softwarization and Management
+- Management of softwarized networks.
+- Softwarization of network management.
+- Network Operations and Automation, Autonomic and Self-management, Zero-Configuration Networking,
+Self-Driving Networking, Intent-based management, AI-assisted softwarization and management.
+
+Architectures and Methodologies
+- Software-Defined Networking, Network Function Virtualization, Service Function Chaining.
+- Network Slicing, Edge/Cloud-native Networking, Softwarized network architectures/infrastructures,
+cloud/edge-native networking.
+- Management and orchestration architectures, platforms and systems including integrated management,
+policy-based management, model-driven management.
+- End-to-end and multi-domain softwarized networks, multi-domain management, green operations and
+management.
+- Network (Data, Control, Management, Service Planes) Programmability.
+- Service provisioning and management, service assurance, fulfillment and resilience, DevOps management.
+- Security and Reliability issues in Network Softwarization and Management
+
+Software Approaches, Resources and Functions
+- Network operating systems, network functions, cloud-native functions, interfaces, deployment and
+integration with software-based control, management and orchestration.
+- Microservices, serverless computing and new software paradigms for managing and operating network
+functions.
+- New Fault, Configuration, Accounting, Performance and Security (FCAPS) Management functions.
+- New telecom software and tools for Operating Support Systems (OSS) and Business Support Systems
+(BSS).
+
+Modelling, Measurement and Performance Analysis
+- Performance measurements and evaluation, monitoring, data analytics, validation and debugging for
+network management and softwarized networks.
+- Network and service quality, performance, reliability, scalability, elasticity, resilience,
+maintainability, safety and security with guarantees.
+- Profiling and performance evaluation of softwarized network functions/components.
+- High precision networking, management of cyber-networking systems supporting physical/digital twins.
+
+
+Submission Guidelines
+
+Manuscripts must be submitted through the magazine’s submissions website, Manuscript Central
+(<mc.manuscriptcentral.com/commag-ieee>). You will need to register and then proceed to the author
+center. On the manuscript details page, please select the Network Softwarization and Management Series
+from the drop-down menu. Manuscripts should be  scientific-oriented and should not be under review for
+any other conference or journal. They should be written in a style comprehensible and accessible to readers
+outside the specialty of the article.  Mathematical equations should not be used. For detailed submission
+guidelines please refer to the magazine website for the list of Paper Submission Guidelines
+(<comsoc.org/publications/magazines/ieee-communications-magazine/author-guidelines/manuscript-submission>)
+that must be followed by all submissions to the IEEE Communications Magazine.
+
+Papers can be submitted anytime during the year. They will receive a review process, and, if accepted,
+they will be published in the first slot available for this Series.
+
+
+Series Editors
+
+Walter Cerroni
+University of Bologna, Italy
+
+Alex Galis
+University College London, UK
+
+Kohei Shiomoto
+Tokyo City University, Japan
+
+Mohamed Faten Zhani
+École de Technologie Supérieure (ÉTS Montreal), Canada
+
+In our role as Series Editors, we strive to achieve a fast, quality and selective review process for
+all submissions in order to quickly publish high-quality and cutting-edge papers on relevant topics
+in this area.
+
+
+
+
+
