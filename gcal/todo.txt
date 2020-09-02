@@ -1,4 +1,3 @@
-2020-09-01 岡山大学.サイバーフィジカル情報の応用研究 #jobhunt due:2020-08-31
 2020-09-01 classes ① johokiso (blockchain, eval), ② netchino (schedule) #current due:2020-09-01
 2020-09-01 kindle #current due:2020-09-01
 2020-09-01 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2020-09-01
@@ -8,15 +7,11 @@
 2020-09-01 conf.HPCS.highperf #deadlines due:2020-09-07
 2020-09-01 conf.IEEE.cloudnet #deadlines due:2020-09-07
 2020-09-01 intconf.IEEE.NCA.netapps #deadlines due:2020-09-07
-2020-09-01 明治大 #jobhunt due:2020-09-07
-2020-09-01 法政大学.情報学・計算基盤 #jobhunt due:2020-09-07
 2020-09-01 (3) docomocycle data collect #regulars due:2020-09-08
 2020-09-01 ① money (weekly) #regulars due:2020-09-08
 2020-09-01 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2020-09-08
 2020-09-01 conf.CNSM.workshops.future.evolution.of.internet.protocols #deadlines due:2020-09-10
-2020-09-01 公立はこだて未来大 #jobhunt due:2020-09-10
-2020-09-01 公立はこだて未来大.情報デザイン.複雑系知能分野 #jobhunt due:2020-09-10
-2020-09-01 広島工業大学・コンピュータシステム #jobhunt due:2020-09-10
+2020-09-01 公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform #jobhunt due:2020-09-10
 2020-09-01 広島工業大学・情報ネットワーク #jobhunt due:2020-09-10
 2020-09-01 ACM.nanococoa.embedsensors #deadlines due:2020-09-11
 2020-09-01 audio automation for open campus #midterm due:2020-09-11
@@ -36,15 +31,14 @@
 2020-09-01 conf.IEEE.CogMI.cognitive.machine.intel #deadlines due:2020-09-12
 2020-09-01 conf.IEEE.TPS.intelsystems.apps #deadlines due:2020-09-12
 2020-09-01 conf.EAI.clouds #deadlines due:2020-09-14
-2020-09-01 国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター #jobhunt due:2020-09-14
-2020-09-01 東京理科大工学部情報工学科インテリジェントシステム分野 #jobhunt due:2020-09-14
-2020-09-01 琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション #jobhunt due:2020-09-14
+2020-09-01 ★東京理科大工学部情報工学科インテリジェントシステム分野 #jobhunt due:2020-09-14
+2020-09-01 国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation #jobhunt due:2020-09-14
 2020-09-01 conf+j.IFIP.perfomance #deadlines due:2020-09-15
 2020-09-01 conf.3ICT #deadlines due:2020-09-15
 2020-09-01 conf.IEEE.comsnets.comm.systems.and.nets #deadlines due:2020-09-15
 2020-09-01 conf~j.EAI.HealthWear.wearables.in.healthcare #deadlines due:2020-09-15
 2020-09-01 岡山大学.ハードウェア.ソフトウェア #jobhunt due:2020-09-15
-2020-09-01 青山学院大.情報社会科学 #jobhunt due:2020-09-15
+2020-09-01 青山学院大.情報社会科学✌freeform #jobhunt due:2020-09-15
 2020-09-01 CCIoT.smartIOT #deadlines due:2020-09-18
 2020-09-01 conf.ACM.SenSys.smart.iot.systems #deadlines due:2020-09-18
 2020-09-01 journal.hindawi.intelligent.techniques.for.infosecurity.in.IoT.envs #deadlines due:2020-09-18
