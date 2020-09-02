@@ -3,18 +3,13 @@
 2020-09-02 kindle #current due:2020-09-02
 2020-09-02 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2020-09-02
 2020-09-02 wifi dongle @ home #current due:2020-09-02
-2020-09-02 conf~j.candar(naha+virtual) #deadlines due:2020-09-06
-2020-09-02 conf.HPCS.highperf #deadlines due:2020-09-07
-2020-09-02 conf.IEEE.cloudnet #deadlines due:2020-09-07
-2020-09-02 intconf.IEEE.NCA.netapps #deadlines due:2020-09-07
+2020-09-02 ★conf.IEEE.cloudnet #deadlines due:2020-09-07
 2020-09-02 (3) docomocycle data collect #regulars due:2020-09-09
 2020-09-02 ① money (weekly) #regulars due:2020-09-09
 2020-09-02 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2020-09-09
-2020-09-02 conf.CNSM.workshops.future.evolution.of.internet.protocols #deadlines due:2020-09-10
+2020-09-02 ★conf.CNSM.workshops.future.evolution.of.internet.protocols #deadlines due:2020-09-10
 2020-09-02 公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform #jobhunt due:2020-09-10
 2020-09-02 広島工業大学・情報ネットワーク #jobhunt due:2020-09-10
-2020-09-02 ACM.nanococoa.embedsensors #deadlines due:2020-09-11
-2020-09-02 conf.IEEE.latincom.communications #deadlines due:2020-09-11
 2020-09-02 conf.IEEEComSoc.NoF.networks.of.future #deadlines due:2020-09-11
 2020-09-02 北海道.情報科学研究院 #jobhunt due:2020-09-11
 2020-09-02 明治大学・統計科学・統計数学・知能情報科学 #jobhunt due:2020-09-11
@@ -22,21 +17,15 @@
 2020-09-02 法政大学.情報科学部コンピュータ科学科 #jobhunt due:2020-09-11
 2020-09-02 金沢大学.IoT及び情報通信分野 #jobhunt due:2020-09-11
 2020-09-02 audio automation for open campus #midterm due:2020-09-12
-2020-09-02 conf.IEEE.CIC.collaboration #deadlines due:2020-09-12
-2020-09-02 conf.IEEE.CogMI.cognitive.machine.intel #deadlines due:2020-09-12
-2020-09-02 conf.IEEE.TPS.intelsystems.apps #deadlines due:2020-09-12
 2020-09-02 kgu zemi faces #midterm due:2020-09-12
 2020-09-02 samsung redo cygwin #midterm due:2020-09-12
 2020-09-02 simplify yalms #midterm due:2020-09-12
 2020-09-02 tokyo hotels and schedule #midterm due:2020-09-12
 2020-09-02 video recognition engine (sotsuken) #midterm due:2020-09-12
-2020-09-02 conf.EAI.clouds #deadlines due:2020-09-14
+2020-09-02 ★conf~j.EAI.clouds #deadlines due:2020-09-14
 2020-09-02 ★東京理科大工学部情報工学科インテリジェントシステム分野 #jobhunt due:2020-09-14
-2020-09-02 国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation #jobhunt due:2020-09-14
-2020-09-02 conf+j.IFIP.perfomance #deadlines due:2020-09-15
-2020-09-02 conf.3ICT #deadlines due:2020-09-15
-2020-09-02 conf.IEEE.comsnets.comm.systems.and.nets #deadlines due:2020-09-15
 2020-09-02 conf~j.EAI.HealthWear.wearables.in.healthcare #deadlines due:2020-09-15
+2020-09-02 ★conf+j.IFIP.perfomance #deadlines due:2020-09-15
 2020-09-02 岡山大学.ハードウェア.ソフトウェア #jobhunt due:2020-09-15
 2020-09-02 青山学院大.情報社会科学✌freeform #jobhunt due:2020-09-15
 2020-09-02 CCIoT.smartIOT #deadlines due:2020-09-18

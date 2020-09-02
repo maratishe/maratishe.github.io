@@ -57,7 +57,7 @@ this file is generated automatically, do not make manual changes to it!
 2020-09-11 [北海道.情報科学研究院](#47c598d268)  
 2020-09-11 [法政大学.情報科学部コンピュータ科学科](#fe6dddcbd9)  
 2020-09-14 [★東京理科大工学部情報工学科インテリジェントシステム分野](#478f7a5a07)  
-2020-09-14 [国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation](#06651af053)  
+2020-09-14 [<strike>国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation</strike>](#3e98d45b55)  
 2020-09-14 [<strike>琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定</strike>](#391814b22c)  
 2020-09-15 [岡山大学.ハードウェア.ソフトウェア](#1e6b039c83)  
 2020-09-15 [青山学院大.情報社会科学✌freeform](#88b105fd01)  
@@ -313,20 +313,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061155&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation  (2020-09-14) <span id="06651af053"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 24  
-id : D120071016 [NEW]  
-update : 2020年07月16日  
-univ : 国立研究開発法人理化学研究所  
-title : チームリーダー（無期雇用職）募集（M21N02）(革新知能統合研究センター)  
-field : 情報学 - 数理・情報科学  
-post : 教授相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月14日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071016&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071016&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation</strike>  (2020-09-14) <span id="3e98d45b55"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定</strike>  (2020-09-14) <span id="391814b22c"></span> <span style="color:#666;">[→top](#top)</span>
 
