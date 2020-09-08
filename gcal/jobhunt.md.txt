@@ -48,8 +48,8 @@ this file is generated automatically, do not make manual changes to it!
 2020-08-31 [<strong>駒澤大.情報分野✌jrec</strong>](#fe42bd3f2b)  
 2020-08-31 [<strong>岡山大学.サイバーフィジカル情報の応用研究</strong>](#e9f602ab47)  
 2020-09-07 [<strike>明治大✘推薦書</strike>](#69b2d17e9b)  
+2020-09-10 [<strong>公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform</strong>](#66bd3309b3)  
 2020-09-10 [<strike>公立はこだて未来大</strike>](#35125b0dbe)  
-2020-09-10 [公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform](#25a4dede0a)  
 2020-09-10 [<strike>広島工業大学・コンピュータシステム</strike>](#6238f6a583)  
 2020-09-10 [広島工業大学・情報ネットワーク](#973b1ff69b)  
 2020-09-11 [明治大学・統計科学・統計数学・知能情報科学](#ce3dc41724)  
@@ -59,8 +59,8 @@ this file is generated automatically, do not make manual changes to it!
 2020-09-14 [★東京理科大工学部情報工学科インテリジェントシステム分野](#478f7a5a07)  
 2020-09-14 [<strike>国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation</strike>](#3e98d45b55)  
 2020-09-14 [<strike>琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定</strike>](#391814b22c)  
+2020-09-15 [<strong>青山学院大.情報社会科学✌freeform</strong>](#bc9b288934)  
 2020-09-15 [岡山大学.ハードウェア.ソフトウェア](#1e6b039c83)  
-2020-09-15 [青山学院大.情報社会科学✌freeform](#88b105fd01)  
 2020-09-18 [岡山理科大](#20f6e27e79)  
 2020-09-18 [京都先端科学大学・統計やビジネスデータの見方](#4b10992d7b)  
 2020-09-18 [熊本学園大学.計量経済学](#78f0d36ebf)  
@@ -190,34 +190,9 @@ this file is generated automatically, do not make manual changes to it!
 
 ## <strike>明治大✘推薦書</strike>  (2020-09-07) <span id="69b2d17e9b"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strong>公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform</strong>  (2020-09-10) <span id="66bd3309b3"></span> <span style="color:#666;">[→top](#top)</span>
+
 ## <strike>公立はこだて未来大</strike>  (2020-09-10) <span id="35125b0dbe"></span> <span style="color:#666;">[→top](#top)</span>
-
-## 公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform  (2020-09-10) <span id="25a4dede0a"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 7  
-id : D120050949 [UPDATE]  
-update : 2020年06月12日  
-univ : 公立はこだて未来大学  
-title : 公立はこだて未来大学教員募集(教授または准教授，専門分野 情報デザイン）  
-field : 複合領域 - デザイン学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月10日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050949&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050949&ln_jor=0&top_btn=1) ----------  
-
-
-no : 26  
-id : D120060722 [NEW]  
-update : 2020年06月13日  
-univ : 公立はこだて未来大学  
-title : 公立はこだて未来大学教員募集(教授または准教授，専門分野 複雑系知能分野）  
-field : 情報学 - 全て 複合領域 - 複雑系科学および知能システムに関連する分野  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月10日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060722&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060722&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
 
 ## <strike>広島工業大学・コンピュータシステム</strike>  (2020-09-10) <span id="6238f6a583"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -317,6 +292,8 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061155&ln_jor=0&t
 
 ## <strike>琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定</strike>  (2020-09-14) <span id="391814b22c"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strong>青山学院大.情報社会科学✌freeform</strong>  (2020-09-15) <span id="bc9b288934"></span> <span style="color:#666;">[→top](#top)</span>
+
 ## 岡山大学.ハードウェア.ソフトウェア  (2020-09-15) <span id="1e6b039c83"></span> <span style="color:#666;">[→top](#top)</span>
 
 No. ：30  
@@ -342,21 +319,6 @@ No. ：31
 勤務形態 ： 常勤 (任期なし)  
 募集終了日 ：2020年09月15日  
 ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070447&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070447&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 青山学院大.情報社会科学✌freeform  (2020-09-15) <span id="88b105fd01"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：13  
-データ番号 ：D120070293 [NEW]  
-更新日 ：2020年07月10日  
-機関名 ：青山学院大学  
-タイトル ：青山学院大学経営学部教員募集（情報社会科学他）  
-研究分野 ：社会科学 - 経営学  
-職種 ： 教授相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年09月15日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070293&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070293&ln_jor=0&top_btn=1)  
  <span style="color:#666;">[→top](#top)</span>
 
 

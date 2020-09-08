@@ -5,8 +5,8 @@
 this file is generated automatically, do not make manual changes to it!
 
 2020-09-06 [<strike>conf~j.candar(naha+virtual)</strike>](#030573910a)  
-2020-09-07 [★conf.IEEE.cloudnet](#231c457fac)  
 2020-09-07 [<strike>conf.HPCS.highperf</strike>](#cb1117c187)  
+2020-09-07 [<strike>conf.IEEE.cloudnet(did.not.make.it)</strike>](#df82c21749)  
 2020-09-07 [<strike>intconf.IEEE.NCA.netapps</strike>](#dfefa15f3a)  
 2020-09-10 [★conf.CNSM.workshops.future.evolution.of.internet.protocols](#61c37b857a)  
 2020-09-10 [<strike>conf.springer.MSPN.mobile.prog.networks</strike>](#a9a07302d4)  
@@ -59,129 +59,9 @@ this file is generated automatically, do not make manual changes to it!
 
 ## <strike>conf~j.candar(naha+virtual)</strike>  (2020-09-06) <span id="030573910a"></span> <span style="color:#666;">[→top](#top)</span>
 
-## ★conf.IEEE.cloudnet  (2020-09-07) <span id="231c457fac"></span> <span style="color:#666;">[→top](#top)</span>
-
-The paper submission deadline for CloudNet 2020 has been  
-extended to Sept. 7th 2020.  
-
-
-+-----------------------------------------------------------+  
-| |  
-| 9th IEEE International Conference on Cloud Networking |  
-| CloudNet 2020 |  
-| |  
-| 9-11 November 2020 |  
-| Virtual Conference |  
-| [https://cloudnet2020.ieee-cloudnet.org](https://cloudnet2020.ieee-cloudnet.org) |  
-| |  
-| CALL FOR PAPERS |  
-| |  
-+-----------------------------------------------------------+  
-
-
-Cloud Networking has emerged as a promising direction for  
-cost-efficient and reliable service delivery across data  
-communication networks. The dynamic location of service  
-facilities and the virtualization of hardware and software  
-elements are stressing the communication network and  
-protocols, especially when data centers are interconnected  
-through the Internet. Emerging technologies like Network  
-Function Virtualization (NFV) and Software Defined Network  
-(SDN) can play significant roles by improving the dynamicity  
-and programmability of cloud networks. Middlebox has been  
-significantly improved the agility of cloud network  
-deployment and management. The 9th IEEE International  
-Conference on Cloud Networking (IEEE CloudNet 2020), part of  
-the IEEE Cloud Computing Initiative, can greatly promote  
-research in cloud networks and emerging research areas.  
-
-
-Topics of Interest (but not limited to):  
-----------------------------------------  
-
-
-Cloud network and resource management  
-- Data Center Network Optimization and Management  
-- Reliability of Data Center Network and Architecture  
-- Energy-Efficient Datacenters and Networks  
-- Cloud Traffic Characterization and Measurements  
-- Cloud Traffic Engineering  
-- Data Flow Management and Load Balancing  
-- Cloud Storage Management  
-- Green and Energy-Efficient Datacenters and Networks  
-
-
-Cloud network and virtualization  
-- Data Center Networks  
-- Virtual Ethernet Switching, Data Center Bridging  
-- Mobile Cloud Networking  
-- Virtualization of Network Equipment  
-- Software-Defined Networking  
-- Network Function Virtualization  
-- Middleware and Middleboxes  
-
-
-Cloud network and supported services  
-- Big Data Management  
-- Data Analytics in Cloud  
-- Network Services to support IaaS, PaaS, and SaaS  
-- Unified User and Machine Mobility Management  
-- Content and Service Distribution  
-- Complementing Edge Computing with Data Center Networks  
-
-
-Cloud network architecture  
-- Control-Plane Architectures  
-- Distributed Data Center Architectures  
-- Routing in cloud networks  
-- Intra-Cloud vs Inter-Cloud Management  
-- Cloud Federation and Hybrid Cloud Infrastructure  
-
-
-Cloud network security and privacy  
-- Security, Privacy, and Confidentiality in Cloud Networking  
-- Cloud Data Provenance and Data Loss Protection  
-- Cloud Storage Security  
-- Cloud Network Intrusion Detection/Prevention  
-- Firewall and Deep Packet Inspection Systems in Cloud  
-Networks  
-
-
-Authors are invited to submit original contributions that  
-have not been published or submitted for publication  
-elsewhere. Submissions must be in IEEE single-spaced double-  
-column style with a length limitation of 6 pages (excluding  
-references) for full papers (oral presentation) and 3 pages  
-for short papers (poster presentation). Accepted papers  
-will be submitted to IEEE Xplore.  
-
-
-For more information please check  
-[https://cloudnet2020.ieee-cloudnet.org](https://cloudnet2020.ieee-cloudnet.org)  
-
-
-
-
-Important Dates:  
-----------------  
-- Submission deadline: Sept. 7th (Aug. 24th)  
-- Acceptance notification: Oct. 7th  
-- Camera-ready paper: Oct. 21st  
-- Conference: Nov. 4th-6th  
-
-
-
-
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## <strike>conf.HPCS.highperf</strike>  (2020-09-07) <span id="cb1117c187"></span> <span style="color:#666;">[→top](#top)</span>
+
+## <strike>conf.IEEE.cloudnet(did.not.make.it)</strike>  (2020-09-07) <span id="df82c21749"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>intconf.IEEE.NCA.netapps</strike>  (2020-09-07) <span id="dfefa15f3a"></span> <span style="color:#666;">[→top](#top)</span>
 
