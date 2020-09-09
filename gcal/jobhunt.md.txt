@@ -52,10 +52,10 @@ this file is generated automatically, do not make manual changes to it!
 2020-09-10 [<strike>公立はこだて未来大</strike>](#35125b0dbe)  
 2020-09-10 [<strike>広島工業大学・コンピュータシステム</strike>](#6238f6a583)  
 2020-09-10 [広島工業大学・情報ネットワーク](#973b1ff69b)  
-2020-09-11 [明治大学・統計科学・統計数学・知能情報科学](#ce3dc41724)  
+2020-09-11 [<strike>明治大学・統計科学・統計数学・知能情報科学</strike>](#439bd40748)  
+2020-09-11 [<strong>法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin</strong>](#1cb0d08d32)  
+2020-09-11 [<strike>北海道.情報科学研究院</strike>](#08ce89f323)  
 2020-09-11 [金沢大学.IoT及び情報通信分野](#9d343defd9)  
-2020-09-11 [北海道.情報科学研究院](#47c598d268)  
-2020-09-11 [法政大学.情報科学部コンピュータ科学科](#fe6dddcbd9)  
 2020-09-14 [★東京理科大工学部情報工学科インテリジェントシステム分野](#478f7a5a07)  
 2020-09-14 [<strike>国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation</strike>](#3e98d45b55)  
 2020-09-14 [<strike>琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定</strike>](#391814b22c)  
@@ -211,6 +211,8 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080389&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
+## <strong>法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin</strong>  (2020-09-11) <span id="1cb0d08d32"></span> <span style="color:#666;">[→top](#top)</span>
+
 ## 金沢大学.IoT及び情報通信分野  (2020-09-11) <span id="9d343defd9"></span> <span style="color:#666;">[→top](#top)</span>
 
 no : 7  
@@ -226,52 +228,9 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070946&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 法政大学.情報科学部コンピュータ科学科  (2020-09-11) <span id="fe6dddcbd9"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>北海道.情報科学研究院</strike>  (2020-09-11) <span id="08ce89f323"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 67  
-id : D120071179 [NEW]  
-update : 2020年07月18日  
-univ : 法政大学  
-title : 情報科学部コンピュータ科学科教授または准教授の公募  
-field : 情報学 - 計算基盤 情報学 - 情報学基礎 総合理工 - 計算科学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月11日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071179&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120071179&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 北海道.情報科学研究院  (2020-09-11) <span id="47c598d268"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：73  
-データ番号 ：D120061280 [NEW]  
-更新日 ：2020年06月24日  
-機関名 ：北海道大学  
-タイトル ：教員の公募（情報科学研究院・システム情報科学部門・システム創成学分野・ヒューマンセントリック工学研究室）  
-研究分野 ：情報学 - 人間情報学  
-工学 - 機械工学  
-工学 - 電気電子工学  
-職種 ： 教授相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年09月11日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061280&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061280&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 明治大学・統計科学・統計数学・知能情報科学  (2020-09-11) <span id="ce3dc41724"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 14  
-id : D120070950 [NEW]  
-update : 2020年07月28日  
-univ : 明治大学・統計科学・統計数学・知能情報科学  
-title : 専任教授の公募（統計科学・統計数学・知能情報科学）  
-field : 数物系科学 - 数学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月11日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070950&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070950&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>明治大学・統計科学・統計数学・知能情報科学</strike>  (2020-09-11) <span id="439bd40748"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## ★東京理科大工学部情報工学科インテリジェントシステム分野  (2020-09-14) <span id="478f7a5a07"></span> <span style="color:#666;">[→top](#top)</span>
 
