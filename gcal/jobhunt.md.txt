@@ -51,12 +51,12 @@ this file is generated automatically, do not make manual changes to it!
 2020-09-10 [<strong>公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform</strong>](#66bd3309b3)  
 2020-09-10 [<strike>公立はこだて未来大</strike>](#35125b0dbe)  
 2020-09-10 [<strike>広島工業大学・コンピュータシステム</strike>](#6238f6a583)  
-2020-09-10 [広島工業大学・情報ネットワーク](#973b1ff69b)  
+2020-09-10 [<strike>広島工業大学・情報ネットワーク(did.not.make.it)</strike>](#eb8e5a0a84)  
 2020-09-11 [<strike>明治大学・統計科学・統計数学・知能情報科学</strike>](#439bd40748)  
-2020-09-11 [<strong>法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin</strong>](#1cb0d08d32)  
+2020-09-11 [<strong>★金沢大学.IoT及び情報通信分野</strong>](#2b70b01167)  
 2020-09-11 [<strike>北海道.情報科学研究院</strike>](#08ce89f323)  
-2020-09-11 [金沢大学.IoT及び情報通信分野](#9d343defd9)  
-2020-09-14 [★東京理科大工学部情報工学科インテリジェントシステム分野](#478f7a5a07)  
+2020-09-11 [<strong>法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin</strong>](#1cb0d08d32)  
+2020-09-14 [<strong>★東京理科大工学部情報工学科インテリジェントシステム分野</strong>](#dc97c1915a)  
 2020-09-14 [<strike>国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation</strike>](#3e98d45b55)  
 2020-09-14 [<strike>琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定</strike>](#391814b22c)  
 2020-09-15 [<strong>青山学院大.情報社会科学✌freeform</strong>](#bc9b288934)  
@@ -196,56 +196,17 @@ this file is generated automatically, do not make manual changes to it!
 
 ## <strike>広島工業大学・コンピュータシステム</strike>  (2020-09-10) <span id="6238f6a583"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 広島工業大学・情報ネットワーク  (2020-09-10) <span id="973b1ff69b"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>広島工業大学・情報ネットワーク(did.not.make.it)</strike>  (2020-09-10) <span id="eb8e5a0a84"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 17  
-id : D120080389 [NEW]  
-update : 2020年08月08日  
-univ : 広島工業大学・情報ネットワーク  
-title : 教授、准教授、講師又は助教の公募（情報ネットワーク）  
-field : 情報学 - 全て  
-post : 教授相当 准教授・常勤専任講師相当 助教相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月10日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080389&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080389&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strong>★金沢大学.IoT及び情報通信分野</strong>  (2020-09-11) <span id="2b70b01167"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strong>法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin</strong>  (2020-09-11) <span id="1cb0d08d32"></span> <span style="color:#666;">[→top](#top)</span>
-
-## 金沢大学.IoT及び情報通信分野  (2020-09-11) <span id="9d343defd9"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 7  
-id : D120070946 [UPDATE]  
-update : 2020年07月15日  
-univ : 金沢大学  
-title : 教授または准教授の公募（IoT及び情報通信分野）  
-field : 情報学 - 計算基盤 工学 - 電気電子工学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月11日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070946&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070946&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
 
 ## <strike>北海道.情報科学研究院</strike>  (2020-09-11) <span id="08ce89f323"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>明治大学・統計科学・統計数学・知能情報科学</strike>  (2020-09-11) <span id="439bd40748"></span> <span style="color:#666;">[→top](#top)</span>
 
-## ★東京理科大工学部情報工学科インテリジェントシステム分野  (2020-09-14) <span id="478f7a5a07"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 42  
-id : D120061155 [NEW]  
-update : 2020年06月23日  
-univ : 東京理科大学  
-title : 東京理科大学工学部情報工学科インテリジェントシステム分野（人工知能，機械学習，自然言語処理，情報検索及びその関連分野）  
-field : 工学 - 情報工学 工学 - 人工知能 工学 - 音声音響処理  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月14日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061155&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061155&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strong>★東京理科大工学部情報工学科インテリジェントシステム分野</strong>  (2020-09-14) <span id="dc97c1915a"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation</strike>  (2020-09-14) <span id="3e98d45b55"></span> <span style="color:#666;">[→top](#top)</span>
 
