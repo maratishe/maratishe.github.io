@@ -1,0 +1,10 @@
+no : 37
+id : D120090588 [NEW]
+update : 2020年09月15日
+univ : 大阪大学大学院・情報科学研究科
+title : 大阪大学大学院情報科学研究科　教授公募
+field : 情報学 - 全て
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月16日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090588&ln_jor=0&top_btn=1 ----------

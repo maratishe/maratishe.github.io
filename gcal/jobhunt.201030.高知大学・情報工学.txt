@@ -1,0 +1,10 @@
+no : 29
+id : D120090573 [NEW]
+update : 2020年09月11日
+univ : 高知大学・情報工学
+title : 高知大学教育学部教員公募（情報工学）
+field : 情報学 - 情報学基礎 情報学 - 計算基盤 情報学 - 人間情報学
+post : 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090573&ln_jor=0&top_btn=1 ----------

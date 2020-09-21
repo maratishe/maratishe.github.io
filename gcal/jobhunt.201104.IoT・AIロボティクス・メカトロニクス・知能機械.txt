@@ -1,0 +1,10 @@
+no : 40
+id : D120090870 [NEW]
+update : 2020年09月16日
+univ : 久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械
+title : 教授，准教授もしくは講師の公募（IoT・AIロボティクス・メカトロニクス・知能機械）分野
+field : 工学 - 機械工学
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月04日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090870&ln_jor=0&top_btn=1 ----------

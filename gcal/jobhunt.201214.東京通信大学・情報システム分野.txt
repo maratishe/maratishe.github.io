@@ -1,0 +1,10 @@
+no : 28
+id : D120090059 [NEW]
+update : 2020年09月03日
+univ : 東京通信大学・情報システム分野
+title : 専任講師･助教の公募(情報システム分野)
+field : 情報学 - 情報学基礎 工学 - 情報工学 複合領域 - 科学教育・教育工学
+post : 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年12月14日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090059&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,10 @@
+no : 18
+id : D120090831 [NEW]
+update : 2020年09月16日
+univ : 岡山理科大学・データサイエンス
+title : 岡山理科大学経営学部 専任教員公募（データサイエンス）
+field : 社会科学 - 経営学 社会科学 - データサイエンス
+post : 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090831&ln_jor=0&top_btn=1 ----------

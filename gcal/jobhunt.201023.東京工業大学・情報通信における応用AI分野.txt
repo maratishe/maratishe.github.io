@@ -1,0 +1,10 @@
+no : 17
+id : D120080991 [UPDATE]
+update : 2020年08月21日
+univ : 東京工業大学・情報通信における応用AI分野
+title : 教授公募（電気電子および情報通信における応用AI分野）
+field : 工学 - 電気電子工学 工学 - 総合工学 総合理工 - 計算科学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月23日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120080991&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,10 @@
+no : 7
+id : D120010066 [UPDATE]
+update : 2020年09月04日
+univ : 岡山大学・知能機械システム学講座
+title : 【期間延長】大学院自然科学研究科 産業創成工学専攻 知能機械システム学講座 教授の募集
+field : その他 - 知能機械学・機械システム ロボティクス その他 - 知能機械学・機械システム メカトロニクス その他 - 知能ロボティクス　知能ロボット
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年09月28日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120010066&ln_jor=0&top_btn=1 ----------
