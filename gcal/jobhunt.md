@@ -73,21 +73,21 @@ this file is generated automatically, do not make manual changes to it!
 2020-09-25 [<strike>★東京理科大.数理モデリング、知能数理分野</strike>](#6a2cb633b3)  
 2020-09-25 [<strong>▲成蹊大学.総合理工-計算科学-数物系科学</strong>](#a899e6ba64)  
 2020-09-28 [<strike>岡山大学・知能機械システム学講座</strike>](#2277a8f108)  
-2020-09-30 [<strike>熊本大学・ビッグデータ</strike>](#bad52fddb6)  
+2020-09-30 [<strike>株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】</strike>](#83e6037ba4)  
 2020-09-30 [<strike>名城大学・情報学、統計学、フィールド調査</strike>](#8259a50aec)  
 2020-09-30 [<strike>北海道大学.数理科学・応用数学分野</strike>](#1444194ab3)  
 2020-09-30 [兵庫県立大学.情報学-情報通信-ネットワーク](#c322643ba2)  
 2020-09-30 [<strike>兵庫県立大学.AI・IoT・ビックデータ</strike>](#1ac3083abc)  
-2020-09-30 [福岡大.情報学](#c1c2b5544e)  
+2020-09-30 [<strike>熊本大学・ビッグデータ</strike>](#bad52fddb6)  
 2020-09-30 [<strike>兵庫県立大学・情報通信工学</strike>](#bf3d9f6641)  
-2020-09-30 [<strike>株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】</strike>](#83e6037ba4)  
-2020-09-30 [▲静岡理工科大学.電子情報分野](#9db5d8058d)  
+2020-09-30 [<strike>岡山大学・電気電子機能開発・powerelec</strike>](#829301a770)  
 2020-09-30 [<strike>▲成蹊大.計算科学(1of2)</strike>](#ade6a37b46)  
+2020-09-30 [<strong>福岡大.情報学</strong>](#384da3400c)  
 2020-09-30 [<strong>★龍谷大学・情報科学分野</strong>](#46260b9624)  
 2020-09-30 [<strong>▲東京都市大学・情報理論</strong>](#417a88b524)  
 2020-09-30 [<strong>‼★公立はこだて未来大学・情報システム</strong>](#00024ca602)  
-2020-09-30 [<strike>岡山大学・電気電子機能開発・powerelec</strike>](#829301a770)  
-2020-10-02 [明星大.データアナリティクス](#222bdcbcbe)  
+2020-09-30 [<strike>▲静岡理工科大学.電子情報分野(smalluni)</strike>](#a31425d7c9)  
+2020-10-02 [<strike>明星大.データアナリティクス✘推薦書</strike>](#20472a9b61)  
 2020-10-09 [立命館大学.システム制御工学.無線通信・電波](#bd5caa898a)  
 2020-10-12 [<strike>東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど</strike>](#1e1dc54b48)  
 2020-10-16 [千葉経済大学・情報学分野](#02c4b28b38)  
@@ -256,43 +256,17 @@ this file is generated automatically, do not make manual changes to it!
 
 ## <strong>★龍谷大学・情報科学分野</strong>  (2020-09-30) <span id="46260b9624"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strong>福岡大.情報学</strong>  (2020-09-30) <span id="384da3400c"></span> <span style="color:#666;">[→top](#top)</span>
+
 ## <strike>▲成蹊大.計算科学(1of2)</strike>  (2020-09-30) <span id="ade6a37b46"></span> <span style="color:#666;">[→top](#top)</span>
 
-## ▲静岡理工科大学.電子情報分野  (2020-09-30) <span id="9db5d8058d"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 53  
-id : D120070723 [NEW]  
-update : 2020年07月14日  
-univ : 静岡理工科大学  
-title : 教授、准教授、または講師の公募（電子情報分野）  
-field : 工学 - 電気電子工学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月30日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070723&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070723&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>▲静岡理工科大学.電子情報分野(smalluni)</strike>  (2020-09-30) <span id="a31425d7c9"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>岡山大学・電気電子機能開発・powerelec</strike>  (2020-09-30) <span id="829301a770"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】</strike>  (2020-09-30) <span id="83e6037ba4"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>熊本大学・ビッグデータ</strike>  (2020-09-30) <span id="bad52fddb6"></span> <span style="color:#666;">[→top](#top)</span>
-
-## 福岡大.情報学  (2020-09-30) <span id="c1c2b5544e"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 28  
-id : D120060663 [NEW]  
-update : 2020年06月13日  
-univ : 福岡大学  
-title : 福岡大学工学部電子情報工学科教授または准教授の公募  
-field : 情報学 - 全て 工学 - 電気電子工学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年09月30日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060663&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060663&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
 
 ## <strike>兵庫県立大学.AI・IoT・ビックデータ</strike>  (2020-09-30) <span id="1ac3083abc"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -317,22 +291,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070808&ln_jor=0&t
 
 ## <strike>名城大学・情報学、統計学、フィールド調査</strike>  (2020-09-30) <span id="8259a50aec"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 明星大.データアナリティクス  (2020-10-02) <span id="222bdcbcbe"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：39  
-データ番号 ：D120061419 [NEW]  
-更新日 ：2020年06月26日  
-機関名 ：明星大学  
-タイトル ：教授、准教授または助教の公募 [データサイエンス（データアナリティクス）関連]  
-研究分野 ：情報学 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年10月02日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061419&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120061419&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>明星大.データアナリティクス✘推薦書</strike>  (2020-10-02) <span id="20472a9b61"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 立命館大学.システム制御工学.無線通信・電波  (2020-10-09) <span id="bd5caa898a"></span> <span style="color:#666;">[→top](#top)</span>
 
