@@ -88,13 +88,13 @@ this file is generated automatically, do not make manual changes to it!
 2020-09-30 [<strong>‼★公立はこだて未来大学・情報システム</strong>](#00024ca602)  
 2020-09-30 [<strike>▲静岡理工科大学.電子情報分野(smalluni)</strike>](#a31425d7c9)  
 2020-10-02 [<strike>明星大.データアナリティクス✘推薦書</strike>](#20472a9b61)  
-2020-10-09 [立命館大学.システム制御工学.無線通信・電波](#bd5caa898a)  
+2020-10-09 [<strike>立命館大学.システム制御工学.無線通信・電波</strike>](#bc2e00886c)  
 2020-10-12 [<strike>東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど</strike>](#1e1dc54b48)  
 2020-10-16 [千葉経済大学・情報学分野](#02c4b28b38)  
 2020-10-16 [大阪大学大学院・情報科学研究科](#84b6c0901c)  
 2020-10-16 [東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究](#0ece770448)  
 2020-10-16 [<strike>愛知工科大学・組込み系システム</strike>](#1d2e883457)  
-2020-10-16 [FIT.制御・計測に関連する分野](#d25f1244df)  
+2020-10-16 [<strike>FIT.制御・計測に関連する分野</strike>](#9690b3ed53)  
 2020-10-16 [愛知工科大学・データサイエンスまたはＡＩ](#a4664346da)  
 2020-10-23 [東京工業大学・情報通信における応用AI分野](#bc36a4fbc6)  
 2020-10-30 [足利大学・人工知能](#53f715a6b7)  
@@ -102,8 +102,8 @@ this file is generated automatically, do not make manual changes to it!
 2020-10-30 [足利大学・情報工学、情報科学センター](#3223295a3c)  
 2020-10-30 [高知大学・情報工学](#4da6d3f950)  
 2020-10-30 [香川大学・機械システム](#ce5645d8a9)  
-2020-11-04 [IoT・AIロボティクス・メカトロニクス・知能機械](#384317449e)  
 2020-11-04 [お茶の水女子大学・人間工学（ロボット工学、生体工学）](#5891e45cc5)  
+2020-11-04 [久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械](#f455ef9cd4)  
 2020-11-05 [名古屋市立大学・情報環境デザイン領域](#0d6435b414)  
 2020-11-10 [情報システム工学科](#56ddb64634)  
 2020-11-13 [香川大学・情報システム・セキュリティコース](#d00a473fdd)  
@@ -293,53 +293,11 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070808&ln_jor=0&t
 
 ## <strike>明星大.データアナリティクス✘推薦書</strike>  (2020-10-02) <span id="20472a9b61"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 立命館大学.システム制御工学.無線通信・電波  (2020-10-09) <span id="bd5caa898a"></span> <span style="color:#666;">[→top](#top)</span>
-
-No. ：23  
-データ番号 ：D120070444 [UPDATE]  
-更新日 ：2020年07月09日  
-機関名 ：立命館大学.システム制御工学  
-タイトル ：立命館大学 理工学部電気電子工学科 教員公募（システム制御工学とその関連分野）  
-研究分野 ：工学 - 全て  
-総合理工 - 全て  
-情報学 - 全て  
-職種 ： 准教授・常勤専任講師相当  
-教授相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年10月09日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070444&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070444&ln_jor=0&top_btn=1)  
-
-
-No. ：25  
-データ番号 ：D120070446 [UPDATE]  
-更新日 ：2020年07月09日  
-機関名 ：立命館大学  
-タイトル ：立命館大学　理工学部電気電子工学科　准教授または教授の公募（無線通信・電波工学分野）  
-研究分野 ：工学 - 電気電子工学  
-職種 ： 准教授・常勤専任講師相当  
-教授相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年10月09日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070446&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070446&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>立命館大学.システム制御工学.無線通信・電波</strike>  (2020-10-09) <span id="bc2e00886c"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど</strike>  (2020-10-12) <span id="1e1dc54b48"></span> <span style="color:#666;">[→top](#top)</span>
 
-## FIT.制御・計測に関連する分野  (2020-10-16) <span id="d25f1244df"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 10  
-id : D120060831 [NEW]  
-update : 2020年06月19日  
-univ : 福岡工業大学  
-title : 福岡工業大学　教員公募（制御・計測に関連する分野）  
-field : 工学 - 計測工学[Measurement engineering] 工学 - 制御・システム工学[Control engineering/ System engineering]  
-post : 准教授・常勤専任講師相当 助教相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年10月16日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060831&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120060831&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>FIT.制御・計測に関連する分野</strike>  (2020-10-16) <span id="9690b3ed53"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 愛知工科大学・データサイエンスまたはＡＩ  (2020-10-16) <span id="a4664346da"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -517,21 +475,6 @@ No. ：10
  <span style="color:#666;">[→top](#top)</span>
 
 
-## IoT・AIロボティクス・メカトロニクス・知能機械  (2020-11-04) <span id="384317449e"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 40  
-id : D120090870 [NEW]  
-update : 2020年09月16日  
-univ : 久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械  
-title : 教授，准教授もしくは講師の公募（IoT・AIロボティクス・メカトロニクス・知能機械）分野  
-field : 工学 - 機械工学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年11月04日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090870&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090870&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## お茶の水女子大学・人間工学（ロボット工学、生体工学）  (2020-11-04) <span id="5891e45cc5"></span> <span style="color:#666;">[→top](#top)</span>
 
 no : 36  
@@ -544,6 +487,21 @@ post : 教授相当 准教授・常勤専任講師相当
 tenure : 常勤 (任期なし)  
 deadline : 2020年11月04日  
 url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091137&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091137&ln_jor=0&top_btn=1) ----------  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## 久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械  (2020-11-04) <span id="f455ef9cd4"></span> <span style="color:#666;">[→top](#top)</span>
+
+no : 40  
+id : D120090870 [NEW]  
+update : 2020年09月16日  
+univ : 久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械  
+title : 教授，准教授もしくは講師の公募（IoT・AIロボティクス・メカトロニクス・知能機械）分野  
+field : 工学 - 機械工学  
+post : 教授相当 准教授・常勤専任講師相当  
+tenure : 常勤 (任期なし)  
+deadline : 2020年11月04日  
+url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090870&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090870&ln_jor=0&top_btn=1) ----------  
  <span style="color:#666;">[→top](#top)</span>
 
 
