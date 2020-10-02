@@ -1,0 +1,80 @@
+Call for Papers
+ICC 2021 Communication QoS, Reliability and Modeling Symposium
+Paper Submission: 12 October 2020
+Notification: 25 January 2021
+Camera Ready and Registration: 22 February 2021
+How to Submit: https://edas.info/newPaper.php?c=27230
+Symposium co-chairs
+Chikara Ohta, Kobe University, Japan, ohta@port.kobe-u.ac.jp
+Christos Verikoukis, CTTC, Spain, cveri@cttce.es
+Imad Elhajj, American University of Beirut, Lebanon, ie05@aub.edu.lb
+Scope
+The Communication QoS, Reliability and Modeling (CQRM) Symposium aims at providing an international venue for the discussion of research advances in communications service provisioning, quality of service/experience technologies, modeling and formal methods, and analytical and experimental techniques to allow the design of communication networks as a reliable information infrastructure with QoS capability. The scope of this symposium is agnostic to network technologies. Specifically, the goal is to address the key challenges to provide the required level of QoS, security, and reliability to coexisting networks that are heterogeneous in nature, in size, and in the type of information transmitted.
+Topics of interest for the CQRM Symposium include, but are not limited to:
+• Metrics and Models for Quality of Experience (QoE) and Quality of Service (QoS)
+• Human Perception Aware QoE
+• QoS Provisioning in Machine Communications
+• Design and Evaluation of Energy Efficient Networks and Services
+• Design and Evaluation of Software Defined Networking (SDN) Architectures and Networks
+• Design and Evaluation of Application / Service Oriented Networking
+• Cross-layer Design, Modeling and Optimization
+• Design and Evaluation of Content Distribution Networks (CDNs)
+• Design and Evaluation of Smart Cities
+• Design of Networks and Network Services
+• Cooperative Networking and Unified Management of Connectivity
+• Tradeoff Between Performance and Energy Efficiency in Network Design
+• Design of Network Architectures/Technologies for Ubiquitous 5G Multitenant Networks
+• Performance Evaluation Techniques
+• Quality and Performance for Network and Services
+• Quality, Scalability and Performance in the Internet
+• Quality, Reliability and Performance in Optical and Multi-layer Networks
+• Quality and Performance in Autonomic Systems
+• TCP/IP Variants and Performance
+• Multimedia Streaming, Adaptive Streaming, MPEG-DASH
+• Quality and Efficiency for Web browsing, HTTP 2.0
+• Quality in Multimedia Networks including Voice over IP, IPTV, and Gaming
+• Quality and Performance in Wireless and Mobile Networks
+• Wireless and Mobile Networks Performance
+• Modeling and Performance of 5G Wireless Radio Networks
+• Performance of Mobile Cloud Networks
+• Modeling and Performance of Socially-Aware Wireless and Mobile Networks
+• Performance and Efficiency of Energy Harvesting
+• Network Measurement and Monitoring Techniques
+• Network Measurement for Smart Cities and Internet of Things (IoT)
+• Network Simulation Techniques
+• Measurement and Evaluation Techniques of Energy Efficient Communication Systems
+• Performance Evaluation and Design of Cognitive Network Architectures
+• Performance Evaluation and Design of AI/ML Networks
+• Performance Evaluation and Integration in Smart Grids Communications and Demand Response Techniques
+• Performance Evaluation and Design of Connected Autonomous Electric Vehicles     • Network Traffic Characterization and Measurement
+• Machine Learning and Artificial Intelligence for Traffic and QoE Management
+• Performance evaluation of machine learning based techniques for communications and networks
+• Machine Learning and Artificial Intelligence for Real-time Monitoring and Network Management
+• Performance evaluation of new RAN architectures
+• Integrated Multitenant 5G Platforms
+• Quality and Performance in Grid, Distributed and Cloud Computing
+• Quality and Performance in Overlay (including Peer-to-Peer) Networks
+• Quality and Resource Allocation for Network Services, VPN, Web
+• Performance Evaluation and Design of Cloud Networks
+• Performance Evaluation and Design of Vehicular Cloud Networks
+• Resource Allocation for Networks and Their Services
+• Software-Defined Networking (SDN) and Network Functions Virtualization (NFV)
+• Quality and Performance in Mobile Edge and Fog Computing Systems
+• Quality, Measurements and Performance in IoT and Big Data Applications
+• IoT Platforms, Integration and Service Provisioning
+• Design and Scalability of Smart Cities and Crowd Sensing Applications
+• Quality, Measurements and Performance in Cyber Physical Systems
+• Scalability and Performance of Edge Computing and Distributed Computing Systems
+• Integration of Objects, Devices and Systems in an IoT Environment
+• Security, Reliability, Privacy and Trust by Design and Performance Evaluation
+• Scalability, Robustness and Resilience
+• Integration of Behavioral (or Soft) Biometrics into IoT Environments
+• Standardization Aspects of QoS and Reliability
+• Dependable Communication Networks
+• Formal Verification Methods for QoS and Reliability
+• Innovative Modeling Techniques for Large Scale and Emerging Network Technologies
+
+
+
+
+

@@ -1,0 +1,103 @@
+[We apology for possible cross posting, and thank you in advance for
+distributing this CFP ]
+Next-Generation Networking and Internet Symposium, IEEE ICC 2021
+https://icc2021.ieee-icc.org/sites/icc2021.ieee-icc.org/files/symposia%20CFP/ICC2021-SYMPOSIUM-NGNI-CFP-V2-Final.pdf
+
+Submission: https://www.edas.info/newPaper.php?c=27236&track=101361
+Scope and Topics of Interest
+
+There have been unprecedented advances in developing technologies to
+enable the next generation networks, which will seamlessly integrate the
+computing equipment with networking to provide the computing-harvesting
+next generation services. Thanks to the huge enhancement of computing
+processor and interface architectures, communication networks can now
+handle network functions implemented as virtualized machines making
+large use of software elements. Communication devices can now host very
+advanced applications, and data centers can be pervasively distributed
+down to network access points. Networks, applications and clouds control
+layers can so leverage on advanced decision-making solutions to target
+full automation in Internet and next-generation service delivery. In
+addition, quantum Internet is emerging with vast amount of computing
+power, which opens new possibilities. This trend also greatly affects
+next-generation broadband wireless networks, such as spectrum efficiency,
+energy efficiency, and mobility management. The NGNI symposium welcomes
+original research work in technical areas focusing on the innovations on
+next-generation networks.
+
+The Next-Generation Networking and Internet (NGNI) Symposium seeks
+original contributions in the following topical areas, plus others that
+are not explicitly listed but are closely related to:
+•    Addressing and naming with the presence of mobility and portability
+•    Centralized-RAN, Cloud-RAN, and Fog-RAN architectures
+•    Cloud-based and fog-based networking
+•    Content-centric networking and named data network
+•    Converged networks and applications
+•    Data center network architectures and performance
+•    Free Space Optical (FSO) networks and Visible Light Communication (
+VLC)
+•    Future Internet and next-generation networking architectures
+•    Energy-efficient green communications
+•    Heterogeneous multi-layer and multi-domain wireless-wireline
+internetworking
+•    High speed and parallel processing architectures for next
+generation routers and switches
+•    Intent-based network control and management
+•    Internet economics, pricing, accounting, and growth modelling
+•    Internet of Things (IoT), M2M, D2D, MTC
+•    Internet survivability and network resilience strategies
+•    Integrated networking, storage and computing
+•    Mobile Cloud Computing (MCC) and Mobile Edge Computing (MEC)
+•    Mobile security: device, application, and data
+•    Networking flying vehicles such as UAVs and drones
+•    Next-generation access networks
+•    Next-generation anomaly, intrusion, and attack detection/prevention
+•    Next-generation flow management: resource sharing, congestion
+control
+•    Next-generation Internet applications and service
+•    Next-generation networking protocols
+•    Next-generation network management and control
+•    Open communities, open API, open source
+•    Operational and research issues with IPv6
+•    Overlay and peer-to-peer (P2P) networking
+•    Packet classification and forwarding mechanisms at ultra-high link
+rates (terabits)
+•    Quality of Service (QoS) and Quality of Experience (QoE) in next-
+generation networks
+•    Quantum Internet
+•    Resource orchestration in next-generation networks
+•    Routing and switching
+•    Self-protection and self-organization networking
+•    Software defined networking (SDN) and network function
+virtualization (NFV)
+•    Software defined radio (SDR) and cognitive radio networks
+•    Terahertz wireless communications
+•    Traffic measurement, analysis, modelling, visualization, and
+engineering
+•    Vehicular networking (IoV/V2V/V2I/V2X)
+
+Submission Guidelines
+The IEEE ICC 2021 website (icc2021.ieee-icc.org) provides full
+instructions on manuscript format and how to submit a manuscript. For
+this NGNI symposium, please use the submission url below.
+https://www.edas.info/newPaper.php?c=27236&track=101361
+Important Dates
+Paper Submission Deadline: 12 October 2020
+Notification of Acceptance: 25 January 2020
+Camera Ready Submissions: 22 February 2020
+
+Symposium Chairs
+Shiwen Mao, Auburn University, USA, smao@ieee.org
+Periklis Chatzimisios, International Hellenic University, Greece,
+pchatzimisios@ihu.gr
+Ruidong Li, NICT, Japan, lrd@nict.go.jp
+
+--
+Ruidong Li,
+Senior Researcher, Network System Research Institute,
+National Institute of Information and Communications Technology (NICT),
+Japan
+Email: lrd@nict.go.jp  liruidong@ieee.org
+
+
+
+

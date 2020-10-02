@@ -1,0 +1,135 @@
+CALL FOR PAPERS AND DEMOS - ICIN 2021
+24th Conference on Innovation in Clouds, Internet and Networks
+
+"Services everywhere: melding networking and computing in an intelligent cloud-edge continuum"
+
+March 1-4th, 2021 - Paris, France (and online)
+
+https://www.icin-conference.org
+
+Technically sponsored by IEEE Communications Society
+All accepted and presented papers will be published in IEEE Xplore Digital Library
+
+The best papers presented at the conference will be invited to submit an extended
+version for fast-track review in the following journals:
+- IEEE Transactions on Network Service and Management (Impact Factor: 3.878)
+- MDPI Sensors (Impact Factor: 3.275)
+Particularly innovative and visionary papers will be invited to submit a
+magazine-style version suitable for a wider audience to:
+- IEEE Communications Magazine (Impact Factor: 11.052)
+
+
+
+**********************************************************************************
+IMPORTANT DATES
+
+Paper Submission: October 8th, 2020
+Demo Paper Submission: October 22nd, 2020
+Paper Acceptance Notification: December 4th, 2020
+Demo Paper Acceptance Notification: December 18th, 2020
+Camera-Ready Papers: January 15th, 2021
+
+LINK TO SUBMISSION PAGE
+
+http://edas.info/N27469
+
+**********************************************************************************
+
+COVID-19 Statement
+
+ICIN 2021 is planned to be held in Paris on March 1-4th 2021. The organizing committee (OC) is closely monitoring the development of the COVID-19 situation that could impact paper submissions and in-person attendance. In case of travel restrictions, a partially or fully virtual conference could become necessary and video/remote presentations will be accepted. In addition, the OC is also investigating remote participation under all circumstances especially for accepted papers.
+
+
+About ICIN
+
+Since 1989, the ICIN conferences have been bringing together leading Internet and telecom experts from industry, academia and government from across the globe. ICIN is a single track conference that is both intimate and global, attracting 100+ delegates, from more than 20 countries. It focuses on leading edge investigations into Internet technologies, from basic networking and cloud services to novel architectures. ICIN uses a rigorous peer-review process and has become an established industry forum to discuss emerging trends in Information and Communications Technology (ICT). It offers an agora for one-on-one discussions and cross-fertilization between participants and leading network visionaries, with the goal of promoting dialogue and ideation about the current and future trends in networking research and development. ICIN conferences are well known for their identification of research challenges and industry trends and their discussion on the impact of cutting-edge technologies on future intelligent and distributed networking, and related computing services. ICIN has an enviable track record of identifying key technologies and services – and analysing their impact on business models – before they become widely recognized in the industry and government communication sectors. The interdisciplinary approach and the cross-fertilization of ideas are the main ingredients that made ICIN a recognized event in the telecommunications, cloud networking and Internet communities.
+
+
+ICIN 2021
+
+For 2021 ICIN is focussing on the melding of network and computing services that is clearly demonstrated by the increasing softwarization of the network services in the core and the access networks, the rise of computing in the network and the growth of cognition in networking for management and control, as well as for value added services at the edge and in the data center. Several innovations are impacting the ongoing transformations toward the network of the future and the evolution of cloud services. More and more the network fabric itself emcompasses functionality usually associated with computing as increased intelligence and cognition are necessary to address emerging requirements of distributed services, automation and network reliability. At the same time, more and more, the cloud is extending to the edge adding a number of heterogeneous networked subsystems to the Internet with a variety of requirements that further highlight the need for novel architectures, e.g., IoT systems, augmented and virtual reality and service delivery platforms.
+
+The result is the networking and computing systems becoming one, melding, as a distributed cloud/edge continuum with cognition and intelligence for emerging services. This “Computing and Networking as a Service” is the paradigm that will be central to the deployment of immersive services in many different sectors, such as e-health, self-driving cars, industrial networks, agriculture and cloud robotics. In this regard, there is a need for a variety of mechanisms enabling the new generation of service offerings at different levels (consumer, business, government, social, service provider ecosystem platforms).
+
+In this scenario and considering the many challenges that the aforementioned paradigms and technologies will bring, the theme for ICIN 2021 is:
+
+"Services everywhere: melding networking and computing in an intelligent cloud-edge continuum"
+
+The conference will foster discussion about new ideas and novel approaches for future service concepts, service delivery and their enabling technologies and mechanisms in the emerging scenario of immersive intelligence and service level awareness. With this vision, the conference will look beyond the current state of the art and promote the advances of Computing as a Service technologies for different application service delivery platforms.
+
+Interested authors are invited to submit papers presenting novel technical research, research related to business impact or mechanisms of new technologies, as well as broader position and visionary papers. Contributions that discuss lessons learnt and best practices, describe practical deployment and implementation experiences as well as demonstrating innovative use-cases are also and especially encouraged.
+
+***********************************************************************************
+ICIN 2021 solicits original, unpublished work not currently under review by other
+conferences or journals. Papers submitted to ICIN 2021 will be assessed based on
+originality, technical soundness, clarity and interest to a wide audience. All
+submissions must be written in English and must use standard IEEE two-column
+conference template, available for download from the IEEE website:
+
+https://www.ieee.org/conferences/publishing/templates.html
+
+Only PDF files will be accepted for the review process and all submissions must
+be done electronically through EDAS using the following link:
+
+http://edas.info/N27469
+
+Technical papers can be of two types: full papers or short papers, up to 8 pages
+and 5 pages respectively, including tables, figures and references. Demo papers
+of length of 3 pages are also solicited.
+
+For further information about demo submissions, please check the conference website:
+https://www.icin-conference.org/133-2/
+
+At least one author is required to register, at the full rate, to present
+accepted papers at the conference and for the paper to appear in the conference
+proceedings.
+
+The best technical papers presented at the conference will be invited to submit
+an extended version for fast-track review in the following journals:
+- IEEE Transactions on Network Service and Management (Impact Factor: 3.878)
+- MDPI Sensors (Impact Factor: 3.275)
+Extended versions of ICIN 2020 papers must include at least 30% of new material
+(algorithms, results, related work) compared to the conference version.
+Particularly innovative and visionary papers will be invited to submit a
+magazine-style version suitable for a wider audience to:
+- IEEE Communications Magazine (Impact Factor: 11.052)
+
+
+Areas of interest and topics include, but are not limited to:
+
+- Edge-Cloud continuum and softwarized networks evolution for verticals:
+* Vertical industries and digital twins
+* Automotive and vehicular networking, including vehicular cloud services
+* Tactile Internet and precision networking
+* Functional decomposition and orchestration, service chaining
+* Protocols for ultra-low latency and ultra-high reliability
+* Fog, edge and multi-access computing and networking
+* Security, trust and privacy
+
+- Enablers and services for wireless and mobile networks: real deployments and best practices
+* Network and service architecture, protocols, application-network layer interworking, and use cases for 5G and emerging networks
+* Service-Based Architecture (SBA) design applied to the control plane,
+data plane and management plane, considering as well network function exposure
+* Scalability and multi-tenancy in 5G and emerging networks
+* Green networking and efficient resource usage and service delivery
+* Security, trust and privacy management in large systems and smart environments
+
+- Network automation and orchestration architectures and protocols
+* Intent-based network management and cloud resource orchestration
+* Network programmability architectures and systems
+* Orchestration of distributed cloud and network resources in vertical markets
+* Network artificial intelligence, machine learning and reasoning
+* Network data analytics, anomaly detection, and feature extraction
+* Autonomic and cognitive networking
+* Security, societal and legal aspects of network automation
+
+- Technologies for innovation in clouds, Internet and networks
+* SDN, NFV, service function chaining, function placement and network embedding
+* Use of Distributed Ledger Technologies in networking and network services
+* Advanced multimedia and real-time communications, QoE/QoS Assurance
+* Lightweight virtualization technologies, software and hardware acceleration
+* Energy-efficient software-defined infrastructures
+* Measurement, monitoring and telemetry
+* Open-source projects and open standards
+
+

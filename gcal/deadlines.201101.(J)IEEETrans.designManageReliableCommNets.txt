@@ -1,0 +1,120 @@
+IEEE Transactions on Network
+
+and Service Management
+
+-
+
+Special Issue on
+
+“Design and Management of Reliable
+
+Communication Networks”
+
+
+
+Reliability of communication infrastructure is a top priority for network operators. To ensure reliable network operation, new design and management techniques for reliable communications must be constantly devised to respond to the rapid network and service evolution. As a recent and relevant example, deployments of 5G communication networks will soon enter their second phase, during which the network infrastructure will require upgrades to support new Ultra-Reliable services with availabilities of up to 6 nines. Similarly, disaster resiliency in communication networks is now attracting the attention of media, government and industry as never before (consider, e.g., the worldwide network traffic deluge to support remote working during the current Coronavirus pandemic!). Luckily, several new technical directions can be leveraged to provide new solutions for network reliability as (just to name a few): increased network reconfigurability enabled by Software Defined Networking (SDN); integration/convergence of multiple technologies (optical, wireless satellite, datacenter networks); enhanced forms of data/service replication, supported by, e.g., edge computing; network slicing, used to carve highly-reliable logical partitions of network, computing and storage resources. These, and many others, technological transformations can be leveraged to enable next-generation high-reliability networks.
+
+
+
+Given the strong interest in both industry and academia towards reliability of telecom networks and cloud-computing infrastructures, we organize an IEEE TNSM special issue that aims at timely publication of recent and innovative research results on this important topic. This special issue is organized in collaboration with the International Conference on the Design of Reliable Communication Networks (DRCN), held in Milan in March this year. DRCN is a well-established forum for scientists from both industry and academy who have interest in reliability and availability of communication networks. As such, this special issue will also invite top-scored DRCN papers to share excellent results and new challenges in the field of reliable communication networks and services.
+
+
+
+We welcome submissions addressing important challenges (see the non-exhaustive list of topics below) and presenting novel research or experimentation results. Survey papers that offer a perspective on related work and identify key challenges for future research will be considered as well. We look forward to your submissions!
+
+
+
+About the special issue
+
+Topics of interest for this special issue, include, but are not limited to the following:
+
+* Resilience in 5G networks and services
+
+* Ultra-Reliable Low Latency Communications (URLLC)
+
+* Design of resilient and reliable IoT systems
+
+* Resilience in Software-Defined Networking (SDN)
+
+* Secure and reliable quantum communication
+
+* Resilient communication networks for the smart grid
+
+* Resilience in satellite communication networks
+
+* High-availability for Network Functions Virtualization (NFV) infrastructures
+
+* Dependability and reliability of cloud/wireless/cellular/mobile/datacenter networks
+
+* Resilience in FSO/VLC communications
+
+* Survivability and traffic engineering for optical, IP and multi-layer/multi-domain networks
+
+* Survivability in grid and distributed computing
+
+* Recovery of overlay and peer-to-peer networks
+
+* Risk and reliability in the Internet and enterprise networks
+
+* Communication reliability for smart city applications and intelligent transport systems
+
+* Methods for survivable network and systems design, analysis and operation
+
+* Planning and optimization of reliable networks, systems, and services
+
+* Machine learning for reliable design of communication networks
+
+* Reliable Federated Learning
+
+* AI empowered reliable autonomous driving and intelligent transportation
+
+* Security of cyber physical and networked control systems
+
+* Reliable design of networked control systems
+
+* Highly available softwarized ​infrastructure
+
+* Reliable communications in the era of beyond 5G/6G systems
+
+* Failure management based on AI/Machine Learning techniques
+
+* Data analytics and Machine Learning for fault diagnosis
+
+* Network coding techniques to improve resilience
+
+* Quality of Experience (QoE) and network service availability assessments
+
+* Reliability requirements and metrics for users, businesses, and the society
+
+* Resilience of networked critical infrastructures
+
+* Network robustness to natural disasters
+
+* Robust network design for hostile environments
+
+* Security issues in networks and their relation to survivability
+
+* Network dependability and energy consumption trade-offs
+
+* Network resilience combined with economics and commercial issues
+
+* Public policy issues for survivability and resilience
+
+
+
+Submission format
+
+Papers will be evaluated based on their originality, presentation, relevance and contribution to the field of design and management of reliable communication networks, as well as their overall quality and suitability for the special issue. The submitted papers must be written in a good English and describe original research which has not been published nor currently under review by other journals or conferences. Previously published conference papers should be clearly identified by the authors at the initial submission stage and an explanation should be provided of how such papers have been extended in order to be considered for this special issue.
+
+Author guidelines for preparation of manuscript can be found at:
+
+https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-submit-manuscript. For more information, please contact Massimo Tornatore (massimo.tornatore@polimi.it).
+
+
+
+Submission guideline
+
+All manuscripts and any supplementary material should be submitted through the IEEE ManuscriptCentral service located at: http://mc.manuscriptcentral.com/tnsm
+Authors must indicate in the submission cover letter that their manuscript is intended for the “Design and Management of Reliable Communication Networks” special issue.
+
+

@@ -1,0 +1,35 @@
+********** Call for Papers **********
+
+Dear Colleagues,
+
+GNSS solutions are now part of our everyday life. Most of the uses are linked to transport applications, and most often in urban areas, where availability and accuracy are degraded due to signal obstructions, multipath, and NLOS (Non Line Of Sight) reception. Solutions are embedded in cars, autonomous vehicles or fleets of vehicles; drones; public transport systems (buses, trams); as well as smartphone-based solutions.
+New and future uses of localization solutions will, however, require a high level of performance in terms of availability and accuracy but also integrity.
+To reach high-level performances, new solutions have to be developed. They can rely on the potential of precise positioning, including RTK and PPP that has to be investigated. Special attention has to be paid to algorithms covering GNSS local effect detection, characterization, exclusion or mitigation techniques. Multisensor or hybrid solutions aim to compensate for the degradation of the GNSS. Among new algorithms, one can mention context detection approaches; multiagent collaboration; or uses of environment knowledge based on 3D models, map-matching, or other external sensors such as Camera or LiDAR.
+New integrity concepts have to consider these new algorithms and the local errors to properly bound the residual errors.
+Lastly, another important issue is also the development of methodologies and tools that are capable of evaluating performances in such areas.
+Keywords
+
+GNSS
+Urban applications
+Multipath, NLOS
+Hybridization, multisensor fusion
+Detection technics (statistical tests, machine learning, etc.)
+Performance analysis and enhancement
+Integrity concepts
+
+Deadline for manuscript submissions: 28 February 2022.
+Ctrl  Publication: Immediate online publication once the paper is accepted.
+
+Please refer to this website
+https://www.mdpi.com/journal/remotesensing/special_issues/GNSS_urban_transport_applications
+for detailed manuscript submission information.
+Although the deadline for submission of manuscripts to the Special Issue is 28 February 2022, I would appreciate hearing from you in the next few weeks whether you would be willing to submit a contribution.
+
+
+Dr. Juliette Marais
+Dr. Li-Ta Hsu
+Dr. Yanlei Gu
+Guest Editors
+
+
+
