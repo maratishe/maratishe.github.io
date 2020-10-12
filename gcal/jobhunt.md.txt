@@ -91,13 +91,13 @@ this file is generated automatically, do not make manual changes to it!
 2020-10-08 [<strike>東洋大学・情報社会の総合政策</strike>](#72ef55640f)  
 2020-10-09 [<strike>立命館大学.システム制御工学.無線通信・電波</strike>](#bc2e00886c)  
 2020-10-12 [<strike>東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど</strike>](#1e1dc54b48)  
-2020-10-16 [千葉経済大学・情報学分野](#02c4b28b38)  
+2020-10-16 [石川県工業試験場・電気職](#69f2a4545a)  
 2020-10-16 [東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究](#0ece770448)  
 2020-10-16 [大阪大学大学院・情報科学研究科](#84b6c0901c)  
-2020-10-16 [石川県工業試験場・電気職](#69f2a4545a)  
 2020-10-16 [<strike>愛知工科大学・組込み系システム</strike>](#1d2e883457)  
-2020-10-16 [愛知工科大学・データサイエンスまたはＡＩ](#a4664346da)  
 2020-10-16 [<strike>FIT.制御・計測に関連する分野</strike>](#9690b3ed53)  
+2020-10-16 [▲千葉経済大学・情報学分野](#dc298a7ee7)  
+2020-10-16 [▲愛知工科大学・データサイエンスまたはＡＩ](#659de97e18)  
 2020-10-19 [玉川大学・ソフトウェアサイエンス学科](#f111cc60ef)  
 2020-10-23 [東京工業大学・情報通信における応用AI分野](#bc36a4fbc6)  
 2020-10-29 [成城大学・経営統計学](#95ddb3ead5)  
@@ -315,9 +315,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070808&ln_jor=0&t
 
 ## <strike>東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど</strike>  (2020-10-12) <span id="1e1dc54b48"></span> <span style="color:#666;">[→top](#top)</span>
 
-## <strike>FIT.制御・計測に関連する分野</strike>  (2020-10-16) <span id="9690b3ed53"></span> <span style="color:#666;">[→top](#top)</span>
-
-## 愛知工科大学・データサイエンスまたはＡＩ  (2020-10-16) <span id="a4664346da"></span> <span style="color:#666;">[→top](#top)</span>
+## ▲愛知工科大学・データサイエンスまたはＡＩ  (2020-10-16) <span id="659de97e18"></span> <span style="color:#666;">[→top](#top)</span>
 
 no : 22  
 id : D120081431 [NEW]  
@@ -331,6 +329,23 @@ deadline : 2020年10月16日
 url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120081431&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120081431&ln_jor=0&top_btn=1) ----------  
  <span style="color:#666;">[→top](#top)</span>
 
+
+## ▲千葉経済大学・情報学分野  (2020-10-16) <span id="dc298a7ee7"></span> <span style="color:#666;">[→top](#top)</span>
+
+no : 15  
+id : D120090442 [NEW]  
+update : 2020年09月09日  
+univ : 千葉経済大学・情報学分野  
+title : 専任教員の公募（情報学分野）  
+field : 情報学 - 全て  
+post : 教授相当 准教授・常勤専任講師相当  
+tenure : 常勤 (任期なし)  
+deadline : 2020年10月16日  
+url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090442&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090442&ln_jor=0&top_btn=1) ----------  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## <strike>FIT.制御・計測に関連する分野</strike>  (2020-10-16) <span id="9690b3ed53"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>愛知工科大学・組込み系システム</strike>  (2020-10-16) <span id="1d2e883457"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -346,21 +361,6 @@ post : 研究開発・技術者相当 研究員・ポスドク相当
 tenure : 常勤 (任期なし)  
 deadline : 2020年10月16日  
 url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090768&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090768&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 千葉経済大学・情報学分野  (2020-10-16) <span id="02c4b28b38"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 15  
-id : D120090442 [NEW]  
-update : 2020年09月09日  
-univ : 千葉経済大学・情報学分野  
-title : 専任教員の公募（情報学分野）  
-field : 情報学 - 全て  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年10月16日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090442&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090442&ln_jor=0&top_btn=1) ----------  
  <span style="color:#666;">[→top](#top)</span>
 
 
