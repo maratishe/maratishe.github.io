@@ -92,7 +92,7 @@ this file is generated automatically, do not make manual changes to it!
 2020-10-09 [<strike>立命館大学.システム制御工学.無線通信・電波</strike>](#bc2e00886c)  
 2020-10-12 [<strike>東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど</strike>](#1e1dc54b48)  
 2020-10-16 [石川県工業試験場・電気職](#69f2a4545a)  
-2020-10-16 [東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究](#0ece770448)  
+2020-10-16 [<strike>東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究</strike>](#d47fbc1ef1)  
 2020-10-16 [大阪大学大学院・情報科学研究科](#84b6c0901c)  
 2020-10-16 [<strike>愛知工科大学・組込み系システム</strike>](#1d2e883457)  
 2020-10-16 [<strike>FIT.制御・計測に関連する分野</strike>](#9690b3ed53)  
@@ -379,20 +379,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090588&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究  (2020-10-16) <span id="0ece770448"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 1  
-id : D120070326 [NEW]  
-update : 2020年07月20日  
-univ : 東京都立大学  
-title : 東京都立大学の専任教員公募（システムデザイン学部 情報科学科 准教授）人とのインタラクションや感覚を対象とした情報科学的研究分野  
-field : 情報学 - 人間情報学 情報学 - 情報学フロンティア  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年10月16日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070326&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120070326&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究</strike>  (2020-10-16) <span id="d47fbc1ef1"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 玉川大学・ソフトウェアサイエンス学科  (2020-10-19) <span id="f111cc60ef"></span> <span style="color:#666;">[→top](#top)</span>
 
