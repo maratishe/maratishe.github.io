@@ -1,0 +1,10 @@
+no : 26
+id : D120091456 [NEW]
+update : 2020年09月29日
+univ : 金沢大学・先端科学・社会共創推進機構
+title : 教授又は准教授（リサーチ・アドミニストレーター）の公募（先端科学・社会共創推進機構）
+field : その他 - 研究推進業務 その他 - 産学官連携業務
+post : 研究管理者相当 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091456&ln_jor=0&top_btn=1 ----------

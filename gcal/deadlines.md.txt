@@ -4,23 +4,21 @@
 
 this file is generated automatically, do not make manual changes to it!
 
-2020-10-04 [IEEE.CogMI](#44c7738649)  
 2020-10-05 [EAI](#aedf9af28a)  
-2020-10-05 [BigDataJ.softcompute](#7322197f11)  
 2020-10-08 [ICIN.clouds.paris(online)](#f09b5c59f1)  
 2020-10-10 [conf.IEEE.MSN(tokyo).mobility.sensing.networking](#f69158bf71)  
 2020-10-12 [IEEE.ICC.netgennets](#fa627027c4)  
 2020-10-12 [IEEE.ICC.SQRM.qosqoemodeling](#fb987fc005)  
+2020-10-15 [(J)Sensors.cooperativePerceptionVehicles](#e0fba176cc)  
+2020-10-15 [EAI.vnets(springerlink)](#5332202232)  
 2020-10-15 [journal.TNSM.cybersecurity.sec.manage.nets.services](#b12c8b0747)  
 2020-10-15 [SoCPaR(springer)(online)](#e32e670766)  
-2020-10-15 [EAI.vnets(springerlink)](#5332202232)  
-2020-10-15 [(J)Sensors.cooperativePerceptionVehicles](#e0fba176cc)  
 2020-10-16 [IEEE.CCNC.RoboCom.swarms](#50893b61fd)  
 2020-10-19 [EAI.MTYMEX.SmartTech(springer)](#2528534e69)  
 2020-10-23 [PAM](#f2a62109ee)  
 2020-10-28 [DASFAA.databases(springer)](#9757aa395e)  
 2020-10-30 [(J)ACMTrans.ContactTracing](#7533527f5d)  
-2020-10-30 [âEAI.Covid19.and.cloud(+J)](#a996c6e76f)  
+2020-10-30 [★EAI.Covid19.and.cloud(+J)](#197c84667a)  
 2020-10-31 [journal.Biosensors(JCR).machine.learning](#bba3c3e514)  
 2020-10-31 [springerj・cybersecAI](#e050f91cf8)  
 2020-10-31 [WileyJ.software.innovations](#f6d0db1ffc)  
@@ -35,8 +33,8 @@ this file is generated automatically, do not make manual changes to it!
 2020-12-01 [IETj.smartcities](#e3e175936d)  
 2020-12-10 [MDPI.geotech.spatiotemporal](#56e2617def)  
 2020-12-31 [MDPI.drone.swarms](#9e2696f5c6)  
-2020-12-31 [(J)MDPI.WirelessSensors.ITS](#e9418fead9)  
 2020-12-31 [(J)mdpi.Sensing.and.IoT](#5029502302)  
+2020-12-31 [(J)MDPI.WirelessSensors.ITS](#e9418fead9)  
 2020-12-31 [(J)MDPI.Drones.swarms](#ba0e52d4f3)  
 2021-01-01 [(J)ComMag.Network4Covid](#b0632a7f9f)  
 2021-01-05 [IFIP.Networking(~J)](#b225640eb5)  
@@ -46,276 +44,6 @@ this file is generated automatically, do not make manual changes to it!
 2021-01-31 [MDPI.sustain](#2df4e5c249)  
 2021-02-28 [jour.mdpi.vehicularfleets](#9582ef3fcf)  
 2021-03-15 [KSEM.knowledge](#95596e2fac)  
-
-
-## IEEE.CogMI  (2020-10-04) <span id="44c7738649"></span> <span style="color:#666;">[→top](#top)</span>
-
-Because of COVID-19, we have decided to reschedule the conference on Dec 1-3 as a FULLY VIRTUAL event.  
-
-
-The cognitive machine intelligence (CogMI) is creating unprecedented opportunities for impactful scientific innovations and societal transformations by significantly augmenting the human ability for problem solving and rapid decision making in terms of speed, precision, and variety, while fostering innovations in all our human endeavors from scientific discoveries, solving long-standing healthcare problems, modeling highly interconnected and globally distributed systems, and so forth. As we enter the new social, physical and cyber world empowered by such cognitive machine intelligence, it is important to understand and explore the foundational characteristics of the algorithmic theory and processes behind the cognitive machine intelligence, the behavioral and cognitive enhancement of intelligent machines that promote a productive and creative partnership and collaboration between the humans and the machines so as to ensure an equitable, fair and transparent CogMI-enhanced society and cyber-physical-social worlds around us.  
-
-
-The goal of the IEEE Conference on Cognitive Machine Intelligence (IEEE CogMI) is to create a research and development forum on cognitive machine intelligence to foster research results on AI and ML with cognitive science and behavioral science. It promotes productive collaborations among experts from multiple disciplines, such as but not limited to computer science, electronic and computer engineering, information science, economics, industrial engineering, psychology, social and behavioral sciences, biological and physical sciences, and ethics, law, and policy. IEEE CogMI 2020 aims to be a premier, highly multidisciplinary forum to foster interaction and exchange of innovative ideas, and collaboration among researchers, practitioners, philosophers from academia, industry and government sectors who are interested in developing innovative AI/ML algorithms, applications and systems by integrating cognitive science and putting humans in the loop, promoting innovations in cognitive machine intelligence.  
-
-
-Topics  
-
-
-Topics of interest are broadly from the areas of machine intelligence, behavior and cognition. Please check the conference website for details.  
-
-
-Tracks  
-
-
-CogMI2020 will have the research track, industry/government track, and blue-sky/vision track. Please check the website for submission details.  
-
-
-Panels and Tutorials  
-
-
-We welcome panel, and tutorial proposals. Please check the web site for details.  
-
-
-Awards  
-
-
-IEEE CogMI will feature a Best Paper Award and a Best Student Paper Award (to be selected by the program committee/best paper award team). A paper is eligible for the Best Student Paper Award if the first author is a full-time student at the time of submission. A partial travel grant or cash award may be offered to the winner student depending on fund availability.  
-
-
-Submission Instructions  
-
-
-Regular or Industry/Gov track papers should be no longer than 10 pages, while Vision paper can be as short as 2 pages but no longer than 10 pages. All papers should be in the standard two-column IEEE proceedings format.  
-
-
-Submission Site: EasyChair for IEEE CogMI 2020  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## BigDataJ.softcompute  (2020-10-05) <span id="7322197f11"></span> <span style="color:#666;">[→top](#top)</span>
-
-deadlines.201005.BigDataJ.softcompute.txt  
-Big Data Special Issue  
-
-
-
-
-
-
-Call for Papers:  
-
-
-Special Issue on Soft Computing Models for Big Data and Internet of Things (IoT)  
-
-
-
-
-
-
-
-
-
-
-Deadline for Submission: October 5, 2020  
-
-
-
-
-
-
-Special Issue Publication date: Early 2021  
-
-
-
-
-With the ubiquitous internet connectivity and bandwidth in abundance along with reduced cost of wearables and smart devices, the impact of the Internet of Things (IoT) and technology in our lives is manifold and profound.  
-
-
-
-
-
-
-IoT devices are becoming a part of the mainstream electronics culture. Recently there have been many IoT applications such as smart homes, smart cities, smart industry, smart agriculture, smart healthcare which play a significant role in our lives. As the IoT solutions define the new paradigm for customer-oriented digital experience, they are inevitably getting more complex and dynamic.  
-
-
-
-
-
-
-Undoubtedly, the recent advancements in intelligent sensing, embedded internet, edge computing and predictive data mining permeate intelligence and decision making into the physical world which continually enhance human experience in real-time. It is essential to understand that the success of IoT relies on the effective incorporation of big data analytics. “Big Data” is the new buzzword and big data analytics provides real-time insights, which need to be actioned upon quickly to support decision, gain better value and mitigate risk. Thanks to the emerging soft computing techniques which are widely used for coping with imprecision, uncertainty, partial truth, and approximation. Correlation analyses for spatial and temporal data and construction and clustering techniques, complex neural networks are some advances which are investigated and applied by academic researchers and industry within the domain of socio-technical systems.  
-
-
-
-
-The primary scope of this special issue is to deliberate the progress and challenges of using innovative, novel, secure and smart soft computing solutions to define models as well as methods that explore aspects of dynamics in complex socio-technical systems. We invite recent works pertaining to the design and application of soft computing models to solve complex real-world problems associated to the big data and IoT. This special issue is intended to report high-quality and original research on wide range of applications from data analytics, pattern recognition, software and system modeling, to intelligent control problems and biomedical applications.  
-
-
-
-
-
-
-
-
-
-
-The list of topics for the special issue includes but not limited to the following:  
-
-
-
-
-Soft computing for IoT protocol design and optimization  
-Self-Learning and adaptive networking protocols and algorithms  
-Machine learning and soft computing-aided IoT  
-Intelligent middleware solutions IoT  
-Brain–computer interface and IoT  
-Security, privacy, integrity, and trust in IoT  
-Search and optimization of big data  
-Parallel, accelerated, and distributed big data  
-Data visualization of big data  
-Security and privacy of big data  
-Soft computing for big data  
-Multimedia big-data-driven IoT  
-Application of Big data Analytics  
-Novel algorithms, models, frameworks, platforms in big-data-driven IoT for smart solutions  
-Soft computing for Medical and Industrial IoT  
-
-
-
-
-
-
-
-
-Please direct special issue inquiries to Corresponding Guest Editor, Dr. Akshi Kumar  
-
-
-
-
-
-
-Please submit your papers online to our web-based manuscript submission and peer-review at: www.liebertpub.com/manuscript/big  
-
-
-
-
-
-
-Big Data is a highly innovative, peer-reviewed journal, provides a unique forum for world-class research exploring the challenges and opportunities in collecting, analyzing, and disseminating vast amounts of data, including data science, big data infrastructure and analytics, and pervasive computing.  
-
-
-
-
-
-
-Deadline for manuscript submission: October 5, 2020  
-
-
-
-
-
-
-Advantages of publishing in Big Data include:  
-
-
-l Fast and user-friendly electronic submission  
-
-
-l Rapid, high-quality peer review  
-
-
-l Maximum exposure: accessible in 170 countries worldwide  
-
-
-l Open Access options available  
-
-
-
-
-
-
-Guest Editors:  
-
-
-Dr. Naveen Chilamkurti  
-
-
-Department of Computer Science and Computer Engineering,  
-
-
-La Trobe University  
-Melbourne, VIC, Australia  
-
-
-
-
-
-
-Dr. Anand Paul  
-
-
-The School of Computer Science and Engineering,  
-
-
-Kyungpook National University  
-Daegu, South Korea  
-
-
-
-
-
-
-Dr. Akshi Kumar (Corresponding Guest Editor)  
-
-
-Department of Computer Science and Engineering  
-
-
-Delhi Technological University  
-New Delhi, India  
-
-
-Email:  
-
-
-
-
-
-
-
-
-
-
-Warm wishes,  
-
-
-Naveen  
-
-
-
-
-
-
-Dr. Naveen Chilamkurti SMIEEE  
-
-
-Associate Professor and Head of Cybersecurity Discipline  
-
-
-Computer Science and IT  
-
-
-La Trobe University, Melbourne, Australia  
-
-
-Google Scholar website [https://scholar.google.com.au/citations?user=KWi1vtkAAAAJ&hl=en](https://scholar.google.com.au/citations?user=KWi1vtkAAAAJ&hl=en)  
- <span style="color:#666;">[→top](#top)</span>
 
 
 ## EAI  (2020-10-05) <span id="aedf9af28a"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1909,7 +1637,7 @@ guest-editors at tsas.ct@gmail.com.
  <span style="color:#666;">[→top](#top)</span>
 
 
-## âEAI.Covid19.and.cloud(+J)  (2020-10-30) <span id="a996c6e76f"></span> <span style="color:#666;">[→top](#top)</span>
+## ★EAI.Covid19.and.cloud(+J)  (2020-10-30) <span id="197c84667a"></span> <span style="color:#666;">[→top](#top)</span>
 
 Call for Papers  
 

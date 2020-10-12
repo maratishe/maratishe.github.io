@@ -1,0 +1,10 @@
+no : 42
+id : D120091624 [NEW]
+update : 2020年09月30日
+univ : 公立小松大学・データマイニング・機械学習・データ科学関連分野
+title : 助教または准教授の公募（データマイニング、機械学習、データ科学関連分野）
+field : 情報学 - 情報学基礎
+post : 助教相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091624&ln_jor=0&top_btn=1 ----------

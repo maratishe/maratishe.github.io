@@ -1,0 +1,10 @@
+no : 8
+id : D120090768 [UPDATE]
+update : 2020年09月24日
+univ : 石川県工業試験場・電気職
+title : 石川県工業試験場研究職員採用候補者募集（電気職）
+field : 工学 - 電気電子工学 情報学 - 全て
+post : 研究開発・技術者相当 研究員・ポスドク相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月16日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090768&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,10 @@
+no : 11
+id : D120091653 [UPDATE]
+update : 2020年10月01日
+univ : 成城大学・経営統計学
+title : 成城大学経済学部　専任教員(准教授または専任講師)の公募(経営統計学）
+field : 社会科学 - 全て 数物系科学 - 全て 複合領域 - データサイエンス
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年10月29日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091653&ln_jor=0&top_btn=1 ----------

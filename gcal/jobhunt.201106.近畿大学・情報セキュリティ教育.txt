@@ -1,0 +1,10 @@
+no : 28
+id : D120100134 [NEW]
+update : 2020年10月07日
+univ : 近畿大学・情報セキュリティ教育
+title : 【再公募】講師または助教の公募（情報セキュリティ教育，ネットワークセキュリティ）
+field : 情報学 - 計算基盤 情報学 - 情報学フロンティア
+post : 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月06日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120100134&ln_jor=0&top_btn=1 ----------

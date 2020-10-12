@@ -1,0 +1,10 @@
+no : 41
+id : D120091772 [NEW]
+update : 2020年10月02日
+univ : 岡山理科大学・計算機工学・コンピュータシステム分野
+title : 岡山理科大学 教授，准教授または講師 公募（計算機工学，コンピュータシステム分野）
+field : 情報学 - 全て 工学 - 電気電子工学
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月20日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091772&ln_jor=0&top_btn=1 ----------
