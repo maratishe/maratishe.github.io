@@ -1,0 +1,156 @@
+IFIP/IEEE International Symposium on Integrated Network Management (IM 2021)
+17-21 May , 2021, Bordeaux, France
+
+http://im2021.ieee-im.org
+Direct link for submissions: https://submissoes.sbc.org.br/home.cgi?c=3614
+
+============================== Important dates =================================
+Technical paper submission deadline (short and long papers): October 18, 2020 (Firm)
+Notification of Acceptance: December 10, 2020
+
+===============================  Overview ======================================
+Call for Papers
+
+The 17th IFIP/IEEE Symposium on Integrated Network and Service Management (IM
+2021) will be held on May 17-21, 2021, in Bordeaux, France. Held in odd-numbered
+years since 1989, IM 2021 follows the 33 years tradition of NOMS and IM as the
+primary IEEE Communications Societyís forum for technical exchange on management
+of information and communication technology focusing on research, development,
+integration, standards, service provisioning, and user communities. IM 2021 will
+focus on the theme of "Intelligent Management of Open and Highly Programmable
+Networks".
+
+It aims to capture recent results, emerging approaches and technical
+solutions for dealing with resilience and sustainability of network and service
+management in highly dynamic environments. Furthermore, the sudden and important
+uptake of work-from-home and the promise of the post-digital era are rising new
+challenges and exacerbating the dynamic nature of the communication
+infrastructure, pushing additional requirements on networks in terms of quality,
+resilience and sustainability. This is also accelerating the adoption of
+Artificial Intelligence advances along with the openness and programmability of
+network infrastructures, to make these more flexible and adaptive. In addition
+to this theme, IM 2021 will cover a wide range of topics of interest within the
+field in integrated network and service management.
+
+IM 2021 will offer five types of sessions: technical, experience, poster, panel
+and dissertation. High quality will be assured through a well-qualified
+Technical Program Committee and stringent peer review of paper submissions. A
+special call for demonstrations is organized to allow industry partners and
+researchers to demonstrate early products and prototypes.
+
+
+========================= Submission Instructions ==============================
+
+Authors are invited to submit original contributions written in English
+that have not been  published or submitted for publication elsewhere.
+Technical papers must be  formatted using the IEEE 2-column format and
+not exceed 8 pages (excluding references) for full paper submissions or
+not exceed 4 pages (excluding references) for poster/short paper
+submissions. All papers should be submitted through the JEMS conference
+submission system.
+
+All submitted papers will be peer-reviewed. Accepted and presented
+papers will be published in the conference proceedings and submitted
+to IEEE Xplore.
+
+
+
+============================== Topics of interest ==============================
+Authors are invited to submit papers that fall into or are related to the topic
+areas that are listed below. In addition, we invite submissions of proposals for
+demonstrations, exhibits, technical panels, tutorials and workshops, as well as
+experience session papers and dissertation papers
+
+Management and Control of Networks
+----------------------------------
+*	Enterprise and Campus Networks
+* 	Data Center Networks
+* 	Industrial Networks and TSN
+* 	Cyber Physical Systems
+* 	IP Networks
+* 	5G/6G,
+* 	Wireless & Mobile Networks, including optical, overlay, access, SCADA, IoT, VANET, etc.
+
+
+Programmable Networks and Automation
+----------------------------------
+*	Software-Defined Networking
+*	Network Virtualization
+*	Network (Data, Control, Management planes) Programmability
+*	Network Slicing
+*	Management & Orchestration
+*	Network Functions Virtualization/Service Function Chaining
+*	Cloud Native Networking, DevOps, Network Automation, Zero-Configuration Networking
+*	Network Telemetry
+
+
+
+Management and Control of Communication Services
+----------------------------------
+*	Information Technology Services
+*	Virtual Networking Services
+*	XaaS and Cloud Services
+*	Multimedia Services
+*	Content Delivery Services
+*	Social Networking Services
+*	Security Services
+*	IoT Services
+*	Network Resilience and High-Precision Networks
+
+
+Management Algorithms and Architectures
+----------------------------------
+*	Centralized Management
+*	Distributed Management
+*	Autonomic Networks and Self-Management
+*	Management Protocols
+*	Fog and Mobile Edge Computing
+*	Lambda Functions and Elastic Management
+*	Data Analytics for Management
+*	Policy-Based Management
+*	Intent-Based Management
+*	Network Optimization
+
+
+Management Functions and Practical Approaches
+----------------------------------
+*	FCAPS: Fault, Configuration, Accounting, Performance and Security
+*	Case Studies and Practical Experiences
+*	Business-Driven Management Services
+*	Measurement and Validation
+*	SLA Management, QoS and QoE
+*	Energy Management
+*	Deployment of Services
+*	Operations Support Systems
+
+
+Artificial Intelligence Techniques for Network and Service Management
+----------------------------------
+*	Management with AI
+*	Markov Chains and Management
+*	Machine Learning and Deep Learning
+*	Management with Big Data
+*	Mobile Agents
+
+
+Management Efforts for Pandemics and Crisis Situations (COVID-19)
+----------------------------------
+*	Contact and Activity Tracing
+*	Network/Service Management Support
+*	Network Measurements
+*	Network Adaptation
+*	Case Studies and Practical Experiences
+
+
+================================= Organization =================================
+General Co-chairs
+Toufik Ahmed, Bordeaux INP, France
+Olivier Festor, University of Lorraine, France
+
+TPC Co-chairs
+Yacine Ghamri-Doudane, University of La Rochelle, France
+Alberto E. Schaeffer-Filho, UFRGS, Brazil
+Joon-Myung Kang, Google, USA
+
+
+

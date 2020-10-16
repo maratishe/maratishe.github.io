@@ -1,3 +1,48 @@
+We are now accepting tutorial proposals and technical paper submissions through 30 October 2020 for our flagship conference, IEEE ICC 2021. Please read below for an overview. For general information on the conference visit icc2021.ieee-icc.org.
+
+
+SYMPOSIUM PAPER SUBMISSIONS
+
+Original technical papers are sought in the following areas:
+
+Selected Areas in Communications
+Big Data (CFP)
+Cloud Computing, Networking, and Storage (CFP)
+e-Health (CFP)
+Full-Duplex Communications (CFP)
+Machine Learning for Communications (CFP)
+Molecular, Biological, and Multi-Scale Communication (CFP)
+Quantum Communications & Computing (CFP)
+Satellite and Space Communications (CFP)
+Social Networks (CFP)
+Smart Grid Communications (CFP)
+Cognitive Radio and AI-Enabled Networks Symposium (CFP)
+Communication & Information Systems Security Symposium (CFP)
+Communication Qos, Reliability, & Modeling Symposium (CFP)
+Communication Software and Multimedia Symposium (CFP)
+Communication Theory Symposium (CFP)
+Green Communication Systems and Networks Symposium (CFP)
+IoT & Sensor Networks Symposium (CFP)
+Mobile and Wireless Networks Symposium (CFP)
+Next-Generation Networking and Internet Symposium (CFP)
+Optical Networks and Systems Symposium (CFP)
+Signal Processing for Communications Symposium (CFP)
+Wireless Communications Symposium (CFP)
+How to Submit a Paper:
+All papers for technical symposia (including Selected Areas in Communications) should be submitted via EDAS.
+
+Important Dates:
+Paper Submission: 30 October 2020 [ EXTENDED DEADLINE]
+Acceptance Notification: 25 January 2021
+Camera Ready and Registration: 22 February 2021
+
+
+
+
+
+
+
+
 [We apology for possible cross posting, and thank you in advance for
 distributing this CFP ]
 Next-Generation Networking and Internet Symposium, IEEE ICC 2021

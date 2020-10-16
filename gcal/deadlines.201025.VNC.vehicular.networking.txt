@@ -1,0 +1,42 @@
+
+Demo/Poster paper Submission Deadline:
+October 25, 2020, 23:59 AOE (Anywhere on Earth, UTC-12)
+https://ieee-vnc.org
+
+Acceptance notification: November 13, 2020
+Camera-ready paper due: November 27, 2020
+Presentation videos due: December 4, 2020
+Conference: December 16-18, 2020
+
+*************************************************************************
+IEEE VNC 2020 - CALL FOR DEMO/POSTER PAPERS
+https://ieee-vnc.org
+*************************************************************************
+The 2020 IEEE Vehicular Networking Conference (VNC 2020)
+December 16–18, 2020 | Virtual Conference
+
+Posters are especially suited for presenting controversial research directions
+that may generate discussion, or promising ideas not yet fully validated
+through complete extensive evaluation.
+
+Demonstration (demo) papers are suited for researchers to showcase their latest
+prototypes with media, models, or live demonstrations. The demo session will be
+co-located with the poster session to ensure maximum visibility and a close
+interaction with the conference audience.
+
+Poster/demo papers should be 2-page papers following standard IEEE 2-column
+format using 10-point font. All paper submissions must be written in English.
+The title of the paper should begin with either "Poster:" or "Demo:”.
+
+************
+Conference Chairs
+************
+Frank Kargl, Ulm University, Germany, General Co-chair
+Onur Altintas, Toyota Motor North America R&D, USA, General Co-chair
+Ana Aguiar, University of Porto, Portugal, TPC Co-chair
+André Weimerkirch, Lear Corporation, USA, TPC Co-chair
+
+
+
+
+

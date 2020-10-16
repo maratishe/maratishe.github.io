@@ -1,44 +1,47 @@
-201004 IEEE.CogMI
-201004 IFIP/IEEE.IM
-201005 BigDataJ.softcompute
-201005 EAI.SmartCity(~J,+springer)
-201008 ICIN.clouds.paris(online)
-201010 conf.IEEE.MSN(tokyo).mobility.sensing.networking
-201012 IEEE.ICC.netgennets
-201012 IEEE.ICC.SQRM.qosqoemodeling
-201015 SoCPaR(springer)(online)
-201015 journal.TNSM.cybersecurity.sec.manage.nets.services
-201015 EAI.vnets(springerlink)
-201015 (J)Sensors.cooperativePerceptionVehicles
-201016 IEEE.CCNC.RoboCom.swarms
+2011xx (J)Sensors
+2012xx (J)MDPI Edge AI
+201018 IM
 201019 EAI.MTYMEX.SmartTech(springer)
+201019 IoTDI IoT design and implement
 201023 PAM
+201025 VNC vehicular networking
 201028 DASFAA.databases(springer)
-201030 ★EAI.Covid19.and.cloud(+J)
+201030 IEEE.ICC.SQRM.qosqoemodeling
+201030 journal.TNSM.cybersecurity.sec.manage.nets.services
+201030 IEEE.ICC.netgennets
+201030 EAI.Covid19.and.cloud(+J)
 201030 (J)ACMTrans.ContactTracing
-201031 journal.Biosensors(JCR).machine.learning
-201031 springerj・cybersecAI
+201031 springerj・cybersecAI
 201031 WileyJ.software.innovations
+201031 journal.Biosensors(JCR).machine.learning
 201101 (J)IEEETrans.designManageReliableCommNets
-201101 mdpij.wirelessprotocols
 201101 CloudConf.SmartCom(virtual)
-201106 conf.VNC.vehicular.networking
+201101 mdpij.wirelessprotocols
+201101 SmartComp and Comm
+201103 (J)GridComp cloud federations
 201115 (J)IEEE.VTechMag.earial.mobility
 201120 mdpi.5g
+201130 (J)MDPI Green Sensors
 201130 (J)TailorFrancis.SmartCities
 201200 journal.mdpi.blockchain.for.5g.and.IoT.(opencall)
 201201 IETj.smartcities
-201208 IEEE/ACM CCGrid
 201210 MDPI.geotech.spatiotemporal
+201214 NetSoft
+201215 INFOCOM
+201215 PerCom (pervasive) demos
 201231 (J)MDPI.WirelessSensors.ITS
+201231 (J)MDPI Sensing and IoT
 201231 MDPI.drone.swarms
-201231 (J)mdpi.Sensing.and.IoT
 201231 (J)MDPI.Drones.swarms
 210101 (J)ComMag.Network4Covid
 210105 IFIP.Networking(~J)
 210110 jour.ICTexpress.edge
-210115 J.Elsevier.compintelligence
+210115 IFIP Networking
+210115 (J)ASOC CompIntel (transformative)
 210115 journal.ISF.AI.for.covid
+210115 J.Elsevier.compintelligence
 210131 MDPI.sustain
+210221 (J)MDPI Telecom Journal
 210228 jour.mdpi.vehicularfleets
 210315 KSEM.knowledge
+210331 (J)IEEE Sensors indoor positioning

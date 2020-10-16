@@ -1,0 +1,89 @@
+
+Call for Contributions
+-------------------------------------------------------------------------------------
+IoTDI 2021
+The 6th ACM/IEEE Conference on Internet of Things
+Design and Implementation
+
+IoTDI is part of the CPS-IoT Week
+
+Nashville, Tennessee, USA
+May 18-21, 2021
+Web: https://conferences.computer.org/iotDI/2021
+Twitter: https://twitter.com/IoT_DI
+-------------------------------------------------------------------------------------
+
+IMPORTANT DATES
+
+Abstract submission deadline:                Oct 19, 2020 (AoE)
+Paper submission deadline:                    Oct 26, 2020 (AoE)
+Author notification:                                Jan 19, 2021 (AoE)
+Camera-ready submission deadline:      Mar 7, 2021 (AoE)
+
+-------------------------------------------------------------------------------------
+
+Important: The COVID-19 situation is being closely monitored. The conference
+may either run as an in-person event in Nashville or as a virtual event.
+
+-------------------------------------------------------------------------------------
+
+SCOPE AND TOPICS
+
+The organizers of IoTDI 2021 are pleased to announce the organization of
+IoTDI 2021, and are soliciting high-quality papers for the conference.
+The ACM/IEEE International Conference on Internet of Things Design and
+Implementation (IoTDI) is a premier venue on IoT. In 2021, IoTDI will
+be held for the sixth time, and will be part of CPS-IoT WEEK 2021 being
+organized in Nashville, Tennessee, USA.
+
+A confluence of technological advances marks the advent of a new era.
+World data volume is growing at an unprecedented pace, much of it from
+embedded devices. Smart cities are expected to grow, fed by millions of
+data points from multitudes of human and physical sources. Cyber-attacks
+grow more nefarious, bringing down physical systems. Social networks are
+becoming ubiquitous, offering information on physical things. The separation
+between cyber, physical, and social systems is blurring. Collectively, these
+developments lead to the emergence of a new field, where the networking and
+physical realms meet. It is the field of the Internet of Things (IoT). This
+conference is an interdisciplinary forum to discuss challenges, technologies,
+and emerging directions in system design and implementation that pertain to
+IoT. This conference invites researchers and practitioners from academia,
+industry and government, and accepts original, previously unpublished work
+on a range of topics related to IoT.
+
+Topics of interest include, but are not limited to:
+
+* Analytic foundations and theory of IoT
+* Reliability, security, timeliness, and robustness in IoT systems
+* Novel protocols and network abstractions
+* Data streaming architectures and machine learning analytics for IoT
+* IoT-motivated cyber-physical and Industrial IoT (IIoT) systems
+* Novel quality requirements and their enforcement mechanisms
+* Cloud back-ends and resource management for IoT applications
+* Edge and fog computing
+* Personal, wearable, and other embedded networked front-ends
+* Social computing and human-in-the-loop issues
+* Applications domains (e.g., smart cities, smart health, smart buildings,
+smart transportation)
+* Deployment experiences, case studies & lessons learned
+* Evaluation and testbeds
+* AI/ML for IoT & Embedded Systems
+* Energy/Power Management & Harvesting for IoT Platforms
+
+Accepted papers of particular merit will be invited to submit an extended
+version to the IEEE IoT Journal (IoT-J). For papers reporting results based
+on experiments with human subjects, appropriate ethics approvals should be
+demonstrated as part of the submission.
+
+-------------------------------------------------------------------------------------
+
+CPS-IoT WEEK 2021
+
+CPS-IoT Week (https://sigbed.org/cps-iot2020-2/) is the premier event on
+Cyber-Physical Systems. This year it brings together four conferences, HSCC,
+ICCPS, IPSN and RTAS, three guest conferences, IC2E, ICFC and IoTDI, multiple
+workshops, tutorials, competitions and various exhibitions from both industry
+and academia.
+
+
+

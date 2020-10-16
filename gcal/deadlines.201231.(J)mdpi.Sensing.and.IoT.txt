@@ -1,3 +1,4 @@
+
 CALL FOR PAPERS for Special Issue of MDPI Sensors on
 
 “Recent Advances in Sensing and IoT Technologies”
@@ -86,7 +87,5 @@ Francs). Submitted papers should be well formatted and use good English.
 Authors may use MDPI's English editing service
 (https://www.mdpi.com/authors/english) prior to publication or during
 author revisions.
-
-
 
 

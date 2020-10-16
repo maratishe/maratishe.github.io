@@ -1,0 +1,98 @@
+Call for Papers
+IEEE NetSoft 2021
+
+The 7th IEEE International Conference on Network Softwarization
+“Accelerating Network Softwarization in the Cognitive Age"
+
+June 28 - July 2, 2021, Tokyo, Japan
+
+http://ieee-netsoft.org
+********************************************************************************
+
+***Important Dates*** Paper submission deadline: ***December 14, 2020***
+Acceptance notification: March 8, 2021 Camera-ready paper: April 11, 2021
+
+
+***Scope*** Over the years, software has become  the core value provider
+in the telecommuni-
+cations industry. Boosted by scientific breakthroughs, continuous
+innovation and stringent  requirements  for new services,  network
+softwarization  is currently transforming telecommunications  and
+networking industry and is bringing several opportunities, while raising
+new challenges from both conceptual and operational perspectives.  To
+move ahead,  cognitive network softwarization,  NetSoft 2021 will serve
+as a forum to discuss the latest advances in network softwarization
+technologies, AI-
+based software-defined networks, autonomic networking,
+intent/policy-based net-
+work management,  network slicing,  and other  related research  areas
+that are anticipated to radically transform today’s networks. The need
+for  further advances in these topics is reflected in the overall theme
+of NetSoft 2021: “Accelerating Network Softwarization in the Cognitive Age”.
+
+NetSoft 2021 will  feature technical paper  presentations, keynotes,
+tutorials, workshops, demos and exhibitions from world-leading experts
+representing service providers, vendors, research institutes, open
+source projects, and academia.
+
+
+***Topics of Interest*** The topics of interest include, but are not
+limited to: - Programmable SDN and NFV: languages and architectures -
+Softwarized cloud, fog, and edge infrastructures - Cognitive and
+autonomic networking - AI techniques to support network automation - Big
+data analytics for managing softwarized networks - Network slicing and
+slice management - Mobility management in softwarized networks -
+Policy-based and intent-based Networking - Centralized vs distributed
+control, management & orchestration - Abstractions and virtualization of
+resources, services and functions - Service Function Chaining -
+Container/microservice-based network functions - Efficient
+network/service monitoring in SDN/NFV - QoS and QoE in softwarized
+infrastructures - Resilience, reliability, and robustness of softwarized
+networks - Network softwarization for 5G - Network management at the
+edge for low-latency services - Cooperative multi-domain, multi-tenant
+SDN/NFV environments - Security, Safety, Trust and Privacy in
+virtualized environments - SDN switch/router architecture and design -
+Dynamic resource discovery and negotiation schemes - Lifecycle
+management of network software - DevOps methodologies for network
+softwarization - Debugging and introspection of software-defined systems
+- Softwarized platforms for Internet of Things (IoT) - Energy-efficient
+and green software-defined infrastructures (SDI) - Transition strategies
+from existing networks to SDN/NFV - New value chains and service models
+enabled by softwarization - Socio-economic impact and regulations for
+softwarization - Experience reports from experimental testbeds and
+deployments
+
+***Paper Submission*** Prospective authors are invited to submit
+high-quality original technical papers for presentation  at the
+conference and  publication  in the Proceedings  of the conference.  All
+submissions  must be  written in English  and must use standard IEEE
+two-column conference template that can be downloaded from
+https://www.ieee.org/conferences/publishing/templates.html
+Technical Papers can be of two types: Full papers or Short papers, up to
+9 pages and 5 pages respectively, including tables, figures and
+references.  Full papers accepted as short papers will be required to be
+reduced to 5-pages length.
+Papers submitted should describe original, and not previously published
+research results, not currently  under review by  another conference or
+journal. All sub-
+mitted papers will be peer-reviewed.
+
+Only PDF files will be accepted for the review process, and all
+manuscripts must be electronically submitted through EDAS:
+https://edas.info/N27856
+
+***Important*** NetSoft 2021 is enforcing  a strict publication and
+no-show policy, as stated by IEEE. By submitting a contribution,  you
+agree with the terms of the publication and no-show policy as mentioned
+here:
+https://netsoft2021.ieee-netsoft.org/authors/publication-and-no-show-policy/
+
+***More details about submissions are available at:
+https://netsoft2021.ieee-netsoft.org/authors/
+
+***TPC Co-Chairs*** Christian Esteve Rothenberg - University of
+Campinas, Brazil Barbara Martini - CNIT, Italy Eiji Oki - Kyoto
+University, Japan
+***General Co-Chairs*** Kohei Shiomoto - Tokyo City University, Japan
+Young-Tak Kim - Yeungnam University, Korea
+

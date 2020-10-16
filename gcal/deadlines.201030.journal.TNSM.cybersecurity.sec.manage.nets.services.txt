@@ -1,9 +1,10 @@
+CALL FOR PAPERS
 IEEE TNSM SPECIAL ISSUE ON LATEST DEVELOPMENTS FOR SECURITY MANAGEMENT OF NETWORKS AND SERVICES
 https://www.comsoc.org/publications/journals/ieee-tnsm/cfp
 
 -----------------------------------
 
-Submission Deadline: October 15, 2020
+Submission Deadline: October 30, 2020 (extended)
 
 Dear Colleagues:
 
@@ -79,7 +80,7 @@ Authors must indicate in the submission cover letter that their manuscript is in
 IMPORTANT DATES
 ------------------------
 
-Paper submission date: October 15, 2020
+Paper submission date: October 30, 2020 (extended)
 Notification of acceptance: February 15, 2021
 Publication date*: June 1st, 2021
 
@@ -91,8 +92,3 @@ Rémi Badonnel, Telecom Nancy – LORIA / INRIA, France
 Carol Fung, Virginia Commonwealth University, United States
 Sandra Scott-Hayward, Queen's University Belfast, United Kingdom
 Qi Li, Tsinghua University, China
-
-
-
-
-
