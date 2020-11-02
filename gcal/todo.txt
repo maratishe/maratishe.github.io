@@ -14,7 +14,6 @@
 2020-11-02 IEEE.ICC.SQRM.qosqoemodeling #deadlines due:2020-10-30
 2020-11-02 IEEE.ICC.netgennets #deadlines due:2020-10-30
 2020-11-02 journal.TNSM.cybersecurity.sec.manage.nets.services #deadlines due:2020-10-30
-2020-11-02 公立小松大学・データマイニング・機械学習・データ科学関連分野 #jobhunt due:2020-10-30
 2020-11-02 WileyJ.software.innovations #deadlines due:2020-10-31
 2020-11-02 journal.Biosensors(JCR).machine.learning #deadlines due:2020-10-31
 2020-11-02 springerj・cybersecAI #deadlines due:2020-10-31

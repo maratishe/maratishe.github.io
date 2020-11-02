@@ -101,9 +101,9 @@ this file is generated automatically, do not make manual changes to it!
 2020-10-19 [<strong>玉川大学・ソフトウェアサイエンス学科</strong>](#8113a194d3)  
 2020-10-23 [<strike>東京工業大学・情報通信における応用AI分野</strike>](#b65480a1f4)  
 2020-10-29 [<strike>成城大学・経営統計学✘bad format</strike>](#e7b05c7bef)  
+2020-10-30 [<strong>公立小松大学・データマイニング・機械学習・データ科学関連分野</strong>](#67c9a28b29)  
 2020-10-30 [<strong>福岡工業大</strong>](#97dae4a97f)  
 2020-10-30 [<strike>茨城キリスト教大学・経営情報分野</strike>](#b6c208181a)  
-2020-10-30 [公立小松大学・データマイニング・機械学習・データ科学関連分野](#e79f70ac02)  
 2020-10-30 [<strike>香川大学・機械システム</strike>](#ae570f6519)  
 2020-10-30 [<strike>高知大学・情報工学</strike>](#a3043ef36a)  
 2020-10-30 [<strike>足利大学・情報工学、情報科学センター</strike>](#734f79170d)  
@@ -348,24 +348,11 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120081431&ln_jor=0&t
 
 ## <strike>成城大学・経営統計学✘bad format</strike>  (2020-10-29) <span id="e7b05c7bef"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strong>公立小松大学・データマイニング・機械学習・データ科学関連分野</strong>  (2020-10-30) <span id="67c9a28b29"></span> <span style="color:#666;">[→top](#top)</span>
+
 ## <strong>福岡工業大</strong>  (2020-10-30) <span id="97dae4a97f"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>茨城キリスト教大学・経営情報分野</strike>  (2020-10-30) <span id="b6c208181a"></span> <span style="color:#666;">[→top](#top)</span>
-
-## 公立小松大学・データマイニング・機械学習・データ科学関連分野  (2020-10-30) <span id="e79f70ac02"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 42  
-id : D120091624 [NEW]  
-update : 2020年09月30日  
-univ : 公立小松大学・データマイニング・機械学習・データ科学関連分野  
-title : 助教または准教授の公募（データマイニング、機械学習、データ科学関連分野）  
-field : 情報学 - 情報学基礎  
-post : 助教相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年10月30日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091624&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091624&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
 
 ## <strike>香川大学・機械システム</strike>  (2020-10-30) <span id="ae570f6519"></span> <span style="color:#666;">[→top](#top)</span>
 
