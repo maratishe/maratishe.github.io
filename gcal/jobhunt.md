@@ -100,16 +100,16 @@ this file is generated automatically, do not make manual changes to it!
 2020-10-16 [<strong>千葉経済大学・情報学分野</strong>](#7c404d1fa8)  
 2020-10-19 [<strong>玉川大学・ソフトウェアサイエンス学科</strong>](#8113a194d3)  
 2020-10-23 [<strike>東京工業大学・情報通信における応用AI分野</strike>](#b65480a1f4)  
-2020-10-29 [成城大学・経営統計学](#95ddb3ead5)  
+2020-10-29 [<strike>成城大学・経営統計学✘bad format</strike>](#e7b05c7bef)  
+2020-10-30 [<strong>福岡工業大</strong>](#97dae4a97f)  
 2020-10-30 [<strike>茨城キリスト教大学・経営情報分野</strike>](#b6c208181a)  
 2020-10-30 [公立小松大学・データマイニング・機械学習・データ科学関連分野](#e79f70ac02)  
 2020-10-30 [<strike>香川大学・機械システム</strike>](#ae570f6519)  
 2020-10-30 [<strike>高知大学・情報工学</strike>](#a3043ef36a)  
 2020-10-30 [<strike>足利大学・情報工学、情報科学センター</strike>](#734f79170d)  
 2020-10-30 [<strike>足利大学・人工知能</strike>](#cb68f1ada0)  
-2020-10-30 [福岡工業大](#b9af474c3b)  
-2020-11-04 [お茶の水女子大学・人間工学（ロボット工学、生体工学）](#5891e45cc5)  
-2020-11-04 [久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械](#f455ef9cd4)  
+2020-11-04 [<strong>お茶の水女子大学・人間工学（ロボット工学、生体工学）</strong>](#4ef9e4ed80)  
+2020-11-04 [<strike>久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械</strike>](#b2a52dfb72)  
 2020-11-05 [名古屋市立大学・情報環境デザイン領域](#0d6435b414)  
 2020-11-06 [近畿大学・情報セキュリティ教育](#77ccc75f17)  
 2020-11-10 [情報システム工学科](#56ddb64634)  
@@ -346,20 +346,9 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120081431&ln_jor=0&t
 
 ## <strike>東京工業大学・情報通信における応用AI分野</strike>  (2020-10-23) <span id="b65480a1f4"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 成城大学・経営統計学  (2020-10-29) <span id="95ddb3ead5"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>成城大学・経営統計学✘bad format</strike>  (2020-10-29) <span id="e7b05c7bef"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 11  
-id : D120091653 [UPDATE]  
-update : 2020年10月01日  
-univ : 成城大学・経営統計学  
-title : 成城大学経済学部　専任教員(准教授または専任講師)の公募(経営統計学）  
-field : 社会科学 - 全て 数物系科学 - 全て 複合領域 - データサイエンス  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年10月29日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091653&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091653&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strong>福岡工業大</strong>  (2020-10-30) <span id="97dae4a97f"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>茨城キリスト教大学・経営情報分野</strike>  (2020-10-30) <span id="b6c208181a"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -386,74 +375,9 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091624&ln_jor=0&t
 
 ## <strike>足利大学・人工知能</strike>  (2020-10-30) <span id="cb68f1ada0"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 福岡工業大  (2020-10-30) <span id="b9af474c3b"></span> <span style="color:#666;">[→top](#top)</span>
+## <strong>お茶の水女子大学・人間工学（ロボット工学、生体工学）</strong>  (2020-11-04) <span id="4ef9e4ed80"></span> <span style="color:#666;">[→top](#top)</span>
 
-No. ：9  
-データ番号 ：D120050908 [NEW]  
-更新日 ：2020年05月29日  
-機関名 ：福岡工業大学  
-タイトル ：福岡工業大学　教員公募【情報工学（人工知能）または関連分野】  
-研究分野 ：情報学 - 人間情報学  
-総合理工 - 計算科学  
-工学 - 電気電子工学  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年10月30日  
-
-
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050908&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050908&ln_jor=0&top_btn=1)  
-
-
-
-
-No. ：10  
-データ番号 ：D120050911 [NEW]  
-更新日 ：2020年05月29日  
-機関名 ：福岡工業大学  
-タイトル ：福岡工業大学　教員公募【情報工学（コンピュータ工学）または関連分野】  
-研究分野 ：情報学 - 計算基盤  
-工学 - 電気電子工学  
-総合理工 - 全て  
-職種 ： 教授相当  
-准教授・常勤専任講師相当  
-助教相当  
-勤務形態 ： 常勤 (任期なし)  
-募集終了日 ：2020年10月30日  
-ＵＲＬ ： [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050911&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120050911&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## お茶の水女子大学・人間工学（ロボット工学、生体工学）  (2020-11-04) <span id="5891e45cc5"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 36  
-id : D120091137 [UPDATE]  
-update : 2020年09月18日  
-univ : お茶の水女子大学・人間工学（ロボット工学、生体工学）  
-title : 教授又は准教授の公募（人間工学分野）  
-field : 工学 - 人間工学（ロボット工学、生体工学）  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年11月04日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091137&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091137&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械  (2020-11-04) <span id="f455ef9cd4"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 40  
-id : D120090870 [NEW]  
-update : 2020年09月16日  
-univ : 久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械  
-title : 教授，准教授もしくは講師の公募（IoT・AIロボティクス・メカトロニクス・知能機械）分野  
-field : 工学 - 機械工学  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年11月04日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090870&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090870&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械</strike>  (2020-11-04) <span id="b2a52dfb72"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 名古屋市立大学・情報環境デザイン領域  (2020-11-05) <span id="0d6435b414"></span> <span style="color:#666;">[→top](#top)</span>
 
