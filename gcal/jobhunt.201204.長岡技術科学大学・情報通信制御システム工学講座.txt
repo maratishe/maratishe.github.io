@@ -1,0 +1,10 @@
+no : 36
+id : D120101086 [NEW]                              
+update : 2020年10月20日
+univ : 長岡技術科学大学・情報通信制御システム工学講座
+title : 電気電子情報工学専攻　（情報通信制御システム工学講座）教授公募
+field : 工学 - 電気電子工学 総合理工 - 計算科学 情報学 - 情報学基礎
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年12月04日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101086&ln_jor=0&top_btn=1 ----------

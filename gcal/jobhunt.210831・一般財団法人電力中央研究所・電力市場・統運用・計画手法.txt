@@ -1,0 +1,9 @@
+id : D119081467 [UPDATE]
+update : 2020年10月13日
+univ : 一般財団法人電力中央研究所・電力市場における新しい系統運用・計画手法の提案
+title : 研究員募集（自由化された電力市場における新しい系統運用・計画手法の提案）
+field : 社会科学 - 経営学、技術経営学、イノベーション理論、技術経済学、政策科学
+post : 研究員・ポスドク相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D119081467&ln_jor=0&top_btn=1 ----------

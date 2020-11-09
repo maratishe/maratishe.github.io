@@ -1,0 +1,10 @@
+no : 21
+id : D120101465 [UPDATE]
+update : 2020年10月23日
+univ : 広島大学・情報メディア教育研究センター
+title : 情報メディア教育研究センター　教授又は准教授の公募
+field : 情報学 - 計算基盤
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月24日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101465&ln_jor=0&top_btn=1 ----------

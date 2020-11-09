@@ -1,0 +1,10 @@
+no : 20
+id : D120101517 [NEW]
+update : 2020年10月24日
+univ : 国立研究開発法人理化学研究所
+title : 研究員もしくは上級研究員（無期雇用職）募集（20K69）（データ同化研究チーム）
+field : 情報学 - 計算基盤 数物系科学 - 地球惑星科学 総合理工 - 計算科学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年12月08日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101517&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,10 @@
+no : 53
+id : D120101256 [NEW]
+update : 2020年10月21日
+univ : 名古屋商科大学・情報
+title : 専任教員の公募（情報）
+field : 情報学 - 全て 社会科学 - 全て
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101256&ln_jor=0&top_btn=1 ----------

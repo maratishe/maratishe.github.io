@@ -60,7 +60,7 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 			if ( $block) lpush( $blocks, $block);
 		}
 		$H = array(); $stats = array(); $A = array(); // { tag: { key: count, ...}, ...}
-		if ( is_file( $reject)) $reject = file( $reject); else $result = null; if ( $reject) foreach ( $reject as $i => $v) $reject[ $i] = trim( $v); if ( $reject) $reject = hvak( $reject); 
+		if ( is_file( $reject)) $reject = file( $reject); else $reject = null; if ( $reject) foreach ( $reject as $i => $v) $reject[ $i] = trim( $v); if ( $reject) $reject = hvak( $reject); 
 		foreach ( $blocks as $block) { $h = array(); foreach ( $block as $v) { 
 			//die( " v[$v] in block  " . implode( "\n", $block)); 
 			$v = trim( $v); if ( ! $v) continue; $L = ttl( $v, '：'); $k = lshift( $L); $v = $L; 

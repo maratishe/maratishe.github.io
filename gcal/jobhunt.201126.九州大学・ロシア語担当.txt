@@ -1,0 +1,10 @@
+id : D120110054 [NEW]
+update : 2020年11月05日
+univ : 九州大学・ロシア語担当
+title : 専任教授の公募（ロシア語担当、大学院言語文化研究院国際文化共生学部門国際文化学講座）
+field : 人文学 - 20世紀ロシア・ソ連の思想および文化
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月26日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120110054&ln_jor=0&top_btn=1 ----------
+

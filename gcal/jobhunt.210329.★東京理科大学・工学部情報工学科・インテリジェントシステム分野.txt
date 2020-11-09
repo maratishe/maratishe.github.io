@@ -1,0 +1,9 @@
+id : D120102077 [NEW]
+update : 2020年10月31日
+univ : 
+title : 東京理科大学工学部情報工学科インテリジェントシステム分野（知能情報処理，機械学習，自然言語処理，データマイニング及びその関連分野）
+field : 工学 - 情報工学 工学 - 人工知能 工学 - 音声音響処理
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月29日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120102077&ln_jor=0&top_btn=1 ----------

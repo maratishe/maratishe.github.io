@@ -1,0 +1,10 @@
+no : 19
+id : D120102073 [NEW]
+update : 2020年10月31日
+univ : 青山学院大学・経済学部経済学科・統計学・データサイエンス
+title : 青山学院大学　経済学部経済学科（統計学・データサイエンス）専任教員公募（准教授）（2021年3月12日郵送必着）
+field : 社会科学 - 経済学 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月12日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120102073&ln_jor=0&top_btn=1 ----------

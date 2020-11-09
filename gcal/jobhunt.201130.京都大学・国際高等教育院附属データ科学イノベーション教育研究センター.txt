@@ -1,0 +1,10 @@
+no : 18
+id : D120102117 [NEW]
+update : 2020年10月31日
+univ : 京都大学・国際高等教育院附属データ科学イノベーション教育研究センター
+title : 京都大学国際高等教育院附属データ科学イノベーション教育研究センター 教授の公募について
+field : 情報学 - 全て
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2020年11月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120102117&ln_jor=0&top_btn=1
