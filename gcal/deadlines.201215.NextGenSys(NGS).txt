@@ -1,0 +1,74 @@
+
+*********************************************************************************************
+
+The Next Generation Systems Conference (NGS) presents the best of current and future systems research and practice, emphasizing innovation and quantified experience. NGS has emerged as the foremost world-wide gathering of academic researchers, Ph.D. and graduate students, top research think tanks and industry technology developers.
+
+*********************************************************************************************
+
+Important Dates:
+
+Paper Submission Due:  December 15, 2020
+
+Acceptance Notification: December 30, 2020
+
+Final Manuscript Due:    January 27, 2021
+
+Scope:
+
+NGS aims to provide a forum for practitioners, researchers, and professionals from both academia and the industry to share their latest research findings and results. The technical areas include but are not limited to the following:
+
+·       Wireless system architectures
+
+Network protocols
+Network services
+Communication theory and systems
+Social network
+QoS and multimedia networking
+Network applications
+Security, authentication, and cryptography
+Algorithmic aspects of communication networks
+Signal processing techniques and tools
+Network operation and management
+Internet of things
+Network design and performance evaluation
+Online social networks
+Complex network models
+Localization for wireless networks
+Network estimation and processing techniques
+Mesh, relay, sensor and ad hoc networks
+Mobility, location, and handoff management
+Mobile and wireless IP
+Wireless multicasting, routing
+Robust routing
+Multimedia QoS and traffic management
+Wireless broadcast, multicast, and streaming
+Congestion and admission control
+Proxies and middleware for wireless networks
+Wireless network security and privacy
+Performance of E2E protocols over wireless networks
+Paper Format:
+
+The submitted paper must be formatted according to the guidelines of Procedia Computer Science, MS Word Template, Elsevier.
+
+Paper Length:
+
+Submitted technical papers must be no longer than 6 pages for full papers, including all figures, tables and references.
+
+Paper Submission:
+
+Authors are requested to submit their papers electronically using the online conference management system in PDF format before the deadline.
+
+The submission processes will be managed by easychair.org. If you have used this system before, you can use the same username and password. If this is your first time using EasyChair, you will need to register for an account by clicking “I have no EasyChair account” button. Upon completion of registration, you will get a notification email from the system and you are ready for submitting your paper. You can upload and re-upload the paper to the system.
+
+Publication:
+
+All NGS 2021 accepted papers will be published by Elsevier Science in the open-access Procedia Computer Science series on-line. Procedia Computer Science is hosted by Elsevier on www.Elsevier.com and on Elsevier content platform ScienceDirect (www.sciencedirect.com), and will be freely available worldwide. All papers in Procedia will be indexed by Scopus (www.scopus.com) and by Thomson Reuters' Conference Proceeding Citation Index (http://thomsonreuters.com/conference-proceedings-citation-index/). All papers in Procedia will also be indexed by Scopus (www.scopus.com) and Engineering Village (Ei) (www.engineeringvillage.com). This includes EI Compendex (www.ei.org/compendex). Moreover, all accepted papers will be indexed in DBLP (http://dblp.uni-trier.de/). The papers will contain linked references, XML versions and citable DOI numbers. You will be able to provide a hyperlink to all delegates and direct your conference website visitors to your proceedings.
+
+Organizing Committee:
+
+Haroon Malik, Marshall University, USA
+
+Elhadi Shakshuki, Acadia University, Canada
+
+Ansar-Ul-Haque Yasar, IMOB, Hasselt University, Belgium
+

@@ -1,0 +1,50 @@
+
+Call For Papers
+
+Elsevier Applied Soft Computing (ASOC) Special Issue on "Application of Computational Intelligence models in Transformative Computing technologies"
+
+https://www.journals.elsevier.com/applied-soft-computing/call-for-papers/computational-intelligence-models-transformative-computing
+
+
+------------------------------
+
+Recently a Transformative Computing paradigm has been developed, and define as a new branch of modern computer sciences and information technologies. This new approach allow to join sensor signals and wireless communication technologies, with extensive signal/data analysis using AI technologies. The main idea of this emerging technology, is connection of low level signal acquisition, originating from smart or IoT sensors, with global communication, which allow to transmit and collect required data in secure manner for further semantic analysis or extensive analytical evaluation. Final data analysis should involve application of advanced soft computing or AI approaches. Such connection enhances computing possibilities, by increasing efficiency of data extraction, acquisition, and exploration, as well as performing more sophisticated analysis at different levels starting from sensor networks till augmented cognition. It can also be applicable for solving complex real life problems thanks to the application of computational intelligence approaches, oriented on using of novel methods like cognitive computing, which is based on models of human visual perception. Such human oriented data analysis and information processing approaches allow to deeply analyse a great amount of signals and information sourced from IoT, smart technologies, multimedia, and VR, manage them, and securely transmit over global networks. This Special Issue will be oriented on new possible applications of various computational intelligence methods approaches in transformative computing solutions and technologies.
+Topics of interest include, but are not limited to the following application fields of soft computing methodology:
+
+Computational intelligence in transformative computing
+Transformative computing approaches and applications
+Bio-inspired models for data processing and management
+Cognitive approaches for information semantic analysis
+Transformative models for security and communication
+VR/AR in transformative computing
+Novel approaches for knowledge extraction and information analysis
+Human oriented protocols in transformative computing
+Ambient and smart technologies for data evaluation
+Cognitive systems in information fusion and secure management
+Hybrid human-AI approaches for signal/data analysis
+
+Submission Guidelines:
+-------------------------------
+Paper submissions for the special issue should follow the submission format and guidelines for regular papers and submitted at https://ees.elsevier.com/asoc. All the papers will be peer reviewed following Applied Soft Computing reviewing procedures. Guest editors will make an initial assessment of the suitability and scope of all submissions. Papers will be evaluated based on their originality, presentation, relevance and contributions, as well as their suitability to the special issue. Each submission must contribute to soft computing methodology. Papers that either lack originality, clarity in presentation or fall outside the scope of the special issue will be desk-rejected, and will not be sent for review. Authors should select "SI: Transformative Computing" when they reach the "Article Type" step in the submission process. The submitted papers must propose original research that has not been published nor currently under review in other venues.
+
+Timetable:
+--------------------
+Deadline for paper submission: 15th January, 2021
+Notification of results: 2-3 months after submission
+Final acceptance: September 30, 2021
+
+Guest editors:
+--------------------
+Managing Guest Editor
+
+Prof. Marek R. Ogiela, AGH University of Science and Technology, Krakow, Poland, (mogiela@agh.edu.pl)
+
+Guest Editors
+
+Prof. Francesco Palmieri, University of Salerno, Italy (fpalmieri@unisa.it)
+
+Prof. Chang Choi, Gachon University, South Korea (enduranceaura@gmail.com)
+
+Prof. Makoto Takizawa, Hosei University, Tokyo, Japan (makoto.takizawa@computer.org)
+
+

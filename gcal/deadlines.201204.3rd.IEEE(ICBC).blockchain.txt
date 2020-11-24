@@ -1,0 +1,108 @@
+
+Apologies for multiple postings.
+***************************************************************************************************
+CALL FOR PAPERS
+3rd IEEE International Conference on Blockchain and Cryptocurrency (ICBC)
+3-6 May, 2021
+Sydney, Australia
+https://icbc2021.ieee-icbc.org/
+
+Technical Co-Sponsor: IEEE, IEEE ComSoc
+***************************************************************************************************
+
+The 3rd IEEE International Conference on Blockchain and Cryptocurrency (ICBC) will be held in Sydney, Australia during 3-6 May, 2021. ICBC is a premier international conference dedicated to advances in blockchain, distributed ledgers and cryptocurrency. The conference is a yearly event for a world-class gathering of researchers from academia and industry, practitioners, and business leaders, providing a forum for discussing cutting edge research, and directions for new innovative business and technology.
+
+The conference will include a highly selective technical program consisting of submitted papers and poster session of work in progress. Focused tutorials and panel discussions will be held on emerging topics to allow for a lively exchange of ideas. International business and government leaders will be invited to share their perspectives, and will complement the technical program.
+
+ICBC 2021 is seeking submissions of technical papers (both full and short), posters and tutorial proposals in the following areas related to Blockchains and Cryptocurrencies:
+
+Distributed Consensus & Fault Tolerance Algorithms
+Performance, Scalability Issues
+Distributed Database Technologies for Blockchain
+Blockchain Platforms
+Blockchain-based Applications & Services
+Decentralized App Development
+Smart Contracts and Verification
+Security, Privacy, Attacks, Forensics
+Transaction Monitoring and Analysis
+Token Economy and Stablecoin
+Regulations & Policies in Cryptocurrency
+Novel Mechanisms for the Creation, Custody, and Exchange of Cryptoassets
+Anonymity and Criminal Activities of the cryptocurrency
+Managing the Risks of Cryptocurrency
+Distributed Trust
+Decentralized Internet Infrastructure
+Decentralized Financial Services
+Blockchain for Internet of Things/Cyber Physical Services
+Blockchain and Machine Learning/Artificial Intelligence
+
+Authors are invited to submit original papers that have not been published or submitted for publication elsewhere. Technical papers must be formatted using the IEEE 2-column format and not exceeding 8 pages for full papers, 4 pages for short papers, or 2 pages for poster papers (all excluding references). We will follow a single-blind review policy. Please check the conference website for more details.
+
+Authors of selected ICBC 2021 papers will be invited to submit an extended version of their paper to IEEE Transactions of Network and Service Management (2019 Impact factor: 3.878), with a fast track review process.
+
+Important Deadlines:
+
+Paper submission: 4th December, 2020, 11:59pm AoE
+Notification of Acceptance:      19th February, 2021
+Camera-ready Submission: 5th March, 2021
+
+Organizing Committee:
+
+General Chair:
+Salil Kanhere, UNSW Sydney, Australia
+
+General Co-Chairs:
+Steve Vallas, Blockchain Australia
+Liming Zhu, CSIRO's Data61, Australia
+
+Technical Program Co-Chairs:
+Raja Jurdak, Queensland University of Technology, Australia
+William Knottenbet, Imperial College, UK
+Bhaskar Krishnamachari, University of Southern California, USA
+
+Poster Co-Chairs:
+Qinghua Lu, CSIRO's Data61, Australia
+Kanchana Thilakaratna, University of Sydney, Australia
+
+Finance Chair:
+Helen Paik, UNSW Sydney, Australia
+
+Publications Co-Chairs:
+Ali Dorri, Queensland University of Technology, Australia
+Zissis Poulos, University of Toronto, Canada
+
+Tutorials Co-Chairs:
+Volkan Dedeoglu, CSIRO's Data61, Australia
+Gowri Ramachandran, University of Southern California, USA
+
+Panel Co-Chairs:
+David Hyland-Wood, CosenSys, Australia
+Yang Xiang, Swinburne University of Technology, Australia
+
+Publicity Co-Chairs:
+Artem Bager, IBM Haifa Research Lab, Israel
+Sandip Chakraborty, IIT Kharagpur, India
+Sushmita Ruj, CSIRO's Data61, Australia
+
+Patrons Chair:
+Katrina Donaghy, Civic Ledger, Australia
+
+Local Arrangements Chair:
+Regio Michelin, UNSW Sydney, Australia
+
+Web Chair:
+Arash Shaghaghi, Deakin University, Australia
+
+Project Manager:
+Jimmy Le, IEEE ComSoc, USA
+
+Treasurer:
+Bruce Worthman, IEEE ComSoc, USA
+
+Steering Committee:
+James Won-Ki Hong, Postech, Korea (Chair)
+Burkhard Stiller, University of Zurich, Switzerland
+Raouf Boutaba, University of Waterloo, Canada
+
+
+

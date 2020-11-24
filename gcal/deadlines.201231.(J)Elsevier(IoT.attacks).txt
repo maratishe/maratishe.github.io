@@ -1,0 +1,17 @@
+
+Special Issue on "Side-Channel Attacks on Mobile and IoT Devices for Cyber-Physical Systems", Computer Networks
+
+CFP: https://www.journals.elsevier.com/computer-networks/call-for-papers/side-channel-attacks-on-mobile-and-iot-devices
+
+Submission deadline: December, 31 2020
+
+Guest Editors
+Mauro Conti, University of Padua, Italy, conti@math.unipd.it
+Radha Poovendran, University of Washington, Seattle, USA, rp3@uw.edu
+Eleonora Losiouk, University of Padua, Italy, elosiouk@math.unipd.it
+Riccardo Spolaor, Shandong University, Qingdao, China, rspolaor@sdu.edu.cn
+
+Best regards,
+Eleonora Losiouk
+
+

@@ -1,0 +1,58 @@
+
+** CALL FOR PAPERS ** IEEE ICC 2021 Workshop: Emerging Topics in 6G Communications
+
+Workshop website: https://sites.google.com/view/ieeeiccworkshop/home
+
+Venue: International Workshop on Emerging Topics in 6G Communications (ET_6G) which will be held at IEEE International Conference on Communications (ICC2021) on 14 June 2021.
+
+5G networks and devices are now a reality with wide deployment and spread among population, but the demand for more data rate is still booming, and will soon need for a newer generation for wireless/cellular communication, the 6G. It will be a new standard that not only provides huge data rate (+1Tbps) and extremely low delay (0.1ms), but also will enable the “hyper-connected” paradigm that will connect users and things. Artificial Intelligence (AI) will play a major role within 6G, and thus more computation and communication resources will be consumed, where their optimization is a must.
+
+6G communications will bring new challenges due to their sensitivity to scenario conditions, thereby requiring highly adaptive techniques that will adapt extremely fast, in order to guarantee a delay less than 100 microseconds. Spectrum and resources management will be crucial within 6G in order to account for the extremely heterogeneous scenario. The networks complexity will also be unprecedented, due to the very diverse applications such as ultra‐low latency requirements for critical vehicle communication, the growing demand of high positioning accuracy for location‐based services, and dense heterogeneous architectures. Several emerging topics are encountered within 6G and this workshop will focus on such emerging topics, and potential solutions will be presented. Researchers and engineers from academia and industry are invited to submit their recent results and innovations. The list of topics includes, but not restricted to the following topics:
+
+Artificial Intelligence (AI) application for 6G communications.
+Novel signal processing techniques for 6G communications.
+Smart Antenna schemes for 6G communications.
+6G communications at the Terahertz band.
+Advanced Full Duplex strategies for 6G.
+Meta-surfaces implementation at 6G communication.
+New Quality of Service (QoS) metrics for 6G communications.
+Multiple Access schemes suitable to 6G.
+Dynamic spectrum access/sharing at 6G band.
+New network architectures in 6G.
+Self-organizing 6G-enabled IoT.
+Interference management at 6G.
+New security concepts within 6G.
+Spectrum regulatory for 6G bands.
+6G Testbeds and Applications.
+
+Keynote speaker
+
+Prof. Merouane Debbah, Centralesupelec, Paris-Saclay University, IEEE Fellow.
+
+Talk title: "Rebuilding the Theoretical Foundations of Communications and Computing"
+
+Workshop chairs
+
+Nizar Zorba, Qatar University (Qatar).
+Mutaz Shukair, Qualcomm (USA).
+Kenta Umebayashi, Tokyo University of Agriculture and Technology (Japan).
+Janne Lehtomäki, University of Oulu (Finland).
+Soumaya Cherkaoui, University of Sherbrooke (Canada).
+
+Important Dates
+
+Manuscript Submission Deadline: 20 January 2021
+Notification of Acceptance/Rejection due date: 20 February 2021
+Final version due date: 1 March 2021
+Workshop date: 14 June 2021
+
+Paper Submission
+
+All papers for must be submitted via EDAS through the following link: https://edas.info/newPaper.php?c=27569&track=102886
+
+Guidelines on how to prepare your paper can be found on IEEE ICC2021 website: https://icc2021.ieee-icc.org/
+
+******** (案内文ここまで) *********************************************
+
+
+

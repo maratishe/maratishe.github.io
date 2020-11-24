@@ -1,0 +1,43 @@
+
+*****Apologies for multiple postings*****
+
+COMPSAC 2021
+INTELLIGENT & RESILIENT COMPUTING FOR A COLLABORATIVE WORLD
+https://ieeecompsac.computer.org/2021/
+JULY 12-16, 2021
+
+
+***CALL FOR PAPERS***
+
+Computers, Software, and Applications. It is a major international forum for academia, industry, and government to discuss research results and advancements, emerging challenges, and future trends in computer and software technologies and applications. The theme of COMPSAC 2021 is “Intelligent and Resilient Computing for a Collaborative World”.
+
+The global COVID-19 pandemic has fundamentally changed how we work with each other on a regular basis.  Limitations on in-person interactions have caused a dramatic increase in our use and reliance on collaborative technology to enable normal communication.  Family and friends have conversations via video chat, students utilize online learning instead of in-person instruction, and medical professionals treat patients remotely.  These are only a few examples of how interactive software and applications have provided the foundation for continued normal day-to-day activities.  But as use of these tools has rapidly accelerated, some limitations and shortcomings have also been discovered.  Many components support online collaborative services, including bare-metal hardware, massive back-end storage, and high-speed, high-throughput networking, as well as the software required to administer these components efficiently.  In many cases, the resilience of these underpinnings has been tested by unprecedented levels of demand, stressing systems and exposing weaknesses.  As computer researchers, we see these weaknesses as opportunities to fill gaps in how software and applications are developed, utilized, and supported.  How to improve the resiliency of these components across a wide range of use domains is a significant challenge we suddenly find ourselves facing.  How do we design systems that are able to withstand the stress of global-scale use, and still provide robust and secure services to end-users?  For over 40 years, COMPSAC has been an outlet for researchers to share and discuss innovative and novel approaches to problems such as these, and we look forward to hearing your ideas in 2021!
+
+COMPSAC 2021, organized as a tightly integrated union of symposia, will focus on technical aspects of issues relevant to computers, software and applications, with an emphasis on topics related to improving collaboration with intelligence and resilience. The technical program will include keynote addresses, research papers, industrial case studies, fast abstracts, a doctoral symposium, poster sessions, and workshops and tutorials on emerging and important topics related to the conference theme. Highlights of the conference will include plenary and specialized panels that will address the technical challenges facing researchers and practitioners who are driving fundamental changes in intelligent systems and applications. Panels will also address cultural and societal challenges with respect to computing and collaboration raised by rapidly changing communication norms.
+
+***SUBMISSION***
+
+Authors are invited to submit original, unpublished research work, as well as industrial practice reports. Simultaneous submission to other publication venues is not permitted except as highlighted in the COMPSAC 2021 J1C2 & C1J2 program. All submissions must adhere to IEEE Publishing Policies, and will be vetted through the IEEE CrossCheck portal. Submission site: https://easychair.org/my/conference?conf=compsac2021
+
+***IMPORTANT DATES***
+
+MAIN CONFERENCE
+Main conference papers due: 15 January 2021
+Paper notification: 15 April 2021
+Camera-ready and registration due: 15 May 2021
+
+WORKSHOPS
+Workshops proposal acceptance notification: 15 December 2020
+Workshop papers due: 21 April 2021
+Workshop paper notifications: 15 May 2021
+Camera-ready and registration due: 31 May 2021
+
+
+***NEW IN 2021 - OER STUDENT COMPETITION***
+
+Submissions are open to undergraduate higher education students, working alone or in teams of up to 4, who have developed a Web-based OER that can be used for teaching or learning at the undergraduate college or university level of Computer Science or Information Technology. Cash prizes will be awarded to the top three projects. Submissions must be directly available on the Web with a public URL – for example on SlideShare, YouTube, Instagram, institutional open online repositories, etc. Examples of the kinds of OERs that qualify for this contest are materials that may have been developed for class projects, including animations, case studies, video presentations, simulations, tutorials, workshop and training materials, etc.
+
+Last Date for Submission:  April 1, 2021
+Notification of Winners: May 15, 2021
+
+

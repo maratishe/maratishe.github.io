@@ -1,0 +1,73 @@
+
+CALL FOR PAPERS
+
+Elsevier Pervasive and Mobile Computing (PMC) Journal - (2019 IF: 2.725)
+
+Special Issue on IoT for Fighting COVID-19
+
+***** Submission Deadline: December 21st, 2020 [EXTENDED] *****
+
+https://www.journals.elsevier.com/pervasive-and-mobile-computing/call-for-papers/special-issue-on-iot-for-fighting-covid-19
+------------------------------------------------------------------------------
+
+Throughout history, pandemics have ravaged humanity with plagues and infections that created humanitarian crises, severed social interactions, hindered economic growth, and caused  human lives loss. With the most recent COVID-19 outbreak, researchers and practitioners across various domains such as medical and life sciences, economics, and engineering are coming together to put forward solutions to counter such a threat and aid the society in coping with the fallbacks. In the same context, the computing community in general and IoT researchers and practitioners in particular face a challenge about how IoT-based systems can be exploited to fight the COVID-19 pandemic. This special issue aims to find answers to some fundamental questions such as what IoT systems, technologies, and infrastructures can be exploited for data and knowledge-driven management of the pandemics, how IoT can enable innovative and unconventional solutions for mitigating outbreaks (through mechanisms such as context-sensitive contact tracing and symptomatic detection, smart lockdowns, crowd-sensed discovery of the emerging clusters), and how IoT can contribute to increased public awareness and safety, and counter the negative emotional and social impact.
+
+This special issue invites technical papers that focus on theoretical and applied research contributions that present original ideas, modeling and simulation results, prototypes, and real-world experiences in the context of IoT for countering pandemics. Interdisciplinary works are most welcome.
+
+This special issue will focus on (but will not be limited to) the following topics:
+
+* Engineering of IoT Systems to Counter the COVID-19 Pandemic: IoT-driven smart lockdown; context-sensitive contact tracing and symptomatic detection; crowd-sensed identification of the pandemic hotspots; IoT-driven smart health in the time of pandemics; IoT-driven detection of transmission pathways and dose-response effect; data engineering for pandemic IoT systems.
+
+* Algorithms for IoT Systems to Counter the COVID-19 Pandemic: Context modeling and reasoning applied to pandemics; activity and well-being recognition for early detection of symptoms and monitoring of disease progression; data mining, machine learning and causal reasoning applied to IoT systems to fight pandemics; social and complex networks of IoT devices during pandemics.
+
+* Empirical Research on IoTs to Counter the COVID-19 Pandemic: Industrial findings and experience reports; validation and evaluation research; measurement studies; systematic mapping studies, or systematic literature reviews.
+
+* Reference Architectures, Infrastructures, and Tools for IoT Systems to Counter the COVID-19 Pandemic: IoT-driven pandemic management; architectural patterns and styles for pandemic tracing; prototypes and tool support; mobile cloud computing, fog and edge computing; development environments, frameworks, and tools; technological IoT innovations; trust, security, and privacy.
+
+* Analytical models of IoT Systems to Counter the COVID-19 Pandemic: performance models of IoT-driven containment and mitigation strategies; analytical studies of required IoT penetration to achieve control of the epidemic; data-driven IoT models and estimation of key parameters to feed into theoretical models.
+
+* Application of IoT Systems to Counter the COVID-19 Pandemic: smart healthcare; smart emergency response systems; smart community and crowd management; food security; smart lockers and innovative choice, pack and delivery methods; unconnected infrastructure and IoT systems.
+
+* IoT Systems beyond COVID-19: experience reports, applied solutions, frameworks, prototypes, simulations, and validation research to detect, manage, and counter epidemics like Dengue, Ebola, SARS, Zika, etc.
+
+
+Timeline
+--------
+Submission deadline: 21 December 2020 (EXTENDED)
+First notification: February 2021
+
+Guest Editors
+-------------
+Chiara Boldrini, Lead Guest Editor
+IIT-CNR, Italy
+
+Aakash Ahmad
+University of Ha’il, Saudi Arabia & TeraBlu IoT Systems, Pakistan
+
+Mahdi Fahmideh
+University of Wollongong, Australia
+
+Rabie Ramadan
+Cairo University, Egypt & University of Ha’il, Saudi Arabia
+
+Mohamed Younis
+University of Maryland Baltimore County, USA
+
+Submission Guidelines
+---------------------
+All submissions have to be prepared according to the Guide for Authors as published in the Journal website at https://www.journals.elsevier.com/pervasive-and-mobile-computing. Authors should select “VSI: IoT-COVID19”, from the “Choose Article Type” pull-down menu during the submission process. To ensure that all manuscripts are correctly identified, for consideration by the special issue, the authors should indicate in the cover letter that the manuscript has been submitted for the special issue “IoT for Fighting COVID-19”.
+All contributions must not have been previously published or be under consideration for publication elsewhere. A submission based on one or more papers that appeared elsewhere has to comprise major value-added extensions over what appeared previously (at least 40% new material). Authors are requested to attach to the submitted paper their relevant, previously published articles and a summary in the cover letter explaining the enhancements made in the journal version.
+
+For further information, please contact the guest editors.
+
+-------------------------------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Mycolleagues mailing list
+Mycolleagues@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/mycolleagues
+
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
+OR
+- Easy unsubscribe: https://mailman.ufsc.br/mailman/options/mycolleagues
+

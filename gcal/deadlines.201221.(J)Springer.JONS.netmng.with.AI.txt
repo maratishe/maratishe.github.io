@@ -1,0 +1,71 @@
+
+Journal of Network and Systems Management - Springer
+
+Special issue on
+
+Cybersecurity Management in the era of AI
+
+***Submissions are due: Dec. 21st, 2020***
+
+https://www.springer.com/journal/10922/updates/17974838
+
+We encourage early submission, please check the open submission schedule policy below.
+
+Fifth Generation (5G) and beyond cellular networks have revolutionized the communication architecture, providing connectivity for people, things, data, applications, transport, and cities in smart networked environments, at faster data rates, reduced latencies, and acceptable costs. The massive number and volume of heterogonous connected devices in such an open space, as well as the advancements in human computer interaction (HCI), artificial intelligence (AI), computing and communication technologies have led to an increasing number of personal and ubiquitous intelligent systems. Such a wide deployment of connected smart technologies introduces new challenges to system security and privacy, mainly for Cyber-physical Systems.
+
+Cyberphysical is a term used for the integration of physical and computing domains as seen in many different areas such as medical, automotive, energy and other critical systems. Nowadays, cyberphysical systems are highly prone to cyber attacks and other forms of security threats at the communication layer due to system high connectivity characteristics. Some of today’s emerging security threats are hard to detect using traditional security and privacy measures and techniques. Therefore, innovative security methods and privacy protection solutions are needed to provide more secure and robust privacy-preserving intelligent cyber-physical systems. To achieve this, cybersecurity management systems need to adapt to the changing cyber security threats autonomously with minimal user intervention to provide maximum protection against cyber-attacks, intrusions, malware and various types of data breaches. AI has the potential to be leveraged in different aspects of cybersecurity and cyberthreat detection. It has received significant interest lately, where a plethora of AI and other intelligent learning solutions such as deep and reinforcement learning are now being integrated into cybersecurity systems to provide more secure and robust privacy-preserving solutions for personal and ubiquitous systems. Such integration will play a vital role in providing enhanced security for intelligent autonomous systems and enables organizations to make crucial changes to their security landscape.
+
+This Special Issue invites theoretical and applied cutting edge research on standards, frameworks, models, and approaches on cybersecurity management in the era of AI and intelligent learning technologies. More specifically, we encourage original paper submissions on the most recent advances in security network and system management solutions using AI. The Special Issue also welcomes contributiأهons from the industry perspective. Topics of interest include, but they are not limited to:
+
+-          Cybersecurity management in cyber-physical systems using AI;
+
+-          Security, privacy, and trust issues in cyber-physical systems;
+
+-          Blockchain-enabled cyber-physical systems;
+
+-          Utilizing AI technologies for cyber investigation and threat intelligence;
+
+-          The integration of AI and Blockchain for security critical infrastructures;
+
+-          Design, optimization and modeling of cybersecurity management systems;
+
+-          AI and ML for intrusion detection/prevention in sensitive environments;
+
+-          Advanced AI techniques to secure future Internet architectures/protocols;
+
+-          Trust management in cyber-physical networks and systems;
+
+-          Privacy management at edge of the network using machine learning;
+
+-          Trustworthy data collection and processing using intelligent learning techniques;
+
+-          Cybersecurity management of big data;
+
+-          AI-based cybersecurity techniques for IoT, IoE, IoH, and IoV;
+
+-          Cybersecurity of connected and autonomous vehicles;
+
+-          Cybersecurity and AI for digital twin;
+
+-          Management framework for intelligent secure networking.
+
+-          Cybersecurity management to protect organizations’ sensitive data using intelligent learning techniques;
+
+-          AI-enabled digital investigation;
+
+
+
+Guest Editors of the Special Issue:
+
+●       Moayad Aloqaily, xAnalytics Inc., Canada
+
+●       Salil Kanhere, UNSW Sydney, Australia
+
+●       Paolo Bellavista, DEIS, Università di Bologna, Italy
+
+●       Michele Nogueira, Federal University of Parana, Brazil
+
+
+
+
+

@@ -1,0 +1,58 @@
+
+Call for Papers: 2021 IEEE 41th International Conference on Distributed Computing Systems (ICDCS)
+
+ICDCS 2021 Call for Research Papers
+July 7-10, 2021 (tentative)
+Washington DC, USA
+
+https://icdcs2021.us/
+
+Scope
+
+The annual IEEE ICDCS conference is a premier international forum for researchers, developers, and users to present, discuss, and exchange cutting edge ideas and latest findings on topics related to any aspect of distributed computing systems.
+
+We invite you to submit your original contributions to ICDCS 2021.
+
+Topics of interest include, but are not limited to:
+- Cloud Computing and Data Centers
+- Distributed Algorithms and Theory
+- Distributed Big Data Systems and Analytics
+- Distributed Fault Tolerance and Dependability
+- Distributed Operating Systems and Middleware
+- Edge Computing
+- Internet of Things and Cyber-Physical Systems
+- Mobile and Wireless Computing
+- Security, Privacy, and Trust in Distributed Systems
+- Blockchain
+- Machine Learning on or for Distributed Systems
+- Insights from Industrial Experience
+
+Paper Submission
+
+Papers must be original and unpublished and must not be submitted for publication elsewhere concurrently. All paper submissions should follow the IEEE 8.5″ x 11″ Two-Column Format. Each submission can have up to 11 pages (including references). Papers exceeding this page limit or with smaller fonts will be rejected without review. The submitted manuscripts should include author names and affiliations.
+Electronic submission site:
+
+https://easychair.org/conferences/?conf=icdcs2021
+
+If the submission is accepted for publication, up to 2 over length pages may be purchased for the final camera-ready version. Each accepted paper must have at least one author registered and be presented during the conference. No-show paper will be reported to the publisher and deleted from the conference publication. For authors with multiple papers accepted by the conference, a separate author registration is required for each paper.
+
+Important Dates
+
+Abstract Submission: January 6, 2021  (23:59, UTC-5, EDT)
+Full Paper Submission: January 13, 2021  (23:59, UTC-5, EDT)
+Notification of Acceptance: March 17, 2021
+Camera-ready Paper Submission: April 20, 2021
+
+Please refer to the conference web site (https://icdcs2021.us/) for more information about:
+
+Call for Research Papers
+Call for Demo and Posters
+Ph.D. Student Symposium
+Call for Workshop Proposals
+
+Rhongho Jang, Assistant Professor
+Department of Computer Science
+Wayne State University
+
+
+

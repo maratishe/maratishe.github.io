@@ -1,0 +1,39 @@
+
+Dear all,
+
+you are invited to consider publication in the MPDI Sensors Special Issue on "Green Sensors Networking".
+
+https://www.mdpi.com/journal/sensors/special_issues/green_sens_network
+
+Deadline for manuscript submissions: 30 November 2020.
+
+Special Issue Information
+
+Recent improvements in integrated circuit technology have led to the development of new low-cost, tiny sensor nodes. Consequently, wireless sensor networks (WSNs) are increasingly being introduced into many different application areas, such as smart homes, smart cities, healthcare, wearables, transportation, security, surveillance, and other industrial needs. WSNs consist of a large number of self-sustainable, autonomous devices that are able to sense their environment and process and transmit related data. Sensor nodes are commonly hardware-constrained devices that must work under severe resource restrictions such as limited battery, communication, storage, and computing capabilities. In particular, to cope with the scarcity of available energy and to ensure long-term operation, sensor nodes must be designed with low energy radio and sensing units, employ energy efficient communication protocols, and implement optimal energy management policies.
+The key for reducing energy consumption in WSNs is the wise utilization of network resources, including power, spectrum, time, and spatial resources. For example, in these networks involving a large number of distributed devices, cooperative power control techniques based on convex optimization or game theory permit governing transmission power efficiently. Furthermore, energy-harvesting technology is frequently used to provide a virtually uninterrupted power supply to the sensor nodes although, due to the intermittent and variable nature of ambient energy sources, accurate prediction schemes of future energy availability may be required to avoid energy shortages.
+
+Energy demands of WSNs can also be reduced, alleviating mutual interference through efficient MAC protocols, employing energy-aware routing algorithms or exploiting available power-saving modes at the sensor nodes. Finally, advanced distributed storage and computation schemes that decrease the number of transmissions and receptions for data collection and dissemination can be adopted to save energy in these networks.
+
+The purpose of this Special Issue is to present the most recent advances, or comprehensive reviews, relating to green wireless sensor networks. Potential topics include but are not limited to:
+
+Energy harvesting;
+Distributed power control schemes;
+Energy efficient WSN architecture and design;
+Energy efficient communication protocols for WSNs;
+Green MAC protocols for WSNs;
+Green routing algorithms for WSNs;
+Green device-to-device communications;
+Green computing for sensor nodes;
+Energy management policies for sensor nodes;
+Energy availability prediction schemes.
+Dr. Sergio Herrería Alonso
+Dr. Miguel Rodríguez Pérez
+Dr. Rosario Giuseppe Garroppo
+Guest Editors
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Sensors (ISSN 1424-8220; CODEN: SENSC9) has an Impact Factor of 3.031 (JCR 2018) and is covered by the following indexing and abstracting databases: Analytical Abstracts, Chemical Abstracts (CAS), Chemistry Citation Index, Directory of Open Access Journals (DOAJ), IndexCopernicus, Google Scholar, INSPEC, Journal Citation Report, Open-J-Gate, PubMed, Science Citation Index Expanded (SCIE), Scirus, SciSearch and Scopus.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+

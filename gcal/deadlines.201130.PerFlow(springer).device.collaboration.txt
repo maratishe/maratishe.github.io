@@ -1,0 +1,98 @@
+
+Call for Papers -- PerFlow 2021 (Deadline Extended to Nov. 30)
+
+5th International Workshop on Pervasive Information Flow (PerFlow 2021)
+http://www.perflow.org/
+March 22 or 26, 2021 (Kassel, Germany)
+Due to COVID-19 influence, PerCom2021 and collocated events will be held online.
+
+Co-located with IEEE PerCom 2021
+
+* SCOPE
+Internet of Things (IoT) has been attracting attention due to its economic impact and high
+expectations for drastically changing our societies. Trillion-scale IoT devices including sensors
+and actuators are being installed in various “things” such as machines, humans, vehicles, buildings,
+and environments. At the same time, we are facing research challenges on how to effectively, timely
+and integratedly handle these over trillion flows (which we call Pervasive Flows) gushed from
+massive devices or heterogeneous pervasive systems. Based on the success of our previous workshops,
+IFoT 2016, PerFoT 2018 and 2019, and PerFlow 2020, the fifth edition, the 2021 International
+Workshop on Pervasive Information Flow (PerFlow 2021) aims to present and discuss research
+challenges, design/implementations of new architectures, and experiences on timely
+processing/distribution of pervasive flows. In addition, interoperability, integration and
+coordination among different applications, services and devices should be discussed for real world
+deployment of pervasive systems handling pervasive flows.
+
+*TOPICS
+We solicit technical papers describing original, previously unpublished research, not currently
+under review by another conference or journal. Submissions should clearly identify how they relate
+to issues on pervasive flows gushed from various things. Contributions describing an overall working
+system and reporting real world deployment experiences are particularly of interest.
+
+Topics of this workshop include, but are not limited to:
+- IoT Device Collaboration and Orchestration
+- Mobile Data Offloading
+- Data Analysis on IoT Devices
+- Data Collection via Crowdsensing etc.
+- Machine Learning for Data Stream
+- Edge and Fog Computing
+- Remote Sensing and Monitoring
+- Security and Privacy Issues in Pervasive Systems
+- Network Architecture/Protocols/Middleware for Pervasive Systems
+- Integration of Services/Protocols/Devices for Pervasive Systems
+- Interoperability and Interdependence of Heterogeneous Pervasive Systems
+- Quality of Service and Energy-Efficiency of Pervasive Systems
+
+* Paper Submission
+
+All paper submissions will be reviewed by at least two program committee members. Papers must be in
+PDF format and must be submitted via the submission site shown below. All submissions must describe
+original research, not published or currently under review for another workshop, conference, or journal.
+
+Submitted papers should be at most 6 pages in the IEEE template (available at
+https://www.ieee.org/conferences/publishing/templates.html). Authors can purchase one additional
+page for the camera ready version. Papers can be submitted via the following EDAS submission portal
+for PerFlow 2021.
+https://edas.info/newPaper.php?c=27741&track=103474
+
+Each accepted workshop paper requires a full PerCom registration (no registration is available for
+workshops only). Workshop papers will be included and indexed in the IEEE digital libraries (Xplore).
+
+* Important Dates
+
+- Submission Deadline:    November 30, 2020 (Extended)
+- Notification Date:          January 5, 2021
+- Camera-ready Due:       February 5, 2021
+
+Organizers:
+Keiichi Yasumoto (NAIST, Japan)
+Hirozumi Yamaguchi (Osaka U, Japan)
+Christian Becker (U Mannheim, Germany)
+
+Program Committee:
+Carsten Griwodz, Simula Research Laboratory, Norway
+Takahiro Hara, Osaka University, Japan
+Teruo Higashino, Osaka University, Japan
+Yuka Kato, TWCU, Japan
+Gen Kitagata, Tohoku University, Japan
+Philippe Lalanda, University of Grenoble, France
+Spyros Lalis, University of Thesally, Greece
+Hiroshi Mineno, Shizuoka University, Japan
+Amy Murphy, Fondazione Bruno Kessler, Iyaly
+Katsuhiro Naito, Aichi Institute of Technology, Japan
+Masahide Nakamura, Kobe University, Japan
+Yasuo Okabe, Kyoto University, Japan
+Hiroshi Shigeno, Keio University, Japan
+Na Yu, Samsung Research America, USA
+
+---------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Authors mailing list
+Authors@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/authors
+
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
+OR
+* Easy unsubscribe: https://mailman.ufsc.br/mailman/options/authors
+
+
