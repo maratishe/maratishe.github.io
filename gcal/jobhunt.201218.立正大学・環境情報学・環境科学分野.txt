@@ -1,0 +1,10 @@
+no : 22
+id : D120110983 [NEW]
+update : 2020年11月18日
+univ : 立正大学・環境情報学・環境科学分野
+title : 准教授または講師の公募（環境情報学・環境科学分野）
+field : 情報学 - 環境情報学・環境科学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年12月18日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120110983&ln_jor=0&top_btn=1 ----------

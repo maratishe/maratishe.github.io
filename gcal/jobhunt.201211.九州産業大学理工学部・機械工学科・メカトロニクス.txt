@@ -1,0 +1,10 @@
+no : 69
+id : D120111343 [NEW]
+update : 2020年11月21日
+univ : 九州産業大学理工学部・機械工学科・メカトロニクス
+title : 九州産業大学理工学部　機械工学科（メカトロニクス）専任教員【准教授、講師または助教】の公募について
+field : 工学 - 機械工学 工学 - ロボット工学
+post : 准教授・常勤専任講師相当 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2020年12月11日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120111343&ln_jor=0&top_btn=1 ----------

@@ -1,0 +1,10 @@
+no : 23
+id : D120111106 [NEW]
+update : 2020年11月19日
+univ : 東京都市大学・情報科学科・計算機工学分野
+title : 情報科学科・准教授または講師（常勤）の公募（計算機工学分野）
+field : 情報学 - 計算基盤 工学 - 電気電子工学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2020年12月05日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120111106&ln_jor=0&top_btn=1 ----------

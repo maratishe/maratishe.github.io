@@ -1,96 +1,81 @@
-2020-11-10 三谷産業フェア★金沢 #fundhunt due:2020-09-01
-2020-11-10 本多記念賞200万・50万・30万.2items #fundhunt due:2020-09-11
-2020-11-10 airpf人工知能研究振興財団 #fundhunt due:2020-09-30
-2020-11-10 兵庫県立大学.情報学-情報通信-ネットワーク #jobhunt due:2020-09-30
-2020-11-10 ▲愛知工科大学・データサイエンスまたはＡＩ #jobhunt due:2020-10-16
-2020-11-10 EAI.MTYMEX.SmartTech(springer) #deadlines due:2020-10-19
-2020-11-10 IoTDI.IoT.design.and.implement #deadlines due:2020-10-19
-2020-11-10 EAI.vnets #deadlines due:2020-10-22
-2020-11-10 PAM #deadlines due:2020-10-23
-2020-11-10 VNC.vehicular.networking #deadlines due:2020-10-25
-2020-11-10 DASFAA.databases(springer) #deadlines due:2020-10-28
-2020-11-10 (J)ACMTrans.ContactTracing #deadlines due:2020-10-30
-2020-11-10 EAI.Covid19.and.cloud(+J) #deadlines due:2020-10-30
-2020-11-10 IEEE.ICC.SQRM.qosqoemodeling #deadlines due:2020-10-30
-2020-11-10 IEEE.ICC.netgennets #deadlines due:2020-10-30
-2020-11-10 journal.TNSM.cybersecurity.sec.manage.nets.services #deadlines due:2020-10-30
-2020-11-10 WileyJ.software.innovations #deadlines due:2020-10-31
-2020-11-10 journal.Biosensors(JCR).machine.learning #deadlines due:2020-10-31
-2020-11-10 springerj・cybersecAI #deadlines due:2020-10-31
-2020-11-10 (J)IEEETrans.designManageReliableCommNets #deadlines due:2020-11-01
-2020-11-10 CloudConf.SmartCom(virtual) #deadlines due:2020-11-01
-2020-11-10 SmartComp.and.Comm #deadlines due:2020-11-01
-2020-11-10 mdpij.wirelessprotocols #deadlines due:2020-11-01
-2020-11-10 (J)GridComp.cloud.federations #deadlines due:2020-11-03
-2020-11-10 classes ① johokiso (blockchain, eval), ② netchino (schedule) #current due:2020-11-10
-2020-11-10 kindle #current due:2020-11-10
-2020-11-10 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2020-11-10
-2020-11-10 wifi dongle @ home #current due:2020-11-10
-2020-11-10 香川大学・情報システム・セキュリティコース #jobhunt due:2020-11-13
-2020-11-10 白百合女子大学・情報教育・プログラミング教育・ICT教育 #jobhunt due:2020-11-14
-2020-11-10 (J)IEEE.VTechMag.earial.mobility #deadlines due:2020-11-15
-2020-11-10 (3) docomocycle data collect #regulars due:2020-11-17
-2020-11-10 ① money (weekly) #regulars due:2020-11-17
-2020-11-10 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2020-11-17
-2020-11-10 知能情報工学分野 #jobhunt due:2020-11-18
-2020-11-10 audio automation for open campus #midterm due:2020-11-20
-2020-11-10 kgu zemi faces #midterm due:2020-11-20
-2020-11-10 mdpi.5g #deadlines due:2020-11-20
-2020-11-10 samsung redo cygwin #midterm due:2020-11-20
-2020-11-10 simplify yalms #midterm due:2020-11-20
-2020-11-10 tokyo hotels and schedule #midterm due:2020-11-20
-2020-11-10 video recognition engine (sotsuken) #midterm due:2020-11-20
-2020-11-10 岡山理科大学・計算機工学・コンピュータシステム分野 #jobhunt due:2020-11-20
-2020-11-10 香川大学・情報通信コース #jobhunt due:2020-11-20
-2020-11-10 広島大学・情報メディア教育研究センター #jobhunt due:2020-11-24
-2020-11-10 九州大学・ロシア語担当 #jobhunt due:2020-11-26
-2020-11-10 (J)MDPI.Green.Sensors #deadlines due:2020-11-30
-2020-11-10 (J)TailorFrancis.SmartCities #deadlines due:2020-11-30
-2020-11-10 京都大学・国際高等教育院附属データ科学イノベーション教育研究センター #jobhunt due:2020-11-30
-2020-11-10 信州大学.通信システム分野 #jobhunt due:2020-11-30
-2020-11-10 名古屋商科大学・情報 #jobhunt due:2020-11-30
-2020-11-10 岐阜大学・数理・データサイエンス #jobhunt due:2020-11-30
-2020-11-10 岡山理科大学・データサイエンス #jobhunt due:2020-11-30
-2020-11-10 情報・経営システム工学 #jobhunt due:2020-11-30
-2020-11-10 東京大学・人間エネルギー環境学分野 #jobhunt due:2020-11-30
-2020-11-10 金沢大学・先端科学・社会共創推進機構 #jobhunt due:2020-11-30
-2020-11-10 金沢大学・先端科学・社会共創推進機構・人材育成グループ #jobhunt due:2020-11-30
-2020-11-10 長岡技術科学大学・情報・経営システム工学 #jobhunt due:2020-11-30
-2020-11-10 journal.mdpi.blockchain.for.5g.and.IoT.(opencall) #deadlines due:2020-12-00
-2020-11-10 IETj.smartcities #deadlines due:2020-12-01
-2020-11-10 東京工業大学・ソフトウェア工学分野 #jobhunt due:2020-12-01
-2020-11-10 広島工業大学・コンピュータシステム #jobhunt due:2020-12-03
-2020-11-10 九州国際大学・ビジネスデータ分析 #jobhunt due:2020-12-04
-2020-11-10 長岡技術科学大学・情報通信制御システム工学講座 #jobhunt due:2020-12-04
-2020-11-10 東京電機大学・情報システムデザイン #jobhunt due:2020-12-05
-2020-11-10 神奈川工科大学・情報学部・情報メディア学科 #jobhunt due:2020-12-06
-2020-11-10 名古屋市立大学・情報環境デザイン領域 #jobhunt due:2020-12-07
-2020-11-10 データ同化研究チーム #jobhunt due:2020-12-08
-2020-11-10 MDPI.geotech.spatiotemporal #deadlines due:2020-12-10
-2020-11-10 adobe @ work, home #longterm due:2020-12-10
-2020-11-10 windows auth @ zaniya #longterm due:2020-12-10
-2020-11-10 NetSoft #deadlines due:2020-12-14
-2020-11-10 東京通信大学・情報システム分野 #jobhunt due:2020-12-14
-2020-11-10 静岡理工科大学・電子情報分野 #jobhunt due:2020-12-14
-2020-11-10 INFOCOM #deadlines due:2020-12-15
-2020-11-10 PerCom.(pervasive).demos #deadlines due:2020-12-15
-2020-11-10 琉球大学・総合情報処理センター #jobhunt due:2020-12-15
-2020-11-10 (J)MDPI.Drones.swarms #deadlines due:2020-12-31
-2020-11-10 (J)MDPI.Sensing.and.IoT #deadlines due:2020-12-31
-2020-11-10 (J)MDPI.WirelessSensors.ITS #deadlines due:2020-12-31
-2020-11-10 MDPI.drone.swarms #deadlines due:2020-12-31
-2020-11-10 (J)ComMag.Network4Covid #deadlines due:2021-01-01
-2020-11-10 IFIP.Networking(~J) #deadlines due:2021-01-05
-2020-11-10 jour.ICTexpress.edge #deadlines due:2021-01-10
-2020-11-10 (J)ASOC.CompIntel.(transformative) #deadlines due:2021-01-15
-2020-11-10 IFIP.Networking #deadlines due:2021-01-15
-2020-11-10 J.Elsevier.compintelligence #deadlines due:2021-01-15
-2020-11-10 journal.ISF.AI.for.covid #deadlines due:2021-01-15
-2020-11-10 MDPI.sustain #deadlines due:2021-01-31
-2020-11-10 東京通信大学・情報システム・データサイエンス分野 #jobhunt due:2021-01-31
-2020-11-10 (J)MDPI.Telecom.Journal #deadlines due:2021-02-21
-2020-11-10 jour.mdpi.vehicularfleets #deadlines due:2021-02-28
-2020-11-10 ★青山学院大学・経済学部経済学科・統計学・データサイエンス #jobhunt due:2021-03-12
-2020-11-10 KSEM.knowledge #deadlines due:2021-03-15
-2020-11-10 ★東京理科大学・工学部情報工学科・インテリジェントシステム分野 #jobhunt due:2021-03-29
-2020-11-10 (J)IEEE.Sensors.indoor.positioning #deadlines due:2021-03-31
+2020-11-24 新潟大学・システムソフトウェア・並列分散処理 #jobhunt due:2020-01-14
+2020-11-24 三谷産業フェア★金沢 #fundhunt due:2020-09-01
+2020-11-24 本多記念賞200万・50万・30万.2items #fundhunt due:2020-09-11
+2020-11-24 airpf人工知能研究振興財団 #fundhunt due:2020-09-30
+2020-11-24 兵庫県立大学.情報学-情報通信-ネットワーク #jobhunt due:2020-09-30
+2020-11-24 ▲愛知工科大学・データサイエンスまたはＡＩ #jobhunt due:2020-10-16
+2020-11-24 香川大学・情報通信コース #jobhunt due:2020-11-20
+2020-11-24 classes ① johokiso (blockchain, eval), ② netchino (schedule) #current due:2020-11-24
+2020-11-24 kindle #current due:2020-11-24
+2020-11-24 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2020-11-24
+2020-11-24 wifi dongle @ home #current due:2020-11-24
+2020-11-24 広島大学・情報メディア教育研究センター #jobhunt due:2020-11-24
+2020-11-24 九州大学・ロシア語担当 #jobhunt due:2020-11-26
+2020-11-24 (J)MDPI.Green.Sensors #deadlines due:2020-11-30
+2020-11-24 (J)TailorFrancis.SmartCities #deadlines due:2020-11-30
+2020-11-24 京都大学・国際高等教育院附属データ科学イノベーション教育研究センター #jobhunt due:2020-11-30
+2020-11-24 信州大学.通信システム分野 #jobhunt due:2020-11-30
+2020-11-24 名古屋商科大学・情報 #jobhunt due:2020-11-30
+2020-11-24 岐阜大学・数理・データサイエンス #jobhunt due:2020-11-30
+2020-11-24 情報・経営システム工学 #jobhunt due:2020-11-30
+2020-11-24 東京大学・人間エネルギー環境学分野 #jobhunt due:2020-11-30
+2020-11-24 金沢大学・先端科学・社会共創推進機構 #jobhunt due:2020-11-30
+2020-11-24 金沢大学・先端科学・社会共創推進機構・人材育成グループ #jobhunt due:2020-11-30
+2020-11-24 長岡技術科学大学・情報・経営システム工学 #jobhunt due:2020-11-30
+2020-11-24 journal.mdpi.blockchain.for.5g.and.IoT.(opencall) #deadlines due:2020-12-00
+2020-11-24 (3) docomocycle data collect #regulars due:2020-12-01
+2020-11-24 IETj.smartcities #deadlines due:2020-12-01
+2020-11-24 ① money (weekly) #regulars due:2020-12-01
+2020-11-24 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2020-12-01
+2020-11-24 東京工業大学・ソフトウェア工学分野 #jobhunt due:2020-12-01
+2020-11-24 広島工業大学・コンピュータシステム #jobhunt due:2020-12-03
+2020-11-24 audio automation for open campus #midterm due:2020-12-04
+2020-11-24 kgu zemi faces #midterm due:2020-12-04
+2020-11-24 samsung redo cygwin #midterm due:2020-12-04
+2020-11-24 simplify yalms #midterm due:2020-12-04
+2020-11-24 tokyo hotels and schedule #midterm due:2020-12-04
+2020-11-24 video recognition engine (sotsuken) #midterm due:2020-12-04
+2020-11-24 九州国際大学・ビジネスデータ分析 #jobhunt due:2020-12-04
+2020-11-24 岩手大学・情報基盤センター #jobhunt due:2020-12-04
+2020-11-24 長岡技術科学大学・情報通信制御システム工学講座 #jobhunt due:2020-12-04
+2020-11-24 東京都市大学・情報科学科・計算機工学分野 #jobhunt due:2020-12-05
+2020-11-24 東京電機大学・情報システムデザイン #jobhunt due:2020-12-05
+2020-11-24 神奈川工科大学・情報学部・情報メディア学科 #jobhunt due:2020-12-06
+2020-11-24 名古屋市立大学・情報環境デザイン領域 #jobhunt due:2020-12-07
+2020-11-24 データ同化研究チーム #jobhunt due:2020-12-08
+2020-11-24 名古屋大学・システム研究所未来エレクトロニクス集積研究センター #jobhunt due:2020-12-09
+2020-11-24 MDPI.geotech.spatiotemporal #deadlines due:2020-12-10
+2020-11-24 九州産業大学理工学部・機械工学科・メカトロニクス #jobhunt due:2020-12-11
+2020-11-24 NetSoft #deadlines due:2020-12-14
+2020-11-24 東京通信大学・情報システム分野 #jobhunt due:2020-12-14
+2020-11-24 静岡理工科大学・電子情報分野 #jobhunt due:2020-12-14
+2020-11-24 INFOCOM #deadlines due:2020-12-15
+2020-11-24 PerCom.(pervasive).demos #deadlines due:2020-12-15
+2020-11-24 琉球大学・総合情報処理センター #jobhunt due:2020-12-15
+2020-11-24 千葉大学・情報工学・画像工学・医工学 #jobhunt due:2020-12-16
+2020-11-24 NAIST・情報科学領域・コンピューティング・アーキテクチャ分野 #jobhunt due:2020-12-18
+2020-11-24 立正大学・環境情報学・環境科学分野 #jobhunt due:2020-12-18
+2020-11-24 adobe @ work, home #longterm due:2020-12-24
+2020-11-24 windows auth @ zaniya #longterm due:2020-12-24
+2020-11-24 (J)MDPI.Drones.swarms #deadlines due:2020-12-31
+2020-11-24 (J)MDPI.Sensing.and.IoT #deadlines due:2020-12-31
+2020-11-24 (J)MDPI.WirelessSensors.ITS #deadlines due:2020-12-31
+2020-11-24 MDPI.drone.swarms #deadlines due:2020-12-31
+2020-11-24 リージョナルフィッシュ株式会社・ゲノム編集水産育種のバイオインフォマティクス研究員の募集【リモートワーク可】 #jobhunt due:2020-12-31
+2020-11-24 (J)ComMag.Network4Covid #deadlines due:2021-01-01
+2020-11-24 IFIP.Networking(~J) #deadlines due:2021-01-05
+2020-11-24 足利大学工学部・機械分野【再公募】 #jobhunt due:2021-01-08
+2020-11-24 jour.ICTexpress.edge #deadlines due:2021-01-10
+2020-11-24 (J)ASOC.CompIntel.(transformative) #deadlines due:2021-01-15
+2020-11-24 IFIP.Networking #deadlines due:2021-01-15
+2020-11-24 J.Elsevier.compintelligence #deadlines due:2021-01-15
+2020-11-24 journal.ISF.AI.for.covid #deadlines due:2021-01-15
+2020-11-24 MDPI.sustain #deadlines due:2021-01-31
+2020-11-24 東京通信大学・情報システム・データサイエンス分野 #jobhunt due:2021-01-31
+2020-11-24 (J)MDPI.Telecom.Journal #deadlines due:2021-02-21
+2020-11-24 jour.mdpi.vehicularfleets #deadlines due:2021-02-28
+2020-11-24 ★青山学院大学・経済学部経済学科・統計学・データサイエンス #jobhunt due:2021-03-12
+2020-11-24 KSEM.knowledge #deadlines due:2021-03-15
+2020-11-24 ★東京理科大学・工学部情報工学科・インテリジェントシステム分野 #jobhunt due:2021-03-29
+2020-11-24 (J)IEEE.Sensors.indoor.positioning #deadlines due:2021-03-31
+2020-11-24 福岡大学工学部電子情報工学科 #jobhunt due:2021-03-31
