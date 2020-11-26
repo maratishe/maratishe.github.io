@@ -122,10 +122,10 @@ this file is generated automatically, do not make manual changes to it!
 2020-11-20 [<strike>香川大学・情報通信コース</strike>](#6775ef2540)  
 2020-11-24 [<strike>広島大学・情報メディア教育研究センター</strike>](#42361c765c)  
 2020-11-26 [<strike>九州大学・ロシア語担当</strike>](#7cfb49e52b)  
-2020-11-30 [名古屋商科大学・情報](#8ba5fdc674)  
+2020-11-30 [<strike>名古屋商科大学・情報(nolab)</strike>](#de05684f07)  
 2020-11-30 [<strike>東京大学・人間エネルギー環境学分野</strike>](#8a765a3a6e)  
-2020-11-30 [長岡技術科学大学・情報・経営システム工学](#718bc1a3d7)  
-2020-11-30 [信州大学.通信システム分野](#409791d615)  
+2020-11-30 [<strike>長岡技術科学大学・情報・経営システム工学(better.at.1204)</strike>](#f6c3f2851b)  
+2020-11-30 [<strike>信州大学.通信システム分野(助教)</strike>](#6b485e1aec)  
 2020-11-30 [<strike>金沢大学・先端科学・社会共創推進機構・人材育成グループ</strike>](#ba663a9993)  
 2020-11-30 [<strike>金沢大学・先端科学・社会共創推進機構</strike>](#3e8e47f219)  
 2020-11-30 [<strike>京都大学・国際高等教育院附属データ科学イノベーション教育研究センター</strike>](#55c82ddb17)  
@@ -442,52 +442,13 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120081431&ln_jor=0&t
 
 ## <strike>金沢大学・先端科学・社会共創推進機構・人材育成グループ</strike>  (2020-11-30) <span id="ba663a9993"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 信州大学.通信システム分野  (2020-11-30) <span id="409791d615"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>信州大学.通信システム分野(助教)</strike>  (2020-11-30) <span id="6b485e1aec"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 34  
-id : D120091018 [UPDATE]  
-update : 2020年09月18日  
-univ : 信州大学.通信システム分野  
-title : 助教の公募(電子情報システム工学科通信システム分野)  
-field : 工学 - 通信工学 情報学 - 情報通信システム  
-post : 助教相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年11月30日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091018&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091018&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 長岡技術科学大学・情報・経営システム工学  (2020-11-30) <span id="718bc1a3d7"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 18  
-id : D120091301 [UPDATE]  
-update : 2020年09月30日  
-univ : 長岡技術科学大学・情報・経営システム工学  
-title : 情報・経営システム工学専攻　ヒューマン情報学講座，または，ソーシャル情報システム学講座　准教授  
-field : 情報学 - 情報学基礎 情報学 - 計算基盤 情報学 - 人間情報学  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年11月30日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091301&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091301&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>長岡技術科学大学・情報・経営システム工学(better.at.1204)</strike>  (2020-11-30) <span id="f6c3f2851b"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>東京大学・人間エネルギー環境学分野</strike>  (2020-11-30) <span id="8a765a3a6e"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 名古屋商科大学・情報  (2020-11-30) <span id="8ba5fdc674"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 53  
-id : D120101256 [NEW]  
-update : 2020年10月21日  
-univ : 名古屋商科大学・情報  
-title : 専任教員の公募（情報）  
-field : 情報学 - 全て 社会科学 - 全て  
-post : 教授相当 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年11月30日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101256&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101256&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>名古屋商科大学・情報(nolab)</strike>  (2020-11-30) <span id="de05684f07"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 東京工業大学・ソフトウェア工学分野  (2020-12-01) <span id="2035b98127"></span> <span style="color:#666;">[→top](#top)</span>
 
