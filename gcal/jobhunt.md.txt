@@ -132,14 +132,14 @@ this file is generated automatically, do not make manual changes to it!
 2020-11-30 [<strike>名古屋商科大学・情報(nolab)</strike>](#de05684f07)  
 2020-12-01 [<strike>東京工業大学・ソフトウェア工学分野</strike>](#11ecfe8a64)  
 2020-12-03 [<strike>広島工業大学・コンピュータシステム</strike>](#6238f6a583)  
+2020-12-04 [<strong>九州国際大学・ビジネスデータ分析</strong>](#3990b4d2ee)  
 2020-12-04 [<strong>長岡技術科学大学・情報通信制御システム工学講座</strong>](#0281f6d0a3)  
 2020-12-04 [<strike>岩手大学・情報基盤センター</strike>](#136bfdf8eb)  
-2020-12-04 [九州国際大学・ビジネスデータ分析](#0cdf25b703)  
-2020-12-05 [東京電機大学・情報システムデザイン](#c8cf3bebc9)  
-2020-12-05 [東京都市大学・情報科学科・計算機工学分野](#278c5c9f8b)  
+2020-12-05 [<strike>東京電機大学・情報システムデザイン</strike>](#f9cf6eaecc)  
+2020-12-05 [<strike>東京都市大学・情報科学科・計算機工学分野</strike>](#619d35df10)  
 2020-12-06 [神奈川工科大学・情報学部・情報メディア学科](#76dc27d809)  
 2020-12-07 [名古屋市立大学・情報環境デザイン領域](#0d6435b414)  
-2020-12-08 [データ同化研究チーム](#ec5fe532c5)  
+2020-12-08 [<strike>データ同化研究チーム</strike>](#99f589c998)  
 2020-12-09 [名古屋大学・システム研究所未来エレクトロニクス集積研究センター](#5a5c54ec96)  
 2020-12-11 [九州産業大学理工学部・機械工学科・メカトロニクス](#0e24bf70bc)  
 2020-12-14 [静岡理工科大学・電子情報分野](#e86784fc9e)  
@@ -451,54 +451,15 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120081431&ln_jor=0&t
 
 ## <strike>東京工業大学・ソフトウェア工学分野</strike>  (2020-12-01) <span id="11ecfe8a64"></span> <span style="color:#666;">[→top](#top)</span>
 
+## <strong>九州国際大学・ビジネスデータ分析</strong>  (2020-12-04) <span id="3990b4d2ee"></span> <span style="color:#666;">[→top](#top)</span>
+
 ## <strong>長岡技術科学大学・情報通信制御システム工学講座</strong>  (2020-12-04) <span id="0281f6d0a3"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## <strike>岩手大学・情報基盤センター</strike>  (2020-12-04) <span id="136bfdf8eb"></span> <span style="color:#666;">[→top](#top)</span>
 
-## 九州国際大学・ビジネスデータ分析  (2020-12-04) <span id="0cdf25b703"></span> <span style="color:#666;">[→top](#top)</span>
+## <strike>東京電機大学・情報システムデザイン</strike>  (2020-12-05) <span id="f9cf6eaecc"></span> <span style="color:#666;">[→top](#top)</span>
 
-no : 35  
-id : D120101527 [NEW]  
-update : 2020年10月24日  
-univ : 九州国際大学・ビジネスデータ分析  
-title : 教員の公募について【ビジネスデータ分析、マネジメント入門　教授、准教授または助教】  
-field : 情報学 - 情報学基礎  
-post : 教授相当 准教授・常勤専任講師相当 助教相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年12月04日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101527&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101527&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 東京電機大学・情報システムデザイン  (2020-12-05) <span id="c8cf3bebc9"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 41  
-id : D120091842 [NEW]  
-update : 2020年10月07日  
-univ : 東京電機大学・情報システムデザイン  
-title : 東京電機大学・理工学部理工学科・情報システムデザイン学系・准教授公募(情報学部門)  
-field : 情報学 - 情報学フロンティア 人文学 - 芸術学  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年12月05日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091842&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120091842&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## 東京都市大学・情報科学科・計算機工学分野  (2020-12-05) <span id="278c5c9f8b"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 23  
-id : D120111106 [NEW]  
-update : 2020年11月19日  
-univ : 東京都市大学・情報科学科・計算機工学分野  
-title : 情報科学科・准教授または講師（常勤）の公募（計算機工学分野）  
-field : 情報学 - 計算基盤 工学 - 電気電子工学  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年12月05日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120111106&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120111106&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>東京都市大学・情報科学科・計算機工学分野</strike>  (2020-12-05) <span id="619d35df10"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 神奈川工科大学・情報学部・情報メディア学科  (2020-12-06) <span id="76dc27d809"></span> <span style="color:#666;">[→top](#top)</span>
 
@@ -529,20 +490,7 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120090476&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## データ同化研究チーム  (2020-12-08) <span id="ec5fe532c5"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 20  
-id : D120101517 [NEW]  
-update : 2020年10月24日  
-univ : 国立研究開発法人理化学研究所  
-title : 研究員もしくは上級研究員（無期雇用職）募集（20K69）（データ同化研究チーム）  
-field : 情報学 - 計算基盤 数物系科学 - 地球惑星科学 総合理工 - 計算科学  
-post : 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2020年12月08日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101517&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120101517&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
+## <strike>データ同化研究チーム</strike>  (2020-12-08) <span id="99f589c998"></span> <span style="color:#666;">[→top](#top)</span>
 
 ## 名古屋大学・システム研究所未来エレクトロニクス集積研究センター  (2020-12-09) <span id="5a5c54ec96"></span> <span style="color:#666;">[→top](#top)</span>
 
