@@ -1,4 +1,6 @@
 
+Apologies for Cross-Posting
+********************************************************************************
 Call for Papers
 IEEE NetSoft 2021
 
@@ -9,6 +11,7 @@ June 28 - July 2, 2021, Tokyo, Japan
 
 http://ieee-netsoft.org
 
+
 ********************************************************************************
 
 ***Important Dates***
@@ -18,22 +21,34 @@ Camera-ready paper: April 11, 2021
 
 
 ***Scope***
-Over the years, software has become  the core value provider in the telecommuni-
-cations industry. Boosted by scientific breakthroughs, continuous innovation and
-stringent  requirements  for new services,  network softwarization  is currently
-transforming telecommunications  and networking industry and is bringing several
-opportunities, while raising new challenges from both conceptual and operational
+Over the years, software has become  the core value provider in the
+telecommuni-
+cations industry. Boosted by scientific breakthroughs, continuous
+innovation and
+stringent  requirements  for new services,  network softwarization  is
+currently
+transforming telecommunications  and networking industry and is bringing
+several
+opportunities, while raising new challenges from both conceptual and
+operational
 perspectives.
-To move ahead,  cognitive network softwarization,  NetSoft 2021 will serve  as a
-forum to discuss the latest advances in network softwarization technologies, AI-
-based software-defined networks, autonomic networking, intent/policy-based net-
-work management,  network slicing,  and other  related research areas  that are
+To move ahead,  cognitive network softwarization,  NetSoft 2021 will
+serve  as a
+forum to discuss the latest advances in network softwarization
+technologies, AI-
+based software-defined networks, autonomic networking,
+intent/policy-based net-
+work management,  network slicing,  and other  related research  areas
+that are
 anticipated to radically transform today’s networks.
-The need for  further advances in these topics is reflected in the overall theme
+The need for  further advances in these topics is reflected in the
+overall theme
 of NetSoft 2021: “Accelerating Network Softwarization in the Cognitive Age”.
 
-NetSoft 2021 will  feature technical paper  presentations, keynotes,  tutorials,
-workshops, demos and exhibitions from world-leading experts representing service
+NetSoft 2021 will  feature technical paper  presentations, keynotes,
+tutorials,
+workshops, demos and exhibitions from world-leading experts representing
+service
 providers, vendors, research institutes, open source projects, and academia.
 
 
@@ -72,28 +87,39 @@ The topics of interest include, but are not limited to:
 
 
 ***Paper Submission***
-Prospective authors are invited to submit high-quality original technical papers
-for presentation  at the conference and  publication  in the Proceedings  of the
-conference.  All submissions  must be  written in English  and must use standard
+Prospective authors are invited to submit high-quality original
+technical papers
+for presentation  at the conference and  publication  in the Proceedings
+of the
+conference.  All submissions  must be  written in English  and must use
+standard
 IEEE two-column conference template that can be downloaded from
 https://www.ieee.org/conferences/publishing/templates.html
 
-Technical Papers can be of two types: Full papers or Short papers, up to 9 pages
-and 5 pages respectively, including tables, figures and references.  Full papers
+Technical Papers can be of two types: Full papers or Short papers, up to
+9 pages
+and 5 pages respectively, including tables, figures and references.
+Full papers
 accepted as short papers will be required to be reduced to 5-pages length.
 
-Papers submitted should describe original, and not previously published research
-results, not currently  under review by  another conference or journal. All sub-
+Papers submitted should describe original, and not previously published
+research
+results, not currently  under review by  another conference or journal.
+All sub-
 mitted papers will be peer-reviewed.
 
-Only PDF files will be accepted for the review process, and all manuscripts must
+Only PDF files will be accepted for the review process, and all
+manuscripts must
 be electronically submitted through EDAS: https://edas.info/N27856
 
 ***Important***
-NetSoft 2021 is enforcing  a strict publication and no-show policy, as stated by
-IEEE. By submitting a contribution,  you agree with the terms of the publication
+NetSoft 2021 is enforcing  a strict publication and no-show policy, as
+stated by
+IEEE. By submitting a contribution,  you agree with the terms of the
+publication
 and no-show policy as mentioned here:
 https://netsoft2021.ieee-netsoft.org/authors/publication-and-no-show-policy/
+
 
 
 ***More details about submissions are available at:
@@ -108,4 +134,6 @@ Eiji Oki - Kyoto University, Japan
 ***General Co-Chairs***
 Kohei Shiomoto - Tokyo City University, Japan
 Young-Tak Kim - Yeungnam University, Korea
+
+
 

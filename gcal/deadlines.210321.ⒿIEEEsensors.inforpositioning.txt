@@ -1,0 +1,91 @@
+
+Accepted papers are immediately published on IEEE Xplore for early access.
+
+CALL FOR PAPERS
+
+IEEE Sensors Journal Special Issue on
+
+“Advanced Sensors and Sensing Technologies
+for indoor positioning and navigation”
+
+https://ieee-sensors.org/sensors-journal/sensors-journal-special-issues/
+
+
+Many services, such as personal navigation, search and rescue, robot and fleet
+management, healthcare would greatly benefit from ubiquitous, accurate, robust
+and seamless positioning  technologies. While mature GNSS  solutions exist for
+outdoor spaces,  more than ten  years of  research and development  of sensing
+technologies  have not  yet led  to a  widely available  offer of  generic and
+affordable standard  solutions for indoors.  Nonetheless, year after  year the
+insight that  researchers have  offered into  indoor localization  provides us
+with more  methods and the array  of usable sensors widens  with technological
+progress. Hybridization of sensors data,  smart capture of environmental data,
+benchmarking of sensing  and positioning technologies are all at  the heart of
+indoor positioning and indoor navigation innovations.
+
+This Special Issue of the IEEE  Sensors Journal is devoted to the presentation
+of innovations and  improvements in the field of advanced  sensors and sensing
+technologies for  indoor positioning and navigation  including theory, design,
+modelling,  configuration,  characterization,  sensor  data  processing,  data
+analysis, and applications.
+
+Original  research  contributions  and  review  papers  are  sought  in  areas
+including:
+
+• Sensors and sensing technologies for indoor navigation and tracking methods:
+AoA, TOF,  TDOA based localisation,  RSSI and magnetic  fingerprinting, PDR,
+IMU  and hybrid  systems,  UWB, ultrasound,  optical  systems, RFID,  radar,
+device-free systems, mapping, SLAM
+• Sensing frameworks and fusion for hybrid positioning
+• Cooperative sensing, machine learning systems
+• Sensors for building indoor maps and 3D models
+• Sensors for human motion monitoring and modelling
+• Sensors for robotics and UAV positioning and navigation
+• Sensors for  seamless systems: HS-GNSS,  indoor GNSS, pseudolites,  RTK GNSS
+with  handheld devices,  mitigating  GNSS error  when  switching to  indoor,
+industrial metrology & geodetic systems, iGPS
+• Self-contained sensors for positioning and navigation
+• Wearable and multi-sensor systems for indoor navigation and human motion
+• Sensing for location-based services and applications
+• Sensors benchmarking, assessment, evaluation, standards
+
+
+Solicited and invited  papers shall undergo the standard  IEEE Sensors Journal
+peer-review process. All  manuscripts must be submitted on-line,  via the IEEE
+Manuscript   Central™,   see  http://mc.manuscriptcentral.com/sensors.    When
+submitting,  please indicate  in the  “Manuscript Type”  dropdown menu  and by
+e-mail to  Leigh Ann Testa, testa.l@ieee.org,  that the paper is  intended for
+the  “Advanced Sensors  and Sensing  Technologies for  indoor positioning  and
+navigation”  Special Issue.  Authors  are particularly  encouraged to  suggest
+names of potential  reviewers for their manuscripts in the  space provided for
+these recommendations  in Manuscript  Central. For manuscript  preparation and
+submission, please follow the guidelines in the Information for Authors at the
+IEEE Sensors Journal web page, http://www.ieee-sensors.org/journals
+
+
+## Deadlines:
+
+Manuscript Submission:                          March 31, 2021
+Notification of Acceptance:                      July 31, 2021
+Final Manuscript published in IEEE Xplore:        October 2021
+
+
+## Guest Editors:
+
+Dr Valérie Renaudin             University Gustave Eiffel, France
+Francesco Potortì               ISTI - CNR, Italy
+Prof. Chan Gook Park            Seoul National University, Korea
+Prof. Jari Nurmi                Tampere University, Finland
+Prof. Masanori                  Sugimoto Hokkaido University, Japan
+Joaquín Torres-Sospedra         University Jaume I, Spain
+Dr Dongyan Wei                  Chinese Academy of Sciences, China
+Dr. Kyle O'Keefe                University of Calgary, Canada
+Prof. Stefan Knauth             Hochschule für Technik Stuttgart, Germany
+
+--
+Francesco Potortì (ricercatore)        Voice:  +39.050.621.3058
+ISTI - Area della ricerca CNR          Mobile: +39.348.8283.107
+via G. Moruzzi 1, I-56124 Pisa         Skype:  wnlabisti
+(gate 20, 1st floor, room C71)         Web:    http://fly.isti.cnr.it
+
+

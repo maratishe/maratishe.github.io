@@ -1,0 +1,96 @@
+
+IEEE INFOCOM 2021: Call for Demos and Posters
+The 40th Annual IEEE Conference on Computer Communications
+May 10-13, 2021, Virtual Conference
+https://infocom2021.ieee-infocom.org
+
+CALL FOR DEMOS and POSTERS
+Technical demonstrations and posters showing/presenting innovative and
+original research are solicited. In general IEEE INFOCOM is interested
+in demonstrations and posters of technology that validate important
+research issues or showcase realistic applications in the following
+topics of interest (but not limited to):
+•       Big data and data processing for networks
+•       Cellular networks
+•       Cloud computing
+•       Cognitive radio networks
+•       Cooperative networking
+•       Cross-layer optimization and control
+•       Crowdsourcing
+•       Cyber-physical systems
+•       Datacenter networking
+•       Delay tolerant networks
+•       Energy efficiency
+•       Fault tolerance, reliability and survivability
+•       Flow and congestion control
+•       Game theory in networks
+•       Information security and privacy
+•       Information centric networking
+•       Interference management and mitigation
+•       Internet of Things
+•       Localization and location-based services
+•       Medium access control
+•       MIMO-based networking
+•       Mobile cloud computing
+•       Mobility management and models
+•       Multimedia networking
+•       Network calculus
+•       Network coding
+•       Network economics and pricing
+•       Network management
+•       Network measurement and analysis
+•       Network security and privacy
+•       Network virtualization
+•       Optical networks
+•       Overlay and peer-to-peer networks
+•       Quality of Service and resource management
+•       Router and switch design
+•       Routing & Multicast
+•       Scaling laws and fundamental limits
+•       Scheduling and buffer management
+•       Smart antenna based networking
+•       Smart grid
+•       Smartphone and mobile applications
+•       Social computing and networks
+•       Software defined networking
+•       Tactile Internet
+•       Vehicular networks
+•       Web applications and content distribution
+•       WLAN, WPAN, RFID, and NFC
+•       Wireless security and privacy
+•       Wireless sensor networks
+
+DEMO and POSTER SUBMISSION INSTRUCTIONS
+Submissions should be a two-page abstract/proposal that follows the IEEE
+formatting guidelines: refer to the IEEE submission instructions for
+details. There is no need for double-blind submissions (names,
+affiliations, and email addresses are therefore required). Be as
+specific as possible in describing what you will demonstrate or display
+as poster or demo. In the submission, specify clearly whether you will
+be presenting a poster or a demo (the latter can be accompanied by a
+poster also). The demo/poster session will take place online. If a
+demonstration requires special arrangements or additional equipment,
+please detail it in the submission. All additional equipment/needs are
+subject to budget approval. Abstracts of accepted demos/posters will be
+included in the INFOCOM 2021 Proceedings. Accepted and presented
+abstracts will be submitted to IEEE Xplore®.
+
+Poster submissions should be made via EDAS using this link:
+https://edas.info/N28002
+
+Demo submissions should be made via EDAS using this link:
+https://edas.info/N28001
+
+
+IMPORTANT DATES
+Two-page demo (or poster) descriptions/proposal: 11:59 pm (EST), January
+15th, 2021
+Notification of acceptance: February 7, 2021
+IEEE INFOCOM 2021 Conference dates: May 10-13, 2021
+IEEE INFOCOM 2021 Demo/Posters Session Dates: to be announced
+
+IEEE INFOCOM 2021 Demo/Poster Co-Chairs:
+•       Linke Guo (Clemson University, USA) – linkeg@clemson.edu
+•       Bo Ji (Virginia Tech, USA) – boji@vt.edu
+
+

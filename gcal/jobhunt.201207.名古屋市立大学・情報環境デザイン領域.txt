@@ -1,9 +1,0 @@
-id : D120110270 [NEW]
-update : 2020年11月07日
-univ : 名古屋市立大学・情報環境デザイン領域
-title : 教員の公募について（情報環境デザイン領域）[公募期間延長]
-field : 工学 - 電気電子工学 情報学 - 全て
-post : 教授相当 准教授・常勤専任講師相当
-tenure : 常勤 (任期なし)
-deadline : 2020年12月07日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120110270&ln_jor=0&top_btn=1 ----------

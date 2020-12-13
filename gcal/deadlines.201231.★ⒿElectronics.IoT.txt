@@ -1,0 +1,50 @@
+
+Dear Colleagues,
+
+We are currently running a special issue titled “Meeting Challenges in IoT: Sensing, Energy Efficiency, and the Implementation”, on open access journal Electronics (IF 2.412, ISSN 2079-9292). Papers can be submitted at any time even before the deadline 31 July 2021. The paper submitted will be immediately entered into the review process and if the paper is accepted then the paper will be published first come first serve. The review will be delivered to the author in 2 weeks.
+
+
+Internet of Things has become very popular in recent years with great potential applications in everyday life. The fundamental feature of many IoT systems represents a network of interconnected smart objects that automatize and improve tasks and processes, creating a better world for human beings. The applications for IoT service scenarios are diverse and challenging. These range from smart energy, transportation, health systems, smart homes, etc. to big data, which gave rise to machine learning, deep learning, artificial intelligence systems. Integrating all these applications is essential to make everything smart. Topics of interest for publication include but are not limited to the following:
+
+Smart city theory, modeling, and simulation
+Cyber-Physical Systems (CPS) and smart cities
+Internet of Things for smart cities
+Communications and networking for smart cities
+Smart technologies, systems, and infrastructures for smart cities
+Ubiquitous sensing and urban analytics
+Big data analytics for smart cities
+Cloud computing for smart cities
+Cybersecurity and privacy for smart cities
+Intelligent Transportation Systems (ITS) improving mobility, safety, and environmental protection
+Smart energy/grid
+Smart building
+Smart living
+Smart healthcare and emergency management
+Smart environment and policy development
+Smart manufacturing and logistics
+Citizen engagement and smart governance
+Distributed optimization and control for interdependent infrastructure networks
+Modeling the social impact of smart technologies
+
+Please check detailed information about this special issue at the following link:
+https://www.mdpi.com/journal/electronics/special_issues/IoT_Sensing_Energy_Efficiency
+
+"/Electronics/ is fully open access. Manuscripts are peer-reviewed and a first decision provided to authors approximately 13.4 days after submission. An Article Processing Charge (APC) of 1500 CHF applies to all accepted papers. It has an IF of 2.412, ranking 125/266 (Q2) in 'Engineering, Electrical & Electronic' according to JCR report 2020." Please note that for papers submitted after 31 December 2020 an APC of 1800 CHF applies.
+
+
+I hope that you will be able to submit a paper to enrich this special issue and introduce your research to the Electronics journal's readers.
+
+Please get in touch if any questions (assistant editor: byron.yao@mdpi.com)
+
+Kind regards,
+
+Dr. Petar Šolić
+Dr. Toni Perković
+Dr. Solange Rito Lima
+Dr. Alfiero Leoni
+Guest Editors
+
+
+
+
+

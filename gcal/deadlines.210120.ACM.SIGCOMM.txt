@@ -1,0 +1,79 @@
+
+(apologies for cross-posting)
+
+ACM SIGCOMM 2021
+August 23–27, 2021
+Virtual Event
+http://conferences.sigcomm.org/sigcomm/2021/
+
+***Important dates***
+-       Jan 20, 2021, 16:59 EST -- Abstract registration deadline
+-       Jan 27, 2021, 16:59 EST -- Paper submission deadline
+-       May 3, 2021 (tentative) -- Notification date
+
+
+***Call for Papers***
+
+The ACM SIGCOMM 2021 conference seeks papers describing significant research contributions to the field of communication networks and networked systems.
+SIGCOMM takes a broad view of networking research, which includes (but is not limited to) the following topics:
+
+-       All types of computer networks such as mobile, wide-area, data-center, embedded, home, and enterprise networks.
+-       All types of wired and wireless technologies, including optics, and acoustic and visible light-based communication.
+-       All aspects of networks and networked systems such as architecture, packet-processing hardware and software, virtualization, mobility, resource management, performance, energy consumption, topology, robustness, security, diagnosis, verification, privacy, economics and evolution, and interactions with applications.
+-       All types of computer network design, analysis, and experimental approaches such as theory, measurements, and machine learning-based techniques.
+
+We want each SIGCOMM paper to significantly advance the state-of-the-art in networking by, for instance, proposing and developing novel ideas or rigorously (re-)evaluating existing ideas. The review process will take the nature of the contribution into account. We strongly encourage authors to discuss not only the benefits but also the limitations of their work.
+
+SIGCOMM 2021 will accept submissions to the ***experience track*** in addition to the regular research track. Submissions to the experience track describe the design, analysis, and evaluation of techniques in commercial or otherwise widely-used deployment. Experience track submissions need not describe new ideas, but are strongly encouraged to elucidate key insights and takeaways gathered from design, deployment, or operational experience. The PC will evaluate experience-track submissions with the understanding that the primary contributions may be in extending the SIGCOMM community’s knowledge of how known techniques fare when adapted to real-world settings, and particularly in settings that most in the community cannot duplicate, for reasons of scale or otherwise. At paper registration time, authors must explicitly indicate both in their paper title and submission form if their paper is to be considered for the experience or regular research track. Submissions to the experience track should also be double-blind. However, given the nature of these papers, it is OK to reveal company or system name but NOT author names. Each submission will only be considered for one track – either the experience or the research track, but not both – in accordance with the authors’ preference expressed at submission time. The final conference program will not preserve the distinction between the two tracks.
+
+In addition to the main conference, SIGCOMM 2021 will have a series of co-located workshops, tutorials, poster and demo sessions, and conference best paper and SIGCOMM awards.
+
+
+***Submissions***
+
+Papers submitted to SIGCOMM typically report novel results firmly substantiated by experimentation, deployment, simulation, or analysis. The program committee will judge submissions based upon novelty, significance, correctness, clarity of presentation, and relevance to the SIGCOMM community. All accepted papers will be shepherded by a member of the program committee.
+
+Submissions should be in two-column, 10-point format, and can be up to 12 pages in length with as many additional pages as necessary for references and optional appendices.
+
+Submissions and final papers may include appendices (following references, not counting against the 12 pages). Reviewers are not required to read appendices or consider them in their review. Authors should thus ensure that the core paper is complete and self-contained. For example, if the appendix provides details of a proof or experiment, the body should summarize the key result. For accepted papers, the shepherd will review appendices and must approve their need. Appendices may also include non-traditional material, such as videos, datasets, and code, all appropriately anonymized.
+
+NOTE: For accepted papers, the official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work. (For those rare conferences whose proceedings are published in the ACM Digital Library after the conference is over, the official publication date remains the first day of the conference.)
+
+Detailed submission instructions can be found here -- http://conferences.sigcomm.org/sigcomm/2021/submission.html
+
+Submission site: https://sigcomm2021.hotcrp.com
+
+
+***Artifact Evaluation for Accepted Papers***
+
+The authors of accepted SIGCOMM 2021 papers will be invited to submit supporting materials to the Artifact Evaluation process. Artifact Evaluation is run by a separate committee that will assess how well the submitted artifacts support the work described in the accepted papers. Participation in Artifact Evaluation is voluntary but strongly encouraged and it has no influence on the final decision regarding the papers. Papers that go through the Artifact Evaluation process successfully will receive badges printed on the papers themselves. Additional details on the Artifact Evaluation process can be found here -- https://www.acm.org/publications/policies/artifact-review-badging
+
+
+***Public Summaries for Accepted Papers***
+
+The SIGCOMM 2021 program will feature public summaries accompanying each accepted paper. In most cases, the summary will be written by the paper’s shepherd and will provide an overview of the problem addressed in the paper and its solution, and highlight interesting future questions that arise. The summary may additionally explain aspects of the paper the reviewers particularly liked. Summaries will be published along with the papers in the ACM Digital Library.
+
+
+***Ethical Concerns***
+
+All papers must include, in the main body of the paper, a statement about ethical issues; papers that don’t include such a statement may be rejected. This could be, if appropriate for the paper, simply the sentence “This work does not raise any ethical issues.” If the work involves human subjects or potentially sensitive data (e.g., user traffic or social network information, evaluation of censorship, etc.), the paper should clearly discuss these issues, perhaps in a separate subsection.
+
+Papers must follow basic precepts of ethical research and subscribe to community norms. These include respect for privacy, secure storage of sensitive data, voluntary and informed consent if human subjects are involved or other people are placed at risk, avoiding deceptive practices when not essential, beneficence (maximizing the benefits to an individual or to society while minimizing potential harm to an individual), and risk mitigation. Authors may want to consult the Menlo Report (https://www.caida.org/publications/papers/2012/menlo_report_actual_formatted/) and the ACM ethics policy (https://www.acm.org/code-of-ethics) for further information on ethical principles, and they may find the Allman/Paxson paper in IMC 2007 (http://conferences.sigcomm.org/imc/2007/papers/imc80.pdf) helpful for a perspective on ethical data sharing.
+
+Many organizations have an ethics review process (sometimes called an Institutional Review Board, IRB). In some cases, research work may clearly have no human subjects, and formal institutional review may not be required. (However, a sentence in the paper stating this evaluation is still required.) In many cases, IRB involvement is appropriate. IRB approval of research is an important factor (and should be mentioned), but the program committee will independently evaluate the ethical soundness of the work just as they evaluate its technical soundness.
+
+The PC takes a broad view of what constitutes an ethical concern, and the PC chairs may reach out to authors during the review process if questions arise.
+
+You can contact the PC chairs at akella@cs.wisc.edu and nanditad@google.com
+
+
+***Organizing Committee***
+
+General Chairs
+-       Fernando Kuipers, Delft University of Technology
+-       Matthew Caesar, University of Illinois at Urbana-Champaign
+
+Program Committee Chairs
+-       Aditya Akella, University of Wisconsin–Madison
+-       Nandita Dukkipati, Google
+
