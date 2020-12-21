@@ -1,0 +1,10 @@
+no : 46
+id : D120121425 [NEW]
+update : 2020年12月19日
+univ : 北海道大学・メディアネットワーク部門・情報通信システム学分野・教授
+title : 教員の公募（メディアネットワーク部門・情報通信システム学分野・教授）
+field : 工学 - 電気電子工学 その他 - 信号処理・アンテナ・通信方式・情報理論
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月19日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121425&ln_jor=0&top_btn=1 ----------

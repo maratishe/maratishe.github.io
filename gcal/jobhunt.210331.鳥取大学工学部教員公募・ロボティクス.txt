@@ -1,0 +1,10 @@
+no : 35
+id : D120120520 [NEW]
+update : 2020年12月09日
+univ : 鳥取大学
+title : 鳥取大学工学部教員公募・ロボティクス
+field : 工学 - 機械工学 工学 - 総合工学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120120520&ln_jor=0&top_btn=1 ----------

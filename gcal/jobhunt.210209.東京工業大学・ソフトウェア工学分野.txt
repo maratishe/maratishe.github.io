@@ -1,0 +1,10 @@
+no : 38
+id : D120120565 [NEW]
+update : 2020年12月10日
+univ : 東京工業大学・ソフトウェア工学分野
+title : 教授の公募（ソフトウェア工学分野）
+field : 情報学 - 全て
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年02月09日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120120565&ln_jor=0&top_btn=1 ----------
