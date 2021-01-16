@@ -1,0 +1,10 @@
+no : 20
+id : D120120987 
+update : 2020年12月15日
+univ : 静岡理工科大学・講師・准教授・または教授の公募（電子機械制御分野）
+title : 講師・准教授・または教授の公募（電子機械制御分野）
+field : 工学 - 電気電子工学
+post : 准教授・常勤専任講師相当 -- 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年02月01日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120120987&ln_jor=0&top_btn=1

@@ -1,0 +1,21 @@
+no : 27
+id : D120121844 [NEW]
+update : 2020年12月25日
+univ : 国際基督教大学・人間情報学・情報学フロンティア
+title : 人間情報学、情報学フロンティア（生命・健康・医療情報学）（准教授、教授公募）
+field : 情報学 - 全て
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年02月28日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121844&ln_jor=0&top_btn=1 ----------
+
+no : 56
+id : D120121872 [NEW]
+update : 2020年12月25日
+univ : 国際基督教大学
+title : 情報学基礎、計算基盤（准教授、教授公募）
+field : 情報学 - 全て
+post : 教授相当 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年02月28日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121872&ln_jor=0&top_btn=1 ----------

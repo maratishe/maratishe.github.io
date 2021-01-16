@@ -1,0 +1,10 @@
+no : 65
+id : D120121666 [NEW]
+update : 2020年12月23日
+univ : 大阪大学・機械工学・情報学
+title : 大阪大学 工学研究科 機械工学専攻・教授公募
+field : 工学 - 機械工学 情報学 - 全て 複合領域 - 全て
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年02月25日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121666&ln_jor=0&top_btn=1 ----------

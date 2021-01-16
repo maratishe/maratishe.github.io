@@ -1,5 +1,5 @@
 <?php
-ini_set( 'memory_limit', '4000M');
+ini_set( 'memory_limit', '20000M');
 $CLASS = 'todotxt'; class todotxt { // USER code 
 	public $silent = false;
 	public function __construct( $silent = false) { $this->silent = $silent; }
@@ -41,33 +41,28 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 	}
 	// SECTION: manual labor automation
 	public function jobhunt( $in = 'jobhunt.txt', $reject= 'jobhunt.reject.txt') { // jobhunt.reject.txt should be in multi-part key per line format
-		$blocks = array(); $block = array(); extract( fpathparse( $in)); $L = file( $in); 
+		$blocks = array(); $block = array(); extract( fpathparse( $in)); $in = fopen( $in, 'r'); 
 		// map: no, id, update, univ, title, field, post, tenure, deadline, url
 		$map = tth( 'No.=no,データ番号=id,更新日=update,機関名=univ,タイトル=title,研究分野=field,職種=post,勤務形態=tenure,募集終了日=deadline,ＵＲＬ=url');
-		while ( count( $L)) { 
-			$v = trim( lshift( $L)); if ( ! $v) continue; 
+		while ( ! feof( $in)) { 
+			$v = trim( fgets( $in)); if ( ! $v) continue; 
 			if ( strpos( $v, 'No.') !== 0) continue; $block = array( $v); //echo "RAW   $v   "; 
-			while ( count( $L)) { 
-				$v = trim( lshift( $L));       
-				while( count( $L)) { // collect all further lines within the block
-					$iskey = false; foreach ( $map as $k2 => $v2) if ( count( ttl( lfirst( $L), '：')) > 1 && lshift( ttl( lfirst( $L), '：')) == $k2) $iskey = true; 
-					if ( $iskey) break; // next key
-					$v .= ' ' . trim( lshift( $L));
-				}
-				lpush( $block, ltt( ttl( $v, ' '), ' '));  if ( strpos( $v, 'ＵＲＬ') !== 0) continue; //echo substr( $v, 0, 40) . "...\n"; 
-				break; 
-			}
+			while ( ! feof( $in)) { $v2 = trim( fgets( $in)); if ( ! trim( $v2)) continue; lpush( $block, $v2); if ( strpos( $v2, 'ＵＲＬ') === 0) break; }
+			$changed = true; while ( $changed) { $changed = false; for ( $i = 1; $i < count( $block); $i++) { 
+				foreach ( $map as $k3 => $v3) if ( count( ttl( $block[ $i], '：')) < 2 || ! isset( $map[ lshift( ttl( $block[ $i], '：'))])) { $changed = true; $block[ $i - 1] .= ' -- ' . $block[ $i]; unset( $block[ $i]); break; }
+				$block = hv( $block);
+			}}
 			if ( $block) lpush( $blocks, $block);
 		}
-		$H = array(); $stats = array(); $A = array(); // { tag: { key: count, ...}, ...}
+		fclose( $in); $H = array(); $stats = array(); $A = array(); // { tag: { key: count, ...}, ...}
 		if ( is_file( $reject)) $reject = file( $reject); else $reject = null; if ( $reject) foreach ( $reject as $i => $v) $reject[ $i] = trim( $v); if ( $reject) $reject = hvak( $reject); 
 		foreach ( $blocks as $block) { $h = array(); foreach ( $block as $v) { 
 			//die( " v[$v] in block  " . implode( "\n", $block)); 
 			$v = trim( $v); if ( ! $v) continue; $L = ttl( $v, '：'); $k = lshift( $L); $v = $L; 
 			$K = null; if ( isset( $map[ "$k"])) $K = $map[ "$k"]; if ( ! $K) die( " ERROR! no map for key[$k] in block " . implode( "\n", $block) . "\n"); 
-			if ( $K == 'id') $v = array( lshift( $L)); $V = ltt( $v, ' '); 
+			if ( $K == 'id') $v = array( lshift( $L)); $V = str_replace( '[UPDATE]', '', str_replace( '[NEW]', '', ltt( $v, ' '))); 
 			$h[ "$K"] = $V; htouch( $stats, "$K"); htouch( $stats[ "$K"], "$V", 0, false, false); $stats[ "$K"][ "$V"]++; 
-		}; extract( $h); $k = "$id $univ $title $field $tenure $deadline"; if ( $reject && isset( $reject[ "$k"])) { echo "REJECT  $k \n"; continue; }; $H[ "$k"] = $h; }
+		}; extract( $h); $k = "$univ  $title  $field  $tenure  $deadline"; if ( $reject && isset( $reject[ "$k"])) { echo "REJECT  $k \n"; continue; }; $H[ "$k"] = $h; } // 210115 removed $id
 		// there is a reject list, output only the non-rejected data
 		if ( $reject) echo "\n\n\n"; 
 		if ( $reject) foreach ( $H as $k => $h) { echo "\n"; foreach ( $h as $k2 => $v2) echo "$k2 : $v2\n"; }
@@ -131,7 +126,7 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 		fwrite( $out, "# $calendar <span id=" . strdblquote( 'top') . "></span>\n\n"); 
 		fwrite( $out, '<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">' . "\n\n");
 		fwrite( $out, "this file is generated automatically, do not make manual changes to it!\n\n"); 
-		$bywhen = array(); $H = jsonload( "$calendar.json"); 
+		$bywhen = array(); $H = jsonload( "$calendar.json"); krsort( $H); // sort in reverse order
 		foreach ( $H as $k => $h) { extract( $h); if ( substr( $title, 0, 1) == '-') $title = '<strike>' . substr( $title, 1) . '</strike>'; if ( substr( $title, 0, 1) == '+') $title = '<strong>' . substr( $title, 1) . '</strong>'; $H[ "$k"][ 'title'] = $title; }
 		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = lshift( ttl( $when, ' ')); }
 		asort( $bywhen); foreach ( $bywhen as $k => $when3) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "$when3 [$title](#" . $keymap[ "$k"] . ")  \n"); }
