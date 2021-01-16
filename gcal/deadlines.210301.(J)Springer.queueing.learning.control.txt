@@ -1,0 +1,48 @@
+Dear Colleague,
+
+Queueing Systems: Theory and Applications (QUESTA) will be hosting a special issue on "Learning and Control in Stochastic Networks" with a submission deadline on March 1, 2021. Details below.
+
+Background and Scope: The theory of stochastic networks and their control is undergoing a phase of exciting collaborative growth with modern machine learning and artificial intelligence techniques, fueled by several new applications.
+
+On the one hand, recent years have seen a surge of interest in the application of machine learning techniques to the control of stochastic networks arising in modern communications applications like cloud computing and data centers, the goal being to design agile control mechanisms that operate under minimal informational assumptions and that adapt to changes in system characteristics over time.
+
+On the other hand, stochastic networks have emerged as a powerful modeling paradigm for addressing operational questions of matching demand and supply in modern platforms and marketplaces. Examples include ride-sharing platforms, labor platforms, energy markets, etc. A key value proposition of these platforms is the ability to learn from the tremendous amount of transactional data being generated to predict and mitigate supply-demand imbalances, and to recommend and make higher value matches than would otherwise be possible without centralized recommendations and/or matchmaking. Realizing this value proposition requires network control mechanisms that seamlessly assimilate information from data while being robust to strategic concerns.
+
+These developments have led to a growing body of literature on the control of stochastic networks with novel architectures and at the interface of these control mechanisms with machine learning and strategic behavior. The special issue invites papers addressing novel technical challenges in this domain with direct applications to practice.
+
+More details: https://www.springer.com/journal/11134/updates/17587628
+
+
+
+
+Guest Editors:
+Rahul Jain (USC)
+Vijay Kamble (UIC)
+Sanjay Shakkottai (UT Austin)
+Jiaming Xu (Duke)
+
+
+Important Dates:
+
+Submission deadline: March 1, 2021
+1st reviews sent: Aug 31, 2021
+Revision deadline: Nov 30, 2021
+Final decisions: April 1, 2022
+Publication date: May 2022
+
+
+Best regards,
+Vijay Kamble
+
+(on behalf of the editorial board)
+
+
+Vijay Kamble
+
+Assistant Professor
+Information and Decision Sciences
+Computer Science (by courtesy)
+University of Illinois at Chicago
+kamble@uic.edu
+vijaykamble.com
+

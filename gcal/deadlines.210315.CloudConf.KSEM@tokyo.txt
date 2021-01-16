@@ -1,0 +1,72 @@
+The 14th International Conference on Knowledge Science, Engineering and Management (KSEM 2021)
+Tokyo, Japan | August 14-16, 2021.
+
+Conference Website
+http://www.cloud-conf.net/ksem21/index.html
+
+KSEM 2021 is the Fourthteen in this series, which builds on the success of twelve previous events of the International Conference on Knowledge Science. The aim of this interdisciplinary conference is to provide a forum for researchers in the broad areas of knowledge science, knowledge engineering, and knowledge management to exchange ideas and to report state of the art research results. KSEM is in the list of CCF (China Computer Federation) recommended Conferences (C series, Artificial Intelligence)
+
+=============================
+Call for Papers
+=============================
+The conference committee invites submissions of applied or theoretical research as well as of application-oriented papers on all the topics of KSEM. Topics include, but are not limited to the following:
+
+Knowledge Science
+• Knowledge representation and reasoning
+• Logics of knowledge; formal analysis of knowledge; reasoning about knowledge
+• Knowledge complexity and knowledge metrics
+• Common sense knowledge; non-monotonic reasoning
+• Uncertainty in knowledge (randomness, fuzziness, roughness, vagueness)
+• Machine learning
+• Formal ontologies
+• Integration of machine learning and knowledge representation
+• Reasoning about knowledge in the presence of inconsistency, incompleteness and context-dependency
+• Belief revision and updates
+• Cognitive foundations of knowledge
+• Knowledge in complex systems (e.g. economical and quantum systems)
+• Game-theoretical aspects of knowledge; knowledge in multi-agent systems
+
+Knowledge Engineering
+• Knowledge extraction from texts/big data/Web
+• Knowledge discovery from very large databases
+• Knowledge integration
+• Knowledge-based software engineering
+• Knowledge-based systems in life sciences
+• Conceptual modelling in knowledge-based systems
+• Semantic database systems
+• Semantic Web: Content and ontological engineering
+• Knowledge engineering applications
+
+Knowledge Management
+• Knowledge creation and acquisition
+• Knowledge verification and validation
+• Knowledge dissemination
+• Knowledge management systems
+• Knowledge and data integration
+• Knowledge adaptation
+• Knowledge management best practices and applications
+
+Knowledge Graphs
+• Probabilistic Knowledge Graphs
+• Knowledge graph construction
+• Knowledge graph query
+• Knowledge graph storage, query and management
+• Learning on knowledge graphs
+• Knowledge graph embedding
+• Knowledge graph completion
+
+=============================
+Important Dates
+=============================
+Paper submission: March 15, 2021
+Author notification: June 1, 2021
+Camera-Ready: June 20, 2021
+Registration: June 20, 2021
+Conference date: August 14-16, 2021
+
+
+Conference Website http://www.cloud-conf.net/ksem21/index.html
+
+
+
+

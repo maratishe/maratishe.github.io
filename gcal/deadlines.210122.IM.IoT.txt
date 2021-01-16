@@ -1,0 +1,53 @@
+Extended deadline January 22, 2020
+
+The 1st IEEE/IFIP International Workshop on Internet of Things Management
+(https://manage-iot.future-iot.org/)
+co-located with
+IFIP/IEEE International Symposium on Integrated Network Management (IM 2021).
+17-21 May 2021// Bordeaux, France
+(https://im2021.ieee-im.org/)
+
+
+Scope and topics of the workshop
+
+The Internet of Things (IoT) emerges as a major architectural paradigm for achieving machine-to-machine (M2M) communication. The fundamental principle behind IoT is the concept of a “resource” (or a “thing”), that serves as an abstraction of a basic unit that interacts with its environment, and is capable of providing services, data and control elements to other internetworked resources. Many IoT scenarios can be characterized by lots of (small) traffic, lots of entities, strong heterogeneity in links and device capabilities, strong distribution, and highly sensitive data. Individual nodes have limited compute resources and on-device storage (e.g., consider Raspberry Pi single board computers). Their connectivity is often constrained by factors such as the presence of NATs and firewalls, power constraints, and intermittent network access.
+
+Managing IoT-based systems is complex and exciting. Though being an evolution from classical management, managing IoT things is still disruptive as classical assumptions about connectivity, compute resources, or usage patterns do not hold anymore.
+
+The manage-IoT workshop focuses on management methodologies for the Internet of Things. Topics of interest include:
+
+Resource management
+Managing   Internet   of   things   devices   and   gateways
+Access arbitration to IoT sensors and actuators
+Managing sensors
+Data Management in IoT Systems
+Semantic Modelling of IoT Systems
+Information models/ Domain Specific Languages
+Service Management
+Modular Management
+Autonomous Management including MAPE-K
+IoT runtime environments
+Service Discovery
+Building Blocks
+Machine Learning
+Self-Adapting Systems
+Data Analytics
+Reasoning and Orchestration
+Security and Privacy
+Data and device security
+Privacy protection methodologies.
+Trust management
+Validation and Verification of data and functionality
+Resilience, Survivability, and Dependability
+Other aspects relevant to manage IoT systems
+General Chair
+Marc-Oliver Pahl, IMT Atlantique, Rennes, France
+Hanan Lutfiyya, University of Western Ontario, Canada
+
+Important Dates
+Paper submission deadline: January 22, 2021 (extended)
+Paper acceptance notification: February 18, 2021
+Camera-ready version due: March 5, 2021
+
+
+

@@ -1,0 +1,106 @@
+CALL FOR PAPERS
+International Workshop on Big Data in Emergent Distributed Environments (BiDEDE 2021)
+
+In conjunction with ACM SIGMOD 2021
+
+June 20, 2021, online
+Submission: February 4, 2021
+
+Web: http://www.ifis.uni-luebeck.de/~groppe/bidede
+*************************************************************************************
+
+** Aims of the Workshop **
+
+Today, new forms of distributed environments beyond Cloud Computing occur that offer new kinds of applications, but pose new challenges for data management. The recent efforts for serverless computing aim at simplifying the process of deploying code in the Cloud into production by hiding scaling, capacity planning and maintenance operations from the developer or operator. Other initiatives work on avoiding the communication to the Cloud by deploying and running environments for data processing near data sources in Internet-of-Things scenarios (e.g., fog and edge computing) for large-scale smart homes, companies and cities, and near the applications (e.g., Cloudlets for mobile applications and Offline First technologies for web applications).
+
+Research on distributed data management evolves addressing new challenges specific to these new environments. Properties of emergent distributed environments regarding capabilities of nodes, bandwidth for communication, battery lifetime of nodes, reliability of nodes and communication, and heterogeneity of configurations impact data management mechanisms and approaches, such as those for fault tolerance, replication, resource provisioning, buffer management, query processing and optimization, and transaction management. In addition, federated approaches and polystores spanning over several emergent distributed environments are also remaining research challenges based on the need for combining these different distributed environments into one distributed runtime environment for easy handling of Big Data in different models and globally optimizing data management tasks across these different environments.
+
+The goal of this workshop is to bring together academic researchers and industry practitioners to address the challenges and report and exchange the research findings in Big Data in emergent distributed environments, including new approaches, techniques and applications, make substantial theoretical and empirical contributions to, and significantly advance the state of the art of Big Data in emergent distributed environments.
+
+** Categories of Papers **
+
+The workshop solicits papers of different categories:
+- Research Papers propose new approaches, theories or techniques related to Big Data in emergent distributed environments including new data structures, protocols and algorithms. They should make substantial theoretical and empirical contributions to the research field.
+- System Papers describe new data management tools, stream processing engines, databases and other systems, which are able to handle Big Data in emergent distributed environments.
+- Experiments and Analysis Papers focus on the experimental evaluation of existing approaches including data structures and algorithms for Big Data in emergent distributed environments and bring new insights through the analysis of these experiments. Results of Experiments and Analysis Papers can be, for example, showing benefits of well-known approaches in new settings and environments, opening new research problems by demonstrating unexpected behavior or phenomena, or comparing a set of traditional approaches in an experimental survey.
+- Application Papers report practical experiences on applications of Big Data in emergent distributed environments. Application Papers might describe how to apply technologies to specific application domains with big data demands in emergent distributed environments like social networks, web search, e-business, collaborative environments, e-learning, medical informatics, bioinformatics and geographic information system.
+- Vision Papers identify emerging new or future research issues and directions, and describe new research visions having demands for Big Data in emergent distributed environments. The new visions will potentially have great impacts on society.
+- Demo Papers deal with innovative systems and applications for Big Data in emergent distributed environments. These papers describe a showcase of the proposed system/application, but may also explain the novelty of the system's architecture. We are especially interested in demonstrations having a WOW-effect.
+The length of papers must be within 4 pages to 6 pages. Accepted papers will be presented as oral presentations.
+
+
+** Topics of Interest **
+
+We are interested in all issues concerning the management of data to be processed in emergent distributed environments such as the following:
+- Cloud Computing
+- Serverless Computing
+- Cloud Functions
+- App Engines
+- Cloud Runs
+- Post-Cloud Computing
+- Cloudlet
+- Fog Computing
+- Edge Computing
+- Dew Computing
+- Offline First
+- Smart Home/Companies/Cities
+
+The Data Management issues to be solved in the emergent distributed environments include, but are not limited to, the following:
+- Query Processing and Optimization
+- Transaction Management
+- Fault Tolerance Mechanisms
+- Cloud Data Warehouses
+- Distributed Databases
+- Federation/Polystore Architectures
+- Data Lakes
+- Artificial Intelligence in Big Data Environments
+- Interactive Data Analytics and Big Data Science
+
+
+** Workshop Chairs **
+
+- Sven Groppe, University of Luebeck, Germany
+- Le Gruenwald, University of Oklahoma, USA
+- Ching-Hsien Hsu, Asia University, Taiwan
+
+
+** Program Committee **
+
+- Ahmed S. Abdelhamid, Purdue University, USA
+- Ehab Abdelhamid, Datometry, Inc.,  USA
+- Mithun Balakrishna, Lymba Corporation, USA
+- Brad Glasbergen, University of Waterloo,  USA
+- Jinghua Groppe, University of Luebeck, Germany
+- Ekaterini Ioannou, Tilburg University
+- Alekh Jindal, Microsoft, USA
+- Ioannis Kontopoulos, Harokopio University of Athens, Greece
+- Isaac Lera, Universitat de les Illes Balears, Spain
+- Xiang Lian, Kent State University, USA
+- Qing Liu, Data61, CSIRO, Australia
+- Renato Marroquin, Oracle
+- Gourab Mitra, Datometry, Inc.,  USA
+- Ingo Mueller, ETH Zurich,  Switzerland
+- Grazyna Paliwoda-Pekosz, Cracow University of Economics, Poland
+- Alfredo Pulvirenti, University of Catania, Italy
+- Praveen Rao, University of Missouri-Columbia, USA
+- Arjun Satish, Confluent Inc., USA
+- Omair Shafiq, Carleton University, Canada
+- Katja Gilly de La Sierra-Llamazares, Miguel Hernandez University, Spain
+- Marta Tatu, Lymba Corporation, USA
+- Konstantinos Tserpes, Harokopio University of Athens, Greece
+- Benjamin Warnke, University of Luebeck, Germany
+- Robert Wrembel, Poznan University of Technology, Poland
+- Chenggang Wu, UC Berkeley, USA
+- Steffen Zeuch, Technische Universitaet Berlin, Germany
+- Yi Zhang, University of Pennsylvania,  USA
+- Xiang Zhao, National University of Defense Technology, China
+- Zhuoyue Zhao, University of Utah,  USA
+
+
+** Important Dates **
+
+Submission: February 4, 2021
+Notification: March 31, 2021
+Workshop: June 20, 2021
+
+

@@ -1,0 +1,32 @@
+The 7th IEEE International Conference on High Performance and Smart Computing (IEEE HPSC 2021)
+May 15-17, New York, USA
+http://www.cloud-conf.net/datasec/2021/hpsc/index.html
+
+--------------------------------------------------------------------------
+IMPORTANT DATES
+Paper submission: February 1, 2021
+Author notification: March 20, 2021
+Camera-Ready: April 5, 2021
+Registration: April 5, 2021
+Conference date: May 15-17, 2021
+
+--------------------------------------------------------------------------
+Call for Papers
+High performance and smart computing (HPSC) is getting more and more attention due to the rapid development of computing and communication techniques. From national governments and industry players to consumer level demand, interest in high performance and smart computing has emerged from many different stakeholders. As a promising technology, high performance computing is playing an important role not only in the traditional computer science domain but also in new branches such as the Internet of Things, unmanned vehicles, and topics in artificial intelligent. Smart computing, as another significant aspect, provides solutions for complicated computing problems.
+
+The 7th IEEE International Conference on High Performance and Smart Computing (IEEE HPSC 2021) is a research event cooperated with a number of conferences, such as IEEE BigDataSecurity 2021 and IEEE IDS 2021. This conference provides engineers and scientists in computing domain with an academic forum in which the new research achievements, ideas, and results are shared. The state-of-the-art smart computing applications and experiences in cloud computing and smart computing will be represented in this academic event. IEEE HPSC 2021 is the next edition of a series of successful academic events, including HPSC 2015 (New York, USA), HPSC 2016 (New York, USA), HPSC 2017 (Beijing, China), HPSC 2018 (Omaha, USA), HPSC 2019 (Washington DC, USA), and HPSC 2020 (Baltimore, USA).
+
+
+--------------------------------------------------------------------------
+
+Co-located Events
+
+IEEE HPSC 2021 is co-located with a number of academic events, which include:
+
+The 7th IEEE International Conference on Big Data Security on Cloud (IEEE BigDataSecurity 2021)
+The 6th IEEE International Conference on Intelligent Data and Security (IEEE IDS 2021)
+
+--------------------------------------------------------------------------
+The conference proceedings will be submitted to IEEE Xplore.
+
+

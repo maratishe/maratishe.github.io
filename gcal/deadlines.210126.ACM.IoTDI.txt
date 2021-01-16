@@ -1,0 +1,39 @@
+Call for Posters/Demos
+
+The ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI) welcomes extended abstracts for presentation as posters and demos. We seek provocative ideas that challenge existing approaches to IoT design and implementation, abstracts that sketch intriguing IoT systems and share preliminary results and exciting demonstrations of novel IoT technology, applications and hardware. We invite contributions from researchers and practitioners from industry and academia. IoTDI 2021 will be part of CPS-IoT Week in Nashville, Tennessee, USA. Topics of interest include, but are not limited to:
+
+Analytic foundations and theory of IoT
+Reliability, security, timeliness, and robustness in IoT systems
+Novel protocols and network abstractions
+Data streaming architectures and machine learning analytics for IoT
+IoT-motivated cyber-physical and Industrial IoT (IIoT) systems
+Novel quality requirements and their enforcement mechanisms
+Cloud back-ends and resource management for IoT applications
+Edge and fog computing
+Personal, wearable, and other embedded networked front-ends
+Social computing and human-in-the-loop issues
+Applications domains (e.g., smart cities, smart health, smart buildings, smart transportation)
+Deployment experiences, case studies & lessons learned
+Evaluation and testbeds
+AI/ML for IoT & Embedded Systems
+Energy/Power Management & Harvesting for IoT Platforms
+The 2-page extended abstract describing the poster or demo will be evaluated based on technical merit, innovation, and the potential to stimulate lively discussions at the conference. Accepted abstracts will appear in the conference proceedings. At least one author of each accepted abstract must register and present the poster/demo at the conference.
+
+Poster/demo of IoTDI will be coordinated with IPSN (e.g., through a shared Madness session) to encourage visibility and cross-fertilization of ideas across the attendees of the co-located conferences.
+
+Submission Instructions
+
+Poster and demonstration abstracts should be at most 2 single-spaced US Letter (8.5” x 11”) pages, including all figures, tables, and references.
+All submissions must use the LaTeX (preferred) or Word styles found in the following link: https://www.acm.org/publications/proceedings-template. Note that due to having both ACM and IEEE sponsorship, IoTDI uses ACM and IEEE templates alternating between the years. For 2021, we will use ACM templates as linked above using the 9-point type. These templates are the same that will be used for the final camera-ready of accepted papers.
+The review process is single-blind, so there is no need to anonymize the submissions.
+The title of the abstract should be prepended with "Poster Abstract:" or "Demo Abstract:". Please make sure to include the name, affiliation, and contact information of all authors.
+Demonstration abstracts should list any special requirements (tables, power, wireless connectivity, etc.) in the submission on a separate third page. This third page is not part of the technical content of the abstract, can be formatted at the discretion of the authors, and will not be included in the camera-ready version of your abstract.
+Submission site: https://iotdi21posters.hotcrp.com/
+Important Dates
+
+Submission deadline: Jan 26th 2021 (AoE)
+Notification: Feb 7th 2021 (AoE)
+Camera-ready deadline: Feb 21th 2020 (AoE)
+
+
+

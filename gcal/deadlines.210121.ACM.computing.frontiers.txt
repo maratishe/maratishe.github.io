@@ -1,0 +1,282 @@
+ACM International Conference on Computing Frontiers 2021 (CF'21)
+May 11th - 13th, 2021, Virtual Conference
+
+CALL FOR PAPERS
+Deadline: January 28th, 2021
+
+http://www.computingfrontiers.org/
+======================================================================
+
+
+The next ACM International Conference on Computing Frontiers will
+take place on May 11th - 13th, 2021. Due to the current state of the
+pandemic and the uncertainty of how it will evolve in the coming
+months, Computer Frontiers 2021 will be held as a virtual conference
+instead of a face-to-face event in the town of Catania, in Sicily
+(Italy) as it was initially planned.
+
+Computing Frontiers is an eclectic, interdisciplinary, collaborative
+community of researchers who investigate emerging technologies in the
+broad field of computing: our common goal is to drive the scientific
+breakthroughs that support society.
+
+CF's broad scope is driven by recent technological advances in
+wide-ranging fields impacting computing, such as novel computing
+models and paradigms, advancements in hardware, network and
+systems architecture, cloud computing, novel device physics and
+materials, new application domains of artificial intelligence, big
+data analytics, wearables and IoT. The boundaries between the
+state-of-the-art and revolutionary innovation constitute the
+advancing frontiers of science, engineering, and information
+technology - and are the CF community focus. CF provides a venue to
+share, discuss, and advance broad, forward-thinking, early research
+on the future of computing and welcomes work on a wide spectrum of
+computer systems, from embedded and hand-held/wearable devices to
+supercomputers and datacenters.
+
+IMPORTANT DATES
+===============
+
+Abstract Submission deadline: January 21st, 2021
+Paper Submission deadline:    January 28th, 2021
+Notification:                 March 15th, 2021
+Final Papers Due:             March 25th, 2021
+Conference Dates:             May 11th - 13th, 2021
+
+
+TOPICS OF INTEREST
+==================
+
+We seek original research contributions at the frontiers of a wide
+range of topics, including novel computational models and algorithms,
+new application paradigms, computer architecture (from embedded to
+HPC systems), computing hardware, memory technologies, networks,
+storage solutions, compilers, and environments.
+
+* Innovative Computing Approaches, Architectures, Accelerators,
+Algorithms, and Models
+- Approximate, analog, inexact, probabilistic computing
+- Neuromorphic, biologically-inspired computing, and
+hyperdimensional computing
+- Dataflow architectures, near-data, and in-memory processing
+
+* Quantum computing systems
+- Quantum algorithms and applications for current and near-term
+quantum devices
+- Quantum Programming models, runtime, compilers and
+microarchitecture
+- Quantum error correction and fault-tolerant quantum computation
+- Architectures and design methodologies for scalable quantum
+computing systems
+- Benchmarks, methods, and performance metrics to evaluate quantum
+computing systems
+
+* Technological Scaling Limits and Beyond
+- Limits: Defect- and variability-tolerant designs, graphene and
+other novel materials, nanoscale design, dark silicon
+- Extending past Moore's law: 3D-stacking, heterogeneous
+architectures and accelerators, chiplets, distributed and
+federated computing and their challenges
+
+* Efficient AI computing
+- Deep learning co-processors including architectures, efficient
+algorithms, chip design and hardware-software codesign,
+frameworks and programming models
+- Edge deep learning for IoT
+- Distributed AI computing for cloud data servers
+
+* Embedded, IoT, and Cyber-Physical Systems
+- Ultra-low power designs, energy scavenging
+- Physical security, attack detection and prevention
+- Reactive, real-time, scalable, reconfigurable, and self-aware
+systems
+- Sensor networks, IoT, and architectural innovation for wearable
+computing
+
+* Large-Scale System Design and Networking
+- Large-scale homogeneous/heterogeneous architectures and
+networking
+- System-balance and CPU-offloading
+- Power- and energy-management for clouds, datacenters, and
+exascale systems
+- Big Data analytics and exascale data management
+
+* System Software, Compiler Technologies, and Programming Languages
+- Technologies that push the limits of operating systems,
+virtualization, and container technologies
+- Large scale frameworks for distributed computing and
+communication
+- Resource and job management, scheduling and workflow systems for
+managing large-scale heterogeneous systems
+- Compiler technologies: hardware/software integrated solutions,
+high-level synthesis
+- Tools for analyzing and managing performance at large scale
+- Novel programming approaches
+
+* Fault Tolerance and Resilience
+- Solutions for ultra-large and safety-critical systems (e.g.,
+infrastructure, airlines)
+- Hardware and software approaches in adverse environments such as
+space
+
+* Security
+- Methods, system support, and hardware for protecting against malicious code
+- Real-time implementations of security algorithms and protocols
+- Quantum and post-quantum cryptography
+
+* Computers and Society
+- Artificial Intelligence (AI) ethics and AI environmental impact
+- Education, health, cost/energy-efficient design, smart cities,
+emerging markets, and interdisciplinary applications
+
+
+We strongly encourage submissions in emerging fields that may not fit
+into traditional categories - if in doubt, please contact the PC
+co-chairs by email: Carmen G. Almudever (C.GarciaAlmudever-1 (AT)
+tudelft [DOT] nl ) and Georgios Goumas (goumas (AT) cslab [DOT] ece
+[DOT] ntua [DOT] gr).
+
+
+CONFERENCE WEBSITE
+==================
+
+http://www.computingfrontiers.org/
+
+
+
+SUBMISSION
+==========
+
+We encourage the submission of both full and short papers containing
+high-quality research describing original and unpublished work.
+
+Papers must be submitted through
+
+https://easychair.org/conferences/?conf=cf21
+
+Short papers may be position papers or may describe preliminary or
+highly speculative work. Full papers are a maximum of eight (8)
+(excluding references) and short papers are a maximum of four (4)
+(including references) double-column pages in ACM conference format
+(https://www.acm.org/publications/proceedings-template). Authors may
+buy up to two (2) extra pages for accepted full papers. Page limits
+include figures, tables and appendices, but exclude references for
+full papers. As the review process is double-blind, removal of all
+identifying information from paper submissions is required (i.e., cite
+own work in third person). Papers not conforming to the above
+submission policies on formatting, page limits and the removal of
+identifying information will be automatically rejected. Authors are
+strongly advised to submit their papers with the final list of
+authors, as changes may not be feasible at later stages.
+
+No-show policy: Any accepted papers are expected to be presented at
+the conference and at least one full registration is required from
+a submission author for each accepted paper. A no-show of papers will
+result in exclusion from the ACM digital library proceedings. If
+circumstances arise such that authors are unable to present their
+papers at the conference, they must contact the PC co-chairs.
+
+
+SUBMISSION FORMAT
+=================
+
+Stage 1 - Abstract submission: A title, abstract (approx. 100 words), and
+a list of all co-authors must be submitted by January 21st, 2021. You may
+also submit the paper at this time.
+
+Stage 2 - Paper submission: The short or full papers must be submitted by
+January 28th, 2021.
+
+
+ORGANIZATION
+============
+
+Computing Frontiers 2021 Chairs
+
+General Co-Chairs:
+Maurizio Palesi, University of Catania, IT
+Antonino Tumeo, Pacific Northwest National Laboratory, USA
+
+Program Co-Chairs:
+Carmen G. Almudever, Delft University of Technology, NL
+Georgios I. Goumas, National Technical University of Athens, GR
+
+EU Projects Co-Chairs:
+Masoumeh (Azin) Ebrahimi, KTH Royal Institute of Technology, SE
+Poona Bahrebar, Ghent University, NL
+
+Artifact Evaluation Co-Chairs:
+Flavio Vella, Free University of Bozen-Bolzano, IT
+Carlo Sau, University of Cagliari, IT
+
+Workshops Co-Chairs:
+Francesca Palumbo, University of Sassari, IT
+Sergi Abadal, Universitat Politècnica de Catalunya, ES
+
+Publications Co-Chairs:
+Josef Weidendorfer, Leibniz Supercomputing Centre, DE
+Kristian Rietveld, Leiden University, NL
+
+Finance Chair:
+Siddhartha Jana, Intel
+
+Virtual Platform Management Co-Chairs:
+Davide Patti, University of Catania, IT
+Salvatore Monteleone, Kore University of Enna, IT
+
+Industry/Special Session Co-Chairs:
+Catherine Graves, Hewlett Packard Laboratories
+Eishi Arima, The University of Tokyo, JP
+
+Industrial Sponsorship Co-Chairs:
+Tony Givargis, University of California, Irvine
+Kento Sato, RIKEN Center for Computational Science, JP
+
+Publicity Co-Chairs:
+James Lin, Shanghai Jiao Tong University, CN
+Naseef Mansoor, Minnesota State University, US
+Amit Kumar Singh, University of Essex, UK
+
+Web Co-Chairs:
+Simone Vuotto, University of Sassari, IT
+Salvatore Monteleone, Kore University of Enna, IT
+
+Computing Frontiers Steering Committee
+
+Michela Becchi, North Carolina State University, US
+John Feo, PNNL, US
+Hubertus Franke, New York University / IBM Research, US
+Paul Kelly, Imperial College London, UK
+Sally A. McKee, Clemson University, US
+Claudia Di Napoli, ICAR-CNR, IT
+Gianluca Palermo, Politecnico di Milano, IT
+Francesca Palumbo, University of Sassari, IT
+Kristian Rietveld, Leiden University, NL
+Kento Sato, RIKEN R-CCS, JP
+Martin Schulz, Technical University of Munich, DE
+Carsten Trinitis, Technical University of Munich, DE
+Antonino Tumeo, PNNL, US
+Josef Weidendorfer, Leibniz Supercomputing Centre, DE
+
+
+FURTHER INFORMATION
+===================
+
+For further information and updates, check the CF'21 website at
+
+http://www.computingfrontiers.org/
+
+Best Regards,
+Amit
+
+School of Computer Science and Electronic Engineering
+
+University of Essex, Colchester CO4 3SQ, UK
+
+Office: 4B.527
+
+T: +44 (0) 1206 87 4771
+
+W: aksingh.co.uk
+
+

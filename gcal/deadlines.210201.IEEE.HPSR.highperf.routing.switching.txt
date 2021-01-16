@@ -1,0 +1,138 @@
+IEEE 22nd International Conference on High Performance Switching and Routing – IEEE HPSR 2021
+Paris, France, June 07-09, 2021
+
+Conference Page: http://hpsr2021.ieee-hpsr.org/
+
+Submission Page: https://www.edas.info/newPaper.php?c=28060
+
+
+
+Top papers are selected to publish enhanced manuscripts to following journals:
+
+-       JNCA (Q1; https://www.journals.elsevier.com/journal-of-network-and-computer-applications)
+
+-       Vehicular Communications (Q1; https://www.journals.elsevier.com/vehicular-communications)
+
+
+
+Important Dates
+
+Paper submission due: Feb 1st, 2021
+
+Acceptance notifications: March 15, 2021
+
+Author registration deadline: April 15, 2021
+
+Final version submission deadline: April 30, 2021
+
+Technical sessions dates: June 07-09, 2021
+
+
+
+Scope and Topics of the Conference
+
+The Next Generation Networks (NGN) and future Communication Systems design will be driven by human expectations on better services, which in turn increases management complexity for network providers. New networking technologies are needed to efficiently and effectively cope with the intricacy in traffic demands, especially with the increase of over-the-top (OTT) services provided by operators and individual companies.
+
+The main focus of the HPSR 2021 – the 22nd edition of HPSR conference – will be to assess how breakthrough changes occurring to networks and telecom are affecting areas related to switching and routing, and communication networks in general. We are soliciting original and thought-provoking works on big data, data analytics, cloud services, and machine-learning techniques applied to networking and switching and routing. Works on autonomous networks, 5G and beyond, IoT, Industry 4.0, social networks, network, cybersecurity, virtualization, and other advanced topics are also welcome. Research works on the following topics, but not limited to, are welcome for submission:
+
+•        Switching support to extended reality (including virtual, augmented, and mixed reality)
+
+•        Routing and resource allocation for Tactile Internet
+
+•        High-speed packet processors
+
+•        Address lookup algorithms, packet classification, scheduling, and dropping
+
+•        Efficient data structures for networking applications
+
+•        Switching, bridging, and routing protocols whether wide-area or data centers
+
+•        Optical switching and routing
+
+•        Multiprocessor networks
+
+•        Network management
+
+•        Traffic characterization and engineering
+
+•        Power-aware switching, bridging, and routing protocols
+
+•        Nano-communication networks
+
+•        ICT enabling technologies for e-health systems
+
+•        Future technologies for IoT
+
+•        Application of data science and analysis on high-performance networks
+
+•        Applications of GPU on network functions
+
+•        Application of data analytics to switching and routing
+
+•        Machine learning-based routing and resource-allocation algorithms
+
+•        Traffic monitoring and modeling applied to switching and routing
+
+•        Traffic predictions in routing and resource assignment
+
+•        Switching architectures for 5G applications
+
+•        High performance, programmable networks for the Internet of things
+
+•        Dynamic bandwidth access and management for smart factory/Industry 4.0 applications
+
+•        Network performance for Human-Agent-Robot Teamwork (HART)
+
+•        Multi-access/Mobile Edge Computing (MEC)
+
+•        Blockchain technologies
+
+•        Decentralized applications (DApps)
+
+•        Decentralized autonomous organizations (DAOs)
+
+•        Software-defined networking (SDN)/Software-defined radio (SDR)
+
+•        Network and switch slicing
+
+•        Computation offloading
+
+•        Architectures of high-performance switches and routers, with a focus towards reconfigurable pipelines (P4, Openflow, etc.)
+
+•        Autonomous Resource allocation
+
+•        Network security.
+
+•        Next generation networks and Internet
+
+•        Cloud and data center security
+
+•        Intrusion detection with AI
+
+•        Virtual Private WANs
+
+•        Securing in SDN and networking slicing
+
+•        Support for the security of social networks
+
+•        Virtualized network functions (e.g., firewalls, intrusion detection systems, load balancers, etc.) built or managed using software-defined networks
+
+
+General Chair:
+
+Abdelhamid Mellouk, Université Paris-Est Créteil
+
+
+
+General Co-Chair:
+
+Abdulhalim Dandoush, ESME-Sudria engineering school Paris
+
+TPC Co-Chairs
+
+Thiago Abreu, Université Paris-Est Créteil
+
+Scott Fowler, Linköping University
+
+Hassine Moungla, Université Paris Descartes
+

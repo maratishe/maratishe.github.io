@@ -1,0 +1,117 @@
+==================================================================
+CALL FOR PAPERS
+Elsevier Vehicular Communications (2019 IF: 4.706)
+Special Issue on
+“Revolutionary Paradigms for Smart Connected Vehicles in the 6G Era”
+
+https://www.journals.elsevier.com/vehicular-communications/call-for-papers/a-special-issue-of-vehicular-communications-on-revolutionary
+==================================================================
+
+By jointly involving multiple challenging requirements, such as
+ultra-high reliable and ultra-low latency communications, high
+efficiency and capacity, intelligent driving is one of the most
+ambitious and attractive applications of the 6G initiatives. Although
+the convergence of communication, caching, control and computing (4C)
+resources can be leveraged to effectively enable 6G services and
+applications over vehicle-to-everything (V2X) channels, multiple
+challenges must be addressed to allow connected vehicles to meet the
+6G requirements, to securely and efficiently orchestrate their
+resources and to develop self-organizing and self-sustaining
+capabilities.
+
+Emerging communication paradigms that make effective data transmission
+in very high dynamic contexts include the reprogrammability of the
+environment by the means of Reprogrammable Intelligent Metasurfaces
+(RIMs). Moreover, Visible Light Communication (VLC) can improve the
+reliability of V2X interactions and be effective in terms of security
+and enhanced data rate. With focus on networking aspects, Software
+Defined Networking (SDN) and Network Function Virtualization (NFV) can
+bring programmability, flexibility and scalability in connected
+vehicles, simplify network management and promote an efficient and
+fair use of the distributed 4C resources and programmable
+metasurfaces. They can be complemented by revolutionary networking
+models, such as Information Centric Networking (ICN), to provide
+distributed caching and computing services.
+
+This special issue aims to collect proposals that deal with
+revolutionary communication and networking technologies for connected
+vehicles, in a holistic fashion or at different layers, to meet the
+expectations of the 6G era.
+
+Topics of interest include (but are not limited to):
+
+Software-defined vehicular networks
+Vehicular cloud computing in the 6G era
+Fog/edge computing architectures for connected vehicles
+Integration of SDN/NFV and vehicular cloud computing
+Information Centric Networking for Connected Vehicles
+Impact of connected vehicles on transportation safety, management,
+characterization, and prediction
+Mobile sensing networking, sensor data collection and multi-modal fusion
+Caching strategies for connected vehicles
+Joint management of communication, control, computing and caching for
+6G vehicular applications and services
+Optical wireless technologies for 6G vehicular applications and services
+Reprogrammable and Intelligent Metasurfaces for smart connected vehicles
+Secure and privacy-preserving communications in 6G vehicular networks
+
+==================================================================
+TIMELINE
+
+Paper submission:
+31 March 2021
+
+Acceptance notification:
+30 June 2021
+
+Final papers:
+30 July 2021
+
+==================================================================
+SUBMISSION FORMAT AND GUIDELINE
+
+All submitted papers must be clearly written in excellent English and
+contain only original work, which has not been published by or is
+currently under review for any other journal or conference.
+A detailed submission guideline is available as “Guide to Authors” at ﻿
+https://www.elsevier.com/journals/vehicular-communications/2214-2096/guide-for-authors.
+
+All manuscripts and any supplementary material should be submitted
+through the paper submission system at
+https://www.editorialmanager.com/VEHCOM/default.aspx . The authors
+must select as “VSI: Smart Vehicle - Amadeo” when they reach the
+“Article Type” step in the submission process.
+The system is open for submissions.
+
+Requests for additional information should be addressed to the guest editors.
+
+
+==================================================================
+Guest Editors:
+
+Dr. Marica Amadeo, University of Reggio Calabria, Italy
+marica.amadeo@unirc.it
+
+Prof. Abderrahim Benslimane, University of Avignon, France
+abderrahim.benslimane@univ-avignon.fr
+
+Prof. Kwang-Cheng Chen, University of South Florida, USA
+kwangcheng@usf.edu
+
+Dr. Valeria Loscrì, INRIA Lille-Nord Europe, France
+valeria.loscri@inria.fr
+
+Dr. Seyhan Ucar, Toyota Motor North America, USA
+seyhan.ucar@toyota.com
+
+Dr. Anna Maria Vegni, Roma Tre University, Italy
+annamaria.vegni@uniroma3.it
+
+--
+Dr. Marica Amadeo
+Assistant Professor
+University "Mediterranea" of Reggio Calabria
+DIIES Department, ARTS Lab
+Via Graziella Feo di Vito I - 89100 Reggio Calabria (RC), Italy
+
+

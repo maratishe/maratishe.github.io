@@ -1,0 +1,52 @@
+CALL FOR PARTICIPATION
+======================
+Article Collection "Automatic Performance Management and Optimization on Large-scale Heterogeneous Clusters"
+Frontiers in Big Data Journal
+https://fro.ntiers.in/Umfs
+
+
+Introduction
+------------
+Modern industrial, government, and academic organizations are collecting massive amounts of data at an unprecedented scale and pace, which are then analysed on large compute clusters in order to extract value and deep insights. These insights can drive automated processes for advertisement placement, improve customer relationship management, and lead to major scientific breakthroughs. Ensuring good and robust system performance at such a scale is the foundation for successfully performing timely and cost-effective analytics. However, as the new systems have grown in scale and complexity, the administration and management of system resources have become very expensive with the human factor dominating the total cost of ownership. To make matters worse, computing clusters are increasingly becoming heterogeneous in nature, both in the compute and the storage tier. Heterogeneity, if not addressed appropriately, is shown to have detrimental effects on the overall system performance.
+
+As organizations often own multiple generations of hardware and data centres are starting to use virtualization to consolidate servers, heterogeneous environments are becoming common in practice. Computing-wise, nodes can have CPUs with different capacities and number of cores, making performance-based resource allocation and workload scheduling extremely important and challenging. In addition, the presence of GPUs and FPGAs on modern clusters has inspired their use by various big data frameworks. On the storage front, cluster nodes can have multiple hard drives, SSDs, and large memory, all of different sizes, while emerging storage technologies (e.g., NVMe, SCM) are becoming more popular. At the same time, applications exhibit a variety of I/O patterns: batch-processing applications care about raw sequential throughput, interactive query processing benefits from lower latency storage media, whereas other applications display random I/O patterns. Hence, it is desirable to have a variety of storage types and let each application choose the one that best fits its performance or cost requirements. Administrators and systems will need mechanisms to manage the fair distribution of scarce storage resources across all users, ideally in an automated manner. The goal of this article collection is to report recent advances in automating (fully or partially) any aspects of resource management and performance optimization in the presence of heterogeneous cluster environments.
+
+
+Topics of Interest
+------------------
+The topics of the Article Collection include, but are not limited to, the following:
+•    Automated resource allocation in heterogeneous clusters
+•    Workload and task scheduling in heterogeneous environments
+•    Performance optimization and tuning of data-parallel applications
+•    Automated data management in heterogeneous and emerging storage systems
+•    Automatic parameter tuning in big data processing systems
+•    Automatic big data systems tuning that is robust to workload and resource uncertainty
+•    Query processing, indexing, and optimization in heterogeneous clusters
+•    Data stream processing in heterogeneous environments
+•    Automated provisioning of heterogeneous cluster resources
+•    System administration and manageability
+
+
+Important Information
+---------------------
+You are cordially invited to submit a manuscript for consideration and possible publication. Papers can be original research, reviews, or perspectives, among other article types. For more information visit: https://fro.ntiers.in/Umfs
+
+If you decide to submit a manuscript within our collection, your contribution will be peer-reviewed and judged based on its originality, interest, clarity, relevance, correctness, language, and presentation (inter alia) by our editorial board members. Immediately upon publication, your paper will be free to read online, increasing its visibility and citations.
+
+As an Open Access publisher, we charge a small Article Processing Charge for accepted papers (USD 1150 for long articles; USD 450 for shorter ones). Information on the publishing fees and financial support for authors can be found here: https://www.frontiersin.org/about/publishing-fees.
+
+We encourage authors to submit Abstracts ahead of the full manuscript submission.
+
+The deadline for manuscript submission is 31 July 2021 (manuscripts are reviewed as soon as they are submitted and published as soon as they are accepted).
+
+We look forward to working with you.
+
+
+Kind Regards,
+
+The topic editors:
+Herodotos Herodotou, Cyprus University of Technology
+Manos Athanassoulis, Boston University
+Eduardo Cunha De Almeida, Federal University of Paraná
+
+

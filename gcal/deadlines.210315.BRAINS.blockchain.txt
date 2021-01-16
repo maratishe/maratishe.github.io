@@ -1,0 +1,85 @@
+*********************************************************************
+CALL FOR PAPERS - BRAINS 2021
+3rd Conference on Blockchain Research & Applications
+for Innovative Networks and Services (BRAINS 2021)
+27-30 September 2021 // Paris, France
+
+https://brains.dnac.org/call-for-papers/
+*********************************************************************
+Blockchain and Distributed Ledger Technologies (DLT) have the potential to
+disrupt any domain involving coordination among autonomous resources. This
+includes finance and payments (e.g., fintech), but also networks (e.g., power
+grids or telecom networks), computing (e.g., brokering of edge resources), IoT
+(e.g., supply chain, V2X or industry 4.0) or service platforms (e.g.,identity
+management). BRAINS Conference is dedicated to these new advances that could
+make the world of networks and services more secure, while enabling disruptive
+new distributed business models.
+Areas of interest include, but are not limited, the following:
+
+Fundamentals of Blockchain and DLT
+- Theoretical contributions on  Blockchain and DLT
+- Distributed consensus and fault tolerance solutions, including
+domain-specific consensus (e.g., for networking)
+- Tradeoffs between decentralization, scalability, performance and security
+- Protocols and algorithms
+
+Decentralized Apps, Smart contracts and chain code
+- Development languages and tooling
+- Security, Privacy, Attacks, Forensics
+- Transaction Monitoring and Analysis
+- Token Economy
+- Distributed Trust
+- Collaboration between on-chain and off-chain code
+- Oracle, DeFi, NFT apps and protocols
+
+Application and service cases of DLT and Smart-Contracts
+- Finance and payments
+- IoT and cyber physical systems
+- Smart grids and Industry 4.0
+- Networking, Edge and Cloud Technologies
+- 5G Technologies, Telecom Process and Operation
+- Supply chain management
+- Connected and autonomous vehicles
+- Services or Resources Marketplaces
+- Blockchain as a service
+- Blockchain-defined networking
+
+PAPER SUBMISSION GUIDELINES
+Submitted papers must represent original material that is not currently under
+review in any other conference or journal and has not been previously published.
+All submissions should be written in English with maximum of eight (full papers)
+or four (short papers) printed pages (in Two-Column IEEE Conference Format),
+including text, figures and references.
+
+Papers should be submitted through EDAS at: https://edas.info/N28066
+
+
+The three Best Paper finalists will be invited for a fast-track peer-reviewed
+publication in IEEE Transactions on Network and Service Management.
+
+IMPORTANT DATES
+Paper Submission: 15 March 2021
+Notification of Acceptance: 31 May 2021
+Camera Ready: 30 June 2021
+
+GENERAL CO-CHAIRS
+Abdelkader Lahmadi (University of Lorraine, France)
+Andreas Veneris (University of Toronto, Canada)
+
+TECHNICAL PROGRAM COMMITTEE CO-CHAIRS
+William Knottenbelt (Imperial College, UK)
+Tesnim Abdellatif (EDF, France)
+
+Contact Email: brains21-chairs@edas.info
+
+---------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Authors mailing list
+Authors@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/authors
+
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
+OR
+* Easy unsubscribe: https://mailman.ufsc.br/mailman/options/authors
+

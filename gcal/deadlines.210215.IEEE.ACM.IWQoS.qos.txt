@@ -1,0 +1,85 @@
+IEEE/ACM International Symposium on Quality of Service (IWQoS 2021)
+25-28 June 2021, Tokyo, Japan
+https://iwqos2021.ieee-iwqos.org/
+
+Quality of Service (QoS) has long been the focus of communications and
+networking researchers worldwide. While traditional QoS research areas
+continue attracting much interest, recent exploration of Internet of
+things, data centers, virtualization, cloud and fog computing, green
+computing, and AI has motivated a new wave of research interest in
+service guarantees with QoS, and its related metrics of Quality of
+Experience (QoE), Quality of Protection (QoP), Software Quality, Data
+Quality, or, more broadly, Quality of Information Technology.
+
+For more than two decades, IWQoS has established itself as a highly
+reputable forum to present novel ideas on all QoS-related subjects.
+The 29th International Symposium on Quality of Service (IEEE/ACM IWQoS
+2021) sets the goal to continuing to be a premier symposium and an
+international forum for presentation and discussion of cutting-edge
+research in the field. The scope of IEEE/ACM IWQoS 2021 covers both
+newest theoretical and experimental research papers.
+
+Topics of interest include (but not limited to) the following areas:
+● Artificial Intelligence for QoS
+● Data analytics for QoS
+● QoS for data analytics and machine learning
+● QoS in Internet of Things (IoT), cyber-physical networks
+● QoS in cloud computing, fog computing and edge computing
+● Blockchain for QoS
+● Security, privacy, system dependability, resilience and robustness
+● QoS in software-defined networking
+● QoS in information-centric networking
+● QoS in mobile and next generation cellular networks
+● System dependability, availability, resilience and robustness to
+faults and security attacks
+● Robustness against security vulnerabilities in critical infrastructures
+● QoS-aware scheduling, resource management, queue management, admission control
+● Traffic engineering approaches and tools for QoS provisioning and evaluation
+● QoS evaluation metrics and methodologies
+● Quality of software
+● QoE in multimedia networks
+● Measurement, evaluation, adaptation, and verification
+● Network operations, network economics, pricing and billing
+● Architectures and protocols for QoS, QoP or QoE support
+● Energy awareness in communication and computing systems
+● Design for future networks and computing systems with integrated QoS
+
+Paper Submission Guidelines:
+IEEE/ACM IWQoS invites submission of manuscripts with original
+research results that have not been previously published or that are
+not currently under review by another conference or journal.
+Submissions will be rigorously judged based on originality,
+significance, interest, clarity, relevance, and correctness. IWQoS
+aims at the rapid dissemination of research results. Regular paper
+submissions should be no longer than 10 single-spaced, double-column
+pages (including references) with a font-size of 10. Reviewing will be
+double-blind. Submissions must not reveal the authors’ names and their
+affiliations and avoid obvious self-references. Submissions not
+meeting these guidelines will be rejected without consideration of
+their merits. Papers must be submitted electronically as PDF files.
+Please follow the submission link on https://iwqos2021.edas.info/ to
+submit your paper.
+
+Important Dates:
+Paper Registration Deadline: 15 February 2021
+Paper Submission Deadline: 22 February 2021
+Notification of Acceptance: 23 April 2021
+Camera-ready Deadline: 13 May 2021
+
+General Chairs:
+Hitoshi Asaeda, National Institute of Information and Communications
+Technology (NICT), Japan
+Jiannong Cao, The Hong Kong Polytechnic University, China
+
+Program Committee Chairs:
+Ruidong Li, National Institute of Information and Communications
+Technology (NICT), Japan
+Wenjing Lou, Virginia Tech, USA
+
+*COVID-19 Statement: The IWQoS2021 organizing committee (OC) is
+closely monitoring the COVID-19 situation that could impact in-person
+attendance and paper presentations. In case of travel restrictions,
+the OC is considering that remote presentations and participation will
+be considered.
+
+

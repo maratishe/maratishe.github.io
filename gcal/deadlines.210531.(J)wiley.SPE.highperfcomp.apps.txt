@@ -1,0 +1,150 @@
+Special Issue on:
+New Trends in High Performance Computing: Software Systems and
+Applications
+Software: Practice and Experience (Wiley Press)
+
+https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf
+
+Submission due: May 31, 2021
+
+High performance computing (HPC) offers the computing power to
+continuously support
+the world’s most important discoveries in various scientific and
+business domains such
+as chemistry, physics, biology, material science, drug discovery and
+financial
+investment risk analysis. The exascale computing era is soon coming. A
+number of
+exaflops-capable supercomputers are scheduled to be fully operational in
+the time
+frame of 2021 and 2022. Researchers from across the HPC community are
+developing
+software systems, tools, libraries, frameworks, application packages,
+and methods that
+can fully exploit these extremely powerful computing resources.
+
+Extreme-scale computing will enable the solution of vastly more accurate
+predictive
+models and the analysis of massive quantities of data, producing quantum
+advances in
+areas of science and technology that are essential to the scientific
+community. New
+computational approaches such as machine learning/deep learning have
+also been
+heavily explored in recent years and shown promising evidence for many
+problems that
+cannot be resolved by traditional computational simulation and
+engineering. Training
+deep neural networks with massive data is an extremely computing
+intensive task that
+heavily relies on the HPC power. The upcoming exascale computing era
+will be the
+essential basis for supporting new innovations in machine learning/deep
+learning based
+exploration and lead to new sciences in directions such as smart
+manufacturing,
+laboratory-automation, and automatic programming.
+
+While the hardware architecture can generate extreme computing power,
+renovation in
+software stack plays the essential role for effective performance
+delivery. The exascale
+and pre-exascale systems such as Aurora, Frontier, El Capitan and LUMI
+continue to
+move into the heterogeneous space, while the current fastest ARM-based
+system,
+Fugaku and the many core Sunway Taihulight type of systems are marching
+towards
+the heterogeneous space. With systems equipped with GPUs, ARM SVEs and many
+cores, there is a dire need for innovative software frameworks that can
+seamlessly
+migrate scientific code to these systems equipped with rich compute
+resources. We
+need innovation at different levels including compiler tools and
+techniques, performance
+analysis tools, novel abstractions at the programming model, redesign of
+application-level
+algorithms and so on. Furthermore, co-design of applications and
+low-level software
+frameworks can lead to more efficient use of the opportunities of
+exascale in many contexts.
+
+Topics of interests include but are not limited to:
+
++ HPC for AI and AI for HPC
+- AI/ML/DL performance optimizations at applications or system frameworks
+levels on HPC systems
+- Innovations of system, compiler, language, debugging and profiling tools
+for parallel AI/ML/DL
+- Performance modeling for AI/ML/DL applications
+- Visualization for parallel AI/ML/DL
+- AI/ML/DL driven approaches for scientific computing and performance
+optimization at scale
+
++ Programming Challenges in HPC
+- Exposing parallelism at different levels including application,
+architecture,
+system and algorithmic level
+- Enabling combinations of multi physics models and capabilities
+- Adopting novel algorithmic/mathematical approaches
+- Developing portable applications yet preserving performance
+- Exploring programming extensions and auto-vectorization capabilities
+- Exploration of application and system software co-design for addressing
+performance challenges
+- Programming language and compilation techniques for reducing energy
+and data movement
+
++ HPC Systems Software and Middleware
+- System software support for data management
+- Scalable data analytics
+- System software for resource management
+- Fault tolerance techniques and implementations
+- Synchronization and concurrency control
+
++ HPC Performance Measurement and Modeling
+- Scalable tools and instrumentation infrastructure for measurement,
+monitoring, and/or visualization of performance
+- Workload characterization and benchmarking techniques
+- Novel and broadly applicable performance optimization techniques
+
++ HPC Applications
+- Computational science and scalable methods
+- Using HPC for scalable multi-scale, multi-physics, and high-fidelity
+computational science
+- Structured and unstructured meshes using extreme scale computing
+- Computational biology, earth sciences, cosmology, fluid dynamics, plasma
+modeling among others
+
+Important Dates
+- Submission: May 31, 2021
+- Notification: July 31, 2021
+- Revision due: Aug 20, 2021
+- Notification of final acceptance: Sept 20, 2021
+- Final revised paper due: October 15, 2021
+
+Special Issue Paper Submission
+Submission site:
+https://mc.manuscriptcentral.com/spe
+Please see detailed guidance at the online Call For Paper:
+https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf
+
+
+Guest Editors
+Sunita Chandrasekaran
+University of Delaware, USA
+Email: schandra@udel.edu
+
+Min Si
+Argonne National Laboratory, USA
+Email: msi@anl.gov
+
+Jidong Zhai
+Tsinghua University, China
+Email: zhaijidong@tsinghua.edu.cn
+
+Lena Oden
+University of Hagen, Germany
+Email: lena.oden@fernuni-hagen.de
+
+
+

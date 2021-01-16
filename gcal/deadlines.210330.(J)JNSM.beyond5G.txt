@@ -1,0 +1,54 @@
+============================================================================================
+Journal of Network and Systems Management
+Special Issue on Network management for beyond 5G systems
+============================================================================================
+
+Beyond 5G (B5G) wireless systems are expected to provide a significant increase in data rates, ultra-low latency, enhanced connectivity of a massive number of devices, and improvements in the network energy efficiency. In order to successfully implement and deploy such networks, significant novel contributions and innovations are required in the area of wireless network management.
+
+Advances in Artificial Intelligence (AI) during the last 5-10 years have provided a new set of algorithms and tools to solve challenging problems in multiple domains by learning complex relationships directly from data. These kinds of algorithms are also very promising to empower a new generation of fully automated network management mechanisms. However, new challenges emerge, such as deciding when to use traditional management algorithms, AI-based models, or even hybrid approaches; design AI models tailor-made for mobile management problems; decide where they have to be deployed (fog vs. edge); and how to manage their life cycle (from data harvesting to intelligent decision making).
+
+This special issue focuses on novel research in algorithms (especially AI-based) for network management in beyond 5G systems. More specifically, we encourage original paper submissions, which have not been published or submitted for publication elsewhere, from both academia and industry presenting novel research on the most recent advances, frameworks, models, and approaches for wireless networks and system management using AI. We are also interested in articles revising the state-of-the-art of this topic, showing recent major advances and discoveries, significant gaps in the research, current standardisation status, and new future issues. Topics of interest include, but are not limited to:
+
+
+*   Novel non-AI-based algorithms for network management in B5G systems with benchmarking against their AI-based counterparts using performance metrics such as solution optimality, algorithm complexity, resource demands, energy consumption, etc.
+*   AI-based algorithms for network slicing in B5G systems
+*   AI-based algorithms for service function chaining and orchestration in B5G systems
+*   AI-based algorithms for allocation and management of resources (e.g., spectrum, storage, computing, processing) in B5G systems
+*   AI-based algorithms for network state prediction
+*   Architectures and frameworks for AI-based network and system management in B5G systems
+*   Strategies for designing, training, and deployment of AI-based algorithms for management in B5G systems
+*   AI-based algorithms for wireless network management in resource-constrained environments
+*   Guidelines and performance evaluation of AI-based algorithms with objectives and loss functions that are specifically designed for management in B5G systems
+*   Energy-efficient techniques for data pre-processing, resource allocation, and model training and deployment of AI-based algorithms for management in B5G systems
+*   AI application to Open and Virtual Radio Access Networks.
+
+Guest Editors
+Dr. Steven Latré, University of Antwerp - imec, Belgium
+Dr. Miguel Camelo, University of Antwerp - imec, Belgium
+Dr. Andres Garcia-Saavedra, NEC Laboratories Europe, Germany
+Dr. Marco Gramaglia, University Carlos III of Madrid, Spain
+
+Schedule
+Open-submission schedule: in this special issue, we implement an “open” submission approach, where we do not have a submission time period. Interested authors can submit the paper any time before a fixed deadline, and the review process will be started right after the paper submission, i.e., in a first-in first-served fashion. The detailed submission schedule is presented as follows:
+
+Manuscript due: March 30, 2021
+Revision notification: 2-month after the submission
+Revised paper due: 2-month after the revision notification
+Final notification: 1-month after the revised paper notification
+Expected Publication of the Special Issue: third-quarter of 2021 (early accepted papers will be accessible online before the deadline)
+
+Submission format and review guidelines
+The submitted manuscripts must be written in English and describe original research not published nor currently under review by other journals or conferences. Parallel submissions will not be accepted. All submitted papers, if relevant to the theme and objectives of the special issue, will go through a vigorous peer-review process. Submissions should (i) conform strictly to the Instructions for Authors available on the Journal website and (ii) be submitted through the Editorial Management system available at: https://www.editorialmanager.com/jons/default.aspx
+
+We look forward to receiving your submissions.
+
+Guest Editors JNSM SI on Network management for beyond 5G systems
+
+______________________________________________________________
+IEEE Communications Society Tech. Committee on Computer Communications
+http://committees.comsoc.org/tccc/
+TCCC Announce: For announcements concerning computer networking and communications.
+tccc-announce@comsoc.org
+https://comsoc-listserv.ieee.org/
+
+

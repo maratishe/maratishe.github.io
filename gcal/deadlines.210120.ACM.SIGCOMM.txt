@@ -1,6 +1,4 @@
 
-(apologies for cross-posting)
-
 ACM SIGCOMM 2021
 August 23–27, 2021
 Virtual Event

@@ -1,5 +1,10 @@
 
+Accepted papers are immediately published on IEEE Xplore for early access.
+
+CALL FOR PAPERS
+
 IEEE Sensors Journal Special Issue on
+
 “Advanced Sensors and Sensing Technologies
 for indoor positioning and navigation”
 
@@ -82,7 +87,5 @@ Francesco Potortì (ricercatore)        Voice:  +39.050.621.3058
 ISTI - Area della ricerca CNR          Mobile: +39.348.8283.107
 via G. Moruzzi 1, I-56124 Pisa         Skype:  wnlabisti
 (gate 20, 1st floor, room C71)         Web:    http://fly.isti.cnr.it
-
-
 
 

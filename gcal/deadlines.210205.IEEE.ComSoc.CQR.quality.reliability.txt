@@ -1,0 +1,133 @@
+CALL FOR PAPERS
+
+IEEE ComSoc Communications, Quality, and Reliability (CQR) 2021 Workshop
+
+May 13, 2021 (Virtual)
+
+Call for Papers
+================
+The IEEE International CQR (Communications Quality and Reliability)
+Workshop is held annually with the purpose of bringing together
+industry and academic experts to present and discuss communications
+quality, reliability and security issues as they relate to real world
+issues. The output from the workshops adds to the community's body of
+knowledge and serves to inform, to help form opinion, and to assist in
+the development of best practice and relevant standards.
+
+For more information, please visit:
+https://cqr2021.ieee-cqr.org/authors/call-for-papers/
+
+Continuing the tradition of this series of workshops, CQR 2021 will
+provide an international technical forum for experts from industry and
+academia to exchange ideas and present results of ongoing research in
+the areas listed below.
+
+You are invited to submit a paper related to various aspects of QoS and
+Reliability for the following networks/services, but are not limited to:
+
+- Grid and Distributed Cloud Computing
+- Software Defined Networks
+- Network Function Virtualization
+- Data Center Networks
+- Information-Centric Networking
+- Vehicular Networks
+- Cognitive Radio Networks
+- Delay Tolerant Networks
+- Internet of Things (IoT)
+- 5G/B5G Mobile Networks
+- Network Slicing
+- Edge/Fog Computing
+- MIMO Communications
+- Robotics
+- Application of Data Analytics
+- Network Architecture and Design
+- Network Security and Reliability
+- Network Survivability
+- Operations, Administration and Maintenance
+- QoS Metrics and Measurement
+- QoS Policy and Assessment
+- QoE Assessment and Management
+- Resource Allocation and Management
+- Anomaly Detection
+- Intrusion Detection
+- Impact of Security on QoE
+- Scheduling and Buffer Management
+- Traffic Control
+- Traffic Modeling and Characterization
+- Service Level Agreement
+- Machine Learning for Networking
+- ML-based Operations
+
+For additional information on this CFP, please contact Technical
+Program Co-Chairs.
+
+Please note that, CQR2021 has two programs: Technical and Strategic.
+This Call for Papers covers the Technical Program only. For more
+information on the Strategic Program, please visit the CQR2021 website
+or contact the General Program Chairs.
+
+Paper submission guidelines
+----------------------------
+Papers should describe original work, and be 4-6 pages (including all
+references), two-column, single-spaced, and formatted according to the
+IEEE manuscript template for conference proceedings available at
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html.
+Paper submission must be made via EDAS: {NEWPAPER}
+
+Papers accepted for CQR 2021 will be included in the Workshop
+Proceedings and IEEE Xplore with the exception that IEEE reserves the
+right to exclude any paper from distribution after the conference
+(e.g., removal from IEEE Xplore) if the paper is not presented at the
+conference.
+
+Important dates:
+----------------
+February 5, 2021   Paper submission deadline
+March   16, 2021   Notification of acceptance to authors
+April    2, 2021   Camera-ready paper and registration
+May     13, 2021   CQR2021 Workshop
+
+Committee members:
+------------------
+General Program Chairs
+Brett Brock. Brock Research, USA <brett.brock@brockresearch.com>
+Pasi Hurri, BaseN, Finland <twi@basen.net>
+
+Technical Program Co-Chairs
+Vijay K. Gurbani, Illinois Institute of Technology, USA
+<vgurbani@iit.edu> / Vail Systems, Inc., USA, <vgurbani@vailsys.com>
+Kazuhiko Kinoshita, Tokushima University, Japan
+<kazuhiko@is.tokushima-u.ac.jp>
+
+TPC Members
+For a complete list of the TPC members, please visit the CQR2021
+website http://www.ieee-cqr.org/
+
+CQR Officers (2020-2021):
+Chair: Tetsuya Yokotani, Kanazawa Institute of Technology, Japan
+Chair-Elect: Chris Mayer, Solstice Technical Consulting, USA
+Vice Chair: Operations: Kohei Shiomoto, Tokyo City University, Japan
+Vice Chair: Program Development: Jason Boswell, Ericsson, USA
+Vice Chair: Social Media: Aman Singh, Palindrome Technologies, USA
+Secretary: Chikara Ohta, Kobe University, Japan
+Treasurer: Kevin Krantz, Ericsson, USA
+Advisory Board Chair: Scott Poretsky, Ericsson, USA
+Advisory Board Members:
+Hideaki Yoshino, Nippon Institute of Technology, Japan
+Kelly Krick, Ericsson, USA
+Hiromi Ueda, Tokyo University of Technology, Japan
+Chi-Ming Chen, InfoBeyond, USA
+Kenichi Mase, Niigata University, Japan
+Karl Rauscher, Global Information Infrastructure Commission, USA
+Koichi Asatani, Shanghai University, China
+Ray Bonelli, Consultant, USA
+
+CQR Technical Committee Home Page: http://cqr.committees.comsoc.org/
+
+---
+電子情報通信学会・IN研究会・幹事
+小畑　博靖（広島市立大学）
+E-mail: in_ac-secretariat@mail.ieice.org
+
+
+
