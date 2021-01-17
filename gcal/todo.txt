@@ -1,108 +1,108 @@
-2021-01-16 三谷産業フェア★金沢 #fundhunt due:2020-09-01
-2021-01-16 本多記念賞200万・50万・30万.2items #fundhunt due:2020-09-11
-2021-01-16 airpf人工知能研究振興財団 #fundhunt due:2020-09-30
-2021-01-16 兵庫県立大学.情報学-情報通信-ネットワーク #jobhunt due:2020-09-30
-2021-01-16 ▲愛知工科大学・データサイエンスまたはＡＩ #jobhunt due:2020-10-16
-2021-01-16 classes ① johokiso (blockchain, eval), ② netchino (schedule) #current due:2021-01-16
-2021-01-16 kindle #current due:2021-01-16
-2021-01-16 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2021-01-16
-2021-01-16 wifi dongle @ home #current due:2021-01-16
-2021-01-16 EAI.GreeNets.greenenergy #deadlines due:2021-01-18
-2021-01-16 (J)MDPI.human.computer.interaction #deadlines due:2021-01-20
-2021-01-16 ACM.HotMobile #deadlines due:2021-01-20
-2021-01-16 ACM.SIGCOMM #deadlines due:2021-01-20
-2021-01-16 ICCw.DDINS.intelligence4nets #deadlines due:2021-01-20
-2021-01-16 ICCw.SAGE.smart.green.solutions #deadlines due:2021-01-20
-2021-01-16 ICCw.data.driven.nets #deadlines due:2021-01-20
-2021-01-16 IEEE.ICC.emerging.topics.in.6G #deadlines due:2021-01-20
-2021-01-16 ACM.computing.frontiers #deadlines due:2021-01-21
-2021-01-16 IEEE.5GloTrials.IoT #deadlines due:2021-01-21
-2021-01-16 IFIP.Networking #deadlines due:2021-01-21
-2021-01-16 IM.IoT #deadlines due:2021-01-22
-2021-01-16 (3) docomocycle data collect #regulars due:2021-01-23
-2021-01-16 ① money (weekly) #regulars due:2021-01-23
-2021-01-16 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2021-01-23
-2021-01-16 ACM.IEEE.fog.and.edge #deadlines due:2021-01-24
-2021-01-16 ACM.IoTDI #deadlines due:2021-01-26
-2021-01-16 audio automation for open campus #midterm due:2021-01-26
-2021-01-16 kgu zemi faces #midterm due:2021-01-26
-2021-01-16 samsung redo cygwin #midterm due:2021-01-26
-2021-01-16 simplify yalms #midterm due:2021-01-26
-2021-01-16 tokyo hotels and schedule #midterm due:2021-01-26
-2021-01-16 video recognition engine (sotsuken) #midterm due:2021-01-26
-2021-01-16 SpringerLNCS.DAIS.distributed.apps #deadlines due:2021-01-29
-2021-01-16 足利大学・工学部・教員の公募（人工知能関連分野）【再公募】 #jobhunt due:2021-01-29
-2021-01-16 足利大学・工学部・教員の公募（情報工学、情報科学センター）【再公募】 #jobhunt due:2021-01-29
-2021-01-16 (J)EAI.GeneralCollectiveIntelligence #deadlines due:2021-01-30
-2021-01-16 COMPSAC #deadlines due:2021-01-30
-2021-01-16 (J)ICT.express.mobile.edge.systems #deadlines due:2021-01-31
-2021-01-16 (J)IET.SmartCities.IoT.sensing.sustain #deadlines due:2021-01-31
-2021-01-16 (J)Springer.AI4people #deadlines due:2021-01-31
-2021-01-16 MDPI.sustain #deadlines due:2021-01-31
-2021-01-16 東京通信大学・情報システム・データサイエンス分野 #jobhunt due:2021-01-31
-2021-01-16 (BOOK)CambridgeScholars.proposal #deadlines due:2021-02-01
-2021-01-16 IEEE.HPSC.highperfcomp #deadlines due:2021-02-01
-2021-01-16 IEEE.HPSR.highperf.routing.switching #deadlines due:2021-02-01
-2021-01-16 IEEE.IDS.datasecurity #deadlines due:2021-02-01
-2021-01-16 IEEE.sec.and.clouds #deadlines due:2021-02-01
-2021-01-16 金城学院大学・生活環境学部生活マネジメント学科・専任教員の公募（情報学） #jobhunt due:2021-02-01
-2021-01-16 静岡理工科大学・講師・准教授・または教授の公募（電子機械制御分野） #jobhunt due:2021-02-01
-2021-01-16 静岡理工科大学（ソフトウェア開発を基盤とする、知能情報や感性情報処理に関連する分野） #jobhunt due:2021-02-01
-2021-01-16 IEEE.ICAS.autonomous.systems #deadlines due:2021-02-03
-2021-01-16 ACM.SIGMODw.bigdata.dist.envs #deadlines due:2021-02-04
-2021-01-16 IEEE.ComSoc.CQR.quality.reliability #deadlines due:2021-02-05
-2021-01-16 日本大学・専任教員（教授）の公募（データサイエンス関連科目） #jobhunt due:2021-02-05
-2021-01-16 IFIP.newtech.mobility.sec #deadlines due:2021-02-07
-2021-01-16 INFOCOM.demos.posters #deadlines due:2021-02-07
-2021-01-16 (+J)SAM.security.management #deadlines due:2021-02-08
-2021-01-16 東京工業大学・教授の公募（ソフトウェア工学分野） #jobhunt due:2021-02-09
-2021-01-16 (J)MDPI.Sensors.IoT #deadlines due:2021-02-15
-2021-01-16 (J)MDPI.Signals.cybersec.resilience #deadlines due:2021-02-15
-2021-01-16 EAI.WiCOM.wireless #deadlines due:2021-02-15
-2021-01-16 IEEE.ACM.IWQoS.qos #deadlines due:2021-02-15
-2021-01-16 adobe @ work, home #longterm due:2021-02-15
-2021-01-16 windows auth @ zaniya #longterm due:2021-02-15
-2021-01-16 (J)JCN.covid19 #deadlines due:2021-02-20
-2021-01-16 (J)MDPI.Telecom.Journal #deadlines due:2021-02-21
-2021-01-16 (J)MDPI.mobile.computing #deadlines due:2021-02-21
-2021-01-16 LANMAN.networking.is.new.normal #deadlines due:2021-02-22
-2021-01-16 ⒿIEEEJ.intell.wireless.control.systems #deadlines due:2021-02-25
-2021-01-16 大阪大学・機械工学・情報学 #jobhunt due:2021-02-25
-2021-01-16 (J)Elsevier.ICN(blockchain.for.covid) #deadlines due:2021-02-28
-2021-01-16 jour.mdpi.vehicularfleets #deadlines due:2021-02-28
-2021-01-16 国際基督教大学・人間情報学・情報学フロンティアor情報学基礎 #jobhunt due:2021-02-28
-2021-01-16 国際基督教大学・情報学基礎、計算基盤（准教授、教授公募） #jobhunt due:2021-02-28
-2021-01-16 岩手大学・知能・メディア情報コース・准教授公募 #jobhunt due:2021-02-28
-2021-01-16 東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野） #jobhunt due:2021-02-28
-2021-01-16 株式会社ベイシスコンサルティング・リサーチャー募集 #jobhunt due:2021-02-28
-2021-01-16 (J)IEET.green.internet.and.services #deadlines due:2021-03-01
-2021-01-16 (J)Springer.queueing.learning.control #deadlines due:2021-03-01
-2021-01-16 ficloud.future.cloud #deadlines due:2021-03-10
-2021-01-16 ★青山学院大学・経済学部経済学科・統計学・データサイエンス #jobhunt due:2021-03-12
-2021-01-16 (J)MDPI.drone.swarms #deadlines due:2021-03-15
-2021-01-16 BRAINS.blockchain #deadlines due:2021-03-15
-2021-01-16 CloudConf.KSEM@tokyo #deadlines due:2021-03-15
-2021-01-16 KSEM.knowledge #deadlines due:2021-03-15
-2021-01-16 北海道大学・メディアネットワーク部門・情報通信システム学分野・教授 #jobhunt due:2021-03-19
-2021-01-16 香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース） #jobhunt due:2021-03-19
-2021-01-16 ⒿIEEEsensors.inforpositioning #deadlines due:2021-03-21
-2021-01-16 IFIP.future.internet.transport #deadlines due:2021-03-25
-2021-01-16 ★東京理科大学・工学部情報工学科・インテリジェントシステム分野 #jobhunt due:2021-03-29
-2021-01-16 (J)JNSM.beyond5G #deadlines due:2021-03-30
-2021-01-16 (J)ACMIntTechJ.multiagent.systems.for.IoT #deadlines due:2021-03-31
-2021-01-16 (J)ACMtran.comp.ling.multimedia.IoT #deadlines due:2021-03-31
-2021-01-16 (J)Elsevier(edge.iot) #deadlines due:2021-03-31
-2021-01-16 (J)Elsevier.smart.veh.in.6G #deadlines due:2021-03-31
-2021-01-16 (J)IEEE.Sensors.indoor.positioning #deadlines due:2021-03-31
-2021-01-16 福岡大学工学部電子情報工学科 #jobhunt due:2021-03-31
-2021-01-16 鳥取大学工学部教員公募（ロボティクス） #jobhunt due:2021-03-31
-2021-01-16 ITC.teletraffic.congress #deadlines due:2021-04-02
-2021-01-16 香川大学・創造工学部・准教授または講師の公募（機械システムコース） #jobhunt due:2021-04-23
-2021-01-16 岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野） #jobhunt due:2021-04-30
-2021-01-16 知能情報学関連分野 #jobhunt due:2021-04-30
-2021-01-16 ACM.GoodIT #deadlines due:2021-05-01
-2021-01-16 岡山理科大学・准教授・講師または助教（計算機工学，コンピュータシステム分野） #jobhunt due:2021-05-10
-2021-01-16 (J)wiley.SPE.highperfcomp.apps #deadlines due:2021-05-31
-2021-01-16 ⒿMDPI.HPC.math #deadlines due:2021-06-30
-2021-01-16 株式会社キーウォーカー【AI企業】自然言語処理研究員・エンジニア募集 #jobhunt due:2021-06-30
-2021-01-16 (J)BigDataJournal.perfmanagment.large.clusters #deadlines due:2021-07-31
+2021-01-18 三谷産業フェア★金沢 #fundhunt due:2020-09-01
+2021-01-18 本多記念賞200万・50万・30万.2items #fundhunt due:2020-09-11
+2021-01-18 airpf人工知能研究振興財団 #fundhunt due:2020-09-30
+2021-01-18 兵庫県立大学.情報学-情報通信-ネットワーク #jobhunt due:2020-09-30
+2021-01-18 ▲愛知工科大学・データサイエンスまたはＡＩ #jobhunt due:2020-10-16
+2021-01-18 EAI.GreeNets.greenenergy #deadlines due:2021-01-18
+2021-01-18 classes ① johokiso (blockchain, eval), ② netchino (schedule) #current due:2021-01-18
+2021-01-18 kindle #current due:2021-01-18
+2021-01-18 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2021-01-18
+2021-01-18 wifi dongle @ home #current due:2021-01-18
+2021-01-18 (J)MDPI.human.computer.interaction #deadlines due:2021-01-20
+2021-01-18 ACM.HotMobile #deadlines due:2021-01-20
+2021-01-18 ACM.SIGCOMM #deadlines due:2021-01-20
+2021-01-18 ICCw.DDINS.intelligence4nets #deadlines due:2021-01-20
+2021-01-18 ICCw.SAGE.smart.green.solutions #deadlines due:2021-01-20
+2021-01-18 ICCw.data.driven.nets #deadlines due:2021-01-20
+2021-01-18 IEEE.ICC.emerging.topics.in.6G #deadlines due:2021-01-20
+2021-01-18 ACM.computing.frontiers #deadlines due:2021-01-21
+2021-01-18 IEEE.5GloTrials.IoT #deadlines due:2021-01-21
+2021-01-18 IFIP.Networking #deadlines due:2021-01-21
+2021-01-18 IM.IoT #deadlines due:2021-01-22
+2021-01-18 ACM.IEEE.fog.and.edge #deadlines due:2021-01-24
+2021-01-18 (3) docomocycle data collect #regulars due:2021-01-25
+2021-01-18 ① money (weekly) #regulars due:2021-01-25
+2021-01-18 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2021-01-25
+2021-01-18 ACM.IoTDI #deadlines due:2021-01-26
+2021-01-18 audio automation for open campus #midterm due:2021-01-28
+2021-01-18 kgu zemi faces #midterm due:2021-01-28
+2021-01-18 samsung redo cygwin #midterm due:2021-01-28
+2021-01-18 simplify yalms #midterm due:2021-01-28
+2021-01-18 tokyo hotels and schedule #midterm due:2021-01-28
+2021-01-18 video recognition engine (sotsuken) #midterm due:2021-01-28
+2021-01-18 SpringerLNCS.DAIS.distributed.apps #deadlines due:2021-01-29
+2021-01-18 足利大学・工学部・教員の公募（人工知能関連分野）【再公募】 #jobhunt due:2021-01-29
+2021-01-18 足利大学・工学部・教員の公募（情報工学、情報科学センター）【再公募】 #jobhunt due:2021-01-29
+2021-01-18 (J)EAI.GeneralCollectiveIntelligence #deadlines due:2021-01-30
+2021-01-18 COMPSAC #deadlines due:2021-01-30
+2021-01-18 (J)ICT.express.mobile.edge.systems #deadlines due:2021-01-31
+2021-01-18 (J)IET.SmartCities.IoT.sensing.sustain #deadlines due:2021-01-31
+2021-01-18 (J)Springer.AI4people #deadlines due:2021-01-31
+2021-01-18 MDPI.sustain #deadlines due:2021-01-31
+2021-01-18 東京通信大学・情報システム・データサイエンス分野 #jobhunt due:2021-01-31
+2021-01-18 (BOOK)CambridgeScholars.proposal #deadlines due:2021-02-01
+2021-01-18 IEEE.HPSC.highperfcomp #deadlines due:2021-02-01
+2021-01-18 IEEE.HPSR.highperf.routing.switching #deadlines due:2021-02-01
+2021-01-18 IEEE.IDS.datasecurity #deadlines due:2021-02-01
+2021-01-18 IEEE.sec.and.clouds #deadlines due:2021-02-01
+2021-01-18 金城学院大学・生活環境学部生活マネジメント学科・専任教員の公募（情報学） #jobhunt due:2021-02-01
+2021-01-18 静岡理工科大学・講師・准教授・または教授の公募（電子機械制御分野） #jobhunt due:2021-02-01
+2021-01-18 静岡理工科大学（ソフトウェア開発を基盤とする、知能情報や感性情報処理に関連する分野） #jobhunt due:2021-02-01
+2021-01-18 IEEE.ICAS.autonomous.systems #deadlines due:2021-02-03
+2021-01-18 ACM.SIGMODw.bigdata.dist.envs #deadlines due:2021-02-04
+2021-01-18 IEEE.ComSoc.CQR.quality.reliability #deadlines due:2021-02-05
+2021-01-18 日本大学・専任教員（教授）の公募（データサイエンス関連科目） #jobhunt due:2021-02-05
+2021-01-18 IFIP.newtech.mobility.sec #deadlines due:2021-02-07
+2021-01-18 INFOCOM.demos.posters #deadlines due:2021-02-07
+2021-01-18 (+J)SAM.security.management #deadlines due:2021-02-08
+2021-01-18 東京工業大学・教授の公募（ソフトウェア工学分野） #jobhunt due:2021-02-09
+2021-01-18 (J)MDPI.Sensors.IoT #deadlines due:2021-02-15
+2021-01-18 (J)MDPI.Signals.cybersec.resilience #deadlines due:2021-02-15
+2021-01-18 EAI.WiCOM.wireless #deadlines due:2021-02-15
+2021-01-18 IEEE.ACM.IWQoS.qos #deadlines due:2021-02-15
+2021-01-18 adobe @ work, home #longterm due:2021-02-17
+2021-01-18 windows auth @ zaniya #longterm due:2021-02-17
+2021-01-18 (J)JCN.covid19 #deadlines due:2021-02-20
+2021-01-18 (J)MDPI.Telecom.Journal #deadlines due:2021-02-21
+2021-01-18 (J)MDPI.mobile.computing #deadlines due:2021-02-21
+2021-01-18 LANMAN.networking.is.new.normal #deadlines due:2021-02-22
+2021-01-18 ⒿIEEEJ.intell.wireless.control.systems #deadlines due:2021-02-25
+2021-01-18 大阪大学・機械工学・情報学 #jobhunt due:2021-02-25
+2021-01-18 (J)Elsevier.ICN(blockchain.for.covid) #deadlines due:2021-02-28
+2021-01-18 jour.mdpi.vehicularfleets #deadlines due:2021-02-28
+2021-01-18 国際基督教大学・人間情報学・情報学フロンティアor情報学基礎 #jobhunt due:2021-02-28
+2021-01-18 国際基督教大学・情報学基礎、計算基盤（准教授、教授公募） #jobhunt due:2021-02-28
+2021-01-18 岩手大学・知能・メディア情報コース・准教授公募 #jobhunt due:2021-02-28
+2021-01-18 東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野） #jobhunt due:2021-02-28
+2021-01-18 株式会社ベイシスコンサルティング・リサーチャー募集 #jobhunt due:2021-02-28
+2021-01-18 (J)IEET.green.internet.and.services #deadlines due:2021-03-01
+2021-01-18 (J)Springer.queueing.learning.control #deadlines due:2021-03-01
+2021-01-18 ficloud.future.cloud #deadlines due:2021-03-10
+2021-01-18 ★青山学院大学・経済学部経済学科・統計学・データサイエンス #jobhunt due:2021-03-12
+2021-01-18 (J)MDPI.drone.swarms #deadlines due:2021-03-15
+2021-01-18 BRAINS.blockchain #deadlines due:2021-03-15
+2021-01-18 CloudConf.KSEM@tokyo #deadlines due:2021-03-15
+2021-01-18 KSEM.knowledge #deadlines due:2021-03-15
+2021-01-18 北海道大学・メディアネットワーク部門・情報通信システム学分野・教授 #jobhunt due:2021-03-19
+2021-01-18 香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース） #jobhunt due:2021-03-19
+2021-01-18 ⒿIEEEsensors.inforpositioning #deadlines due:2021-03-21
+2021-01-18 IFIP.future.internet.transport #deadlines due:2021-03-25
+2021-01-18 ★東京理科大学・工学部情報工学科・インテリジェントシステム分野 #jobhunt due:2021-03-29
+2021-01-18 (J)JNSM.beyond5G #deadlines due:2021-03-30
+2021-01-18 (J)ACMIntTechJ.multiagent.systems.for.IoT #deadlines due:2021-03-31
+2021-01-18 (J)ACMtran.comp.ling.multimedia.IoT #deadlines due:2021-03-31
+2021-01-18 (J)Elsevier(edge.iot) #deadlines due:2021-03-31
+2021-01-18 (J)Elsevier.smart.veh.in.6G #deadlines due:2021-03-31
+2021-01-18 (J)IEEE.Sensors.indoor.positioning #deadlines due:2021-03-31
+2021-01-18 福岡大学工学部電子情報工学科 #jobhunt due:2021-03-31
+2021-01-18 鳥取大学工学部教員公募（ロボティクス） #jobhunt due:2021-03-31
+2021-01-18 ITC.teletraffic.congress #deadlines due:2021-04-02
+2021-01-18 香川大学・創造工学部・准教授または講師の公募（機械システムコース） #jobhunt due:2021-04-23
+2021-01-18 岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野） #jobhunt due:2021-04-30
+2021-01-18 知能情報学関連分野 #jobhunt due:2021-04-30
+2021-01-18 ACM.GoodIT #deadlines due:2021-05-01
+2021-01-18 岡山理科大学・准教授・講師または助教（計算機工学，コンピュータシステム分野） #jobhunt due:2021-05-10
+2021-01-18 (J)wiley.SPE.highperfcomp.apps #deadlines due:2021-05-31
+2021-01-18 ⒿMDPI.HPC.math #deadlines due:2021-06-30
+2021-01-18 株式会社キーウォーカー【AI企業】自然言語処理研究員・エンジニア募集 #jobhunt due:2021-06-30
+2021-01-18 (J)BigDataJournal.perfmanagment.large.clusters #deadlines due:2021-07-31

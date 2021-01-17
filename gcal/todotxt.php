@@ -129,7 +129,8 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 		$bywhen = array(); $H = jsonload( "$calendar.json"); krsort( $H); // sort in reverse order
 		foreach ( $H as $k => $h) { extract( $h); if ( substr( $title, 0, 1) == '-') $title = '<strike>' . substr( $title, 1) . '</strike>'; if ( substr( $title, 0, 1) == '+') $title = '<strong>' . substr( $title, 1) . '</strong>'; $H[ "$k"][ 'title'] = $title; }
 		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = lshift( ttl( $when, ' ')); }
-		arsort( $bywhen); foreach ( $bywhen as $k => $when3) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "$when3 [$title](#" . $keymap[ "$k"] . ")  \n"); }
+		if ( $calendar == 'jobhunt') arsort( $bywhen); else asort( $bywhen); 
+		foreach ( $bywhen as $k => $when3) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "$when3 [$title](#" . $keymap[ "$k"] . ")  \n"); }
 		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
 			extract( $h); // when, when2, url1, url2, title, duration, description
 			fwrite( $out, "## $title  (" . lshift( ttl( $when, ' ')) . ") <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
