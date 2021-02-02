@@ -1,32 +1,5 @@
 new info.............................................. ok
 existing files...................... ok
-210118 EAI.GreeNets.greenenergy
-210120 ACM.SIGCOMM
-210120 ICCw.DDINS.intelligence4nets
-210120 IEEE.ICC.emerging.topics.in.6G
-210120 ICCw.data.driven.nets
-210120 ACM.HotMobile
-210120 ICCw.SAGE.smart.green.solutions
-210120 (J)MDPI.human.computer.interaction
-210121 ACM.computing.frontiers
-210121 IFIP.Networking
-210121 IEEE.5GloTrials.IoT
-210122 IM.IoT
-210124 ACM.IEEE.fog.and.edge
-210126 ACM.IoTDI
-210129 SpringerLNCS.DAIS.distributed.apps
-210130 (J)EAI.GeneralCollectiveIntelligence
-210130 COMPSAC
-210131 (J)ICT.express.mobile.edge.systems
-210131 (J)IET.SmartCities.IoT.sensing.sustain
-210131 MDPI.sustain
-210131 (J)Springer.AI4people
-210201 IEEE.HPSC.highperfcomp
-210201 IEEE.sec.and.clouds
-210201 (BOOK)CambridgeScholars.proposal
-210201 IEEE.HPSR.highperf.routing.switching
-210201 IEEE.IDS.datasecurity
-210203 IEEE.ICAS.autonomous.systems
 210204 ACM.SIGMODw.bigdata.dist.envs
 210205 IEEE.ComSoc.CQR.quality.reliability
 210207 IFIP.newtech.mobility.sec
