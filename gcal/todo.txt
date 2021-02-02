@@ -39,7 +39,6 @@
 2021-02-02 ACM.SIGMODw.bigdata.dist.envs #deadlines due:2021-02-04
 2021-02-02 IEEE.ComSoc.CQR.quality.reliability #deadlines due:2021-02-05
 2021-02-02 名古屋大学・行動信号処理分野 #jobhunt due:2021-02-05
-2021-02-02 日本大学・専任教員（教授）の公募（データサイエンス関連科目） #jobhunt due:2021-02-05
 2021-02-02 IFIP.newtech.mobility.sec #deadlines due:2021-02-07
 2021-02-02 INFOCOM.demos.posters #deadlines due:2021-02-07
 2021-02-02 (+J)SAM.security.management #deadlines due:2021-02-08
