@@ -1,0 +1,10 @@
+no : 16
+id : D121010524 
+update : 2021年01月15日
+univ : 清水建設株式会社・民間企業の研究員（３D計測技術・ロボティクス）
+title : 民間企業の研究員（３D計測技術・ロボティクス）
+field : 工学 - 電気電子工学 -- 工学 - 機械工学 -- 総合理工 - 計算科学
+post : 研究員・ポスドク相当 -- 研究開発・技術者相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010524&ln_jor=0&top_btn=1

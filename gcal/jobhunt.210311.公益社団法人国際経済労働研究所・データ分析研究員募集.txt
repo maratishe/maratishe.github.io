@@ -1,0 +1,10 @@
+no : 39
+id : D121011210 
+update : 2021年01月23日
+univ : 公益社団法人国際経済労働研究所・データ分析研究員募集
+title : 【データ分析研究員募集】研究の仕事を通じて社会問題を解決しませんか？
+field : 社会科学 - 心理学 -- 社会科学 - 全て
+post : 研究員・ポスドク相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月11日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121011210&ln_jor=0&top_btn=1

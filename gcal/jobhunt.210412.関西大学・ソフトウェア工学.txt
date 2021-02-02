@@ -1,0 +1,10 @@
+no : 43
+id : D121010628 
+update : 2021年01月20日
+univ : 関西大学・ソフトウェア工学
+title : 関西大学総合情報学部専任教員公募【専門分野 ソフトウェア工学】
+field : 情報学 - 全て
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年04月12日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010628&ln_jor=0&top_btn=1

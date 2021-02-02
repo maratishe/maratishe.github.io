@@ -1,0 +1,10 @@
+no : 30
+id : D121010680 
+update : 2021年01月20日
+univ : 武庫川女子大学・経営情報分野
+title : 専任教員（教授または准教授）の公募について（経営情報分野）
+field : 社会科学 - 経営学（経営情報）
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年02月28日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010680&ln_jor=0&top_btn=1

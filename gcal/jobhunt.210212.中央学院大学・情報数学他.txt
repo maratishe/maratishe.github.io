@@ -1,0 +1,10 @@
+no : 17
+id : D121010960 
+update : 2021年01月22日
+univ : 中央学院大学・情報数学他
+title : 商学部専任教員（情報数学他）公募について
+field : 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当 -- 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年02月12日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010960&ln_jor=0&top_btn=1

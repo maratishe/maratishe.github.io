@@ -1,0 +1,10 @@
+no : 6
+id : D121010873 
+update : 2021年01月21日
+univ : 名古屋大学
+title : 名古屋大学大学院工学研究科・情報・通信工学専攻　教員（准教授もしくは講師）公募
+field : 工学 - 電気電子工学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月22日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010873&ln_jor=0&top_btn=1

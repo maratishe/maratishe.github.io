@@ -1,0 +1,10 @@
+no : 37
+id : D121010402 
+update : 2021年01月14日
+univ : 青山学院大学理工学部電気電子工学科
+title : 青山学院大学理工学部電気電子工学科 准教授または教授の公募
+field : 工学 - 電気電子工学 -- 工学 - 電波工学，高周波回路工学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010402&ln_jor=0&top_btn=1
