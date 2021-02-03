@@ -1,40 +1,61 @@
-new info.............................................. ok
-existing files...................... ok
+new info.......................... ok
+existing files............................................................... ok
 210204 ACM.SIGMODw.bigdata.dist.envs
 210205 IEEE.ComSoc.CQR.quality.reliability
-210207 IFIP.newtech.mobility.sec
 210207 INFOCOM.demos.posters
+210207 IFIP.newtech.mobility.security
+210208 IEEE.paralle.dist.processing
+210208 IEEE.secon.sending.comm.netwoking
+210208 IEEE.SECON.sending.comm.net
 210208 (+J)SAM.security.management
-210215 (J)MDPI.Signals.cybersec.resilience
-210215 IEEE.ACM.IWQoS.qos
+210212 COMPSAC.collaborating.world
+210215 IEEE.ISIE.industry.electronics
 210215 EAI.WiCOM.wireless
-210215 (J)MDPI.Sensors.IoT
+210215 (J)MDPI.electronics.deepleaning
+210215 (J)MDPI.sensors.internet.of.things
+210215 IEEE.ACM.IWQoS.qos
 210220 (J)JCN.covid19
+210220 (J)MDPI.smartcities.traffic.sensors.IoT
 210221 (J)MDPI.mobile.computing
 210221 (J)MDPI.Telecom.Journal
 210222 LANMAN.networking.is.new.normal
 210225 ⒿIEEEJ.intell.wireless.control.systems
 210228 jour.mdpi.vehicularfleets
 210228 (J)Elsevier.ICN(blockchain.for.covid)
-210301 (J)IEET.green.internet.and.services
+210301 Springer.dataintensive.cluster
 210301 (J)Springer.queueing.learning.control
+210301 (J)IEET.green.internet.and.services
+210310 LNCS.mobiwis.mobileweb.intelligentsystems
 210310 ficloud.future.cloud
-210315 CloudConf.KSEM@tokyo
-210315 BRAINS.blockchain
+210310 IEEE.FiCloud.iot.cloud
 210315 (J)MDPI.drone.swarms
+210315 BRAINS.blockchain
+210315 (J)IEEEWComm.AI.assisted.wcomm
+210315 CloudConf.KSEM@tokyo
 210315 KSEM.knowledge
+210319 Elsevier.FNC.future.nets
 210321 ⒿIEEEsensors.inforpositioning
 210325 IFIP.future.internet.transport
+210326 IEEE.DCOSS.urban.computing
+210330 IEEE.ATC.trusted.computing
 210330 (J)JNSM.beyond5G
 210331 (J)Elsevier.smart.veh.in.6G
-210331 (J)ACMtran.comp.ling.multimedia.IoT
-210331 (J)IEEE.Sensors.indoor.positioning
 210331 (J)Elsevier(edge.iot)
+210331 (J)IEEE.Sensors.indoor.positioning
 210331 (J)ACMIntTechJ.multiagent.systems.for.IoT
-210331 (J)IEEE.sensors.indoor.positioning
+210331 (J)ACMtran.comp.ling.multimedia.IoT
+210331 BRAINS.blockchain
+210401 (J)MDPI.ai.things.readtime.datamon
 210402 ITC.teletraffic.congress
+210405 (J)IEEE.VTechMag.6gapps
+210413 EAI.MONAMI.japan.mobile.nets
+210415 (J)MDPI.sensors.intelligent.vehicles
+210415 GLOBECOM
 210501 ACM.GoodIT
+210505 (J)tailor.digitaltwin
 210531 (J)wiley.SPE.highperfcomp.apps
+210601 (J)MDPI.cloud.based.iot.smartcities
 210630 ⒿMDPI.HPC.math
+210701 (J)MDPI.energy.in.networks
 210731 (J)BigDataJournal.perfmanagment.large.clusters
-# put the above text in none  for further processing logic.
+# put the above text in deadlines.reject.txt  for further processing logic.

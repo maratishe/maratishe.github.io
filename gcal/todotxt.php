@@ -40,7 +40,7 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 		jsondump( $H, "$calendar.json"); echo "DONE > $calendar.json\n";
 	}
 	// SECTION: manual labor automation
-	public function jobhunt( $in = 'jobhunt.txt', $reject= 'jobhunt.reject.txt') { // jobhunt.reject.txt should be in multi-part key per line format
+	public function jobhunt( $in = 'jobhunt.txt', $reject= 'jobhunt.reject.txt', $onlyfuture = false) { // jobhunt.reject.txt should be in multi-part key per line format
 		$blocks = array(); $block = array(); extract( fpathparse( $in)); $in = fopen( $in, 'r'); 
 		// map: no, id, update, univ, title, field, post, tenure, deadline, url
 		$map = tth( 'No.=no,データ番号=id,更新日=update,機関名=univ,タイトル=title,研究分野=field,職種=post,勤務形態=tenure,募集終了日=deadline,ＵＲＬ=url');
@@ -63,6 +63,13 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 			if ( $K == 'id') $v = array( lshift( $L)); $V = str_replace( '[UPDATE]', '', str_replace( '[NEW]', '', ltt( $v, ' '))); 
 			$h[ "$K"] = $V; htouch( $stats, "$K"); htouch( $stats[ "$K"], "$V", 0, false, false); $stats[ "$K"][ "$V"]++; 
 		}; extract( $h); $k = "$univ  $title  $field  $tenure  $deadline"; if ( $reject && isset( $reject[ "$k"])) { echo "REJECT  $k \n"; continue; }; $H[ "$k"] = $h; } // 210115 removed $id
+		if ( $onlyfuture) { $c1 = count( $H); foreach ( hk( $H) as $i => $k) { // filter, leaving only future annoucements
+			extract( $H[ "$k"]); // univ, title, field, tenure, deadline
+			foreach ( ttl( '年,月,日') as $v) $deadline = str_replace( $v, '-', $deadline); $deadline = ltt( ttl( $deadline, '-'), '-'); 
+			$now = lshift( ttl( tsystemstamp(), ' ')); 
+			if ( abs( tsste( "$now 00:00:00") - tsste( "$deadline 00:00:00")) > 60 * 60 * 24 * 300) { echo "WARNING ! bad deadline, today[$now] vs deadline[$deadline] (" . round( abs( tsste( "$now 00:00:00") - tsste( "$deadline 00:00:00")) / ( 60 * 60 * 24)) . "days) skipping ($univ $title)\n"; unset( $H[ "$k"]); }
+			if ( tsste( "$now 00:00:00") > tsste( "$deadline 00:00:00")) unset( $H[ "$k"]); 
+		}; echo "FUTURE FILTER  has the following effect on the count  $c1  >  " . count( $H) . "\n"; }
 		// there is a reject list, output only the non-rejected data
 		if ( $reject) echo "\n\n\n"; 
 		if ( $reject) foreach ( $H as $k => $h) { echo "\n"; foreach ( $h as $k2 => $v2) echo "$k2 : $v2\n"; }

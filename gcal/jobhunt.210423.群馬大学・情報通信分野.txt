@@ -1,0 +1,10 @@
+no : 55
+id : D120121727 
+update : 2020年12月26日
+univ : 群馬大学・情報通信分野
+title : 教授公募（情報通信分野）
+field : 工学 - 電気電子工学
+post : 教授相当
+tenure : 常勤 (任期あり)
+deadline : 2021年04月23日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121727&ln_jor=0&top_btn=1

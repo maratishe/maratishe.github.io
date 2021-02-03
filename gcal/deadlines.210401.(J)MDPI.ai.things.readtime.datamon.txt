@@ -1,0 +1,55 @@
+
+MDPI Sensors - Special Issue
+
+Artificial Intelligence of Things for Real-Time Data Monitoring and Processing
+
+https://www.mdpi.com/journal/sensors/special_issues/aiotd
+
+
+
+Call for Papers
+
+The Internet of Things (IoT) is transforming the way we interact with our devices at home, at work, and throughout our cities. The number of IoT devices that continuously gather data from our environment is exponentially increasing, and so is the amount of data obtained. The potential value of the data is proportional to the capacity of analyzing it and making rapid decisions. Therefore, new artificial intelligence (AI) techniques are needed to intelligently let the devices learn, reason, and process the information without human interaction. In this way, the devices become smart, being able to take actions and/or make decisions in real time on their own, as humans do. Artificial Intelligence of Things (AIoT) is a promising paradigm that enables the use of data analytics to optimize a system and generate higher performance by making better decisions in the device itself without using the cloud. In this way, less data needs to be transferred to the cloud and decisions can be made faster. However, limited resources and IoT device capabilities pose significant challenges in supporting AI.
+
+
+This Special Issue solicits high-quality unpublished work on recent advances in real-time data monitoring and processing using lightweight AI on the IoT device itself. It welcomes theoretical contributions as well as applications in the area of AIoT. Topics of interest include but are not limited to the following:
+
+
+* Energy-efficient artificial intelligence and machine learning algorithms;
+
+* Neuromorphic hardware and computing for IoT devices;
+
+* Edge computing-enabled AI;
+
+* Internet of Intelligent Things;
+
+* Machine learning-enabled sensing and decision-making for IoT;
+
+* Real-time IoT data analytics;
+
+* Applications using AIoT.
+
+
+
+Manuscript submission instructions, and details on Article Processing Charges (APCs), can be found at:
+
+https://www.mdpi.com/journal/sensors/special_issues/aiotd
+
+
+
+Submission Deadline:     31 October 2021
+
+
+
+Papers are published upon acceptance, regardless of the Special Issue publication date.
+
+
+For questions, please do not hesitate to contact the guest editors, Prof. Dr. Chris Blondia, Prof. Dr. Jeroen Famaey and Dr. Carmen Delgado (chris.blondia@uantwerpen.be, jeroen.famaey@uantwerpen.be, carmen.delgado@i2cat.net).
+
+
+Prof. Dr. Chris Blondia (Internet and Data Lab (IDLab), University of Antwerp – imec, Antwerp, 2000, Belgium)
+Prof. Dr. Jeroen Famaey (Internet and Data Lab (IDLab), University of Antwerp – imec, Antwerp, 2000, Belgium)
+Dr. Carmen Delgado (i2CAT Foundation, 08034 Barcelona, Spain)
+Guest Editors
+
+

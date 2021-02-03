@@ -1,0 +1,10 @@
+no : 38
+id : D121010023 
+update : 2021年01月06日
+univ : 株式会社アラヤ・計算論的神経科学者・情報理論学者
+title : リサーチャー (計算論的神経科学者/情報理論学者)
+field : 数物系科学 - 数学 -- 複合領域 - 脳科学 -- 総合生物 - 神経科学
+post : 研究員・ポスドク相当 -- 研究・教育補助者相当
+tenure : 常勤 (任期あり)
+deadline : 2021年08月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010023&ln_jor=0&top_btn=1

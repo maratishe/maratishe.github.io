@@ -1,0 +1,10 @@
+no : 41
+id : D120111970 
+update : 2020年12月02日
+univ : Craif株式会社・解析チームマネージャー
+title : 解析チームマネージャー
+field : 総合生物 - 全て -- 情報学 - 全て -- 生物学 - 全て
+post : 研究管理者相当
+tenure : 常勤 (任期あり)
+deadline : 2021年06月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120111970&ln_jor=0&top_btn=1

@@ -1,0 +1,62 @@
+
+Empowering Sustainable Energy Infrastructures via AI-assisted Wireless Communications
+IEEE Wireless Communications
+https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/empowering-sustainable-energy
+
+Global energy demands will no longer be met using conventional energy infrastructures, and hence can only be achieved through sustainable renewable energy systems that are supported by cyber-physical technologies. The shift from conventional energy sources towards sustainability is clear, leading to the emergence of prosumers (i.e. producers and consumers) which are capable of both generating and consuming energy. Today, many buildings are now equipped with solar panels that can contribute to the overall energy needs. Power systems need to adopt renewable energy to provide more efficient and sustainable operations.
+
+Providing and maintaining sustainable power systems and energy solutions are only achievable through intelligent sensing, monitoring and wireless communications. Today’s advancements in intelligent learning techniques such as deep and reinforcement learning coupled with fast and reliable wireless communications such as 5G, provide great opportunities for new business models for energy providers to improve the way the providers communicate with the grid. Such intelligent learning techniques can for instance determine when and for how long can producers provide and sell power to the grid to maximize their profits and achieve sustainable energy production results. Such learning techniques require fast and reliable wireless communications with different entities in the system. Therefore, the coupling of ultra-fast and reliable wireless communications with intelligent learning will provide sustainable energy solutions for the near future markets.
+
+This special issue considers the adaptation of intelligent learning techniques within wireless networks to enable sustainable power system management. The special issue aims to foster the dissemination of high-quality research with emerging ideas, approaches, theories, frameworks, and practices to tackle the challenging issues related to energy sustainability and power provisioning via the smart grid using wireless networks and intelligent learning methods. Researchers, developers, and industry experts are welcome to contribute to one of the following topics or closely aligned ones:
+
+Topics of Interest
+
+This special issue aims to foster the dissemination of high-quality research with emerging ideas, approaches, theories and practice to resolve the challenging issues related to energy-efficiency in the wireless network domain. Researchers, developers, and industry experts are welcome to contribute to one of the followings topics or slightly similar ones:
+
+•             Utilizing wireless networks to manage sustainable energy infrastructure.
+
+•             Application of AI and wireless communications in the energy production sector.
+
+•             Future generation wireless networks for sustainable power delivery.
+
+•             Utilizing AI and wireless networks to monitor and analyze real-time power gird data.
+
+•             Optimizing the use of mobile edge computing resources to enhance sustainable power infrastructures.
+
+•             Intelligent learning-driven power infrastructure via wireless communications.
+
+•             Modeling and performance analysis of sustainable energy systems enabled by AI-assisted wireless communications.
+
+•             Peer-to-Peer energy trading solutions using blockchain via wireless communications.
+
+•             Securing the energy infrastructure using federated learning via wireless communications.
+
+•             Energy management strategies for electric and plug-in hybrid electric vehicles through wireless communications.
+
+•             Aeriel communication strategies to enhance sustainable power infrastructures.
+
+•             Design of aerial-ground cooperative communication solutions for sustainable power delivery.
+
+•             Edge communication and intelligence to support sustainable energy infrastructures.
+
+
+
+Submission Guidelines:
+
+Prospective authors should prepare their submissions in accordance with the rules specified in the Information for Authors of the IEEE Wireless Communications guidelines (https://www.comsoc.org/publications/magazines/ieee-wireless-communications/paper-submission). Authors should submit a PDF version of their complete manuscript to https://mc.manuscriptcentral.com/ieee-wcm. The timetable is as follows:
+
+•       Manuscript Submission Deadline: 15 March 2021
+
+•       Initial Decision Date: 1 June 2021
+
+•       Revised Manuscript Due: 1 July 2021
+
+•       Final Decision Date: 1 August 2021
+
+•       Final Manuscript Due: 15 October 2021
+
+•       Publication Date: December 2021
+
+
+
+

@@ -1,0 +1,82 @@
+
+CFP link: http://ieeesmartworld.org/atc/
+
+
+
+Advances in technologies and our society will also result in an integration of our real, cyber, and virtual worlds to form smart, and cyber-physical socially aware and integrated hyper worlds. Underpinning such worlds are advanced computing (AC) infrastructure and trusted computing (TC) applications and services. For example, a robust and resilient AC infrastructure can support TC applications and services, in order to provide secure and/or privacy-preserving communications, as well as ensuring computing and communication systems and services are available, predictable, accountable, controllable, assessable, sustainable, dependable, persistent, and secure.
+
+
+
+The 18th IEEE International Conference on Advanced and Trusted Computing (ATC 2021), building on the previous successes in Leicester, UK (2019), Guangzhou, China (2018), San Francisco, USA (2017), Toulouse, France (2016), Beijing, China (2015), Bali, Indonesia (2014), Vietri sul Mare, Italy (2013), Fukuoka, Japan (2012), Banff, Canada (2011), Xi'an, China (2010), Brisbane, Australia (2009), Oslo, Norway (2008), Hong Kong, China (2007), Wuhan, China (2006), is proud to be in the 18th consecutive conference year. The aim of the ATC 2021 is to solicit and present state-of-the-art advances in the design and application of advanced computing (AC) infrastructure and trusted computing (TC) applications and services. Specifically, researchers, experts, and scholars from both industry and academia are strongly encouraged to share their recent studies, investigations, and findings in this collaborative and interactive forum.
+
+
+
+Topics of interest:
+
+•             Security challenges and/or solutions associated with advanced computing and trusted computing applications and services (e.g., cryptographic primitives, and blockchain)
+
+•             Privacy-preserving challenges and/or solutions associated with advanced computing and trusted computing applications and services
+
+•             Artificial intelligence (e.g., machine learning, deep learning, and explainable or interpretable artificial intelligence) in advanced computing and trusted computing applications and services
+
+•             Emerging challenges and/or contemporary solutions advanced computing and trusted computing applications and services (e.g., immersive reality such as virtual and augmented reality)
+
+•             Trusted computation-specific challenges and solutions (e.g., specifications, models, management, and standards)
+
+•             Ethical, legal, policy, and/or regulatory challenges and/or solutions associated with advanced computing and trusted computing applications and services
+
+
+
+Important Dates
+
+•             Workshop Proposal: March 30, 2021
+
+•             Paper Submission: April 30, 2021
+
+•             Author Notification: June 30, 2021
+
+•             Camera Ready Due: July 30, 2021
+
+
+
+Organizing Committee
+
+General Chairs
+
+•             Calton Pu, Georgia Institute of Technology, USA
+
+•             Daniel Takbi, Georgia State University, USA
+
+
+
+Program Chairs
+
+•             Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
+
+•             Rongxing Lu, University of New Brunswick, Canada
+
+•             J. Christopher Westland, University of Illinois, Chicago, USA
+
+
+
+Publicity Chairs
+
+•             Luca Chiaraviglio, University of Rome Tor Vergata, Italy
+
+•             Beibei Li, Sichuan University, China
+
+•             William Liu, Auckland University of Technology, New Zealand
+
+
+
+Workshop Chairs
+
+•             Cristina Alcaraz, University of Malaga, Spain
+
+•             Reza Meimandi Parizi, Kennesaw State University, USA
+
+•             Tianqing Zhu, University of Technology Sydney, Australia
+
+
+
+

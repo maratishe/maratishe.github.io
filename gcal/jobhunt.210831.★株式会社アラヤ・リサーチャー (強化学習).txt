@@ -1,0 +1,10 @@
+no : 34
+id : D121010025 
+update : 2021年01月06日
+univ : 株式会社アラヤ・リサーチャー (強化学習)
+title : リサーチャー (強化学習)
+field : 数物系科学 - 数学 -- 工学 - 全て -- 数物系科学 - 物理学
+post : 研究員・ポスドク相当 -- 研究・教育補助者相当
+tenure : 常勤 (任期あり)
+deadline : 2021年08月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010025&ln_jor=0&top_btn=1

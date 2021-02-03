@@ -1,0 +1,10 @@
+no : 20
+id : D120120633 
+update : 2020年12月11日
+univ : 東京工科大学コンピュータサイエンス学部・人工知能
+title : コンピュータサイエンス学部　教授、准教授または講師の公募【分野 人工知能】
+field : 情報学 - 人間情報学 -- 情報学 - 全て
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期あり)
+deadline : 2021年04月26日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120120633&ln_jor=0&top_btn=1

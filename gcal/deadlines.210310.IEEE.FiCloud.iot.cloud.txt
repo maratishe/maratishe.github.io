@@ -1,0 +1,61 @@
+
+-----------------------Call for Papers--------------------------------------
+
+The 8th International Conference on Future Internet of Things and Cloud (FiCloud 2021),
+IEEE-CS TCI
+
+23-25 August 2021, Rome, Italy
+
+http://www.ficloud.org/2021/
+
+---------------------------------------------------------------------------------------
+
+Cloud is a modern computing platform for delivering on-demand computing services to service consumers over the Internet. Computing services include, for example, storage, memory, compute power, databases, and networking among others. Cloud services are generally provided using SaaS (Software-as-a-Service), PaaS (Platform-as-a-Service) and IaaS (Infrastructure-as-a-Service). Unlike conventional distributed computing, cloud offers flexibility, scalability, efficiency and elasticity in service provisioning.
+
+The Internet of Things (IoT) provides a dynamic and global network infrastructure which is characterized by intelligent and self configuring capabilities. IoT is considered as an integral part of the future Internet. It is based on interoperable communication protocols in order to enable the interaction and integration of virtual as well as physical Things such as computers, smart devices, sensors, cars, refrigerators, food packages, medicines, etc. Things can be seamlessly integrated into the information network and interaction can be made through the provision of intelligent interfaces. In not so distant future, IoT will be forcing its way into every aspect of our lives and technologies including smart homes, smart cities, environment and nature, green energy, food, medicine, automotive, aerospace and aviation, telecommunication, and so on.
+
+IoT is generally characterized by real world and small Things, limited capacity, constrained devices and the consequential issues such as less reliability, security and privacy. Cloud computing on the other hand deals mainly with virtual world and has unlimited capabilities in terms of storage and processing power. Thus cloud and IoT are the main complementary aspects of the future Internet. IoT can benefit from the unlimited capabilities and resources of cloud computing. Similarly, cloud can benefit from IoT by extending its scope to deal with real world things in a more distributed and dynamic manner.
+
+The theme of this conference is to promote the state of the art in scientific and practical research of the IoT and cloud computing. It provides a forum for bringing together researchers and practitioners from academia, industry, and public sector in an effort to present their research work and share research and development ideas in the area of IoT and cloud computing.
+
+CONFERENCE TRACKS:
+
+1. Cloud Services Models
+2. Security, Privacy and Trust
+3. Software Systems, Models and Architectures
+4. Blockchain in Cloud and IoT
+5. Data and Knowledge Management
+6. Context-aware Systems
+7. Software-defined Networking
+8. Performance Evaluation and Modelling
+9. Networking and Communication Protocols
+10. IoT Services and Applications
+11. Smart Environment
+12. Machine learning in Cloud and IoT
+13. Energy Efficiency
+14. Federation and Virtualization
+15. Fog and Edge Computing
+16. Industry Track
+17. General Track – Future IoT and Cloud Computing
+
+
+Important Dates:
+
+Submission Deadline: 10 March 2021
+Authors Notification: 20 May 2021
+Final Manuscript Due: 15 June 2021
+
+Conference Venue:
+
+The organizing committee is carefully monitoring the Covid-19 situation. The safety and well-being of the conference participants is the main priority. The committee will confirm by Spring 2021 of whether to hold the conference onsite in Rome or as an online event.
+
+Paper submission and Publication:
+
+Authors are requested to submit papers reporting original research results and experience. The page limit for full papers is 8 pages and for short papers is 6 pages. Papers should be prepared using IEEE two-column template. See instructions on the conference website  (http://www.ficloud.org/2020/).
+
+All papers accepted for this conference are planned to be published in the conference proceedings by the IEEE Computer Society Conference Publishing Service (CPS). The proceedings will be submitted to the IEEE-Xplore and the IEEE Computer Society (CSDL) digital libraries. The proceedings are also submitted for indexing through IEE INSPEC, EI (Compendex), Thomson ISI, and other indexing services.
+
+Authors of selected papers will be invited to submit extended versions of their papers for special issues in international journals (see conference website).
+
+
+

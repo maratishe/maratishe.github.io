@@ -1,0 +1,42 @@
+
+######################################################################
+
+Call For Papers for Special Issue on
+
+“Energy in networks”
+
+https://www.mdpi.com/journal/energies/special_issues/energy_networks
+
+MDPI Energies (ISSN 1996-1073; CODEN: ENERGA)
+
+Impact Factor : 2.702
+
+**Manuscripts can be submitted until the deadline: 20 September 2021**
+
+######################################################################
+
+
+
+The Internet, and more generally networks, are today almost mandatory in each application context. They are one of the most important key enablers for applications to be considered as smart, like those used in smart agriculture or smart industry. Since the number of users and connected devices in networks keep growing, more computational and consequently more energy resources are required. This has a big impact on the environment, specifically in pollution driven by electronical components and by the carbon footprint. Over many decades, researchers have started to tackle that problem and to propose sustainable solutions like recycling and exploiting renewable energies. Still, challenges are growing as technologies, infrastructures, architectures, and applications are always evolving, requiring more and more energy. It is worth noticing that the issue is not only a matter of reducing energy consumption but also of more efficiently managing available resources and specifically energy. The smart grid, with new services like storage, can be a key enabler to efficiently manage the energy demand for networks.
+
+This Special Issue calls for original proposals from academia and industry on improving energy efficiency in networks targeting, but not limited to, algorithms, protocols, and architectures.
+
+Topics of interest include but are not limited to the following:
+
+Energy-efficient networking;
+IA energy issues in networks;
+Smart grid management/storage service for networks;
+Energy-efficient secure networks;
+6G energy issues;
+Centric-user approaches;
+Energy consumption models for physical and virtual network components;
+Autonomous vehicles and UAV energy-efficient systems;
+Energy-efficient IoT and industrial IoT networks.
+
+
+Dr. Moez Esseghir
+Guest Editor
+
+
+
+

@@ -1,0 +1,68 @@
+
+The 17th International Conference on Mobile Web and Intelligent Information Systemsm (MobiWis 2021)
+Springer LNCS Series.
+
+23-25 August 2021, Rome, Italy
+
+http://www.mobiwis.org/2021/
+-----------------------------------------------------------------------------
+
+The areas of the Web, mobile technologies, and information systems have been following a continuous and steady development over a number of years through the innovative research and practices of researchers, developers and practitioners from academia, industry, governmental and scientific organizations. The International Conference on Mobile Web and Intelligent Information Systems (MobiWis) aims to enable synergy between these areas and provides the premier venue to present and discuss latest research and developments related to research issues of the mobile web and the engineering of intelligent and innovative mobile systems and services.
+
+The conference comprises a set of carefully selected tracks that focus on the particular challenges regarding mobile Web and intelligent information systems. Topics of conference include (but not limited to):
+
+Conference Tracks:
+
+- Smart and Intelligent Systems
+- Software Design and Development
+- Middleware and SOA
+- Pervasive and Ubiquitous Applications
+- Data management
+- Security, Trust and Privacy
+- Mobile Commerce and Services
+- Transforming Technology
+- HCI in Mobile Applications
+- Context & Location-aware Services
+- Network and Communication
+- Industrial Applications and Demos
+
+
+Important Dates:
+
+Submission Deadline: 10 March 2021
+Authors Notification: 20 May 2021
+Final Manuscript Due: 15 June 2021
+
+Conference Venue:
+
+The organizing committee is carefully monitoring the Covid-19 situation. The safety and well-being of the conference participants is the main priority. The committee will confirm by Spring 2021 of whether to hold the conference onsite in Rome or as an online event.
+
+Submission Instructions:
+
+Full papers must be in English and must not exceed 12 pages. Short papers should be limited to 8 pages. Papers should be formatted in Springer's LNCS format. See submission instructions on the conference website.
+
+Publication:
+
+All accepted papers will be included in the conference proceedings published by Springer in the Lecture Notes in Computer Science (LNCS) series. For each accepted paper, at least one author must register for the conference and present the paper. Authors of selected papers will be invited to submit an extended version of their papers for a special issues in international journals (see conference website).
+
+Lecture Notes in Computer Science (LNCS) series is indexed by the ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI Web of Science, EI Engineering Index (Compendex and Inspec databases), ACM Digital Library, dblp, Google Scholar, Scopus, etc. See LNCS - Information on Abstracting and Indexing (http://www.springer.com/computer/lncs?SGWID=0-164-6-1068921-0)
+
+Organizing Committee:
+
+General Co-Chairs:
+
+Thanh Van Do, Telenor, Norway
+Stephan Böhm, RheinMain University of Applied Sciences, Germany
+
+Program Co-Chairs:
+
+Jamal Bentahar, Concordia University, Canada
+Tor-Morten, Kristiania University College, Norway
+
+Local Organising Co-Chairs:
+
+Flora Amoto, University of Naples "Federico II", Italy
+Francesco Piccialli, University of Naples "Federico II", Italy
+
+
+
