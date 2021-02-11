@@ -1,4 +1,3 @@
-CALL FOR PAPERS
 
 IEEE ComSoc Communications, Quality, and Reliability (CQR) 2021 Workshop
 
@@ -13,7 +12,6 @@ quality, reliability and security issues as they relate to real world
 issues. The output from the workshops adds to the community's body of
 knowledge and serves to inform, to help form opinion, and to assist in
 the development of best practice and relevant standards.
-
 For more information, please visit:
 https://cqr2021.ieee-cqr.org/authors/call-for-papers/
 
@@ -21,7 +19,6 @@ Continuing the tradition of this series of workshops, CQR 2021 will
 provide an international technical forum for experts from industry and
 academia to exchange ideas and present results of ongoing research in
 the areas listed below.
-
 You are invited to submit a paper related to various aspects of QoS and
 Reliability for the following networks/services, but are not limited to:
 
@@ -72,7 +69,7 @@ Papers should describe original work, and be 4-6 pages (including all
 references), two-column, single-spaced, and formatted according to the
 IEEE manuscript template for conference proceedings available at
 http://www.ieee.org/conferences_events/conferences/publishing/templates.html.
-Paper submission must be made via EDAS: {NEWPAPER}
+Paper submission must be made via EDAS.
 
 Papers accepted for CQR 2021 will be included in the Workshop
 Proceedings and IEEE Xplore with the exception that IEEE reserves the
@@ -82,7 +79,7 @@ conference.
 
 Important dates:
 ----------------
-February 5, 2021   Paper submission deadline
+February 21, 2021   Paper submission deadline (extended!)
 March   16, 2021   Notification of acceptance to authors
 April    2, 2021   Camera-ready paper and registration
 May     13, 2021   CQR2021 Workshop
@@ -102,7 +99,6 @@ Kazuhiko Kinoshita, Tokushima University, Japan
 TPC Members
 For a complete list of the TPC members, please visit the CQR2021
 website http://www.ieee-cqr.org/
-
 CQR Officers (2020-2021):
 Chair: Tetsuya Yokotani, Kanazawa Institute of Technology, Japan
 Chair-Elect: Chris Mayer, Solstice Technical Consulting, USA
@@ -112,8 +108,8 @@ Vice Chair: Social Media: Aman Singh, Palindrome Technologies, USA
 Secretary: Chikara Ohta, Kobe University, Japan
 Treasurer: Kevin Krantz, Ericsson, USA
 Advisory Board Chair: Scott Poretsky, Ericsson, USA
-Advisory Board Members:
-Hideaki Yoshino, Nippon Institute of Technology, Japan
+Advisory Board Members:   Hideaki Yoshino, Nippon Institute of
+Technology, Japan
 Kelly Krick, Ericsson, USA
 Hiromi Ueda, Tokyo University of Technology, Japan
 Chi-Ming Chen, InfoBeyond, USA
@@ -121,13 +117,7 @@ Kenichi Mase, Niigata University, Japan
 Karl Rauscher, Global Information Infrastructure Commission, USA
 Koichi Asatani, Shanghai University, China
 Ray Bonelli, Consultant, USA
-
 CQR Technical Committee Home Page: http://cqr.committees.comsoc.org/
-
----
-電子情報通信学会・IN研究会・幹事
-小畑　博靖（広島市立大学）
-E-mail: in_ac-secretariat@mail.ieice.org
 
 
 

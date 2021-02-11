@@ -1,1291 +1,573 @@
 
+---deadline--- 210318 ACM.WiSec.wireless.security
+
+Call for Papers: 14th ACM Conference on Security and Privacy in Wireless
+and Mobile Networks (ACM WiSec 2021)
+========================================================================
+
+The 14th ACM Conference on Security and Privacy in Wireless and Mobile
+Networks (ACM WiSec 2021) will be held virtually from June 28 to July 1,
+2021.
+
+ACM WiSec is the leading ACM and SIGSAC conference dedicated to all
+aspects of security and privacy in wireless and mobile networks and
+their applications. In addition to the traditional ACM WiSec topics of
+physical, link, and network layer security, we welcome papers focusing
+on the increasingly diverse range of mobile or wireless applications
+such as Internet of Things, Cyber-Physical Systems, as well as the
+security and privacy of mobile software platforms, usable security and
+privacy, biometrics, and cryptography.
+
+The conference welcomes both theoretical as well as systems
+contributions. Topics of interest include, but are not limited to
+
+- Cryptographic primitives for wireless and mobile security
+- Data-driven security attacks and countermeasures
+- Economics of mobile security and privacy
+- Jamming attacks and defenses
+- Key management (agreement or distribution) for wireless or mobile
+  systems
+- Lightweight cryptography primitives and protocols
+- Mobile malware and platform security
+- NFC and smart payment applications
+- Next generation cellular network fraud and security
+- Physical tracking security and privacy
+- Resilience and dependability for mobile and wireless networks
+- Reverse engineering of and tampering with mobile applications
+- Security and privacy for cognitive radio and dynamic spectrum access
+  systems
+- Security and privacy for mobile applications (e.g., mobile sensing
+  systems)
+- Security and privacy for smart devices (e.g., smartphones)
+- Secure localization and location privacy
+- Security protocols for wireless networking
+- Side-channel and fault attacks on smart devices
+- Side-channel attacks on mobile and wearable systems
+- Theoretical and formal approaches for wireless and mobile security
+- Usable mobile security and privacy
+- Vehicular networks security (e.g., drones, automotive, avionics,
+  autonomous driving)
+- Wireless and mobile privacy and anonymization techniques
+- Wireless or mobile security for cyber-physical systems (e.g,
+  healthcare, smart grid) and IoT systems
+- Wireless network security for critical infrastructures
+
+The proceedings of ACM WiSec, sponsored by SIGSAC, will be published by
+the ACM.
 
 
----deadline--- 210315 (J)IEEEWComm.AI.assisted.wcomm
+Important dates
+===============
 
-Empowering Sustainable Energy Infrastructures via AI-assisted Wireless Communications
-IEEE Wireless Communications
-https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/empowering-sustainable-energy
+- Paper submission deadline: March 18, 2021 (23:59 AoE)
+- Author notification: April 29, 2021
+- Camera-ready deadline: May 21, 2021 (23:59 AoE)
+- WiSec conference: June 28 to July 1, 2021
 
-Global energy demands will no longer be met using conventional energy infrastructures, and hence can only be achieved through sustainable renewable energy systems that are supported by cyber-physical technologies. The shift from conventional energy sources towards sustainability is clear, leading to the emergence of prosumers (i.e. producers and consumers) which are capable of both generating and consuming energy. Today, many buildings are now equipped with solar panels that can contribute to the overall energy needs. Power systems need to adopt renewable energy to provide more efficient and sustainable operations.
 
-Providing and maintaining sustainable power systems and energy solutions are only achievable through intelligent sensing, monitoring and wireless communications. Today’s advancements in intelligent learning techniques such as deep and reinforcement learning coupled with fast and reliable wireless communications such as 5G, provide great opportunities for new business models for energy providers to improve the way the providers communicate with the grid. Such intelligent learning techniques can for instance determine when and for how long can producers provide and sell power to the grid to maximize their profits and achieve sustainable energy production results. Such learning techniques require fast and reliable wireless communications with different entities in the system. Therefore, the coupling of ultra-fast and reliable wireless communications with intelligent learning will provide sustainable energy solutions for the near future markets.
+Full and short papers
+=====================
 
-This special issue considers the adaptation of intelligent learning techniques within wireless networks to enable sustainable power system management. The special issue aims to foster the dissemination of high-quality research with emerging ideas, approaches, theories, frameworks, and practices to tackle the challenging issues related to energy sustainability and power provisioning via the smart grid using wireless networks and intelligent learning methods. Researchers, developers, and industry experts are welcome to contribute to one of the following topics or closely aligned ones:
+Full paper submissions to ACM WiSec 2021 can be up to 10 pages in the
+ACM conference style excluding the bibliography and well-marked
+appendices, and up to 12 pages in total. ACM WiSec also encourages the
+submission of short papers with a length of up to 6 pages (including
+bibliography and appendices), which describe mature work of a more
+succinct nature. All papers must be thoroughly anonymized for
+double-blind reviewing. Detailed submission instructions are available
+on the WiSec 2021 website at https://nyuad.nyu.edu/wisec21.
 
-Topics of Interest
+For the first time in WiSec, we solicit Systematization of Knowledge
+(SoK) papers that evaluate, systematize, and contextualize existing
+knowledge on any of the above topics. Suitable papers provide an
+important new viewpoint on an established research area, support or
+challenge long-held beliefs with compelling evidence, present a
+convincing new taxonomy of such an area, and/or identify research gaps
+with evidence and a structured approach. Survey papers without such
+contributions are not suitable. SoK submissions will be distinguished by
+the prefix "SoK:" in the title and a checkbox on the submission form.
+They will be reviewed by the program committee and held to the same
+standards as regular research papers, except instead of emphasizing
+novel research contributions the emphasis will be on value to the
+community. Accepted papers will be presented at the symposium and
+included in the proceedings.
 
-This special issue aims to foster the dissemination of high-quality research with emerging ideas, approaches, theories and practice to resolve the challenging issues related to energy-efficiency in the wireless network domain. Researchers, developers, and industry experts are welcome to contribute to one of the followings topics or slightly similar ones:
 
-•             Utilizing wireless networks to manage sustainable energy infrastructure.
+Posters and demos
+=================
 
-•             Application of AI and wireless communications in the energy production sector.
+WiSec will solicit submission of posters and demos. The instructions to
+submit posters/demos will be made available on the WiSec 2021 website.
 
-•             Future generation wireless networks for sustainable power delivery.
 
-•             Utilizing AI and wireless networks to monitor and analyze real-time power gird data.
+Replicability label
+===================
 
-•             Optimizing the use of mobile edge computing resources to enhance sustainable power infrastructures.
+WiSec will again offer a replicability label for reproducible results.
+Authors are encouraged to plan ahead when running their experiments to
+minimize the overhead of applying for this label.
+The process of reviewing the work for replicability will be largely
+similar to the previous years.
 
-•             Intelligent learning-driven power infrastructure via wireless communications.
 
-•             Modeling and performance analysis of sustainable energy systems enabled by AI-assisted wireless communications.
+Double submissions
+==================
 
-•             Peer-to-Peer energy trading solutions using blockchain via wireless communications.
+It is a policy of the ACM to disallow double/simultaneous submissions,
+where the same (or substantially similar) paper is concurrently
+submitted to multiple conferences/journals. Any double submissions
+detected will be immediately rejected from all conferences/journals
+involved.
 
-•             Securing the energy infrastructure using federated learning via wireless communications.
 
-•             Energy management strategies for electric and plug-in hybrid electric vehicles through wireless communications.
+Workshops and Tutorial
+==================
+ACM WiSec will host workshops/tutorial co-organized with the main
+conference. Details will be made available on the website.
 
-•             Aeriel communication strategies to enhance sustainable power infrastructures.
 
-•             Design of aerial-ground cooperative communication solutions for sustainable power delivery.
+Organisation committee
+======================
 
-•             Edge communication and intelligence to support sustainable energy infrastructures.
+- General Chairs
+  * Christina Pöpper, New York University Abu Dhabi, UAE
+  * Mathy Vanhoef, New York University Abu Dhabi, UAE
+- PC Chairs
+  * Lejla Batina, Radboud University, The Netherlands
+  * René Mayrhofer, Johannes Kepler University Linz, Austria
+- Reproducibility Chairs
+  * Aanjhan Ranganathan, Northeastern University, Boston, USA
+  * Bradley Reaves, North Carolina State University, Raleigh, NC, USA
+
+
+Program committee
+=================
+    • Ahmad-Reza Sadeghi, TU Darmstadt, DE
+    • Alexandra Dmitrienko, University Wurzburg, DE
+    • Bradley Reaves, North Carolina State University, US
+    • Cristina Onete, University of Limoges, FR
+    • Daniel Gruss, TU Graz, AT
+    • Dave Singelee, KU Leuven, BE
+    • David (Aziz) Mohaisen, University of Central Florida, US
+    • David Barrera, Carleton University, CA
+    • Doowon Kim, University of Tennessee, Knoxville, US
+    • Eleonora Losiouk, University of Padua, IT
+    • Erik Tews, University Twente, NL
+    • Fareena Saqib, University of North Carolina at Charlotte, US
+    • Gang Wang, University of Illinois at Urbana, US
+    • Gerhard Hancke, City University of Hong Kong, HK
+    • Gildas Avoine, Rennes, FR
+    • Guevara Noubir, Northeastern University, US
+    • Ioana Boureanu, University of Surrey, UK
+    • Jian (Jack) Liu, University of Tennessee, Knoxville, US
+    • Jiska Classen, TU Darmstadt, DE
+    • Jorge Guajardo, Bosch, US
+    • Jorge Toro-Pozo, ETH, CH
+    • Katerina Mitrokotsa, University of St. Gallen, CH
+    • Katharina Kohls, Radboud University, NL
+    • Kazuo Sakiyama, University of Telecommunication Tokyo, US
+    • Kerstin Lemke-Rust, University of Applied Sciences
+      Bonn-Rhein-Sieg, DE
+    • Kevin Butler, University of Florida, US
+    • Luyi Xing, Indiana University Bloomington, US
+    • Martin Henze, Fraunhofer FKIE, DE
+    • Mathy Vanhoef, NYU Abu Dhabi, UAE
+    • Matthias Hollick, TU Darmstadt, DE
+    • Matthias Payer, EPFL, CH
+    • Michael Roland, Johannes Kepler University Linz, AT
+    • Naofumi Homma, Tohoku University, JP
+    • Nele Mentens, Leiden University and KU Leuven, NL
+    • Nils Ole Tippenhauer, CISPA Saarbrucken, DE
+    • Nitesh Saxena, University of Alabama at Birmingham, US
+    • Panos Papadimitratos, KTH, SE
+    • Patrick Traynor, University of Florida, US
+    • Rolando Trujillo Rasua, Deakin Melbourne, AU
+    • Selcuk Uluagac, Florida International University, US
+    • Shivam Bhasin, NTU, SG
+    • Srdjan Capkun, ETH Zurich, CH
+    • Stjepan Picek, TU Delft, NL
+    • William Enck, NC State University, US
+    • Xiayu Ji, ZJU, CN
+    • Yanick Fratantonio, Cisco Talos, AT
+    • Yao Zheng, University of Hawaiʻi at Mānoa, US
+    • Yingying Chen, Rutgers University, US
+    • Yuan Tian, University of Virginia, US
+
+
+Steering committee
+=================
+    • Patrick Traynor, University of Florida, USA
+    • Kevin Butler, University of Florida, USA
+    • William Enck, North Carolina State University, USA
+    • René Mayrhofer, Johannes Kepler University Linz, Austria
+    • Guevara Noubir, Northeastern University, USA
+    • Panos Papadimitratos, KTH Royal Institute of Technology, Sweden
+    • Christina Pöpper, New York University Abu Dhabi, UAE
+
+
+---deadline--- 210301 IEEE.IFIP.wirelessdays
+ Call For Papers
+                                Wireless Days 2021
+
+             12th Wireless Days Conference (WD 2021)
+                30 June - 02 July, 2021 (Paris, France)
+
+                          https://wd2021.dnac.org/ 
+
+Technically Co-sponsored by IFIP, IEEE and IEEE Communications Society
+All accepted and presented papers will be published in IEEE Xplore Digital Library           
+
+********************************************************************************
+
+Due to the COVID-19 pandemic, WD 2021 will be held as a virtual conference
+The entire conference program will be online.
+
+
+
+IMPORTANT DATES
+---------------
+Paper Submission: March 1, 2021
+Notification: May 10, 2021
+Camera-Ready: May 31, 2021
+
+------------------------------------------------------------
+Submission link: https://edas.info/N27994
+------------------------------------------------------------
+
+
+
+Welcome to the Annual Wireless Days Conference in its 12th edition, taking place for the second time in Paris. WD is firmly establishing itself as a serious venue for the dissemination of leading-edge state of art knowledge and technologies pertaining to Wireless Communications. Since its inception, it has been offering a stimulating, live environment for discussing new research paths, discoveries, and results among professionals from both Academia and Industry and it has been nurturing fruitful exchange of ideas and positive critics among Wireless Communication and Networking experts.
+Wireless Days 2021 will include presentations of both theoretical and experimental achievements, innovative wireless systems, prototyping efforts, case studies, and advances in technology related to wireless networking and communication infrastructures.
+
+The 2021 Wireless Days conference program will be split into the following tracks:
+
+Track 1: Ad hoc and Sensor Networking
+Track 2: Connected & Autonomous Vehicles in Land, Water, and Sky
+Track 3: IoT and smart X: Networking, Cloudification, and Services
+Track 4: Wireless and Mobile Communications: 5G, 6G, Wifi-ng, and beyond
+Track 5: Wireless Models and Simulations
+Track 6: AI for Wireless and Mobile Networks
+Track 7: Wireless and mobile networking technologies for fighting pandemics (Special Track) 
+
+
+Due to ongoing uncertainty about future travel caused by COVID-19, WD 2021 is monitoring the situation and will consider adequate arrangements for the presentations of accepted papers as the situation evolves. We will update this information on a regular basis.
+
+
+
+*** Submission guidelines ***
+*****************************
+WD 2021 solicits original, unpublished work not currently under review by other conferences or journals. Papers submitted to WD 2021 will be assessed based on originality, technical soundness, clarity and interest to a wide audience. All submissions must be written in English and must use standard IEEE two-column conference template, available for download from the IEEE website: https://www.ieee.org/conferences/publishing/templates.html
+
+Only PDF files will be accepted for the review process and all submissions must be done electronically through EDAS using the following link: https://edas.info/N27994
+
+Technical papers can be of two types: full papers or short papers, up to 8 pages and 5 pages respectively, including tables, figures and references. Posters & Demo papers of length of 3 pages are also solicited.
+
+
+
+*** TPC Co-Chairs ***
+*********************
+Yassine Hadjadj-Aoul (University of Rennes 1, France).
+Celimuge Wu (University of Electro-Communications, Japan)
+Floriano De Rango (Universita della Calabria, Italy)
+
+*** General Co-Chairs ***
+*************************
+Yacine Ghamri-Doudane (University of La Rochelle, France)
+Nadjib Achir (Université Paris 13, France)
+
+*** Executive Chair ***
+***********************
+Khaled Boussetta, University Sorbonne Paris Nord, France
+
+********
+Website: https://wd2021.dnac.org/
+To unsubscribe from this list, click the following link:  https://www-rp.lip6.fr/wws/signoff/dnac-inter
+
+
+---deadline--- 210305 IEEE.ISIE.industry.elec
+
+ ***Call for Papers***
+The 30th IEEE International Symposium on Industrial Electronics (ISIE 2021)
+
+Miyako Messe, Kyoto, Japan
+
+June 20-23, 2021
+
+The deadline for full paper submission has been extended to March 5, 2021.
+
+Due to the COVID-19 pandemic, ISIE2021 Organizing Committees are
+carefully monitoring its situation. In case the author cannot come to
+Kyoto due to this pandemic, we will offer an option for remote (online)
+presentations. Further information will be updated on the Symposium
+website as a later date.
+
+<Webpage link>
+https://www.isie2021.org/
+
+ISIE 2021 is the 30th IEEE International Symposium on Industrial
+Electronics, focusing on industrial and upcoming frontier technologies,
+applications of electronics, controls, communications, instrumentation
+and computational intelligence. The objectives of the conference are to
+provide high quality research and professional interactions for the
+advancement of science, technology, and fellowship. Papers with new
+research results are encouraged for submission.
+
+<Technical Tracks>
+- Power Electronics & Energy Conversion
+- Renewable Energy & Sustainable Development
+- Power Systems & Smart Grid
+- Electrical Machines & Industrial Drives
+- Mechatronics, Robotics & System Integration
+- Motion Control & Haptics
+- Control System & Its Applications
+- Mobility & Transportation Electrification
+- Sensors, Actuators & Micro/Nanotechnology
+- Human Machine Interaction
+- Electronic System on Chip & Real Time Embedded Control
+- Signal and Image Processing
+- Medical, Rehabilitation & Assistive Systems
+- Industrial Informatics & Its Applications
+- Cloud & Networked Systems
+- AI/Machine Learning & Its Applications
+- Data Science
+- Engineering Education
+
+<Important Dates>
+Full Paper Submission: March 5, 2021
+Notification of Acceptance: April 5, 2021
+Submission of Final Manuscripts: April 30, 2021
+
+<General Co-Chairs>
+Kiyoshi Ohishi, Japan
+Hideki Hashimoto, Japan
+
+<Program Co-Chairs>
+Toshiyuki Murakami, Japan
+John Y. Hung, USA
+Roberto Oboe, Italy
+
+<Contact>
+ISIE 2021 Secretariat
+isie2021@jtbcom.co.jp
+--
+IEEE IES conferences. To unsubscribe:
+http://submit.ieee-ies.org/php/emailremove.php
+
+---deadline--- 210515 ACM.middleware
+
+Call for Papers
+
+ACM/IFIP Middleware 2021
+
+The 22nd ACM/IFIP International Conference on Middleware (ACM/IFIP Middleware 2021)
+will be held in Québec, Canada from December 6 to 10, 2021
+
+We are pleased to welcome you to Québec, Canada!
+
+https://middleware-conf.github.io/2021/
 
  
 
-Submission Guidelines:
-
-Prospective authors should prepare their submissions in accordance with the rules specified in the Information for Authors of the IEEE Wireless Communications guidelines (https://www.comsoc.org/publications/magazines/ieee-wireless-communications/paper-submission). Authors should submit a PDF version of their complete manuscript to https://mc.manuscriptcentral.com/ieee-wcm. The timetable is as follows:
-
-•       Manuscript Submission Deadline: 15 March 2021
-
-•       Initial Decision Date: 1 June 2021
-
-•       Revised Manuscript Due: 1 July 2021
-
-•       Final Decision Date: 1 August 2021
-
-•       Final Manuscript Due: 15 October 2021
-
-•       Publication Date: December 2021
+*********************************************************************************
 
  
 
-
----deadline--- 210326 IEEE.DCOSS.urban.computing
-
-CALL FOR PAPERS
-
-3rd International Workshop on Urban Computing
-Coral Bay, Cyprus (with IEEE DCOSS 2019)
-
-Website: https://sites.google.com/view/urbcom-2021
+Important Dates on Second Cycle of Submission ***
 
 
-**** Important Dates ****
-
-Paper Submission: March 26, 2021
-Acceptance Notification: April 25, 2021
-Camera Ready: May 2, 2021
-
-
-
-**** Aims and Scope ****
-
-It is undeniable that the cities' urbanisation has modernised people's
-lives, bringing several benefits to the population. However, it has also
-brought serious challenges such as public management of collective
-spaces, air pollution, traffic congestion, energy consumption, and
-quality of life. In this context, Urban Computing emerges as a process
-of acquisition, integration, and analysis of a large volume of
-heterogeneous data generated from different sources in urban spaces,
-such as portable devices, sensors, vehicles, humans, among others. Urban
-Computing is an interdisciplinary area that connects information and
-communication technology, advanced management of large volumes of data,
-and diverse data analysis methods to propose solutions to problems faced
-by cities. In addition, Urban Computing seeks to understand the nature
-of urban and social phenomena to better plan the future of cities and
-improve their inhabitants' quality of life.
-
-UrbCom aims to create a space for: (1) presentation and discussion of
-studies in the area of Urban Computing; (2) collaboration between
-researchers from different areas that, given the interdisciplinary
-nature, is not limited to Computer Science.
-
-
-**** Topics of interest (not limited to) ****
-
-Architectures and Protocols for Urban Environments
-Data Analysis and Mining
-D2D and 5G Communication in Urban Environments
-Data Offloading
-e-Governance
-e-Health and m-Health
-Green Computing in Urban Environments
-Heterogeneous Data Management
-Human Mobility
-Human-Computer Interaction in Urban Spaces
-Improving Quality of Life in the City Using Mobile Services and Big Data
-Intelligent Transportation Systems
-Internet of Things
-Location Based Services
-Participatory / Opportunistic Sensing
-Recommendation Systems
-Reliability and Security in Urban Computing
-Smart Cities
-Social Computing
-Urban Data Visualisation
-Urban Planning Using Big Data
-Urban Sensing Infrastructures
-
-
-**** General Chairs ****
-
-Leandro A. Villas - University of Campinas / Brazil
-Thiago H. Silva - Federal Univ. of Tech. / Brazil and Univ. of Toronto /
-Canada
-
-
-**** Program Chairs ****
-
-Aline Carneiro Viana - INRIA / France
-Daniel L. Guidoni - Federal University of São João del-Rei / Brazil
-Roberto Rigolin F. Lopes - Fraunhofer FKIE / Germany
-
-
-**** Technical Program Committee ****
-
-Ademar Takeo - PUC Sao Paulo, Brazil
-Albert Zomaya - University of Sydney, Australia
-Aline Carneiro Viana - INRIA, France
-Antonio Loureiro - Federal University of Minas Gerais, Brazil
-Artur Ziviani - National Laboratory for Scientific Computing, Brazil
-Bruno Sousa - University of Coimbra, Portugal
-Claudio Silva - New York University, USA
-Damla Turgut - University of Central Florida, USA
-Eduardo Cerqueira - Federal University of Para, Brazil
-Fabio Kon - University of Sao Paulo, Brazil
-Felipe Da Cunha Pontifical Catholic University of Minas Gerais, Brazil
-Guilherme Maia - Federal University of Minas Gerais, Brazil
-Helder Oliveira - Federal University of Para, Brazil
-Kanchana Thilakarathna - University of Sydney, Australia
-Luca Foschini- University of Bologna, Italy
-Luiz Bittencourt - University of Campinas, Brazil
-Marco Fiore - IMDEA Networks Institute, Spain
-Marilia Curado - University of Coimbra, Portugal
-Mark Fox - University of Toronto, Canada
-Oana Iova - INSA, France
-Richard Pazzi - University of Ontario Institute of Technology, Canada
-Roberto R. Lopes - Fraunhofer FKIE, Germany
-Robson De Grande - Brock University, Canada
-Rodolfo Meneguette - University of Sao Paulo, Brazil
-Samiul Hasan - University of Central Florida, USA
-Torsten Braun - University of Bern, Switzerland
-Veljko Pejovic - University of Ljubljana, Slovenia
-Vinicius Mota - Federal University of Espirito Santo, Brazil
-Xiangjie Kong - Zhejiang University of Technology, China
-Xuan Song - University of Iowa, USA
-(More names will be announced soon)
-
-
-
----deadline--- 210413 EAI.MONAMI.japan.mobile.nets
-
-Please find attached CALL FOR PAPERS for:
-
-EAI MONAMI 2021 - 11th EAI International Conference on Mobile Networks and Management
-
-September 28-30, 2021
-
-Chiba, Japan
+Abstract Submission                                             **May 15th, 2021**
+Full Paper Submission                                          **May 22nd, 2021**
+Author Notification                                                   August 15th, 2021
+Revised Submissions                                              September 15th, 2021
+Notifications of Decisions of Revised Papers          September 30th, 2021
 
  
 
-Best regards,
+**Scope**
 
-Chase Wu
+The annual ACM/IFIP Middleware conference is a major forum for the discussion of innovations and recent scientific advances of middleware systems with a focus on the design, implementation, deployment, and evaluation of distributed systems, platforms, and architectures for computing, storage, and communication. The conference will include a high quality single-track technical program, invited speakers, an industrial track, panel discussions involving academic and industry leaders, poster and demonstration presentations, a doctoral symposium, tutorials, and workshops.
 
-Professor and Associate Chair of Computer Science
+ 
 
-Director of Center for Big Data
+**Topics of Interest**
 
-New Jersey Institute of Technology
+Original submissions of research papers on a diverse range of topics are sought, particularly those identifying new research directions. The topics of the interest for the conference include, but are not limited to:·      
 
+ 
+
+Cloud and data centers
+Virtualization, auto-scaling, provisioning, and scheduling
+Data-intensive computing (big data) and data analytics
+Stream Processing
+Middleware Systems for Machine learning
+Mobile and pervasive systems and services
+Middleware techniques for Internet-of-Things, smart cities
+Fog, Edge computing
+Middleware for cyber-physical and Real-time systems
+Energy and power-aware techniques
+Event-based, publish/subscribe, and peer-to-peer solutions
+Networking, network function virtualization, software-defined networking
+Middleware for multimedia Systems
+Fault tolerance and Consistency
+Blockchains
+Middleware support for security and privacy
+Monitoring, resource management, and analysis
+Middleware Design principles
+Programming abstractions and paradigms for middleware
+Reconfigurable, adaptable, and reflective approaches
+Reviews of middleware paradigms, e.g., object models, aspect orientation, etc.
+Methodologies and tools for middleware systems design, implementation, verification, and evaluation
+ 
+
+Original papers of three types are sought:     
+
+ 
+
+Research Papers: These papers report original research on the above topics, and will be evaluated on the significance of the problem, the novelty of the solution, advancement beyond prior work, sufficient supporting evidence, and clarity of the presentation.
+Experimentation and Deployment Papers: These papers describe complete systems, platforms, and/or comprehensive experimental evaluations of alternative designs and solutions to well-known problems. The emphasis during the evaluation of these papers will be less on the novelty and more on the demonstrated usefulness and potential impact of the contributions, the extensive experimentation involved, and the quality and weight of the lessons learned.
+Big Ideas Papers: These are papers that have the potential for opening up new research directions. For such papers, the potential to motivate new research is more important than full experimental evaluation, though some preliminary evidence of the effectiveness of the approach or idea is important.
+ 
+
+**Submission Guidelines**
+
+Your submission must be made within the due date specified above for the specific rounds. Submitted papers must have at most 12 pages of technical content, including text, figures, and appendices, but excluding any number of additional pages for bibliographic references. Note that submissions must be double-blind: authors’ names must not appear, and authors must make a good faith attempt to anonymize their submissions. Submitted papers must adhere to the formatting instructions of the ACM SIGPLAN style, which can be found on the ACM template page. The font size has to be set to 10pt.
+Please submit papers to https://middleware21.hotcrp.com.
+
+ 
+
+*** More details about submissions are available at https://middleware-conf.github.io/2021/call-for-research-papers/ 
+
+ 
+
+****** TPC Co-Chairs ***·      
+
+Nalini Venkatasubramanian, University of California, Irvine
+Luís Veiga, Instituto Superior Técnico (U.Lisboa) & INESC-ID
+ 
+
+** General Co-Chairs ***·     
+
+Kaiwen Zhang, ÉTS
+Abdelouahed Gherbi, ÉTS
 
 -------------------------------------------------------
 We love you. We are sorry. Please forgive us. Thank you.
 _______________________________________________
-Mycolleagues mailing list
-Mycolleagues@mailman.ufsc.br
-https://mailman.ufsc.br/mailman/listinfo/mycolleagues
-
-- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
-OR
-- Easy unsubscribe: https://mailman.ufsc.br/mailman/options/mycolleagues
-
-
----deadline--- 210220 (J)MDPI.smartcities.traffic.sensors.IoT
-
-Dear Colleague,
-
-Special issue: Smart Cities and Smart Traffic: Sensors, IoT, and
-Intelligence
-Link: https://www.mdpi.com/journal/sensors/special_issues/SMST
-Guest Editors: Prof. Dr. Enrique Alba and Dr. Zakaria Abdelmoiz Dahi
-
-In this Special Issue, we welcome applications focusing on data
-acquisition, use, and service delivery for the materialization of the
-smart city concept with an emphasis on the smart traffic axis (e.g., jam
-avoidance, safety, pollution reduction, city organization, etc.). We
-encourage works making an original and out-of-the-box use of deep
-learning, artificial intelligence, city microsimulation, bio-inspired
-algorithms, special hardware, etc.
-
-The submission deadline is 30 September 2021. If more time needed,
-please just let us know. All submissions are peer-reviewed and accepted
-papers will be published immediately. If you plan to contribute, don't
-hesitate to contact us.
-
-Sensors is covered by leading indexing services, including the Science
-Citation Index Expanded (Web of Science), PubMed/MEDLINE, Scopus,
-Chemical Abstracts, INSPEC, and CAB Abstracts. The latest Impact Factor
-for the year 2019 is 3.275, and the five-year Impact Factor is 3.427.
-
-Sensors is fully open access. Open access (unlimited and free access by
-readers) increases publicity and promotes more frequent citations, as
-indicated by several studies. Open access is supported by the authors
-and their institutes. Article Processing Charges of CHF 2200 (APC) apply
-to accepted papers. You may be intitled a discount if you have
-previously received a discount code.
-
-If you plan to submit or should you have any questions, please feel free
-to contact xanthe.du@mdpi.com.
-
---
-Best regards,
-Ms. Xanthe Du
-Section Managing Editor
-Sensors (http://www.mdpi.com/journal/sensors)
-
-Sensors Impact Factor 2019: 3.275
 
 
 
----deadline--- 210331 BRAINS.blockchain
+---deadline--- 210215 IEEE.HPSC.highperfcomp
 
-*********************************************************************
-                         CALL FOR PAPERS - BRAINS 2021
+The 7th IEEE International Conference on High Performance and Smart Computing (IEEE HPSC 2021)
+May 15-17, New York, USA
+http://www.cloud-conf.net/datasec/2021/hpsc/index.html
 
-
-            3rd Conference on Blockchain Research & Applications
-             for Innovative Networks and Services (BRAINS 2021)
-
-
-                        27-30 September 2021 // Paris, France
-
-                   https://brains.dnac.org/call-for-papers/ 
-
- 
-
-         Paper Submission Deadline: 31 March 2021
-
-
-*********************************************************************
-Blockchain and Distributed Ledger Technologies (DLT) have the potential  to disrupt any domain involving coordination among autonomous resources. 
-This includes finance and payments (e.g., fintech), but also networks (e.g.,  power
-grids or telecom networks), computing (e.g., brokering of edge resources) , IoT (e.g., supply chain, V2X or industry 4.0) or service platforms (e.g.,
-identity management). BRAINS Conference is dedicated to these new advances that  could make the world of networks and services more secure, while enabling 
-disruptive new distributed business models. 
-
-
-Areas of interest include, but are not limited, the following: 
-
-Fundamentals of Blockchain and DLT
-- Theoretical contributions on  Blockchain and DLT
-- Distributed consensus and fault tolerance solutions, including 
- domain-specific consensus (e.g., for networking) 
-- Tradeoffs between decentralization, scalability, performance and 
-security 
-- Protocols and algorithms
-
-Decentralized Apps, Smart contracts and chain code
-- Development languages and tooling
-- Security, Privacy, Attacks, Forensics
-- Transaction Monitoring and Analysis
-- Token Economy
-- Distributed Trust
-- Collaboration between on-chain and off-chain code
-- Oracle, DeFi, NFT apps and protocols
-
-Application and service cases of DLT and Smart-Contracts
-- Finance and payments
-- IoT and cyber physical systems
-- Smart grids and Industry 4.0
-- Networking, Edge and Cloud Technologies
-- 5G Technologies, Telecom Process and Operation 
-- Supply chain management
-- Connected and autonomous vehicles
-- Services or Resources Marketplaces
-- Blockchain as a service
-- Blockchain-defined networking
-
-PAPER SUBMISSION GUIDELINES 
-Submitted papers must represent original material that is not currently  under review in any other conference or journal and has not been previously  published.
-All submissions should be written in English with maximum of eight (full  papers)  or four (short papers) printed pages (in Two-Column IEEE Conference  Format),  including text, figures and references. 
-
-Papers should be submitted through EDAS at: https://edas.info/N28066
-
-
-The three Best Paper finalists will be invited for a fast-track peer- reviewed publication in IEEE Transactions on Network and Service Management.
-
+--------------------------------------------------------------------------  
 IMPORTANT DATES
-Paper Submission: 31 March 2021
-Notification of Acceptance: 31 May 2021
-Camera Ready: 30 June 2021
+Paper submission: February 15, 2021 (Extended)
+Author notification: March 20, 2021
+Camera-Ready: April 5, 2021
+Registration: April 5, 2021
+Conference date: May 15-17, 2021
 
-GENERAL CO-CHAIRS
-Abdelkader Lahmadi (University of Lorraine, France)
-Andreas Veneris (University of Toronto, Canada)
+--------------------------------------------------------------------------    
+Call for Papers 
+High performance and smart computing (HPSC) is getting more and more attention due to the rapid development of computing and communication techniques. From national governments and industry players to consumer-level demand, interest in high performance and smart computing has emerged from many different stakeholders. As a promising technology, high performance computing is playing an important role not only in the traditional computer science domain but also in new branches such as the Internet of Things, unmanned vehicles, and topics in artificial intelligent. Smart computing, as another significant aspect, provides solutions for complicated computing problems.
 
-TECHNICAL PROGRAM COMMITTEE CO-CHAIRS
-William Knottenbelt (Imperial College, UK)
-Tesnim Abdellatif (EDF, France)
+The 7th IEEE International Conference on High Performance and Smart Computing (IEEE HPSC 2021) is a research event cooperated with a number of conferences, such as IEEE BigDataSecurity 2021 and IEEE IDS 2021. This conference provides engineers and scientists in computing domain with an academic forum in which the new research achievements, ideas, and results are shared. The state-of-the-art smart computing applications and experiences in cloud computing and smart computing will be represented in this academic event. IEEE HPSC 2021 is the next edition of a series of successful academic events, including HPSC 2015 (New York, USA), HPSC 2016 (New York, USA), HPSC 2017 (Beijing, China), HPSC 2018 (Omaha, USA), HPSC 2019 (Washington DC, USA), and HPSC 2020 (Baltimore, USA).
 
-Contact Email: brains21-chairs@edas.info
+Scope and Topics:
 
+High performance smart computing
+High performance distributed computing
+Smart digital forensics
+Smart Big data security, Database security
+Smart social engineering, insider threats, advance spear phishing
+Cyber threat intelligence
+Security and fault tolerance for embedded or ubiquitous systems
+Smart cloud security
+Tele-health security
+Sensor network security
+Embedded networks and sensor network optimizations
+Cloud computing and networking models
+Heterogeneous architecture for cloud computing
+Dynamic resource sharing algorithm for cloud computing
+Load balance for cloud computing
+Cloud-based audio/video streaming techniques
+MapReduce
+Visualization
+Cloud-based real-time multimedia techniques
+Mobile cloud computing
+Green cloud computing
+Quality of Service (QoS) improvements techniques
+Case studies for various applications
+Cyber Security in emergent technologies, infrastructures, and applications
 
+--------------------------------------------------------------------------      
 
----deadline--- 210208 IEEE.secon.sending.comm.netwoking
+Co-located Events
 
-Call for Papers
+IEEE HPSC 2021 is co-located with a number of academic events, which include:
 
-IEEE SECON 2021
+The 7th IEEE International Conference on Big Data Security on Cloud (IEEE BigDataSecurity 2021)
+The 6th IEEE International Conference on Intelligent Data and Security (IEEE IDS 2021)
 
-18th International Conference on Sensing, Communication and Networking
-Rome, Italy - July 2021
-http://ieee-secon.org/
+---deadline--- 210215 IEEE.IDS.intelligent.data.sec
 
+The 6th IEEE International Conference on Intelligent Data and Security (IEEE IDS 2021)
+May 15-17, New York, USA
+http://www.cloud-conf.net/datasec/2021/ids/index.html
 
-The 18th annual IEEE International Conference on Sensing, Communication and Networking (SECON) will provide a unique forum to exchange innovative research ideas, recent results, and share experiences among researchers and practitioners in wireless and mobile communication networks. The conference aims to serve as the reference exhibit for state-of-the-art research supported by implementation and insights gained on all scales of experimental systems, network architectures, components, and protocols.
-
-Looking beyond current sensing, communication, and networking paradigms, SECON continues to emphasize pioneering cross-disciplinary work as its signature footprint in the contemporary research landscape. Towards that end, SECON encourages work that falls at the intersection of traditional sensing/networking and new disciplinary areas including (but not limited to) machine intelligence, data analytics, edge computing, social networks, rural connectivity, electromagnetic fields, to name a few, encompassing topics ranging from biological communication and computing networks to uncharted wireless bands, edge intelligence, social media data exploitation, mobile data analysis and beyond 5G networking/communications aspects.
-
-Papers describing original, previously unpublished research, experimental efforts, practical experiences, as well as visionary roadmaps, in all aspects of sensor networks, Internet of Things, mobile devices, and wireless communication are solicited. Particular topics of interest include, but are not limited to:
-
-- Machine intelligence for sensing, communication, and/or networking
-- In-network processing/fog/edge computing in wireless networks
-- Wearable computing and networking
-- Cyber-physical systems and wireless control systems
-- Security, privacy, and trustworthiness of mobile, wireless and sensor systems
-- Unmanned aerial vehicle (UAV)-based sensing/communications/networking (low altitude platforms, high altitude platforms)
-- Wireless and mobile sensing systems in challenging media (e.g., underground, underwater, space)
-- Internet of Things, Nano-Things and Bio-Nano-Things
-- New communication paradigms, such as Terahertz communications and optical wireless communications
-- Intra-body networks and molecular communication networks
-- Sensing and dissemination based on social media
-- Beyond communications/networks (Terahertz communications, large intelligent surfaces, reconfigurable intelligent surfaces)
-- Next-generation applications enabled via wireless, such as virtual/augmented reality, autonomous driving, smart cities
-- Networking/communications solutions to face the connectivity divide  in rural and low-income areas
-- Contact tracing, localization and sensing for combating the COVID-19 pandemic
-- Radio-Frequency sensing to evaluate the exposure level from personal devices (e.g., smartphones)
-- ElectroMagnetic Field measurement and evaluation in 5G and beyond
-- Low-power and energy limited sensing and communications
-- Measurement of wireless and sensor systems, and novel experimental testbeds
-- Software-defined and programmable networks
-- Cognitive radio and dynamic spectrum access
-- Survivability and fault tolerance in disaster scenarios
-- Large scale analysis of mobile data
-- Application protocols and cross-layer design
-- Applications, platforms, and testing platforms for city-scale evaluation of new sensing systems
-- Submission instructions are found in the authors page.
-
-
-
-PRELIMINARY SCHEDULE
-
-Abstract Registration: February 8th, 2021
-Paper Submission: February 15th, 2021
-Acceptance Notification: April 17th, 2021
-Paper Final Version Due: April 30th, 2021
-
-
-
-TPC CHAIRS
-
-Luca Chiaraviglio (University of Rome Tor Vergata, Italy)
-Chenyang Lu (Washington University in St. Louis, USA)
-Kay Romer (TU Graz, Austria)
-
-
-
----deadline--- 210208 IEEE.paralle.dist.processing
-
-CALL FOR PAPERS
-
-23rd Workshop on Advances in Parallel and Distributed Computational Models
-https://apdcm.iss-j.org/
-APDCM2021, May 17, 2021
-
-to be held in conjunction with
-
-35th IEEE International Parallel and Distributed Processing Symposium
-IPDPS May 17-21, 2021, Portland, Oregon USA
-http://www.ipdps.org/
-
-[Call for Papers]
-The past twenty years have seen a flurry of activity in the area of
-parallel and distributed computing. In recent years, novel parallel
-and distributed computational models have been proposed in the
-literature, reflecting advances in new computational devices and
-environments such as optical interconnects, programmable logic arrays,
-networks of workstations, radio communications, mobile computing, DNA
-computing, quantum computing, sensor networks etc. It is very
-encouraging to note that the advent of these new models has led to
-significant advances in the resolution of various difficult problems
-of practical interest.
-
-The main goal of this workshop is to provide a timely forum for the
-exchange and dissemination of new ideas, techniques and research in
-the field of the parallel and distributed computational models. The
-workshop is meant to bring together researchers and practitioners
-interested in all aspects of parallel and distributed computing taken
-in an inclusive, rather than exclusive, sense. We are convinced that
-the workshop atmosphere will be conducive to open and mutually
-beneficial exchanges of ideas between the participants.
-
-[Topics]
-Topics of interest include, but are not limited to
-
-Models of Parallel and Distributed Computing: Radio communication
-models, Mobile computing models, Sensor network models,
-Hardware-specific models, FPGA models, Systolic arrays and cellular
-automata, Peer-to-peer models, Biologically-based computing models,
-Quantum computing model, Ising model, Reconfigurable models, Optical
-models, CUDA, OpenCL, GPU computing models, BSP and LogP models, PGAS
-model, Cloud computing model, Edge/Fog computing model
-
-Algorithms and Applications: Geometric and graph algorithms,
-Combinatorial algorithms, Randomized and approximation techniques,
-Optimization, Numerical algorithms, Network algorithms, Localized
-algorithms, Distributed algorithms, Image processing, High-performance
-computing, GPU applications, MapReduce, Machine Learning
-
-Practical Aspects: Architectural and implementation issues,
-Performance analysis and simulation, MPI, Multi-core processors,
-Programmable logic arrays, GPGPU, Design of network protocols,
-Embedded systems, Cloud computing, Cluster Computing, Development
-tools, Fault tolerance, Security Issues, Big data analysis
-
-[Submission Guidelines]
-Prospective authors are encouraged to submit an electronic version of
-original, unpublished manuscripts, not to exceed 10 pages for REGULAR
-papers and 4 pages for SHORT papers using Manuscript Templates for
-Conference Proceedings. We also welcome comprehensive survey papers on
-timely topics. Abstracts must be registered through Easy Chair by
-February 8, 2021 (23:59 in UTC). Abstract submission is mandatory,
-because reviewers are selected based on abstracts. After the abstract
-registration, the PDF of the paper must be submitted by February 13,
-2021 (23:59 in UTC). You can update abstract and the PDF anytime
-before the due dates.
-
-[Proceedings]
-IPDPS is sponsored by IEEE, and all papers presented at IPDPS-APDCM
-workshop will be included in the Proceedings published from IEEE
-Computer Society.
-
-[Special Issue]
-We plan to publish full versions of selected papers in the
-International Journal on Networking and Computing (IJNC). Authors of
-selected papers will be invited to submit their manuscripts after the
-workshop.
-
-[Important Dates]
-All dates are in UTC and submission must be done by 23:59PM in UTC.
-Abstract registration due: February 8, 2021 (extended)
-Paper submission due: February 13, 2021 (extended)
-Notification: March 1, 2021
-
-
-
----deadline--- 210207 IFIP.newtech.mobility.security
-
-Our apologies if you receive multiple copies of this CfP]
-
-             11th IFIP International Conference on
-            New Technologies, Mobility and Security
-                 19-21 April 2021, Paris, France
-                  http://www.ntms-conf.org
-
-Submission Deadline (extended): February 07, 2021.
-
-Technically co-sponsored by IEEE & IFIP TC6.
-
-The Location may be changed or switched to online as a result of the ongoing arrangements surrounding COVID-19
-
-Accepted and presented papers will be published in the conference proceedings and submitted to IEEE Xplore®, IFIP Digital Library and SCOPUS, as well as other Abstracting and Indexing (A&I) databases
-
-NTMS'2021 is the 11th IFIP International Conference on New Technologies, Mobility and Security that will be held from 19 to 21 April 2021 in Paris, France.
-
-NTMS'2021 aims at fostering advances in the areas of New Technologies, Wireless Networks, Mobile Computing, Ad hoc and Ambient Networks, QoS, Network Security and E-commerce, to mention a few, and provides a dynamic forum for researchers, students and professionals to present their state-of-the-art research and development in these interesting areas.
-
-The event will be combined with tutorial sessions and workshops. Tutorials will precede the main program, aiming at the dissemination of mature knowledge and technology advances in the field. Two or more Workshops will immediately follow the main conference, offering the opportunity for a more focused exchange of ideas and presentation of on-going research relevant to following tracks (More information and the full call-for-papers can be found on the conference web):
-
-Track 1 : Mobility & Wireless networks
----------------------------------------
-- Beyond 3G, 4G, LTE, and WiMAX Networks
-- Wireless Local Area Networks
-- Wireless Personal Area Networks
-- Wireless Ad Hoc and Mesh Networks
-- Wireless Vehicular Networks
-- Cognitive Radio Networks
-- Satellite Networks
-- Self-organizing and Re-configurable Wireless Networks
-- Energy Efficient Wireless Sensor Network Solutions
-- Wireless MAC Protocols
-- Scheduling Techniques for Wireless Networks
-- Wireless QoS Routing Algorithms
-- Radio Resource Allocation and Management
-- Cross-layer Design and Optimization in Wireless Networks
-- Clustering, Topology Control, Coverage and Connectivity
-- Cooperation and Relaying in Wireless Networks
-- Analysis, Simulation and Performance Evaluation
-- Integration of Heterogeneous Mobile, Wireless and Wire-line Radio Access Networks
-- Mobility, Location Management and Handover Techniques for Wireless Mobile Networks
-- Multimedia over Wireless and Mobile Systems
-- Power-aware Architectures, Algorithms and Protocols for Wireless/Mobile Networks
-- Wireless Services and Middleware Platforms
-- Green Radio Communications
-- Measurements, Testbeds and Deployment of Wireless Systems
-
-Track 2: Security
------------------
-Thematic areas:
-- Security engineering. Methodologies, formalisms, modeling, tools, code instrumentation
-- Cryptography. Algorithms, protocols, attacks
-- Security in distributed systems.
-- Cryptographic Hardware and Embedded Systems.
-- Light-weight cryptography.
-- Information Hiding.
-- Steganography
-- Privacy and Anonymity.
-- Security assurance. Evaluation, testing, formal proofs, certification.
-- Quantum Cryptography and QKD.
-- Trusted computing. Analyses and attacks, practical applications...
-- Surveillance and monitoring. Intrusion detection, monitoring techniques, architectures,...
-- Infrastructure. Middleware, proxies, PKIs, AAAs, SSO, credentials...
-- Social and psychological aspects of security. User-centered security evaluation, perception of security and threats...
-- Security and usability.
-
-Application areas:
-- Service Oriented Computing. Platform security, access control, Security of the SOC processes (Negotiation, Orchestration),
-Identification of services...
-- Cloud computing. Platform security, data protection, software protection, surveillance and dynamic reaction.
-- Ubiquitous computing, pervasive computing and ambient intelligence
-- Secure system models, development support, dynamic reaction, self-systems
-- Embedded systems. Dynamic replaceability, system security assessment, secure system composition, tampering-resistance...
-- Security in system evolution. Design for secure evolution, evolution-oriented surveillance, security patches...
-- Critical infrastructures. Protection architectures, redundancy and replication, scalability issues...
-
-Track 3: New Technologies & services
-------------------------------------
-- New generation Internet, Post IP and IPv6
-- NGN architectures, protocols and services management and delivery
-- Web 2.0 applications and IMS (IP Multimedia Subsystems)
-- Next generation systems & Service-oriented techniques
-- IPTV and content distribution networks
-- User-centric networking and services
-- multimedia indexing and retrieval
-- Personalized access to media systems
-- Context/content-aware services
-- Smart Homes and E-Health
-- Web Commerce & Services, Data models, Web searching & querying
-- Web Mining & Web Semantics
-- Web service based Grid computing and P2P computing
-- Advanced identification techniques (Biometrics, RFID, etc.)
-- Virtualization technologies for grid and parallel computing.
-- Interactive media, voice and video, games, immersive applications
-- Network virtualization, virtual private networks (VPN), and services
-- VoIP protocols and services
-- Content-based networking: caching, distribution, load balancing, resiliency
-- Mobile/wireless content distribution
-
-                              * * * * *
-Submission Instructions
-------------------------
-Papers should be in English, strictly not exceeding 5 double-column pages (3,000 words), in Adobe PDF format (which is the only accepted format for NTMS 2021).
-
-To access the full list of topics, submission guidelines, as well as venue and travel information please visit: http://www.ntms-conf.org
-
-Accepted and presented papers will be published in the conference proceedings and included in IEEE Xplore Digital Library
-
-Paper submission via EDAS
----------------------------
-https://edas.info/N27018
-
-CALL FOR WORKSHOPS
-------------------
-Workshop proposals should provide sufficient information to evaluate the quality and importance of the topic, the goals of the workshop, and the size of the interested community.
-
-Proposals should identify one or more chairs and several other individuals willing to serve on an organizing committee and assist with publicity and reviewing.
-
-Proposals should be 2-4 pages and contain at least the workshop description, goals, potential participants and list of organizers.
-
+--------------------------------------------------------------------------  
 IMPORTANT DATES
----------------
-Papers Submission Deadline : February 7, 2021
-Papers Acceptance Notification: March 8, 2021
-Papers camera-ready: March 18, 2021
-
-Workshop, tutorials & keynotes submission deadlines Submission deadlines:  March 8, 2021
-
-General Chairs
---------------
-Lorenzo Vangelista, University of Padova, Italy
-
-Organization chair
-------------------
-Layth Sliman, EFREI Engineering School, France
-
-Steering Committee
-------------------
-Azzedine Boukerche – University of Ottawa, Canada
-Mohamad Badra – Zayed University, UAE
-Pascal Urien – TELECOM ParisTech, France
-Stamatios Kartalopoulos – University of Oklahoma, USA
-Houda Labiod – Telecom ParisTech, France
-
-TPC Chairs
-----------
-Karina Sokolova, Paris School of Business, France
-
-Mobility and Wireless Track Chairs
-----------------------------------
-Stefano Tomasin, University of Padova, Italy
-Yessin NEGGAZ, EFREI, Paris
-
-Security Track Chairs
----------------------
-Nicola Laurenti, University of Padova, Italy
-Dellys Hachemi, ENI, Algeria
-
-New Technologies and Services Track chairs
--------------------------------------------
-Yvan Stroppa, CNRS, France
-
-Workshops Chairs
-----------------
-Elyes Ben Hamida, IRT, France
-
-Keynote/Tutorial Chair
-----------------------
-Nicolas Sklavos, University of Patras, Greece
-
-Publicity Chair
-----------------
-Mohamad Badra, Zayed University, UAE
-
-Finance/Sponsor Chair
-----------------------
-Ibrahim Hajjeh, Fransec, France
-
--------------------------------------------------------
-We love you. We are sorry. Please forgive us. Thank you.
-
-
-
----deadline--- 210701 (J)MDPI.energy.in.networks
-
-######################################################################
-
-                    Call For Papers for Special Issue on
-
-                              “Energy in networks”
-
-    https://www.mdpi.com/journal/energies/special_issues/energy_networks
-
-    MDPI Energies (ISSN 1996-1073; CODEN: ENERGA)
-
-                             Impact Factor : 2.702
-
-  **Manuscripts can be submitted until the deadline: 20 September 2021**
-
-######################################################################
-
- 
-
-The Internet, and more generally networks, are today almost mandatory in each application context. They are one of the most important key enablers for applications to be considered as smart, like those used in smart agriculture or smart industry. Since the number of users and connected devices in networks keep growing, more computational and consequently more energy resources are required. This has a big impact on the environment, specifically in pollution driven by electronical components and by the carbon footprint. Over many decades, researchers have started to tackle that problem and to propose sustainable solutions like recycling and exploiting renewable energies. Still, challenges are growing as technologies, infrastructures, architectures, and applications are always evolving, requiring more and more energy. It is worth noticing that the issue is not only a matter of reducing energy consumption but also of more efficiently managing available resources and specifically energy. The smart grid, with new services like storage, can be a key enabler to efficiently manage the energy demand for networks.
-
-This Special Issue calls for original proposals from academia and industry on improving energy efficiency in networks targeting, but not limited to, algorithms, protocols, and architectures.
-
-Topics of interest include but are not limited to the following:
-
-Energy-efficient networking;
-IA energy issues in networks;
-Smart grid management/storage service for networks;
-Energy-efficient secure networks;
-6G energy issues;
-Centric-user approaches;
-Energy consumption models for physical and virtual network components;
-Autonomous vehicles and UAV energy-efficient systems;
-Energy-efficient IoT and industrial IoT networks.
- 
-
-Dr. Moez Esseghir
-Guest Editor
-
-
-
-
----deadline--- 210310 LNCS.mobiwis.mobileweb.intelligentsystems
-
-The 17th International Conference on Mobile Web and Intelligent Information Systemsm (MobiWis 2021)
-Springer LNCS Series.
-
-23-25 August 2021, Rome, Italy
-
-http://www.mobiwis.org/2021/
------------------------------------------------------------------------------
-
-The areas of the Web, mobile technologies, and information systems have been following a continuous and steady development over a number of years through the innovative research and practices of researchers, developers and practitioners from academia, industry, governmental and scientific organizations. The International Conference on Mobile Web and Intelligent Information Systems (MobiWis) aims to enable synergy between these areas and provides the premier venue to present and discuss latest research and developments related to research issues of the mobile web and the engineering of intelligent and innovative mobile systems and services.
-
-The conference comprises a set of carefully selected tracks that focus on the particular challenges regarding mobile Web and intelligent information systems. Topics of conference include (but not limited to):
-
-Conference Tracks:
-
-- Smart and Intelligent Systems
-- Software Design and Development
-- Middleware and SOA
-- Pervasive and Ubiquitous Applications
-- Data management  
-- Security, Trust and Privacy
-- Mobile Commerce and Services
-- Transforming Technology
-- HCI in Mobile Applications
-- Context & Location-aware Services  
-- Network and Communication
-- Industrial Applications and Demos
-
-
-Important Dates:
-
-Submission Deadline: 10 March 2021
-Authors Notification: 20 May 2021
-Final Manuscript Due: 15 June 2021
-
-Conference Venue:
-
-The organizing committee is carefully monitoring the Covid-19 situation. The safety and well-being of the conference participants is the main priority. The committee will confirm by Spring 2021 of whether to hold the conference onsite in Rome or as an online event.
-
-Submission Instructions:
-
-Full papers must be in English and must not exceed 12 pages. Short papers should be limited to 8 pages. Papers should be formatted in Springer's LNCS format. See submission instructions on the conference website.
-
-Publication:
-
-All accepted papers will be included in the conference proceedings published by Springer in the Lecture Notes in Computer Science (LNCS) series. For each accepted paper, at least one author must register for the conference and present the paper. Authors of selected papers will be invited to submit an extended version of their papers for a special issues in international journals (see conference website).
-
-Lecture Notes in Computer Science (LNCS) series is indexed by the ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI Web of Science, EI Engineering Index (Compendex and Inspec databases), ACM Digital Library, dblp, Google Scholar, Scopus, etc. See LNCS - Information on Abstracting and Indexing (http://www.springer.com/computer/lncs?SGWID=0-164-6-1068921-0)
-
-Organizing Committee:
-
-General Co-Chairs:
-
-Thanh Van Do, Telenor, Norway
-Stephan Böhm, RheinMain University of Applied Sciences, Germany
-
-Program Co-Chairs:
-
-Jamal Bentahar, Concordia University, Canada
-Tor-Morten, Kristiania University College, Norway
-
-Local Organising Co-Chairs:
-
-Flora Amoto, University of Naples "Federico II", Italy
-Francesco Piccialli, University of Naples "Federico II", Italy
-
-
-
----deadline--- 210215 (J)MDPI.electronics.deepleaning
-
-am serving as Guest Editor of the Special Issue “Deep Learning,
-Reconfigurable Computing, and Machine Learning” of the open access
-journal /Electronics/ (IF 2.412).
-
-Given the depth of your expertise in this field, I would like to
-cordially invite you to contribute a full research article or a
-comprehensive review to this Special Issue. You are welcome to
-distribute this news to your research team members. A holiday season
-discount of 500 CHF on the article processing charge will be applied if
-your paper is submitted during 20 December 2020–5 January 2021.
-
-For more information about this issue, including submission
-instructions, please visit the Special Issue website:
-
-https://www.mdpi.com/journal/electronics/special_issues/DL_ML
-
-The particular topics of interest include, but are not limited to:
-
-machine learning, deep learning, dedicated accelerator hardware, and
-reconfigurable computing.
-
-We also encourage authors to submit a short abstract or tentative title
-in advance, either via the above link or by sending it to the Special
-Issue editor (Riley Wang: riley.wang@mdpi.com).
-
-/Electronics/ is a fully open access journal. All submissions are peer
-reviewed, and accepted papers will be published immediately. Submitted
-papers should not be under consideration for publication elsewhere.
-
-We hope that you will be able to accept this invitation and look forward
-to your reply.
-
-Kind regards,
-
-Rui Pedro Lopes
-
-
-
-
----deadline--- 210415 (J)MDPI.sensors.intelligent.vehicles
-
-CALL FOR PAPERS - Special Issue "Cooperative Perception for Intelligent Vehicles" - Sensors (Impact Factor: 3.275)                                      
-
-Deadline for manuscript submissions: 15 April 2021 (extended).
-
-https://www.mdpi.com/journal/sensors/special_issues/Intelli_Vechicles  
-
-Automated vehicles are expected to have a significant impact in the transport sector in the next decades, improving road safety and traffic efficiency, as well as reducing energy consumption and improving user comfort. Automated vehicles make use of a set of onboard sensors installed in the vehicle (e.g. camera, radar and lidar) that are responsible for perceiving the surrounding environment, and a set of actuators that control its longitudinal and lateral movements. One of the development objectives is to automatically perform driving tasks with less or even without driver intervention. Several studies have already shown that the sensors used in the perception process have limitations that might degrade the performance of automated vehicles. For example, in adverse weather conditions (such as rain, snow and fog), the cameras will not be able to adequately capture the environment, and in situations where the sensor’s field of vision is blocked (by other vehicles or buildings) none of the current sensors can detect beyond the position of the obstacle. To overcome these limitations and improve the perception capabilities of the vehicles, cooperative perception enables the wireless exchange of sensor information between vehicles and between vehicles and infrastructure nodes. Cooperative perception, also known as cooperative sensing or collective perception, enables vehicles and infrastructure nodes to detect objects (e.g. non-connected vehicles, pedestrians, obstacles) beyond their local sensing capabilities. Cooperative perception can be key for extended and timely detection of the surrounding environment and can also enable cooperative applications by compensating low penetration rates of connected road users, thus facilitating the future deployment of automated vehicles.
-
-The purpose of this Special Issue is to present and discuss major research challenges, latest developments, and recent advances on cooperative perception. This Special Issue solicits the submission of high-quality papers from academia and industry that aim to solve open technical problems or challenges in the context of cooperative perception. Original and innovative contributions on all aspects, both theoretical and experimental, are all welcome.
-
-Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website.
-
-Potential topics include, but are not limited to, the following:
-Application development and validation based on cooperative perception
-V2X communication algorithms and protocols for cooperative perception
-Communication technologies for cooperative perception
-Radio resource allocation for cooperative perception
-Congestion control for cooperative perception
-Infrastructure-assisted solutions for cooperative perception
-Security analysis and algorithms for cooperative perception
-Artificial intelligence and machine learning-based cooperative perception
-Sensor design and configuration for cooperative perception
-Sensor architectures and technologies for cooperative perception
-The impact of sensor data and sensor data fusion quality on the effectiveness of cooperative perception
-Sensor data fusion problems, algorithms and architectures in the context of cooperative perception
-Simulation platforms and experimental testbeds for cooperative perception
-Keywords:
-Cooperative perception (also known as cooperative sensing or collective perception)
-Connected automated vehicles
-V2X communications
-Simulation platforms
-Experimental testbeds
-Special Issue Editors
-Dr. Miguel Sepulcre
-Dr. Michele Rondinone
-Dr. Andreas Leich
-Dr. Meng Lu
-
-
-Dr. Miguel Sepulcre
-Associate Professor - Wireless Networks, http://www.uwicore.umh.es
-Universidad Miguel Hernandez de Elche (UMH), Spain
-Associate Editor for IEEE Vehicular Technology Magazine and IEEE Communications Letters
-Google Scholar profile: https://scholar.google.com/citations?user=FPLLIHsAAAAJ&hl=en
-
-
-
-
-
----deadline--- 210215 (J)MDPI.sensors.internet.of.things
-
-Call for Papers: Internet and Things: MDPI: Sensors (ISSN 1424-8220, IF 3.275) https://www.mdpi.com/journal/sensors/special_issues/GIoTS_2020
-
-This special issue belongs to the section "Internet of Things".
-
-Deadline for manuscript submissions: 15 Feb 2021.
-
-The aim of this Special Issue is to include papers describing research from both academia and industry, as well as technical presentations on the recent advances in the theory, application and implementation of IoT concepts, technologies and applications. Special attention will be paid for papers of the 2020 Global IoT Summit (GIoTS). Papers should be original and should focus on current topics relevant to the IoT community concerning the latest research, engineering, standards and business issues.
-
-Prof. Dr. Antonio Skarmeta,
-Prof. Dr. Mirko Presser
-Dr. Sébastien Ziegler
-Dr. Srdjan Krco
-
-Mr. Soumya Datta
-
-Mr. Latif Ladid
-Guest Editors
-
-
-
-
-Manuscript Submission Information
-
-Manuscripts should be submitted online at www.mdpi.com by registering and logging in to this website. Once you are registered, click here to go to the submission form. Manuscripts can be submitted until the deadline. All papers will be peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
-
-Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a single-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the Instructions for Authors page. Sensors is an international peer-reviewed open access semimonthly journal published by MDPI.
-
-Please visit the Instructions for Authors page before submitting a manuscript. The Article Processing Charge (APC) for publication in this open access journal is 2000 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's English editing service prior to publication or during author revisions.
-
-Keywords
-IoT Enabling Technologies
-IoT Applications, Services and Real Implementations
-IoT Multimedia, Societal Impacts and Sustainable Development
-Security and Privacy for Internet of Things
-
-
-
-
----deadline--- 210319 Elsevier.FNC.future.nets
-
-The 16th International Conference on Future Networks and Communications
-
- 
-
-Leuven, Belgium
-
-August 9-12, 2021
-
-http://cs-conferences.acadiau.ca/fnc-21/ 
-
-------------------------------------------------------------------------
-
- 
-
-Future Networks and Communications (FNC) research effort will help to achieve a major promise of emerging technologies such as ubiquitous access to broadband, supporting vital applications in our daily lives such as health, energy consumption, environment transport, entertainment or education. The scope of FNC is the development of energy-efficient future network infrastructures that support the convergence and interoperability of heterogeneous mobile, wired and wireless broadband network technologies as enablers of the future Internet. This includes but not limited to ubiquitous fast broadband access and ultra-high speed end-to-end optical connectivity, supporting open services and innovative ambient applications. The scope also embraces novel and evolutionary approaches to tackle network architectures, taking due consideration of users and societal needs for success.
-
- 
-
-Important Dates
-
-----------------
-
-- Workshop Proposal Due: February 20, 2021
-
-- Paper Submission Due:    March 19, 2021
-
-- Acceptance Notification:   May 17, 2021
-
-- Final Manuscript Due:      June 15, 2021
-
- 
-
-Publication
-
-------------
-
-All FNC 2021 accepted papers will be published by Elsevier Science in the open-access Procedia Computer Science series on-line. Procedia Computer Science is hosted by Elsevier on www.Elsevier.com and on Elsevier content platform ScienceDirect (www.sciencedirect.com) and will be freely available worldwide. All papers in Procedia will be indexed by Scopus (www.scopus.com) and by Thomson Reuters' Conference Proceeding Citation Index (http://thomsonreuters.com/conference-proceedings-citation-index/). All papers in Procedia will also be indexed by Scopus (www.scopus.com) and Engineering Village (Ei) (www.engineeringvillage.com). This includes EI Compendex (www.ei.org/compendex). Moreover, all accepted papers will be indexed in DBLP (http://dblp.uni-trier.de/). The papers will contain linked references, XML versions and citable DOI numbers. You will be able to provide a hyperlink to all delegates and direct your conference website visitors to your proceedings. Selected papers will be invited for publication, in the following special issues:
-
- 
-
-- International Journal of Ambient Intelligence and Humanized Computing (IF: 4.594), by Springer (http://www.springer.com/engineering/journal/12652)
-
-- International Journal of Computing and Informatics (IF: 0.524), (http://www.cai.sk/ojs/index.php/cai/index)  
-
-- International Journal of Transportation Research Part A: Policy and Practice (IF: 4.371), by Elsevier (https://www.journals.elsevier.com/transportation-research-part-a-policy-and-practice/)
-
-- International Journal of Computer and Telecommunications Networking (IF:  3.030) (Pending), Elsevier (https://www.journals.elsevier.com/computer-networks)
-
- 
-
-FNC 2021 will be held in conjunction with the 17th International Conference on Mobile Systems and Pervasive Computing (MobiSPC http://cs-conferences.acadiau.ca/mobispc-21/).
-
- 
-
-FNC 2021 will be held in the city of Leuven. Leuven is the capital of the province of Flemish Brabant in Belgium. It is located about 25 kilometers (16 miles) east of Brussels. It is the 10th largest municipality in Belgium and the fourth in Flanders. Leuven is home to the Katholieke Universiteit Leuven, the largest and oldest university of the Low Countries and the oldest Catholic university still in existence. The related university hospital of UZ Leuven, is one of the largest hospitals in Europe. The city is also known for being the headquarters of Anheuser-Busch InBev, the world's largest brewer and one of the five largest consumer-goods companies in the world.
-
- 
-
-Leuven's Town Hall is one of the best-known Gothic town halls worldwide and Leuven's pride and joy. It took three architects and thirty years to build it. Leuven's 'Hall of Fame' features 236 statues, which were only added to the faÃ§ade after 1850. There are 220 men and 16 women in total. On the bottom floor are famous Leuven scientists, artists and historical figures, dressed in Burgundian garb. The first floor is reserved for the patron saints of the various parishes of Leuven. The facade is adorned by the counts and dukes of Brabant while the towers primarily feature biblical figures.
-
- 
-
-COMMITTEES:
-
------------
-
-General Chair
-
-  Ladislav Hluchy, Institute of Informatics, Slovak Academy of Sciences, Slovakia
-
- 
-
-Program Chairs
-
-  Haroon Malik, Marshall University, USA
-
-  Yves Vanrompay, Hasselt University, Belgium
-
- 
-
-Workshops Chair
-
-  Muhammad Adnan, Hasselt University, Belgium
-
- 
-
-International Journals Chair
-
-  Atta Badii, Reading University, UK
-
- 
-
-Publicity Chairs
-
-  Wim Ectors, Hasselt University, Belgium
-
-  Mohammed Erritali, University Sultane Moulay Slimane, Morocco
-
-  Siddardha Kaja, Acadia University, Canada
-
- 
-
-Advisory Committee
-
-  Soumaya Cherkaoui, Sherbrooke University, Canada
-
-  Erol Gelenbe, Imperial College, UK
-
-  Roch Glitho, Concordia University, Canada
-
-  Zygmunt J. Haas, Cornell University, USA
-
-  Philippe Martins, Telecom Paris Tech, France
-
-  Peter Sloot, Universiteit van Amsterdam, Netherlands
-
-  David Taniar, Monash University, Australia
-
- 
-
-Technical Program Committee
-
-  http://cs-conferences.acadiau.ca/fnc-21/#programCommittees
-
-
-  
-  
-
-
----deadline--- 210601 (J)MDPI.cloud.based.iot.smartcities
-
-As Guest Editors, we cordially invite you to submit a manuscript for consideration and possible publication in a Special Issue "Cloud-Based IoT Applications for Smart Cities" to be published in the journal Smart Cities (ISSN 2624-6511) (https://www.mdpi.com/journal/smartcities/).  
- 
-The idea of the smart city connects many IT systems that improve and automate various aspects of everyday life. The effect of implementing the smart city idea is the popularization of access to information about the city, plans for further development, improving the work of offices and municipal institutions, better investment conditions, improved communication, improving the functioning of municipal services, improving the conditions of the environment, increasing safety, increasing the number of cultural and sports activities and opportunities to spend free time, as well as the active participation of residents in development and improvement. 
-Thanks to Internet of Things devices, it is possible to automate tedious processes related to measurement and data transfer, and it is also possible to control the mechanisms remotely. In a smart city, there are many different types of sensors that collect information about the environment and send it to the central office. The question is: What to do with such a huge amount of data? Where to store it and how to manage it effectively? This is where cloud computing comes in handy. 
-The main goal of this Special Issue is to analyze the possibilities that arise from the use of Internet of Things and cloud computing in the idea of the smart city, both for technical and utility reasons, as well as for the development of ICT.  
-The manuscript submission deadline is 31 January 2022. We will process your paper in time once we receive your submission. For more details please visit the Special Issue website:  
-
-https://www.mdpi.com/journal/smartcities/special_issues/Cloud_Based_IoT_Applications_Smart_Cities 
-
-The topics include but are not limited to: 
-
-smart energy 
-smart buildings 
-smart technology 
-IoT-based applications 
-cloud storage and processing for smart cities 
-data science for smart cities 
-security for smart cities 
-
-
-Please share this invitation with your team members and colleagues; co-authors are most welcome. Please let us know as soon as possible if you are interested in submitting a manuscript for this Special Issue with tentative title and abstract. Your contribution would be most welcome. 
-
-We are looking forward to hearing from you. 
-
-With kind regards, 
-
-Guest Editors 
-
-Aneta Poniszewska-Maranda 
-
-Witold Maranda 
-
- 
-
-Lodz University of Technology
-90-924 Lodz, Poland
-
-
----deadline--- 210505 (J)tailor.digitaltwin
-
-Connection Science
-
-https://www.tandfonline.com/ccos20
-
- 
-
-Special Issue: "RECENT TRENDS ON DIGITAL TWIN"
-
-https://think.taylorandfrancis.com/special_issues/connection-science-recent-trends-digital-twin/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743
-
- 
-
- 
-
-Digital Twins play a significant part in the advanced manufacturing sector in the design, monitoring, development, and control of products. It is the logical evolution and convergence of a vast number of emerging technologies such as the Internet of Things, wireless networking, sensor technology, cloud analytics, artificial intelligence, data processing, virtual and augmented visualization of information. It has been recognized as one of the primary key elements of Industry 4.0, in which the significant effort to integrate all manufacturing aspects to secure smooth control and communication across tasks, machinery, and industrial process management.
-
- 
-
-The Digital Twins reflect graphical representations of assigned physical systems that use on-board sensors, the best computational models, and other input data to provide probabilistic predictions of present or prospective circumstances. A Digital Twin is a multi-dimensional, multi-level to capture the complexity of a physical system and requires regular periodic updates to previous forecasts acquired data.
-
- 
-
-The scope of the Digital Twin concept is expected to result in differing application details in combination with different missions from government and industry entities. This topic is intended to illustrate these distinctions and parallels, as well as how various organizations should complement each other and explain the possible factors based on recent advancements in the digital twin. The special issue will include a combined contribution to the development of quantitative uncertainty, health monitoring modules, sensing, computational modeling, and others in recognition of future reliability assurance in structural industrial dynamics based on digital twins.
-
- 
-
-All this provides significant possibilities for industry, technology, financial, legal, and ethical problems. As interactions with the digital twins increase the data collection, which includes personal data, in which protection has become a significant and more challenging issue.
-
- 
-
-Topics of interest for the special issue include, but not limited to, the following:
-
-• Theory and modeling of digital twins
-
-• Digital Twins technology that enables artificial intelligence, sensors, cloud and cloud computing
-
-• Blueprint for digital twins
-
-• Internet of Things and standardization of Digital Twins
-
-• Cybersecurity
-
-• Application areas for digital twins including manufacturing, health care, smart cities, finance, and education
-
-• The experience of digital twins with practical applications
-
-• The role of digital twins in the digital process
-
-• Digital twins in Healthcare
-
-• Physical overlapping and digital twins
-
-• As independent entities, instances of digital twins
-
-• Personal Digital Twins
-
-• Virtual digital twins
-
-• Legal and social problems
-
-• Aspects of security
-
-• Cyber physical system and its importance based on digital twins
-
- 
-
- 
-
-** Manuscript deadline: 05 May 2021 (HARD) **
-
- 
-
-Manuscript Preparation and Submission
-
-Authors should follow the guidelines in “Information for Authors”:
-
-https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=ccos20
-
- 
-
-Guest Editor(s)
-
-Neeraj Kumar, Thapar University, India
-
-Seungmin (Charile) Rho, Sejong University, Korea
-
-Mamoun Alazab, Charles Darwin University, Australia
-
- 
-
-Contact Information
-
-For more information, please contact Dr. Neeraj Kumar, email: neeraj.kumar.in@ieee.org
-
- 
-
- 
-
-
-
----deadline--- 210330 IEEE.ATC.trusted.computing
-
-CFP link: http://ieeesmartworld.org/atc/
-
- 
-
-Advances in technologies and our society will also result in an integration of our real, cyber, and virtual worlds to form smart, and cyber-physical socially aware and integrated hyper worlds. Underpinning such worlds are advanced computing (AC) infrastructure and trusted computing (TC) applications and services. For example, a robust and resilient AC infrastructure can support TC applications and services, in order to provide secure and/or privacy-preserving communications, as well as ensuring computing and communication systems and services are available, predictable, accountable, controllable, assessable, sustainable, dependable, persistent, and secure.
-
- 
-
-The 18th IEEE International Conference on Advanced and Trusted Computing (ATC 2021), building on the previous successes in Leicester, UK (2019), Guangzhou, China (2018), San Francisco, USA (2017), Toulouse, France (2016), Beijing, China (2015), Bali, Indonesia (2014), Vietri sul Mare, Italy (2013), Fukuoka, Japan (2012), Banff, Canada (2011), Xi'an, China (2010), Brisbane, Australia (2009), Oslo, Norway (2008), Hong Kong, China (2007), Wuhan, China (2006), is proud to be in the 18th consecutive conference year. The aim of the ATC 2021 is to solicit and present state-of-the-art advances in the design and application of advanced computing (AC) infrastructure and trusted computing (TC) applications and services. Specifically, researchers, experts, and scholars from both industry and academia are strongly encouraged to share their recent studies, investigations, and findings in this collaborative and interactive forum.
-
- 
-
-Topics of interest:
-
-•             Security challenges and/or solutions associated with advanced computing and trusted computing applications and services (e.g., cryptographic primitives, and blockchain)
-
-•             Privacy-preserving challenges and/or solutions associated with advanced computing and trusted computing applications and services
-
-•             Artificial intelligence (e.g., machine learning, deep learning, and explainable or interpretable artificial intelligence) in advanced computing and trusted computing applications and services
-
-•             Emerging challenges and/or contemporary solutions advanced computing and trusted computing applications and services (e.g., immersive reality such as virtual and augmented reality)
-
-•             Trusted computation-specific challenges and solutions (e.g., specifications, models, management, and standards)
-
-•             Ethical, legal, policy, and/or regulatory challenges and/or solutions associated with advanced computing and trusted computing applications and services
-
- 
-
-Important Dates
-
-•             Workshop Proposal: March 30, 2021
-
-•             Paper Submission: April 30, 2021
-
-•             Author Notification: June 30, 2021
-
-•             Camera Ready Due: July 30, 2021
-
- 
-
-Organizing Committee
-
-General Chairs
-
-•             Calton Pu, Georgia Institute of Technology, USA
-
-•             Daniel Takbi, Georgia State University, USA
-
- 
-
-Program Chairs
-
-•             Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
-
-•             Rongxing Lu, University of New Brunswick, Canada
-
-•             J. Christopher Westland, University of Illinois, Chicago, USA
-
- 
-
-Publicity Chairs
-
-•             Luca Chiaraviglio, University of Rome Tor Vergata, Italy
-
-•             Beibei Li, Sichuan University, China
-
-•             William Liu, Auckland University of Technology, New Zealand
-
- 
-
-Workshop Chairs
-
-•             Cristina Alcaraz, University of Malaga, Spain
-
-•             Reza Meimandi Parizi, Kennesaw State University, USA
-
-•             Tianqing Zhu, University of Technology Sydney, Australia
-
-
-
-
----deadline--- 210212 COMPSAC.collaborating.world
+Paper submission: February 15, 2021 (extended)
+Author notification: March 20, 2021
+Camera-Ready: April 5, 2021
+Registration: April 5, 2021
+Conference date: May 15-17, 2021
+--------------------------------------------------------------------------    
+
+Call for Papers 
+In the current era, intelligent systems are widely deployed and investigated in many domains from the governments to industry players, from academics to consumer-level demand. Therefore, the research on Intelligent data and security (IDS) is getting more and more attention due to the rapid development of computing and communication techniques. As a promising technology, high performance computing is playing an important role not only in traditional computer science domain but also in new branches such as Internet of Things, unmanned vehicles, and topics in artificial intelligence. Smart computing, as another significant aspect, provides solutions for complicated computing problems.
+
+The 6th IEEE International Conference on intelligent data and security (IEEE IDS 2021) is a research event that cooperated with a number of conferences, such as IEEE BigDataSecurity 2021 and IEEE HPSC 2021. This conference provides engineers and scientists in computing domain with an academic forum in which the new research achievements, ideas, and results are shared. The state-of-the-art smart computing applications and experiences in cloud computing and smart computing will be represented in this academic event. IEEE IDS 2021 is the next edition of a series of successful academic events, including IDS 2016 (New York, USA), IDS 2017 (Beijing, China), IDS 2018 (Omaha, USA), IDS 2019 (Washington DC, USA), and IEEE IDS 2020 (Baltimore, USA).
+
+Topics of particular interest include, but are not limited to:
+
+Security in new paradigms of intelligent data
+Cyber hacking, next generation fire wall of intelligent data
+Cyber monitoring and incident response in intelligent data
+Digital forensics in intelligent data
+Big data security, Database security
+Intelligent database and security
+Intelligent data mining in security, optimization, and cloud computing
+Social engineering, insider threats, advance spear phishing
+Cyber threat intelligence and implementations
+Security and fault tolerance for embedded or ubiquitous systems
+Cloud-based intelligent data and security issues
+Tele-health security in intelligent data
+Sensor network security and solutions
+Embedded networks and sensor network optimizations
+Cloud computing and networking models
+Heterogeneous architecture for cloud-based intelligent data
+Dynamic resource sharing algorithm for cloud-based intelligent data
+Load balance for cloud-based intelligent data
+Cloud-based audio/video streaming techniques
+MapReduce techniques in intelligent data
+Visualization and optimization in intelligent data
+Cloud-based real-time multimedia techniques in intelligent data
+Mobile cloud computing and advanced applications
+Green cloud computing model, implementation, and framework
+Quality of Service (QoS) improvements techniques
+Case studies for various applications
+Cyber Security in emergent technologies, infrastructures and applications
+The conference proceedings will be submitted to IEEE Xplore.
+
+
+
+
+
+---deadline--- 210218 IEEE.COMPSAC
 
 COMPSAC 2021
 INTELLIGENT & RESILIENT COMPUTING FOR A COLLABORATIVE WORLD
@@ -1294,9 +576,11 @@ JULY 12-16, 2021
 
 ***CALL FOR PAPERS***
 
-MAIN CONFERENCE PAPER SUBMISSION DUE DATE EXTENDED TO FEBRUARY 12, 2021
+MAIN CONFERENCE PAPER SUBMISSION DUE DATE EXTENDED TO FEBRUARY 18, 2021
 
-Computers, Software and Applications. It is a major international forum for academia, industry, and government to discuss research results and advancements, emerging challenges, and future trends in computer and software technologies and applications. The theme of COMPSAC 2021 is “Intelligent and Resilient Computing for a Collaborative World”.The global COVID-19 pandemic has fundamentally changed how we work with each other on a regular basis.  Limitations on in-person interactions have caused a dramatic increase in our use and reliance on collaborative technology to enable normal communication.  Family and friends have conversations via video chat, students utilize online learning instead of in-person instruction, and medical professionals treat patients remotely.  These are only a few examples of how interactive software and applications have provided the foundation for continued normal day-to-day activities.  But as use of these tools has rapidly accelerated, some limitations and shortcomings have also been discovered.  Many components support online collaborative services, including bare-metal hardware, massive back-end storage, and high-speed, high-throughput networking, as well as the software required to administer these components efficiently.  In many cases, the resilience of these underpinnings has been tested by unprecedented levels of demand, stressing systems and exposing weaknesses.  As computer researchers, we see these weaknesses as opportunities to fill gaps in how software and applications are developed, utilized, and supported.  How to improve the resiliency of these components across a wide range of use domains is a significant challenge we suddenly find ourselves facing.  How do we design systems that are able to withstand the stress of global-scale use, and still provide robust and secure services to end-users?  For over 40 years, COMPSAC has been an outlet for researchers to share and discuss innovative and novel approaches to problems such as these, and we look forward to hearing your ideas in 2021!
+Computers, Software and Applications. It is a major international forum for academia, industry, and government to discuss research results and advancements, emerging challenges, and future trends in computer and software technologies and applications. The theme of COMPSAC 2021 is “Intelligent and Resilient Computing for a Collaborative World”.
+
+The global COVID-19 pandemic has fundamentally changed how we work with each other on a regular basis.  Limitations on in-person interactions have caused a dramatic increase in our use and reliance on collaborative technology to enable normal communication.  Family and friends have conversations via video chat, students utilize online learning instead of in-person instruction, and medical professionals treat patients remotely.  These are only a few examples of how interactive software and applications have provided the foundation for continued normal day-to-day activities.  But as use of these tools has rapidly accelerated, some limitations and shortcomings have also been discovered.  Many components support online collaborative services, including bare-metal hardware, massive back-end storage, and high-speed, high-throughput networking, as well as the software required to administer these components efficiently.  In many cases, the resilience of these underpinnings has been tested by unprecedented levels of demand, stressing systems and exposing weaknesses.  As computer researchers, we see these weaknesses as opportunities to fill gaps in how software and applications are developed, utilized, and supported.  How to improve the resiliency of these components across a wide range of use domains is a significant challenge we suddenly find ourselves facing.  How do we design systems that are able to withstand the stress of global-scale use, and still provide robust and secure services to end-users?  For over 40 years, COMPSAC has been an outlet for researchers to share and discuss innovative and novel approaches to problems such as these, and we look forward to hearing your ideas in 2021!
 
 COMPSAC 2021, organized as a tightly integrated union of symposia, will focus on technical aspects of issues relevant to computers, software and applications, with an emphasis on topics related to improving collaboration with intelligence and resilience. The technical program will include keynote addresses, research papers, industrial case studies, fast abstracts, a doctoral symposium, poster sessions, and workshops and tutorials on emerging and important topics related to the conference theme. Highlights of the conference will include plenary and specialized panels that will address the technical challenges facing researchers and practitioners who are driving fundamental changes in intelligent systems and applications. Panels will also address cultural and societal challenges with respect to computing and collaboration raised by rapidly changing communication norms.
 
@@ -1309,7 +593,7 @@ Submission site: https://easychair.org/my/conference?conf=compsac2021
 
 ***MAIN CONFERENCE***
 UPDATED: 
-Main conference papers due: 12 February 2021
+Main conference papers due: 18 February 2021
 Paper notification: 15 April 2021
 Camera-ready and registration due: 15 May 2021
 
@@ -1327,600 +611,438 @@ Notification of Winners: May 15, 2021
 
 
 
----deadline--- 210215 IEEE.ISIE.industry.electronics
+---deadline--- 210319 IFIP.TMA.traffic.measure.annal
 
-=====================================================
-Special Session on
-Intelligent Edge Learning for Industrial IoT
-in conjunction with
-IEEE 30th International Symposium on Industrial Electronics (ISIE)
-Kyoto Japan, 20-23 June 2021
-https://www.isie2021.org/index.html
-=====================================================
-(Supported by IEEE IES Technical Committee on Cloud and Wireless Systems for Industrial Applications)
 
-On behalf of the Organizing Committee, it is our great honor to invite all delegates, representatives, and participants from all around the world to take part in the 30th International Symposium on Industrial Electronics (ISIE), held 20-23 June 2021 in Kyoto, Japan. The ISIE annually gathers industry experts, researchers, and academics to share ideas and experiences surrounding frontier technologies, breakthroughs, innovative solutions, research results, and initiatives related to industrial electronics and their applications.
+Network Traffic Measurement and Analysis Conference - TMA 2021
 
-In case the author cannot come to Kyoto due to this pandemic, we will offer an option for remote (online) presentations.
+September 13-15, 2021
 
-Further information will be updated on this website at a later date.
+VIRTUAL CONFERENCE
 
-The main theme of ISIE2021 is SDGs (Sustainable Development Goals). Especially “Ensure access to affordable, reliable, sustainable and modern energy for all”, and “Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation”.
+https://tma.ifip.org/2021
 
-Moreover, the year “2021” is the 70th anniversary of IES. ISIE2021 will have “the commemorative event of 70th anniversary of IES”. Please enjoy and contribute to the 70th-anniversary events in ISIE2021!
+ 
 
++ Paper registration/submission: March 19/26, 2021
 
-Scope of the Session:
-The intelligent edge computing paradigm for the industrial Internet of Things (IIoT) is taking its shape where we envision it as an edge computing system that realizes the computing, communication, and caching resources using data analytic platform and harvesting the potential bene?ts of arti?cial intelligence to improve the system utility. There will be new opportunities for supporting real-time manufacturing and intelligent smart factory. However, many fundamental questions arise at the same time. For example, due to the computing and wireless network resource constraints, how and where to process the IoT data generated from massive distributed IoT devices are significant issues. Therefore, edge computing that is being actively investigated by many researchers in several technologies is yet to be applied to intelligent edge learning to support IIoT. Moreover, the selection of a learning algorithm will become a significant factor to be considered. The goal of the special se!
- ssion is to provide a forum for sci
-entists, engineers, and researchers to discuss and exchange novel ideas, results, experiences, and work-in-progress on all aspects of intelligent edge learning for industrial IoT.
++ Paper notification: June 16, 2021
 
+ 
 
-Topics of interest:
-o Edge, fog, and mobile edge computing for Industrial IoT
-o Machine learning and computational intelligence for handling big data in Industrial applications
-o Information-centric networking and software-defined network for edge intelligence
-o Intelligent edge-based mobile computing and analysis
-o Multimedia QoS, and traffic management in industrial networks
-o Real-time communication interfaces and protocols
-o Intelligent infrastructures at the edge
-o Hardware testbed or field trial for AI-driven intelligent edge computing for industrial applications
-o Security and related considerations in intelligent edge computing
-o Intelligent routing and load balancing for edge computing
-o Multiple access technologies for edge computing
-o Network protocols for distributed machine learning
+***IMPORTANT NOTES***
 
-Paper Submission
+ 
 
-Papers must be written in English. Full paper length (up to 6 proceedings pages), including figures, is allowed for each paper. Papers should follow the IEEE double-column format for ISIE2021-Kyoto.
+TMA 2021 follows a double blind submission policy – author names and affiliations should not be included. See further details at https://tma.ifip.org/2021/submission/
+TMA 2021 would run fully as a virtual conference
+TMA 2021 Proceedings are open access, available at the IFIP Open Digital Library, see http://dl.ifip.org/db/conf/tma/
+ 
 
-Authors must adhere to the IEEE Conference paper format. IEEE is strict about the requirements for PDF files for inclusion in the IEEE Xplore® Digital Library. It is strongly recommended to use the set of templates in MS Word and LaTeX formats provided by IEEE. Please use them to create your paper (please do not modify the style or the format). To learn more about the formatting of papers for IEEE IES conferences, please visit the submission page.
+ 
 
-Before submission, please familiarise yourself with the following IEEE authorship guidelines and policies.
+***Call for Papers***
 
-Submission Link
-Technical papers must be submitted via IEEE ISIE2021-Kyoto Manuscript Submission System before the deadline.
+ 
 
-http://submit.ieee-ies.org/submit/isie21/index.html
-select SS08-Intelligent Edge Learning for Industrial IoT
+The surging demand for bandwidth and the increasing heterogeneity of services are posing substantial new challenges in networking. Emerging paradigms based on the softwarization, virtualization, cloudification of the network infrastructures are fostering exciting changes in the ways we build and manage such systems. In particular, they force us to re-think traffic measurement and analysis across the whole stack, from the physical layer up to applications in the Cloud.
 
-Important Dates
-Deadline for submission of special session papers: February 15, 2021
-Notification of acceptance: March 31, 2021
-Camera-ready manuscripts: April 30, 2021
+ 
 
-Organizers
+The Network Traffic Measurement and Analysis Conference (TMA) aims at being a highly selective venue for the presentation of early-stage and mature research – as well as controversial work – on all aspects of both measurement and analysis of network traffic. The TMA conference has a strong tradition of open and lively interaction among scientists and engineers in academia and industry, and serves as a premier forum to exchange ideas, and present advances over the state-of-the-art.
 
-Mithun Mukherjee, Nanjing University of Information Science and Technology Nanjing, China
-Mian Guo, Guangdong Polytechnic Normal University, China
-Jaime Lloret, Universitat Politecnica de Valencia, Spain
+ 
 
+TMA 2021 invite submissions presenting concepts, experiences, and of course results in collection, processing, analysis and visualization of network traffic data, which may address performance enhancement, monitoring, management, security, privacy or other uses of network data. The focus is on improving the practice or application of network measurements across the entire network stack up to application layers, with an emphasis on new areas of network communication such as Network Function Virtualization, Software-Defined Networks, Cloud services, data centers or Content Distribution Networks, towards as to support innovative services and applications.  We also welcome more traditional measurement topics, such as traffic classification, anomaly detection, network performance evaluation and traffic analysis.
 
----deadline--- 210405 (J)IEEE.VTechMag.6gapps
-
-CALL FOR PAPERS - Special Issue on 6G Technologies and Applications - IEEE Vehicular Technology Magazine (Impact Factor: 7.921)
-
-Submission deadline: April 5th, 2021
-
-5G networks have made a significant step towards developing a low latency tactile access network and open new opportunities for innovative automation of network resources and operations. As we progress on the deployment of 5G, work to define what 6G networks should be is under way. First ideas were presented in the first two 6G special issues published in the IEEE Vehicular Technology Magazine (September 2019 and December 2020, https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10209). This 6G series will lay down the concepts, basic functionalities, supported services and break-through technologies for 6G networks. The next generation of communications networks will resemble the nervous system making use of new spectrum to create new smart infrastructures that feature proactive, secure and adaptive paradigms that can be enabled by AI/ML. Smart 6G networks should address energy efficiency in the telecommunications’ sector and contribute to United Nations Sustainable Development Goals and the goals of the European Green Deal, among others. With the increase of large autonomy of systems, the protection of the ‘nervous system’ against malicious attacks becomes also important. Moreover, the system autonomy and the large number of distributed sensor systems demand the simultaneous integration of distributed policies and new energy harvesting concepts. The move to machine-type communication demands radically separation of service processing and probably higher strict KPIs. These technologies and challenges will be considered within the context of 6G networks. This series is sponsored by the IEEE Future Networks initiative and is aimed at helping the research and industrial communities define and shape the architecture, technologies and services for 6G networks. We are soliciting original contributions that have not been published and are not currently under consideration by any other publications or conferences.
-
-The topics of interest include, but are not limited to:
-
-- 6G Dimensions and KPI requirements
-- Methods and technologies to harness new spectrum
-- AI/ML assisted PHY and networking
-- MU-MIMO and new antenna technologies
-- New medium access technologies
-- 6G networks and solutions including 6G-U and private networks
-- New core network entities and interfaces
-- Network assurance and service provisioning
-- AI/ML for 6G network management
-- Cloudification, big data, orchestration, multi-access edge computing and IoT
-- Cyber security and encrypted connectivity
-- Wireless Networking using the optical spectrum – LiFi, visible light communications (VLC), optical camera communication (OCC) and free-space optical (FSO) communications
-- Quantum communications
-- Terahertz communications
-- Green 6G networks, wireless harvesting technologies and energy efficiency
-- 6G satellite and UAV networks
-- 6G-enabled vertical applications and services
-
-Submissions should clearly identify how they relate to 6G and how they would progress beyond current 5G technologies. Submitted papers should contain state-of-the-art research or technical material presented in a tutorial or survey style. All manuscripts must adhere to the IEEE VTM guidelines at http://www.ieeevtc.org/vtmagazine/submission.php. Authors should submit a PDF version of their manuscript to (select Special Issue when submitting) http://mc.manuscriptcentral.com/vtm-ieee
-
-Important Dates
-- Manuscript Submission Deadline: April 5th, 2021
-- First Round Reviews: June 14th, 2021
-- Submission for second round of reviews: July 23th, 2021
-- Second Round Reviews and Editorial Decision: September 6th, 2021
-- Publication: December 2021
-
-Guest Editors:
-Klaus David, Kassel University, Germany, david@uni-kassel.de
-Anwer Al-Dulaimi, EXFO, Canada, anwer.al-dulaimi@exfo.com
-Harald Haas, The University of Strathclyde, U.K., harald.haas@strath.ac.uk
-Rose Hu, Utah State University, USA, rose.hu@usu.edu
-
-
----------------------------------
-We love you. We are sorry. Please forgive us. Thank you.
-_______________________________________________
-Authors mailing list
-Authors@mailman.ufsc.br
-https://mailman.ufsc.br/mailman/listinfo/authors
-
-- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
-OR
-* Easy unsubscribe: https://mailman.ufsc.br/mailman/options/authors
-
-
-
----deadline--- 210310 IEEE.FiCloud.iot.cloud
-
------------------------Call for Papers-------------------------------------- 
-
-The 8th International Conference on Future Internet of Things and Cloud (FiCloud 2021),
-IEEE-CS TCI
-
-23-25 August 2021, Rome, Italy
-
-http://www.ficloud.org/2021/
-
----------------------------------------------------------------------------------------
-
-Cloud is a modern computing platform for delivering on-demand computing services to service consumers over the Internet. Computing services include, for example, storage, memory, compute power, databases, and networking among others. Cloud services are generally provided using SaaS (Software-as-a-Service), PaaS (Platform-as-a-Service) and IaaS (Infrastructure-as-a-Service). Unlike conventional distributed computing, cloud offers flexibility, scalability, efficiency and elasticity in service provisioning.
-
-The Internet of Things (IoT) provides a dynamic and global network infrastructure which is characterized by intelligent and self configuring capabilities. IoT is considered as an integral part of the future Internet. It is based on interoperable communication protocols in order to enable the interaction and integration of virtual as well as physical Things such as computers, smart devices, sensors, cars, refrigerators, food packages, medicines, etc. Things can be seamlessly integrated into the information network and interaction can be made through the provision of intelligent interfaces. In not so distant future, IoT will be forcing its way into every aspect of our lives and technologies including smart homes, smart cities, environment and nature, green energy, food, medicine, automotive, aerospace and aviation, telecommunication, and so on.
-
-IoT is generally characterized by real world and small Things, limited capacity, constrained devices and the consequential issues such as less reliability, security and privacy. Cloud computing on the other hand deals mainly with virtual world and has unlimited capabilities in terms of storage and processing power. Thus cloud and IoT are the main complementary aspects of the future Internet. IoT can benefit from the unlimited capabilities and resources of cloud computing. Similarly, cloud can benefit from IoT by extending its scope to deal with real world things in a more distributed and dynamic manner.
-
-The theme of this conference is to promote the state of the art in scientific and practical research of the IoT and cloud computing. It provides a forum for bringing together researchers and practitioners from academia, industry, and public sector in an effort to present their research work and share research and development ideas in the area of IoT and cloud computing.
-
-CONFERENCE TRACKS:
-
-1. Cloud Services Models
-2. Security, Privacy and Trust
-3. Software Systems, Models and Architectures
-4. Blockchain in Cloud and IoT
-5. Data and Knowledge Management
-6. Context-aware Systems
-7. Software-defined Networking
-8. Performance Evaluation and Modelling
-9. Networking and Communication Protocols
-10. IoT Services and Applications
-11. Smart Environment
-12. Machine learning in Cloud and IoT
-13. Energy Efficiency
-14. Federation and Virtualization
-15. Fog and Edge Computing
-16. Industry Track
-17. General Track – Future IoT and Cloud Computing
-
-
-Important Dates:
-
-Submission Deadline: 10 March 2021
-Authors Notification: 20 May 2021
-Final Manuscript Due: 15 June 2021
-
-Conference Venue:
-
-The organizing committee is carefully monitoring the Covid-19 situation. The safety and well-being of the conference participants is the main priority. The committee will confirm by Spring 2021 of whether to hold the conference onsite in Rome or as an online event.
-
-Paper submission and Publication:
-
-Authors are requested to submit papers reporting original research results and experience. The page limit for full papers is 8 pages and for short papers is 6 pages. Papers should be prepared using IEEE two-column template. See instructions on the conference website  (http://www.ficloud.org/2020/).
-
-All papers accepted for this conference are planned to be published in the conference proceedings by the IEEE Computer Society Conference Publishing Service (CPS). The proceedings will be submitted to the IEEE-Xplore and the IEEE Computer Society (CSDL) digital libraries. The proceedings are also submitted for indexing through IEE INSPEC, EI (Compendex), Thomson ISI, and other indexing services.
-
-Authors of selected papers will be invited to submit extended versions of their papers for special issues in international journals (see conference website).
-
-
-
----deadline--- 210401 (J)MDPI.ai.things.readtime.datamon
-
-MDPI Sensors - Special Issue
-
-Artificial Intelligence of Things for Real-Time Data Monitoring and Processing
-
-https://www.mdpi.com/journal/sensors/special_issues/aiotd
-
-
-
-Call for Papers
-
-The Internet of Things (IoT) is transforming the way we interact with our devices at home, at work, and throughout our cities. The number of IoT devices that continuously gather data from our environment is exponentially increasing, and so is the amount of data obtained. The potential value of the data is proportional to the capacity of analyzing it and making rapid decisions. Therefore, new artificial intelligence (AI) techniques are needed to intelligently let the devices learn, reason, and process the information without human interaction. In this way, the devices become smart, being able to take actions and/or make decisions in real time on their own, as humans do. Artificial Intelligence of Things (AIoT) is a promising paradigm that enables the use of data analytics to optimize a system and generate higher performance by making better decisions in the device itself without using the cloud. In this way, less data needs to be transferred to the cloud and decisions can be made faster. However, limited resources and IoT device capabilities pose significant challenges in supporting AI.
-
-
-This Special Issue solicits high-quality unpublished work on recent advances in real-time data monitoring and processing using lightweight AI on the IoT device itself. It welcomes theoretical contributions as well as applications in the area of AIoT. Topics of interest include but are not limited to the following:
-
-
-    * Energy-efficient artificial intelligence and machine learning algorithms;
-
-    * Neuromorphic hardware and computing for IoT devices;
-
-    * Edge computing-enabled AI;
-
-    * Internet of Intelligent Things;
-
-    * Machine learning-enabled sensing and decision-making for IoT;
-
-    * Real-time IoT data analytics;
-
-    * Applications using AIoT.
-
-
-
-Manuscript submission instructions, and details on Article Processing Charges (APCs), can be found at:
-
-https://www.mdpi.com/journal/sensors/special_issues/aiotd
-
-
-
-Submission Deadline:     31 October 2021
-
-
-
-Papers are published upon acceptance, regardless of the Special Issue publication date.
-
-
-For questions, please do not hesitate to contact the guest editors, Prof. Dr. Chris Blondia, Prof. Dr. Jeroen Famaey and Dr. Carmen Delgado (chris.blondia@uantwerpen.be, jeroen.famaey@uantwerpen.be, carmen.delgado@i2cat.net).
-
-
-Prof. Dr. Chris Blondia (Internet and Data Lab (IDLab), University of Antwerp – imec, Antwerp, 2000, Belgium)
-Prof. Dr. Jeroen Famaey (Internet and Data Lab (IDLab), University of Antwerp – imec, Antwerp, 2000, Belgium)
-Dr. Carmen Delgado (i2CAT Foundation, 08034 Barcelona, Spain)
-Guest Editors
-
-
----deadline--- 210301 Springer.dataintensive.cluster
-
-Dear Colleagues,
-As one of the Guest Editors, I cordially invite you to submit a manuscript for consideration and possible publication in the Special Issue on "Innovating the Network for Data-Intensive Science (INDIS 2020)" to be published in Cluster Computing: The Journal of Networks, Software Tools and Applications (https://www.springer.com/journal/10586). Manuscript submission deadline is March 31, 2021. For submission details, please see below or refer to our website: https://scinet.supercomputing.org/community/indis/cfp-journal/.
-
-Kind regards,
-Sarah Neuwirth
-on behalf of the INDIS 2020 Guest Editors
-
-
-================================
-   Scope, Aims, and Topics
-================================
-Many fields of science have been experiencing and continue to experience a large influx of data. Managing, transporting, and architecting systems, as well as building tools to deal with the delivery of these data have become increasingly important. Additionally, the ecosystem of information and communication systems is becoming more complex. Wide area networks are now an integral and essential part of this data-driven supercomputing ecosystem connecting information sources, data stores, processing, simulation, visualization and user communities together. Furthermore, networks are required to connect research instruments such as photon sources and large visualization displays.
-
-Networks for data-intensive science have more extreme requirements than general-purpose networks. These requirements not only closely impact the design of processor interconnects in supercomputers and cluster computers, but they also impact campus networks, regional networks and national backbone networks. The developments in network technologies are tremendous. Speeds of many hundreds of Gigabits and deep programmability of network infrastructure are now common. This enables a fundamentally different approach of integrating networks in supercomputing applications.
-
-The INDIS 2020 workshop (https://scinet.supercomputing.org/community/indis/), held virtually in conjunction with the Supercomputing Conference in November 2020, provided a venue for the exchange of ideas on the above topics.
-
-For this special issue to be published in Cluster Computing: The Journal of Networks, Software Tools and Applications (https://www.springer.com/journal/10586) related to the INDIS workshop, we encourage research papers that address one or more of the following networking research challenges; and developments that are essential in the information systems infrastructure for the scientific discovery process. Participants to the workshop are invited to submit extended versions of their accepted papers. We also welcome new paper submissions on related topics.
+ 
 
 Topics of interest include, but are not limited to:
-- Data-intensive distributed application architectures
-- Software-defined networking (SDN) and Network Function Virtualization (NFV) in service of data science applications
-- High-performance data transfer applications and techniques
-- Science DMZs and other campus network architecture constructs
-- Requirements and issues for network quality of service (QoS) or experience (QoE)
-- Multi-domain networking, including hybrid clouds, multi-domain authorization, data sharing, and data privacy
-- Network monitoring and traffic analytics, autonomous network control
-- Network management: diagnostics, troubleshooting, fault management, performance monitoring, configuration management, and scheduling
-- High-performance network protocols and network architectures
-- Securing high-speed networks
-- Cross-layer network architectures and concepts
 
-================================
-   Submission Guidelines
-================================
-Accepted papers will be published in Cluster Computing: The Journal of Networks, Software Tools and Applications. Please follow the submission guidelines for Cluster Computing when preparing your manuscript for the INDIS 2020 special issue: https://www.springer.com/journal/10586/submission-guidelines
+ 
 
-Special issue papers must be submitted electronically at https://www.editorialmanager.com/clus/default.aspx and must use Springer’s LaTeX macro package (choose the formatting option “twocolumn”), which can be found here: https://www.springer.com/journal/10586/submission-guidelines. When starting a new submission, please select the special issue INDIS-2020 from the drop down list.
+- Traffic measurement, analysis, characterization, visualization and classification
 
-For extended workshop papers, the paper should have a new title, a new abstract, and about 40-50% of new content in comparison to the original workshop paper.
+- Use of data analytics, data mining, artificial intelligence and machine learning in network measurement and analysis
 
-================================
-   Projected Timeline
-================================
-- Submissions due: Wednesday, March 31, 2021
-- Completion of first round of reviews: Monday, May 31, 2021
-- Deadline for revised manuscripts: Saturday, July 31, 2021
-- Completion of the review and revision process:  Thursday, September 30, 2021
+- Use of big data, high-rate processing and data reduction in network measurement, analysis and visualization
 
-================================
-   Guest Editors
-================================
-- Michelle Zhu, Montclair State University, USA
-- Sarah M. Neuwirth, Heidelberg University, Germany
-- Mariam Kiran, ESnet, Lawrence Berkeley National Laboratory, USA
+- Measurements of data centers or cloud-based systems
 
-================================
-   Contact information:
-================================
-For questions, please email us at: scinet-workshop@scinet.supercomputing.org
-Please refer to our INDIS 2020 website for the latest updates:
-https://scinet.supercomputing.org/community/indis/
+- Measurements of Software-Defined Networks (SDN) and Virtual Network Functions (VNF)
 
+- Measurements of home, mobile and wireless traffic including devices with multiple network paths
 
+- Application-layer measurements, including web services, social networks, mobile applications
 
+- Measurements of quality of service and quality of experience, for network services using audio, video, virtual/augmented reality and gaming
 
----deadline--- 210415 GLOBECOM
+- Measurements of network performance and network structure
 
-The 2021 IEEE Global Communications Conference (GLOBECOM) will be held
-in Madrid, Spain, from 7 -11 December 2021. Themed “Connecting Cultures
-around the Globe,” this flagship conference of the IEEE Communications
-Society will feature a comprehensive high-quality technical program
-including 12 symposia, selected areas in communications track and a
-variety of tutorials and workshops. IEEE GLOBECOM 2021 will also include
-an attractive Industry program aimed at practitioners, with keynotes and
-panels from prominent research, industry and government leaders,
-business and industry panels, and vendor exhibits.
-https://globecom2021.ieee-globecom.org/
+- Measurement of traditional and new protocols (e.g. TCP, MPTCP, HTTP/2, QUIC) and modes of communication (e.g. NFC and IoT)
 
-CALL FOR PAPERS TECHNICAL SYMPOSIA
-IoT and Sensor Networks
+- Measurements on testbeds, experimental networks or prototype networks
 
-SCOPE AND MOTIVATION
-        With the promise of revolutionizing the way we live, work and
-manufacture, it is no surprise why the Internet of Things (IoT) has
-picked up the momentum in both industry and academia. Thanks to the
-increased connectivity and the continued miniaturization of computers
-and smart devices, IoT will generate huge volumes of data that will have
-to be analyzed to uncover hidden patterns, correlations and other
-insights. Moreover, in the industrial environments (Industry 4.0) as
-well in smart spaces (building, houses, etc.) and connected cars
-communications will require higher reliability, lower latency and
-scalability. Several technologies such as BLE, Zigbee, WirelessHART,
-IEEE Std 802.15.4 TSCH, 6TiSCH, LPWAN (LoRa, Sigfox, NB-IoT, LTE-M etc.)
-RAW have been proposed to tackle these requirements. The forthcoming 5G
-networks promise not only increased data rates but also ultra-low data
-latency communication for critical IoT applications that require extreme
-reliability. 5G will enable Machine Type Communication (MTC) one of the
-most promising technologies for IoT applications which is gaining a
-tremendous interest among mobile network operators, equipment vendors,
-MTC specialist companies, and research bodies. This anticipated
-high-traffic demands, low-latency and deterministic delivery
-requirements stemming from IoT and machine-to-machine (M2M)
-communications can be met only with radical changes in terms of
-architecture and communication solutions. Recently, Fog/Edge-to-thing
-continuum is proposed to mitigate the heavy burden on the network due to
-the centralized processing and storing of the massive IoT data.
-Fog/Edge-enabled IoT architectures ensure closer processing in proximity
-to the things, which results in small, deterministic latency that
-enables real-time applications and enforced security.
-        The IoT and Sensor Networks Symposium at IEEE Globecom 2021 aims
-at a forum that brings together scientists and researchers to present
-their cutting-edge innovations in all aspects of the field. This track
-solicits technical papers describing original, previously unpublished
-papers pertaining to trends, issues and challenges of the Internet of
-Things. You are invited to submit your research paper(s) related to the
-following topics of interest (but not limited to):
-MAIN TOPICS OF INTEREST
-* 5G Networks and IoT
-* IoT Security and Trust
-* IoT and Personal Data Protection
-* Artificial Intelligence and IoT
-* IoT Large Scale Pilots and Portability
-* IoT Interoperability and Multi-Platform Integration
-* Software Defined Network (SDN), Network Function Virtualization (NFV)
-and IoT
-* Sensor and Actuator Networks
-* IoT Protocols and Standards (IPv6, 6LoWPAN, RPL, 6TiSCH, RAW, WoT,
-oneM2M, etc.)
-* Ultra-low power IoT Technologies and Embedded Systems Architectures
-* Wearables, Body Sensor Networks, Smart Portable Devices
-* Design Space Exploration Techniques for IoT Devices and Systems
-* Heterogeneous Networks, Web of Things, Web of Everything
-* Named Data Networking for IoT
-* Internet of Nano Things
-* Sensors Data Management, IoT Mining and Analytics
-* Adaptive Systems and Models at Runtime
-* Distributed Storage, Data Fusion
-* Routing and Control Protocols
-* Resource Management, Resource Allocation,
-* Medium Access Control
-* Mobility, Localization and Management Aspects
-* Identity Management and Object Recognition
-* Localization Technologies
-* Edge Computing, Fog Computing and IoT
-* Machine to Machine (M2M)/Devices-to-Devices communications and IoT
-* Industrial IoT and Factory of Things and Internet of Things
-* Ambient Intelligence
-* Application of Fog/Edge computing to IoT: architectures and
-implementations
-* Autonomic Computing for IoTs
-* Blockchain technology for IoTs
-* Communications technologies: NB-IoT, LoRa, Sigfox.
-* Complex and Compound Sensors
-* Connected Car, Automotive, Intelligent Transport
-* Cooperative Computing for IoTs
-* Cooperative Sensor Systems
-* Design principles and best practices for IoT application development
-* Dynamic scheduling, power control, interference management, and QoS
-* Management in IoT networks
-* Experience and lessons learnt for standards based IoT large scale
-pilots/demonstrators
-* Fog/Edge Caching techniques for IoT
-* Innovative routing and scheduling protocols
-* Interoperability methodologies for heterogeneous IoT
-* IoT big data and predictive analysis
-* IoT for developing countries
-* IoT for smart manufacturing (industry 4.0) and smart spaces
-* IoT standards platforms interworking
-* Horizontal application development for IoT
-* Low-power Computing
-* Massive MTC (mMTC)
-* Messaging Technologies for the Industrial IoT (Google QUIC, DDS, AMQP,
-MQTT, MQTT-SN, CoAP, etc.)
-* Mobile platforms as sensors
-* Mobile crowdsensing
-* Mobility, Localization and context-adaptive Internet of Things
-* New communications media for Low Power Wide Area Networks
-* Practical Perspectives on IoT in 5G Networks
-* RFID sensing technology
-* Secure and privacy-preserving IoT communications
-* Sensor Integration
-* Smart Cities, Smart Home
-* Software Defined Networking (SDN) and NFV for IoT
+- Platforms for measurement, troubleshooting, management, and control of operational networks
 
+- Simulation and modelling for network measurements, analysis and visualization
 
-SYMPOSIUM CO-CHAIRS
-Antonio Skarmeta, University of Murcia, Spain
-Email: skarmeta@um.es
-Baoxian Zhang, University of Chinese Academy of Sciences, China
-Email: bxzhang@ucas.ac.cn
-Hyunbum Kim, Incheon National University, South Korea
-Email: hyunbumkim@ieee.org
-Georgios Z. Papadopoulos, IMT Atlantique, France
-Email: georgios.papadopoulos@imt-atlantique.fr
+- Identification and classification of traffic, including encrypted and proprietary protocols
 
-IMPORTANT DATES
-Paper Submission: 15 April 2021 (23:59)
-Acceptance Notification: 25 July 2021
-Camera-Ready: 1 September 2021
+- Techniques for and implications of privacy preservation, enhancement and anonymization in the context of traffic measurements
 
-SUBMISSION
-All papers for technical symposia should be submitted via EDAS through
-the following link:
-https://www.edas.info/newPaper.php?c=27481
+- Applications of traffic analysis for security, anomaly/vulnerability/attack detection and user profiling/privacy
 
+- Current and emerging regulatory frameworks for measurement, analysis and privacy
 
----deadline--- 210203 ACM.CPSS.security
+- Validation and repeatability of measurements, shared datasets, collaborative platforms
 
-We extended the submission deadline for CPSS by one week, to Feb 3rd AoE.
-So there is still a chance to submit your work on CPS Security, even if
-you missed the original deadline (or one of the WOOT or safethings
-deadlines). We are looking forward to your papers!
+ 
 
-Direct submission link: https://easychair.org/conferences/?conf=cpss21
+ 
 
-*7th ACM Cyber-Physical System Security Workshop (CPSS 2021)*
+***Important Dates***
 
-held in conjunction with ACM AsiaCCS'21
-Hong Kong, China, 7 June 2021
+ 
 
-https://spritz.math.unipd.it/events/2021/CPSS
+Paper registration: March 19 midnight CET, 2021
 
-*Important Dates*
+Paper submission: March 26 midnight CET, 2021
 
-Submissions Due: Feb 3rd, 2021 AoE
-Notification: February 26, 2021
-Camera-ready Due: March 15, 2021
+Author notification: June 16, 2021
 
-The 7th ACM Cyber-Physical System Security Workshop will take place
-together with the 16th ACM ASIA Conference on Computer and
-Communications Security (ACM ASIACCS 2021).
-It will be held online on June 7th, 2021. For more information: ACM
-ASIACCS 2021 https://asiaccs2021.comp.polyu.edu.hk
+Camera ready: July 16, 2021
 
-*Call for Papers*
+Conference dates: Sep 13-15, 2021
 
-Cyber-Physical Systems (CPS) of interest to this workshop consist of
-large-scale interconnected systems of heterogeneous components
-interacting with their physical environments. There exist a multitude of
-CPS devices and applications deployed to serve critical functions in our
-lives thus making security an important non-functional attribute of such
-systems. This workshop will provide a platform for professionals from
-academia, government, and industry to discuss novel ways to address the
-ever-present security challenges facing CPS. We seek submissions
-describing theoretical and practical solutions to security challenges in
-CPS. Submissions pertinent to the security of embedded systems, IoT,
-SCADA, smart grid, and other critical infrastructure are welcome. Topics
-of interest include, but are not limited to:
+ 
 
-Attack detection for CPS
-Authentication and access control for CPS
-Autonomous vehicle security
-Availability and auditing for CPS
-Blockchain for CPS security
-Data security and privacy for CPS
-Digital twins for CPS
-Embedded systems security
-Formal methods in CPS
-Industrial control system security
-IoT security
-Legacy CPS system protection
-Lightweight crypto and security
-Maritime cyber security
-Recovery from cyber attacks
-Security and risk assessment for CPS
-Security architectures for CPS
-Security by design for CPS
-Smart grid security
-Threat modeling for CPS
-Transportation system security
-Vulnerability analysis for CPS
-Wireless sensor network security
+ 
 
-*Submission and Final Preparation Instructions*
+***Submission Guidelines***
 
-Submitted papers must not substantially overlap papers that have been
-published or that are simultaneously submitted to a journal, workshop,
-or conference with proceedings. The review process is single-blinded,
-i.e., the papers should not be anonymized. Submissions must be in
-double-column ACM SIG Proceedings format
-<http://www.acm.org/sigs/publications/proceedings-templates>, and should
-not exceed 12 pages. We also welcome position papers describing work in
-progress, Systematization of Knowledge papers (distinguished with "SOK:"
-in the title), and papers describing novel testbeds. Only pdf files will
-be accepted. Authors of accepted papers must guarantee that their papers
-will be presented at the workshop. At least one author of the paper must
-be registered at the appropriate conference rate. Accepted papers will
-be published in the ACM Digital Library. There will also be a best paper
-award.
+ 
 
-*Program Chairs*
+Authors should only submit original work that has not been published before and is not under submission to any other venue. Submissions must not exceed 8 pages in IEEE 2-column style, including references.
 
-Mauro Conti (University of Padua, Italy)
-Nils Ole Tippenhauer (CISPA, Germany)
+Use the standard IEEE Transactions templates for LaTeX or MS Word at https://www.ieee.org/conferences_events/conferences/publishing/templates.html.
 
-*Web Chair*
+ 
 
-Federico Turrin (University of Padua, Italy)
+If the paper is typeset in LaTeX, please use an unmodified version of the LaTeX template IEEEtran.cls version 1.8b, and use the preamble: \documentclass[10pt, conference, letterpaper]{IEEEtran}
 
-*Publication Chair*
+Do not use additional LaTeX commands or packages to override and change the default typesetting choices in the template, including line spacing, font sizes, margins, space between the columns, and font types. This implies that the manuscript must use 10 point Times font, two-column formatting, as well as all default margins and line spacing requirements as dictated by the original version of IEEEtran.cls version 1.8b.
 
-Alessandro Brighente (University of Padua, Italy)
+ 
 
-*Program Committee*
+If you are using Microsoft Word to format your paper, you should use an unmodified version of the Microsoft Word IEEE Transactions template (US letter size).
 
-Ali Abbasi (Ruhr-University Bochum, Germany)
-Cristina Alcaraz (University of Malaga, Spain)
-Lejla Batina (Radboud University, Netherlands)
-Federica Battisti (University of Padua, Italy)
-Xiuzhen Cheng (George Washington University, USA)
-Yanick Fratantonio (CISCO Talos, Austria)
-Sokratis Katsikas (NTNU, Norway)
-Marina Krotofil (ABB, UK)
-Nicola Laurenti (University of Padua, Italy)
-Javier Lopez (University of Malaga, Spain)
-Mihalis Maniatakos (New York University Abu Dhabi, UAE)
-Daisuke Mashima (Advanced Digital Sciences Center, Singapore)
-Aditya Mathur (Singapore University of Technology and Design, Singapore)
-Martín Ochoa (AppGate Inc., Colombia)
-Federica Pascucci (Università degli Studi Roma Tre, Italy)
-Radha Poovendra (University of Washington, USA)
-Xi Qin (The University of Texas at Dallas, USA)
-Awais Rashid (University of Bristol, UK)
-Rodrigo Roman (University of Malaga, Spain)
-Martin Strohmeier (University of Oxford, UK)
-Johanna Ullrich (SBA Research, Austria)
-Chia-Mu Yu (National Chung Hsing University, Taiwan)
-Indrakshi Ray (Colorado State University, USA)
-Stefano Zanero (Politecnico di Milano, Italy)
-Sencun Zhu (The Pennsylvania State University, USA)
-Saman Zonouz (Rutgers University, USA)
+ 
 
-*Contact*
+Regardless of the source of your paper formatting, you must submit your paper electronically, in Portable Document Format (PDF). The review process is double-blind, hence do not include authors' names and affiliations in the article. Papers must print clearly and legibly, including all the figures, on standard black-and-white printers.
 
-Website: https://spritz.math.unipd.it/events/2021/CPSS
-E-mail: cpss21@easychair.org
-CPSS Home: http://jianying.space/cpss/
+ 
+
+Submissions that do not comply with all requirements above will be rejected without further review.
+
+ 
+
+Papers must be submitted at https://hotcrp.info.ucl.ac.be/tma2021/, by creating a personal account. The article metadata, including title, up-to-250-word abstract, and authors list, must be provided before the paper registration deadline.
+
+ 
+
+Papers accepted for presentation will be published in the IFIP Open Digital Library, with open access, see http://dl.ifip.org/db/conf/tma/
+
+ 
+
+ 
+
+***Organizing Committee***
+
+ 
+
+PC co-chairs:
+
+               * Hamed Haddadi (Imperial College London)
+
+               * Vaibhav Bajpai (Technical University of Munich)
+
+ 
+
+Gral. chair:
+
+               * Oliver Hohlfeld (Brandenburg University of Technology)
+
+ 
+
+Publicity co-chairs:
+
+               * Pedro Casas (AIT Austrian Institute of Technology)
+
+               * Niklas Carlsson (Linköping University)
+
+               * Alessio Botta (University of Naples Federico II)
+
+ 
+
+Web co-chairs:
+
+               * Francesca Soro (Politecnico di Torino)
+
+               * Idilio Drago (University of Turin)
+
+               * Ramin Sadre (Université Catholique de Louvain)
+
+ 
+
+Proceedings co-chairs:
+
+               * Cristel Pelsser (University of Strasbourg)
+
+               * Stefano Secci (CNAM)
+
+ 
+
+Technical sponsoring co-chairs:
+
+               * Anna Sperotto (University of Twente)
+
+               * Pedro Casas (AIT Austrian Institute of Technology)
+
+ 
+
+Financial sponsoring co-chairs:
+
+               * Marco Fiore (IMDEA Networks)
+
+               * Pedro Casas (AIT Austrian Institute of Technology)
+
+ 
+
+ 
+
+ 
+
+***Technical Program Committee (Preliminary)***
+
+ 
+
+Gianni Antichi (Queen Mary University of London)
+Vaibhav Bajpai (Technical University of Munich)
+Chadi Barakat (Inria)
+Marinho Barcellos (University of Waikato)
+Roberto Bifulco (NEC)
+Timm Böttger (Facebook)
+Anna Brunstrom (Karlstads Universitet)
+Matt Calder (Microsoft)
+Balakrishnan Chandrasekaran (Vrije Universiteit Amsterdam)
+Kenjiro Cho (IIJ)
+Jon Crowcroft (University of Cambridge)
+Benoit Donnet (Université de Liège)
+Simone Ferlin (Ericsson)
+Oliver Gasser (Max Planck Institute for Informatics)
+Danilo Giordano (Politecnico di Torino)
+Hamed Haddadi (Imperial College London)
+Oliver Hohlfeld (Brandenburg University of Technology)
+Ralph Holz (University of Twente)
+Muhammad Ikram (Macquarie University)
+Dali Kaafar (Macquarie University)
+Kleomenis Katevas (Telefonica Research)
+Roman Kolcun (University of Cambridge)
+Matthieu Latapy (LIP6)
+Lefteris Manassakis (ICS FORTH)
+Anna Maria Mandalari (Imperial College London)
+Robin Marx (KU Leuven)
+Ricky Mok (CAIDA/UC San Diego)
+Paul Patras (The University of Edinburgh)
+Cristel Pelsser (University of Strasbourg)
+Colin Perkins (Glasgow University)
+Diana Popescu (Amazon)
+Philipp Richter (Akamai / MIT)
+Jan Rüth (RWTH Aachen University)
+Cigdem Sengul (Brunel University)
+Georgios Smaragdakis (TU Berlin and Max Planck Institute for Informatics)
+Stephen Strowes (RIPE NCC)
+Daphné Tuncer (Imperial College London)
+Gareth Tyson (Queen Mary University of London)
+Narseo Vallina Rodriguez (IMDEA/ICSI)
+Roland van Rijswijk-Deij (University of Twente and NLnet Labs)
+Matteo Varvello (Nokia Bell Labs)
+Matthias Wählisch (Freie Universität Berlin)
+Poonam Yadav (York University)
 
 
 
----deadline--- 210208 IEEE.SECON.sending.comm.net
+***Steering Committee***
 
-------------------------------------------------------
-Apologies if you receive multiple copies of this CfP.
-------------------------------------------------------
+ 
+
+- Alessio Botta, University of Napoli Federico II (Italy)
+
+- Niklas Carlsson, Linköping University (Sweden)
+
+- Pedro Casas, AIT Austrian Institute of Technology (Austria)
+
+- Amogh Dhamdhere, Amazon  (USA)
+
+- Idilio Drago, University of Turin (Italy)
+
+- Marco Fiore, IMDEA Networks (Spain)
+
+- Cristel Pelsser, University of Strasbourg (France)
+
+- Ramin Sadre, Université catholique de Louvain (Belgium)
+
+- Stefano Secci, Cnam (France)
+
+- Anna Sperotto, University of Twente (The Netherlands)
+
+- Nur Zincir-Heywood, Dalhousie University (Canada)
+
+ 
+
+ 
+
+PEDRO CASAS
+Senior Scientist
+Data Science & Artificial Intelligence
+
+Center for Digital Safety & Security
+
+AIT Austrian Institute of Technology GmbH
+
+Giefinggasse 4 | 1210 Vienna | Austria
+T +43 50550-4104 | M +43 664 88256097 | F +43 50550-2813
+pedro.casas@ait.ac.at | www.ait.ac.at
+
+
+
+
+---deadline--- 210221 IEEE.ComSoc.CQR.quality.reliablity
+
+IEEE ComSoc Communications, Quality, and Reliability (CQR) 2021 Workshop
+
+May 13, 2021 (Virtual)
 
 Call for Papers
+================
+The IEEE International CQR (Communications Quality and Reliability)
+Workshop is held annually with the purpose of bringing together
+industry and academic experts to present and discuss communications
+quality, reliability and security issues as they relate to real world
+issues. The output from the workshops adds to the community's body of
+knowledge and serves to inform, to help form opinion, and to assist in
+the development of best practice and relevant standards.
+For more information, please visit:
+https://cqr2021.ieee-cqr.org/authors/call-for-papers/
+
+Continuing the tradition of this series of workshops, CQR 2021 will
+provide an international technical forum for experts from industry and
+academia to exchange ideas and present results of ongoing research in
+the areas listed below.
+You are invited to submit a paper related to various aspects of QoS and
+Reliability for the following networks/services, but are not limited to:
+
+- Grid and Distributed Cloud Computing
+- Software Defined Networks
+- Network Function Virtualization
+- Data Center Networks
+- Information-Centric Networking
+- Vehicular Networks
+- Cognitive Radio Networks
+- Delay Tolerant Networks
+- Internet of Things (IoT)
+- 5G/B5G Mobile Networks
+- Network Slicing
+- Edge/Fog Computing
+- MIMO Communications
+- Robotics
+- Application of Data Analytics
+- Network Architecture and Design
+- Network Security and Reliability
+- Network Survivability
+- Operations, Administration and Maintenance
+- QoS Metrics and Measurement
+- QoS Policy and Assessment
+- QoE Assessment and Management
+- Resource Allocation and Management
+- Anomaly Detection
+- Intrusion Detection
+- Impact of Security on QoE
+- Scheduling and Buffer Management
+- Traffic Control
+- Traffic Modeling and Characterization
+- Service Level Agreement
+- Machine Learning for Networking
+- ML-based Operations
+
+For additional information on this CFP, please contact Technical
+Program Co-Chairs.
+
+Please note that, CQR2021 has two programs: Technical and Strategic.
+This Call for Papers covers the Technical Program only. For more
+information on the Strategic Program, please visit the CQR2021 website
+or contact the General Program Chairs.
+
+Paper submission guidelines
+----------------------------
+Papers should describe original work, and be 4-6 pages (including all
+references), two-column, single-spaced, and formatted according to the
+IEEE manuscript template for conference proceedings available at
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html.
+Paper submission must be made via EDAS.
+
+Papers accepted for CQR 2021 will be included in the Workshop
+Proceedings and IEEE Xplore with the exception that IEEE reserves the
+right to exclude any paper from distribution after the conference
+(e.g., removal from IEEE Xplore) if the paper is not presented at the
+conference.
+
+Important dates:
+----------------
+February 21, 2021   Paper submission deadline (extended!)
+March   16, 2021   Notification of acceptance to authors
+April    2, 2021   Camera-ready paper and registration
+May     13, 2021   CQR2021 Workshop
+
+Committee members:
+------------------
+General Program Chairs
+Brett Brock. Brock Research, USA <brett.brock@brockresearch.com>
+Pasi Hurri, BaseN, Finland <twi@basen.net>
+
+Technical Program Co-Chairs
+Vijay K. Gurbani, Illinois Institute of Technology, USA
+<vgurbani@iit.edu> / Vail Systems, Inc., USA, <vgurbani@vailsys.com>
+Kazuhiko Kinoshita, Tokushima University, Japan
+<kazuhiko@is.tokushima-u.ac.jp>
+
+TPC Members
+For a complete list of the TPC members, please visit the CQR2021
+website http://www.ieee-cqr.org/
+CQR Officers (2020-2021):
+Chair: Tetsuya Yokotani, Kanazawa Institute of Technology, Japan
+Chair-Elect: Chris Mayer, Solstice Technical Consulting, USA
+Vice Chair: Operations: Kohei Shiomoto, Tokyo City University, Japan
+Vice Chair: Program Development: Jason Boswell, Ericsson, USA
+Vice Chair: Social Media: Aman Singh, Palindrome Technologies, USA
+Secretary: Chikara Ohta, Kobe University, Japan
+Treasurer: Kevin Krantz, Ericsson, USA
+Advisory Board Chair: Scott Poretsky, Ericsson, USA
+Advisory Board Members:   Hideaki Yoshino, Nippon Institute of
+Technology, Japan
+   Kelly Krick, Ericsson, USA
+   Hiromi Ueda, Tokyo University of Technology, Japan
+   Chi-Ming Chen, InfoBeyond, USA
+   Kenichi Mase, Niigata University, Japan
+   Karl Rauscher, Global Information Infrastructure Commission, USA
+   Koichi Asatani, Shanghai University, China
+   Ray Bonelli, Consultant, USA
+     CQR Technical Committee Home Page: http://cqr.committees.comsoc.org/
+     
+     
+
+---deadline--- 210222 IEEE.SECON.sensing.comm.net
 
 IEEE SECON 2021
 
@@ -1963,15 +1085,14 @@ Papers describing original, previously unpublished research, experimental effort
 - Submission instructions are found in the authors page.
 
 
+Papers should be registered through HotCRP (https://secon21.hotcrp.com).
 
 PRELIMINARY SCHEDULE
 
-Abstract Registration: February 8th, 2021
-Paper Submission: February 15th, 2021
+Abstract Registration: February 22th, 2021 (FIRM)
+Paper Submission: February 22th, 2021 (FIRM)
 Acceptance Notification: April 17th, 2021
 Paper Final Version Due: April 30th, 2021
-
-
 
 TPC CHAIRS
 
@@ -1979,18 +1100,401 @@ Luca Chiaraviglio (University of Rome Tor Vergata, Italy)
 Chenyang Lu (Washington University in St. Louis, USA)
 Kay Romer (TU Graz, Austria)
 
-
 GENERAL CHAIRS
 
 Carla Fabiana Chiasserini (Politecnico di Torino, Italy)
-Giuseppe Bianchi (UniversitÃ  di Roma Tor Vergata, Italy)
+Giuseppe Bianchi (Universita  di Roma Tor Vergata, Italy)
 
---
-Francesco Restuccia
-Assistant Professor
-Electrical and Computer Engineering
-Associate Faculty, Roux Institute
-Associate Faculty, Institute for the Wireless Internet of Things
-Northeastern University, USA
-Website: https://restuccialab.org
 
+---deadline--- 210401 (J)TNSM.AI4network
+
+We are organizing an IEEE TNSM Special Issue on Embracing Artificial Intelligence for Network and Service Management
+
+https://www.comsoc.org/publications/journals/ieee-tnsm/cfp/embracing-artificial-intelligence-network-and-service
+
+(Submissions due: 1 April 2021)
+
+ 
+
+Please fine the Special Issue CFP below.
+
+ 
+
+We look forward to your submissions!
+
+Please also consider to distribute the CFP to your networks.
+
+ 
+
+Guest Editorial team:
+
+Robert Birke, ABB Research, Switzerland
+
+Giuliano Casale, Imperial College London, UK                                       
+
+Amogh Dhamdhere, Amazon Web Services, USA                                  
+Jinho Hwang, Facebook, USA                                                  
+
+Takeru Inoue, NTT Laboratories, Japan
+
+Neeraj Kumar,CSED Thapar Institute of Engineering and Technology, India
+
+Hanan Lutfiyya (Lead), The University of Western Ontario, Canada
+
+Deepak Puthal, Newcastle University, UK
+
+Nur Zincir-Heywood, Dalhousie University, Canada
+
+
+All the best,
+
+Filip De Turck
+
+-Editor-in-Chief, IEEE TNSM
+
+ 
+
+ 
+
+IEEE Transactions on Network and Service Management (impact factor: 3.878)
+
+ 
+
+Special Issue on Embracing Artificial Intelligence for Network and Service Management
+
+ 
+
+https://www.comsoc.org/publications/journals/ieee-tnsm/cfp
+
+ 
+
+(Submissions due: 1 April 2021)
+
+ 
+
+Artificial Intelligence (AI) can harness the immense amount of operational data from clouds, to services, to social and communication networks. In the era of big data and connected devices of all varieties, artificial intelligence has found ways to improve operations and management of information technology services, systems and networks.
+
+ 
+
+Research is therefore needed to understand and improve the potential and suitability of artificial intelligence in the context of services, systems and network management. This will provide deeper understanding and better decision making based on largely collected and available operational and service data. It will also present opportunities for improving artificial intelligence algorithms on aspects such as reliability, dependability and scalability, as well as demonstrate the benefits of these methods in management and control systems. Moreover, there is an opportunity to define novel platforms that can harness the vast operational data and advanced artificial intelligence algorithms to drive management decisions in networks, data centers, and clouds.
+
+ 
+
+IEEE Transactions on Network and Service Management (IEEE TNSM) is a premier journal for timely publication of archival research on the management of networks, systems, services and applications. Following the success of four recent TNSM special issues on Data Analytics for Management in 2016, 2018, 2019, and 2020 this special issue will also focus on recent, emerging approaches and technical models that exploits artificial intelligence in network and service management solutions. We welcome submissions addressing the underlying challenges and opportunities, presenting novel techniques, experimental results, or theoretical approaches motivated by management problems. Survey papers that offer a perspective on related work and identify key challenges and opportunities for future research are also in the scope of the special issue. We look forward to your submissions!
+
+ 
+
+Topics of Interest:
+
+ 
+
+Topics of interest for this special issue include, but are not limited, to the following:
+
+ 
+
+Artificial Intelligence, Data Analytics and Machine Learning
+
+    • Analysis, modelling and visualization
+
+    • Operational analytics and intelligence
+
+    • Event and log analytics, text mining
+
+    • Outlier / Anomaly detection and prediction
+
+    • Predictive analytics and real-time analytics
+
+    • AI, neural networks, and deep learning for management
+
+    • Data mining, statistical modeling, and machine learning for management
+
+ 
+
+ 
+
+Application Domains and Management Paradigms
+
+    • Social and communication networks analysis
+
+    • AI management of virtualized infrastructure, clouds and edge nodes
+
+    • AI management of software defined networks
+
+    • AI management of storage resources
+
+    • AI management of Internet of Things and cyber-physical systems
+
+    • AI management of 5G/6G
+
+    • AI management of zero touch and driverless networks
+
+    • Applications of AI to traffic classification, root-cause analysis, service quality
+
+      assurance, IT service and resource management
+
+    • Novel approaches to cyber-security, intrusion detection, threat analysis, and
+
+      failure detection based on artificial intelligence
+
+    • Platforms for monitoring and measurements to support management for AI
+
+    • Platforms for analyzing and storing logs and operational data for management tasks
+
+    • Platforms for collaborative learning from multiple distributed network elements
+
+    • Platforms for anonymizing operation data
+
+    • AI testbeds and experimental evaluations
+
+    • Abstractions and knowledge representation / data models needed for deploying AI for
+
+      network management and orchestration
+
+ 
+
+Submission Guidelines:
+
+ 
+
+All papers should be submitted through the IEEE Transactions on Network and Service Management manuscript submission site. Authors must indicate in the submission cover letter that their manuscript is intended for the "Embracing Artificial Intelligence for Network and Service Management" special issue. View detailed author guidelines on
+
+https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-submit-manuscript
+
+ 
+
+Important Dates:
+
+ 
+
+Paper submission: April 1, 2021
+
+Review results returned: July 1, 2021
+
+Revision submission: August 1, 2021
+
+Final acceptance notification: Oct 1, 2021
+
+Final paper submission:  Nov 1, 2021
+
+Tentative Publication: December 2021
+
+ 
+
+(*online published version will be available in IEEE Xplore after the camera ready version has been submitted with final DOI)
+
+ 
+
+ 
+
+Guest Editors:
+
+ 
+
+Robert Birke                                                                    
+
+ABB Corporate Research, Switzerland
+
+                            
+
+Giuliano Casale                                              
+
+Imperial College London, UK                                    
+
+ 
+
+Amogh Dhamdhere
+
+Amazon Web Services, USA                                      
+
+ 
+
+Jinho Hwang                                                                 
+
+Facebook, USA                                              
+
+ 
+
+Takeru Inoue
+
+NTT Laboratories, Japan
+
+ 
+
+Neeraj Kumar
+
+CSED Thapar Institute of Engineering and Technology, India
+
+ 
+
+Hanan Lutfiyya (Lead)
+
+The University of Western Ontario
+
+ 
+
+Deepak Puthal
+
+Newcastle University, UK
+
+ 
+
+Nur Zincir-Heywood
+
+Dalhousie University, Canada
+
+
+
+
+---deadline--- 210219 IEEE.DDINS.datadriven
+
+The 3-rd IEEE International Workshop on Data Driven Intelligence for Networks and Systems (DDINS)
+Organized in conjunction with
+IEEE International Conference on Communications (ICC 2021)
+14-18 June 2021 // Montreal, Canada
+
+DDINS has confirmed a Keynote Speaker: Prof. Mohamed-Slim Alouini, IEEE Fellow, Distinguished Professor, Electrical and Computer Engineering, King Abdullah University of Science and Technology (KAUST), Saudi Arabia
+
+Web link: https://icc2021.ieee-icc.org/workshop/ws-22-3rd-workshop-data-driven-intelligence-networks-and-systems/call-papers
+
+The 1st DDINS: https://icc2019.ieee-icc.org/workshop/w15-first-international-workshop-data-driven-intelligence-networks-and-systems-ddins
+
+The 2nd DDINS: https://infocom2020.ieee-infocom.org/workshop-data-driven-intelligence-networks-and-systems
+
+Paper submission extended deadline (firm): February 19, 2021 EDAS submission link: https://edas.info/N27867
+
+The extended selected accepted papers in this workshop will be recommended for publications in Series on Data Driven Intelligence, Sustainability, and Systems, Intelligent and Converged Networks （journal jointly published by International Telecommunication Union (ITU) and Tsinghua University Press (TUP)）http://icn.tsinghuajournals.com/EN/column/item1649.shtml
+
+Network traffic is expected to grow exponentially in the next decade thanks to the advances in smart devices, Internet of Things (IoT) and cloud computing. Not only the volume of the traffic is increasing, the characteristics of the traffic are also becoming more diverse. To properly manage traffic diversity, different but coherent strategies are needed at different protocol layers, and this often results in complex designs in the network which are difficult to deploy and manage. The recent advancement in artificial intelligence (AI) technology has provided a promising approach to deal with complex problems faced in the network and/or systems design and operation.  The trend towards highly integrated networks with diverse underlying access technologies to support simultaneously multiple vertical industries has demanded complex operation in the network and/or systems. This represents a great challenge in network and/or systems design.
+
+This Workshop focuses on applying AI technologies to deal with the networks and/or systems, particularly the machine learning techniques that are based on empirical or simulated data. Topics that may apply data driven intelligence to manage the complexity of a smart networks and/or systems include, but not limited to:
+
+Data driven intelligence supported approaches and technologies
+Data driven intelligence supported applications and systems
+Quality of Service (QoS) and Quality of Experience (QoE) support
+Resource allocation and transmission scheduling
+Medium access control design
+Data centers and cloud systems
+Radio access technology selection
+Spectrum sharing in intra- and inter-tier HetNets
+Traffic load estimation and resource reservation
+User mobility prediction and handover support
+Network fault detection and self-healing
+Network self-configuration and self-organization
+Intrusion detection and self-protection
+Machine learning relevant topics
+Relevant analysis and modelling
+Relevant surveys
+
+Submission Procedure
+Submitted papers must represent original material which is not currently under review in any other conference or journal and has not been previously published. Paper length should not exceed six-page standard IEEE conference two-column format (including all text, figures, and references). Full details of submission procedures and requirements for authors of accepted papers are available at https://icc2021.ieee-icc.org/. All submitted papers will go through a peer review process. All accepted and presented papers will be included in the IEEE ICC 2021 proceedings and submitted to IEEE Xplore. IEEE reserves the right to exclude an accepted and registered but not presented paper from the IEEE digital library.
+
+Organizing Committee
+General Chairs:
+– Jinsong Wu, Universidad de Chile, Chile (wujs AT ieee.org))
+– Celimuge Wu, University of Electro-Communications, Japan (celimuge AT uec.ac.jp)
+– Periklis Chatzimisios, International Hellenic University, Greece (pchatzimisios AT ihu.gr)
+
+Technical Program Chairs:
+– Chuan Heng Foh, University of Surrey, UK (c.foh AT surrey.ac.uk)
+– Xianfu Chen, VTT Technical Research Centre of Finland, Finland  (xianfu.chen AT vtt.fi)
+– Muhammad Imran, University of Glasgow, UK (Muhammad.Imran AT glasgow.ac.uk)
+
+Publicity Chairs:
+– William Liu, Auckland University of Technology, New Zealand (william.liu AT aut.ac.nz)
+– Chunguo Li, Southeast University, China (chunguoli AT seu.edu.cn)
+
+Steering Committee:
+– Chuan Heng Foh, University of Surrey, UK
+– Jinsong Wu, Universidad de Chile, Chile
+– Periklis Chatzimisios, International Hellenic University, Greece
+
+---deadline--- 210215 ACM.IWQoS
+
+[We apology for possible cross posting, and thank you in advance for
+distributing this CFP]
+
+CALL FOR PAPERS
+IEEE/ACM International Symposium on Quality of Service (IWQoS 2021)
+25-28 June 2021, Tokyo, Japan
+https://iwqos2021.ieee-iwqos.org/
+
+Quality of Service (QoS) has long been the focus of communications and
+networking researchers worldwide. While traditional QoS research areas
+continue attracting much interest, recent exploration of Internet of
+things, data centers, virtualization, cloud and fog computing, green
+computing, and AI has motivated a new wave of research interest in
+service guarantees with QoS, and its related metrics of Quality of
+Experience (QoE), Quality of Protection (QoP), Software Quality, Data
+Quality, or, more broadly, Quality of Information Technology.
+
+For more than two decades, IWQoS has established itself as a highly
+reputable forum to present novel ideas on all QoS-related subjects. The
+29th International Symposium on Quality of Service (IEEE/ACM IWQoS 2021)
+sets the goal to continuing to be a premier symposium and an
+international forum for presentation and discussion of cutting-edge
+research in the field. The scope of IEEE/ACM IWQoS 2021 covers both
+newest theoretical and experimental research papers.
+
+Topics of interest include (but not limited to) the following areas:
+● Artificial Intelligence for QoS
+● Data analytics for QoS
+● QoS for data analytics and machine learning
+● QoS in Internet of Things (IoT), cyber-physical networks
+● QoS in cloud computing, fog computing and edge computing
+● Blockchain for QoS
+● Security, privacy, system dependability, resilience and robustness
+● QoS in software-defined networking
+● QoS in information-centric networking
+● QoS in mobile and next generation cellular networks
+● System dependability, availability, resilience and robustness to
+faults and security attacks
+● Robustness against security vulnerabilities in critical infrastructures
+● QoS-aware scheduling, resource management, queue management, admission
+control
+● Traffic engineering approaches and tools for QoS provisioning and
+evaluation
+● QoS evaluation metrics and methodologies
+● Quality of software
+● QoE in multimedia networks
+● Measurement, evaluation, adaptation, and verification
+● Network operations, network economics, pricing and billing
+● Architectures and protocols for QoS, QoP or QoE support
+● Energy awareness in communication and computing systems
+● Design for future networks and computing systems with integrated QoS
+
+Paper Submission Guidelines:
+IEEE/ACM IWQoS invites submission of manuscripts with original research
+results that have not been previously published or that are not
+currently under review by another conference or journal. Submissions
+will be rigorously judged based on originality, significance, interest,
+clarity, relevance, and correctness. IWQoS aims at the rapid
+dissemination of research results. Regular paper submissions should be
+no longer than 10 single-spaced, double-column pages (including
+references) with a font-size of 10. Reviewing will be double-blind.
+Submissions must not reveal the authors’ names and their affiliations
+and avoid obvious self-references. Submissions not meeting these
+guidelines will be rejected without consideration of their merits.
+Papers must be submitted electronically as PDF files. Please follow the
+submission link onhttps://iwqos2021.edas.info/  to submit your paper.
+
+Important Dates:
+Paper Registration Deadline: 15 February 2021
+Paper Submission Deadline: 22 February 2021
+Notification of Acceptance: 23 April 2021
+Camera-ready Deadline: 13 May 2021
+
+General Chairs:
+Hitoshi Asaeda, National Institute of Information and Communications
+Technology (NICT), Japan
+Jiannong Cao, The Hong Kong Polytechnic University, China
+
+Program Committee Chairs:
+Ruidong Li, National Institute of Information and Communications
+Technology (NICT), Japan
+Wenjing Lou, Virginia Tech, USA
+
+*COVID-19 Statement: The IWQoS2021 organizing committee (OC) is closely
+monitoring the COVID-19 situation that could impact in-person attendance
+and paper presentations. In case of travel restrictions, the OC is
+considering that remote presentations and participation will be
+considered.

@@ -1,0 +1,102 @@
+
+Call for Papers
+
+ACM/IFIP Middleware 2021
+
+The 22nd ACM/IFIP International Conference on Middleware (ACM/IFIP Middleware 2021)
+will be held in Québec, Canada from December 6 to 10, 2021
+
+We are pleased to welcome you to Québec, Canada!
+
+https://middleware-conf.github.io/2021/
+
+
+
+*********************************************************************************
+
+
+
+Important Dates on Second Cycle of Submission ***
+
+
+Abstract Submission                                             **May 15th, 2021**
+Full Paper Submission                                          **May 22nd, 2021**
+Author Notification                                                   August 15th, 2021
+Revised Submissions                                              September 15th, 2021
+Notifications of Decisions of Revised Papers          September 30th, 2021
+
+
+
+**Scope**
+
+The annual ACM/IFIP Middleware conference is a major forum for the discussion of innovations and recent scientific advances of middleware systems with a focus on the design, implementation, deployment, and evaluation of distributed systems, platforms, and architectures for computing, storage, and communication. The conference will include a high quality single-track technical program, invited speakers, an industrial track, panel discussions involving academic and industry leaders, poster and demonstration presentations, a doctoral symposium, tutorials, and workshops.
+
+
+
+**Topics of Interest**
+
+Original submissions of research papers on a diverse range of topics are sought, particularly those identifying new research directions. The topics of the interest for the conference include, but are not limited to:·
+
+
+
+Cloud and data centers
+Virtualization, auto-scaling, provisioning, and scheduling
+Data-intensive computing (big data) and data analytics
+Stream Processing
+Middleware Systems for Machine learning
+Mobile and pervasive systems and services
+Middleware techniques for Internet-of-Things, smart cities
+Fog, Edge computing
+Middleware for cyber-physical and Real-time systems
+Energy and power-aware techniques
+Event-based, publish/subscribe, and peer-to-peer solutions
+Networking, network function virtualization, software-defined networking
+Middleware for multimedia Systems
+Fault tolerance and Consistency
+Blockchains
+Middleware support for security and privacy
+Monitoring, resource management, and analysis
+Middleware Design principles
+Programming abstractions and paradigms for middleware
+Reconfigurable, adaptable, and reflective approaches
+Reviews of middleware paradigms, e.g., object models, aspect orientation, etc.
+Methodologies and tools for middleware systems design, implementation, verification, and evaluation
+
+
+Original papers of three types are sought:
+
+
+
+Research Papers: These papers report original research on the above topics, and will be evaluated on the significance of the problem, the novelty of the solution, advancement beyond prior work, sufficient supporting evidence, and clarity of the presentation.
+Experimentation and Deployment Papers: These papers describe complete systems, platforms, and/or comprehensive experimental evaluations of alternative designs and solutions to well-known problems. The emphasis during the evaluation of these papers will be less on the novelty and more on the demonstrated usefulness and potential impact of the contributions, the extensive experimentation involved, and the quality and weight of the lessons learned.
+Big Ideas Papers: These are papers that have the potential for opening up new research directions. For such papers, the potential to motivate new research is more important than full experimental evaluation, though some preliminary evidence of the effectiveness of the approach or idea is important.
+
+
+**Submission Guidelines**
+
+Your submission must be made within the due date specified above for the specific rounds. Submitted papers must have at most 12 pages of technical content, including text, figures, and appendices, but excluding any number of additional pages for bibliographic references. Note that submissions must be double-blind: authors’ names must not appear, and authors must make a good faith attempt to anonymize their submissions. Submitted papers must adhere to the formatting instructions of the ACM SIGPLAN style, which can be found on the ACM template page. The font size has to be set to 10pt.
+Please submit papers to https://middleware21.hotcrp.com.
+
+
+
+*** More details about submissions are available at https://middleware-conf.github.io/2021/call-for-research-papers/
+
+
+
+****** TPC Co-Chairs ***·
+
+Nalini Venkatasubramanian, University of California, Irvine
+Luís Veiga, Instituto Superior Técnico (U.Lisboa) & INESC-ID
+
+
+** General Co-Chairs ***·
+
+Kaiwen Zhang, ÉTS
+Abdelouahed Gherbi, ÉTS
+
+-------------------------------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+
+
+

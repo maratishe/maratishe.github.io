@@ -1,0 +1,68 @@
+
+***Call for Papers***
+The 30th IEEE International Symposium on Industrial Electronics (ISIE 2021)
+
+Miyako Messe, Kyoto, Japan
+
+June 20-23, 2021
+
+The deadline for full paper submission has been extended to March 5, 2021.
+
+Due to the COVID-19 pandemic, ISIE2021 Organizing Committees are
+carefully monitoring its situation. In case the author cannot come to
+Kyoto due to this pandemic, we will offer an option for remote (online)
+presentations. Further information will be updated on the Symposium
+website as a later date.
+
+<Webpage link>
+https://www.isie2021.org/
+
+ISIE 2021 is the 30th IEEE International Symposium on Industrial
+Electronics, focusing on industrial and upcoming frontier technologies,
+applications of electronics, controls, communications, instrumentation
+and computational intelligence. The objectives of the conference are to
+provide high quality research and professional interactions for the
+advancement of science, technology, and fellowship. Papers with new
+research results are encouraged for submission.
+
+<Technical Tracks>
+- Power Electronics & Energy Conversion
+- Renewable Energy & Sustainable Development
+- Power Systems & Smart Grid
+- Electrical Machines & Industrial Drives
+- Mechatronics, Robotics & System Integration
+- Motion Control & Haptics
+- Control System & Its Applications
+- Mobility & Transportation Electrification
+- Sensors, Actuators & Micro/Nanotechnology
+- Human Machine Interaction
+- Electronic System on Chip & Real Time Embedded Control
+- Signal and Image Processing
+- Medical, Rehabilitation & Assistive Systems
+- Industrial Informatics & Its Applications
+- Cloud & Networked Systems
+- AI/Machine Learning & Its Applications
+- Data Science
+- Engineering Education
+
+<Important Dates>
+Full Paper Submission: March 5, 2021
+Notification of Acceptance: April 5, 2021
+Submission of Final Manuscripts: April 30, 2021
+
+<General Co-Chairs>
+Kiyoshi Ohishi, Japan
+Hideki Hashimoto, Japan
+
+<Program Co-Chairs>
+Toshiyuki Murakami, Japan
+John Y. Hung, USA
+Roberto Oboe, Italy
+
+<Contact>
+ISIE 2021 Secretariat
+isie2021@jtbcom.co.jp
+--
+IEEE IES conferences. To unsubscribe:
+http://submit.ieee-ies.org/php/emailremove.php
+

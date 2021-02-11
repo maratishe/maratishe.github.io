@@ -1,10 +1,4 @@
 
-------------------------------------------------------
-Apologies if you receive multiple copies of this CfP.
-------------------------------------------------------
-
-Call for Papers
-
 IEEE SECON 2021
 
 18th International Conference on Sensing, Communication and Networking
@@ -46,15 +40,14 @@ Papers describing original, previously unpublished research, experimental effort
 - Submission instructions are found in the authors page.
 
 
+Papers should be registered through HotCRP (https://secon21.hotcrp.com).
 
 PRELIMINARY SCHEDULE
 
-Abstract Registration: February 8th, 2021
-Paper Submission: February 15th, 2021
+Abstract Registration: February 22th, 2021 (FIRM)
+Paper Submission: February 22th, 2021 (FIRM)
 Acceptance Notification: April 17th, 2021
 Paper Final Version Due: April 30th, 2021
-
-
 
 TPC CHAIRS
 
@@ -62,18 +55,9 @@ Luca Chiaraviglio (University of Rome Tor Vergata, Italy)
 Chenyang Lu (Washington University in St. Louis, USA)
 Kay Romer (TU Graz, Austria)
 
-
 GENERAL CHAIRS
 
 Carla Fabiana Chiasserini (Politecnico di Torino, Italy)
-Giuseppe Bianchi (UniversitÃ  di Roma Tor Vergata, Italy)
+Giuseppe Bianchi (Universita  di Roma Tor Vergata, Italy)
 
---
-Francesco Restuccia
-Assistant Professor
-Electrical and Computer Engineering
-Associate Faculty, Roux Institute
-Associate Faculty, Institute for the Wireless Internet of Things
-Northeastern University, USA
-Website: https://restuccialab.org
 

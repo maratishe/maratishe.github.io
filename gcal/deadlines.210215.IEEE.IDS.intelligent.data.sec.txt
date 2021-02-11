@@ -1,0 +1,54 @@
+
+The 6th IEEE International Conference on Intelligent Data and Security (IEEE IDS 2021)
+May 15-17, New York, USA
+http://www.cloud-conf.net/datasec/2021/ids/index.html
+
+--------------------------------------------------------------------------
+IMPORTANT DATES
+Paper submission: February 15, 2021 (extended)
+Author notification: March 20, 2021
+Camera-Ready: April 5, 2021
+Registration: April 5, 2021
+Conference date: May 15-17, 2021
+--------------------------------------------------------------------------
+
+Call for Papers
+In the current era, intelligent systems are widely deployed and investigated in many domains from the governments to industry players, from academics to consumer-level demand. Therefore, the research on Intelligent data and security (IDS) is getting more and more attention due to the rapid development of computing and communication techniques. As a promising technology, high performance computing is playing an important role not only in traditional computer science domain but also in new branches such as Internet of Things, unmanned vehicles, and topics in artificial intelligence. Smart computing, as another significant aspect, provides solutions for complicated computing problems.
+
+The 6th IEEE International Conference on intelligent data and security (IEEE IDS 2021) is a research event that cooperated with a number of conferences, such as IEEE BigDataSecurity 2021 and IEEE HPSC 2021. This conference provides engineers and scientists in computing domain with an academic forum in which the new research achievements, ideas, and results are shared. The state-of-the-art smart computing applications and experiences in cloud computing and smart computing will be represented in this academic event. IEEE IDS 2021 is the next edition of a series of successful academic events, including IDS 2016 (New York, USA), IDS 2017 (Beijing, China), IDS 2018 (Omaha, USA), IDS 2019 (Washington DC, USA), and IEEE IDS 2020 (Baltimore, USA).
+
+Topics of particular interest include, but are not limited to:
+
+Security in new paradigms of intelligent data
+Cyber hacking, next generation fire wall of intelligent data
+Cyber monitoring and incident response in intelligent data
+Digital forensics in intelligent data
+Big data security, Database security
+Intelligent database and security
+Intelligent data mining in security, optimization, and cloud computing
+Social engineering, insider threats, advance spear phishing
+Cyber threat intelligence and implementations
+Security and fault tolerance for embedded or ubiquitous systems
+Cloud-based intelligent data and security issues
+Tele-health security in intelligent data
+Sensor network security and solutions
+Embedded networks and sensor network optimizations
+Cloud computing and networking models
+Heterogeneous architecture for cloud-based intelligent data
+Dynamic resource sharing algorithm for cloud-based intelligent data
+Load balance for cloud-based intelligent data
+Cloud-based audio/video streaming techniques
+MapReduce techniques in intelligent data
+Visualization and optimization in intelligent data
+Cloud-based real-time multimedia techniques in intelligent data
+Mobile cloud computing and advanced applications
+Green cloud computing model, implementation, and framework
+Quality of Service (QoS) improvements techniques
+Case studies for various applications
+Cyber Security in emergent technologies, infrastructures and applications
+The conference proceedings will be submitted to IEEE Xplore.
+
+
+
+
+
