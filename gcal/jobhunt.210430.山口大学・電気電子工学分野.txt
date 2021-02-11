@@ -1,0 +1,10 @@
+no : 15
+id : D121020365 
+update : 2021年02月05日
+univ : 山口大学・電気電子工学分野
+title : 山口大学大学院創成科学研究科工学系学域　教授または准教授（電気電子工学分野）の公募
+field : 工学 - 電気電子工学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年04月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121020365&ln_jor=0&top_btn=1

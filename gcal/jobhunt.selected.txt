@@ -1,87 +1,44 @@
-no : 25
-id : D120121471 
-update : 2020年12月22日
-univ : 東京国際大学
-title : 東京国際大学 教授、准教授、または講師の公募（データサイエンス、AI等分野）
-field : 社会科学 - 全て -- 情報学 - 全て -- 数物系科学 - 全て
-post : 教授相当 -- 准教授・常勤専任講師相当
-tenure : 常勤 (テニュアトラック)
-deadline : 2021年02月28日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121471&ln_jor=0&top_btn=1
 
-no : 55
-id : D120121727 
-update : 2020年12月26日
-univ : 群馬大学
-title : 教授公募（情報通信分野）
+no : 15
+id : D121020365 
+update : 2021年02月05日
+univ : 山口大学
+title : 山口大学大学院創成科学研究科工学系学域　教授または准教授（電気電子工学分野）の公募
 field : 工学 - 電気電子工学
-post : 教授相当
-tenure : 常勤 (任期あり)
-deadline : 2021年04月23日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121727&ln_jor=0&top_btn=1
-
-no : 38
-id : D121010023 
-update : 2021年01月06日
-univ : 株式会社アラヤ
-title : リサーチャー (計算論的神経科学者/情報理論学者)
-field : 数物系科学 - 数学 -- 複合領域 - 脳科学 -- 総合生物 - 神経科学
-post : 研究員・ポスドク相当 -- 研究・教育補助者相当
-tenure : 常勤 (任期あり)
-deadline : 2021年08月31日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010023&ln_jor=0&top_btn=1
-
-no : 34
-id : D121010025 
-update : 2021年01月06日
-univ : 株式会社アラヤ
-title : リサーチャー (強化学習)
-field : 数物系科学 - 数学 -- 工学 - 全て -- 数物系科学 - 物理学
-post : 研究員・ポスドク相当 -- 研究・教育補助者相当
-tenure : 常勤 (任期あり)
-deadline : 2021年08月31日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010025&ln_jor=0&top_btn=1
-
-no : 8
-id : D120121767 
-update : 2021年01月27日
-univ : 大和大学
-title : 【専任教員公募】「情報学分野」（新設　情報学部（仮称））
-field : 情報学 - 全て -- 情報学 - 情報学基礎 -- 社会科学 - 全て
 post : 教授相当 -- 准教授・常勤専任講師相当
-tenure : 常勤 (任期あり)
-deadline : 2021年02月26日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121767&ln_jor=0&top_btn=1
+tenure : 常勤 (任期なし)
+deadline : 2021年04月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121020365&ln_jor=0&top_btn=1
 
-no : 9
-id : D120122156 
-update : 2021年01月27日
-univ : 大和大学
-title : 【専任教員公募】「データサイエンス分野」（新設　情報学部（仮称））
-field : 情報学 - 全て -- 総合理工 - 全て -- 社会科学 - 全て
-post : 教授相当 -- 准教授・常勤専任講師相当
-tenure : 常勤 (任期あり)
-deadline : 2021年02月26日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120122156&ln_jor=0&top_btn=1
+no : 32
+id : D121020185 
+update : 2021年02月05日
+univ : 東京国際工科専門職大学
+title : 専任教員の公募【プログラミング関連】
+field : 情報学 - 全て
+post : 教授相当 -- 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月01日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121020185&ln_jor=0&top_btn=1
 
-no : 14
-id : D120122182 
-update : 2021年01月27日
-univ : 大和大学
-title : 【専任教員公募】「プログラミング・ネットワークシステム」（新設　情報学部（仮称））
-field : 情報学 - 全て -- 総合理工 - 全て -- 工学 - 全て
-post : 教授相当 -- 准教授・常勤専任講師相当
-tenure : 常勤 (任期あり)
-deadline : 2021年02月26日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120122182&ln_jor=0&top_btn=1
+no : 36
+id : D121020411 
+update : 2021年02月06日
+univ : 盛岡大学
+title : 「情報処理」を専門分野とする教員の公募について
+field : 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年03月01日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121020411&ln_jor=0&top_btn=1
 
-no : 14
-id : D120122183 
-update : 2021年01月27日
-univ : 大和大学
-title : 【専任教員公募】「機械学習・人工知能」（新設　情報学部（仮称））
-field : 情報学 - 全て -- 総合理工 - 全て -- 複合領域 - 全て
-post : 教授相当 -- 准教授・常勤専任講師相当
-tenure : 常勤 (任期あり)
-deadline : 2021年02月26日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120122183&ln_jor=0&top_btn=1
+no : 44
+id : D121020739 
+update : 2021年02月11日
+univ : 株式会社 iMed Technologies
+title : リードAIエンジニア
+field : 情報学 - 全て
+post : 研究員・ポスドク相当
+tenure : 常勤 (任期なし)
+deadline : 2021年07月31日
+url : [→アマテラス [公開求人]] https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=10&id=D121020739&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 8
+id : D121011181 
+update : 2021年01月27日
+univ : 滋賀県立大学・知能情報工学分野
+title : 滋賀県立大学　工学部　電子システム工学科 情報部門 知能情報工学分野　准教授の公募
+field : 情報学 - 人間情報学 -- 工学 - 総合工学 -- 複合領域 - データサイエンス
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月07日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121011181&ln_jor=0&top_btn=1
