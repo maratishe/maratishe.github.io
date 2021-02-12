@@ -142,7 +142,7 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 			extract( $h); // when, when2, url1, url2, title, duration, description
 			fwrite( $out, "## $title  (" . lshift( ttl( $when, ' ')) . ") <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
 			$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) continue; 
-			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); if ( ! $v) continue; $L = ttl( $v, ' '); foreach ( $L as $i => $v2) if ( strpos( $v2, 'http') === 0) $L[ $i] = "[$v2]($v2)"; $v= ltt( $L, ' '); fwrite( $out, $v . '  ' . "\n"); }
+			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); if ( ! $v) continue; $L = ttl( $v, ' '); foreach ( $L as $i => $v2) if ( strpos( $v2, 'http') === 0) $L[ $i] = "[$v2]($v2)"; else $L[ $i] = str_replace( '%', '％', $L[ $i]); $v= ltt( $L, ' '); fwrite( $out, $v . '  ' . "\n"); }
 			fwrite( $out, " <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
 			fwrite( $out, "\n\n\n"); extract( tsburst( tsystem())); 
 			$A[ "due:" . lshift( ttl( $when, ' ')) . " $yyyy-$mm-$dd $title #$calendar"] = true; 
