@@ -1,12 +1,12 @@
 
 Special Issue "Current Trends in Computer Architecture and High Performance
 Computing (HPC) with Their Mathematical Foundations"
-Mathematics (JIF percentile 91.5%)
+Mathematics (JIF percentile 91.5％)
 https://www.mdpi.com/journal/mathematics/special_issues/Computer_Architecture_High_Performance_Computing
 
 Dear Colleagues,
 
-We are organizing a special issue on "Current Trends in Computer Architecture and High Performance Computing (HPC) with their Mathematical Foundations" in Mathematics (top 10% journal, JIF percentile 91.5% in the "Mathematics" category of the JCR). We invite researchers to submit papers related to modern architectures, and algorithms, code analysis and synthesis techniques for high-performance computing, highlighting the mathematical concepts and applications that constitute the fundamental pillars of modern computer engineering.
+We are organizing a special issue on "Current Trends in Computer Architecture and High Performance Computing (HPC) with their Mathematical Foundations" in Mathematics (top 10％ journal, JIF percentile 91.5％ in the "Mathematics" category of the JCR). We invite researchers to submit papers related to modern architectures, and algorithms, code analysis and synthesis techniques for high-performance computing, highlighting the mathematical concepts and applications that constitute the fundamental pillars of modern computer engineering.
 
 Prof. Dr. Gabriel Rodríguez
 Prof. Dr. Juan Touriño
@@ -34,7 +34,7 @@ Manuscript Submission Information
 
 All papers will be peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited.
 
-Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except for conference proceedings papers, which are acceptable provided that the extended version is at least 50% novel with respect to the conference publication). All manuscripts are thoroughly refereed through a single-blind peer-review process.
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except for conference proceedings papers, which are acceptable provided that the extended version is at least 50％ novel with respect to the conference publication). All manuscripts are thoroughly refereed through a single-blind peer-review process.
 
 Mathematics is a Gold Open Access journal. An article processing charge applies. A guide for authors and other relevant information for submission of manuscripts is available at https://www.mdpi.com/journal/mathematics/special_issues/Computer_Architecture_High_Performance_Computing/
 
