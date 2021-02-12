@@ -38,7 +38,7 @@ Accepted papers will be published in Cluster Computing: The Journal of Networks,
 
 Special issue papers must be submitted electronically at https://www.editorialmanager.com/clus/default.aspx and must use Springer’s LaTeX macro package (choose the formatting option “twocolumn”), which can be found here: https://www.springer.com/journal/10586/submission-guidelines. When starting a new submission, please select the special issue INDIS-2020 from the drop down list.
 
-For extended workshop papers, the paper should have a new title, a new abstract, and about 40-50% of new content in comparison to the original workshop paper.
+For extended workshop papers, the paper should have a new title, a new abstract, and about 40-50％ of new content in comparison to the original workshop paper.
 
 ================================
 Projected Timeline
