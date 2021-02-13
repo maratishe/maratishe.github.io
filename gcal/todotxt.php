@@ -138,11 +138,12 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 		foreach ( $H as $k => $h) { extract( $h); $bywhen[ "$k"] = lshift( ttl( $when, ' ')); }
 		if ( $calendar == 'jobhunt') arsort( $bywhen); else asort( $bywhen); 
 		foreach ( $bywhen as $k => $when3) { extract( $H[ "$k"]); $keymap[ "$k"] = substr( md5( $k), 0, 10); fwrite( $out, "$when3 [$title](#" . $keymap[ "$k"] . ")  \n"); }
-		fwrite( $out, "\n\n"); foreach ( $H as $k => $h) { 
-			extract( $h); // when, when2, url1, url2, title, duration, description
+		fwrite( $out, "\n\n"); foreach ( $bywhen as $k => $when) { 
+			extract( $H[ "$k"]); // when, when2, url1, url2, title, duration, description
 			fwrite( $out, "## $title  (" . lshift( ttl( $when, ' ')) . ") <span id=" . strdblquote( $keymap[ "$k"]) . "></span> <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>\n\n");
-			$files = flget( '.', $calendar, $title, 'txt'); if ( ! $files) continue; 
-			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); if ( ! $v) continue; $L = ttl( $v, ' '); foreach ( $L as $i => $v2) if ( strpos( $v2, 'http') === 0) $L[ $i] = "[$v2]($v2)"; else $L[ $i] = str_replace( '%', '％', $L[ $i]); $v= ltt( $L, ' '); fwrite( $out, $v . '  ' . "\n"); }
+			$files = flget( '.', $calendar, $k, 'txt'); if ( ! $files) { echo " WARNING!  no files found for [$k], skipping this item.\n"; sleep( 3); continue; } 
+			echo "   $title     " . ltt( $files) . "\n"; //usleep( 200000);
+			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); if ( ! $v) continue; $L = ttl( $v, ' '); foreach ( $L as $i => $v2) if ( strpos( $v2, 'http') === 0) $L[ $i] = "[$v2]($v2)"; $v= ltt( $L, ' '); fwrite( $out, $v . '  ' . "\n"); }
 			fwrite( $out, " <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
 			fwrite( $out, "\n\n\n"); extract( tsburst( tsystem())); 
 			$A[ "due:" . lshift( ttl( $when, ' ')) . " $yyyy-$mm-$dd $title #$calendar"] = true; 

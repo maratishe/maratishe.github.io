@@ -1,0 +1,2789 @@
+
+
+deadlines.210215.(J)MDPI.electronics.deepleaning.txt   210215   > 2021-02-15
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.electronics.deepleaning"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.electronics.deepleaning,when=2021-02-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210215.(J)MDPI.sensors.internet.of.things.txt   210215   > 2021-02-15
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.sensors.internet.of.things"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.sensors.internet.of.things,when=2021-02-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210215.EAI.WiCOM.wireless.txt   210215   > 2021-02-15
+DELETE  php /code/gcal/gcal.php delete deadlines "EAI.WiCOM.wireless"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=EAI.WiCOM.wireless,when=2021-02-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210215.IEEE.ACM.IWQoS.qos.txt   210215   > 2021-02-15
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.ACM.IWQoS.qos"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.ACM.IWQoS.qos,when=2021-02-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210215.IEEE.HPSC.highperfcomp.txt   210215   > 2021-02-15
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.HPSC.highperfcomp"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.HPSC.highperfcomp,when=2021-02-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210215.IEEE.IDS.intelligent.data.sec.txt   210215   > 2021-02-15
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.IDS.intelligent.data.sec"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.IDS.intelligent.data.sec,when=2021-02-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210215.IEEE.ISIE.industry.electronics.txt   210215   > 2021-02-15
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.ISIE.industry.electronics"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.ISIE.industry.electronics,when=2021-02-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210218.IEEE.COMPSAC.txt   210218   > 2021-02-18
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.COMPSAC"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.COMPSAC,when=2021-02-18 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/18/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210219.IEEE.DDINS.datadriven.txt   210219   > 2021-02-19
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.DDINS.datadriven"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.DDINS.datadriven,when=2021-02-19 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/19/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210220.(J)JCN.covid19.txt   210220   > 2021-02-20
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)JCN.covid19"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)JCN.covid19,when=2021-02-20 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/20/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210220.(J)MDPI.smartcities.traffic.sensors.IoT.txt   210220   > 2021-02-20
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.smartcities.traffic.sensors.IoT"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.smartcities.traffic.sensors.IoT,when=2021-02-20 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/20/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210221.(J)MDPI.mobile.computing.txt   210221   > 2021-02-21
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.mobile.computing"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.mobile.computing,when=2021-02-21 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/21/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210221.(J)MDPI.Telecom.Journal.txt   210221   > 2021-02-21
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.Telecom.Journal"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.Telecom.Journal,when=2021-02-21 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/21/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210221.IEEE.ComSoc.CQR.quality.reliablity.txt   210221   > 2021-02-21
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.ComSoc.CQR.quality.reliablity"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.ComSoc.CQR.quality.reliablity,when=2021-02-21 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/21/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210222.IEEE.SECON.sensing.comm.net.txt   210222   > 2021-02-22
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.SECON.sensing.comm.net"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.SECON.sensing.comm.net,when=2021-02-22 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/22/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210222.LANMAN.networking.is.new.normal.txt   210222   > 2021-02-22
+DELETE  php /code/gcal/gcal.php delete deadlines "LANMAN.networking.is.new.normal"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=LANMAN.networking.is.new.normal,when=2021-02-22 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/22/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210225.ⒿIEEEJ.intell.wireless.control.systems.txt   210225   > 2021-02-25
+DELETE  php /code/gcal/gcal.php delete deadlines "ⒿIEEEJ.intell.wireless.control.systems"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=ⒿIEEEJ.intell.wireless.control.systems,when=2021-02-25 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/25/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210228.(J)Elsevier.ICN(blockchain.for.covid).txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)Elsevier.ICN(blockchain.for.covid)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)Elsevier.ICN(blockchain.for.covid),when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210228.jour.mdpi.vehicularfleets.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete deadlines "jour.mdpi.vehicularfleets"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=jour.mdpi.vehicularfleets,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210301.(J)IEET.green.internet.and.services.txt   210301   > 2021-03-01
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)IEET.green.internet.and.services"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)IEET.green.internet.and.services,when=2021-03-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210301.(J)Springer.queueing.learning.control.txt   210301   > 2021-03-01
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)Springer.queueing.learning.control"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)Springer.queueing.learning.control,when=2021-03-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210301.IEEE.IFIP.wirelessdays.txt   210301   > 2021-03-01
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.IFIP.wirelessdays"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.IFIP.wirelessdays,when=2021-03-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210301.Springer.dataintensive.cluster.txt   210301   > 2021-03-01
+DELETE  php /code/gcal/gcal.php delete deadlines "Springer.dataintensive.cluster"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=Springer.dataintensive.cluster,when=2021-03-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210305.IEEE.ISIE.industry.elec.txt   210305   > 2021-03-05
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.ISIE.industry.elec"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.ISIE.industry.elec,when=2021-03-05 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/5/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210310.ficloud.future.cloud.txt   210310   > 2021-03-10
+DELETE  php /code/gcal/gcal.php delete deadlines "ficloud.future.cloud"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=ficloud.future.cloud,when=2021-03-10 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/10/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210310.IEEE.FiCloud.iot.cloud.txt   210310   > 2021-03-10
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.FiCloud.iot.cloud"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.FiCloud.iot.cloud,when=2021-03-10 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/10/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210310.LNCS.mobiwis.mobileweb.intelligentsystems.txt   210310   > 2021-03-10
+DELETE  php /code/gcal/gcal.php delete deadlines "LNCS.mobiwis.mobileweb.intelligentsystems"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=LNCS.mobiwis.mobileweb.intelligentsystems,when=2021-03-10 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/10/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210315.(J)IEEEWComm.AI.assisted.wcomm.txt   210315   > 2021-03-15
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)IEEEWComm.AI.assisted.wcomm"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)IEEEWComm.AI.assisted.wcomm,when=2021-03-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210315.(J)MDPI.drone.swarms.txt   210315   > 2021-03-15
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.drone.swarms"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.drone.swarms,when=2021-03-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210315.BRAINS.blockchain.txt   210315   > 2021-03-15
+DELETE  php /code/gcal/gcal.php delete deadlines "BRAINS.blockchain"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=BRAINS.blockchain,when=2021-03-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210315.CloudConf.KSEM@tokyo.txt   210315   > 2021-03-15
+DELETE  php /code/gcal/gcal.php delete deadlines "CloudConf.KSEM@tokyo"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=CloudConf.KSEM@tokyo,when=2021-03-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210315.KSEM.knowledge.txt   210315   > 2021-03-15
+DELETE  php /code/gcal/gcal.php delete deadlines "KSEM.knowledge"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=KSEM.knowledge,when=2021-03-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210318.ACM.WiSec.wireless.security.txt   210318   > 2021-03-18
+DELETE  php /code/gcal/gcal.php delete deadlines "ACM.WiSec.wireless.security"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=ACM.WiSec.wireless.security,when=2021-03-18 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/18/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210319.Elsevier.FNC.future.nets.txt   210319   > 2021-03-19
+DELETE  php /code/gcal/gcal.php delete deadlines "Elsevier.FNC.future.nets"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=Elsevier.FNC.future.nets,when=2021-03-19 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/19/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210319.IFIP.TMA.traffic.measure.annal.txt   210319   > 2021-03-19
+DELETE  php /code/gcal/gcal.php delete deadlines "IFIP.TMA.traffic.measure.annal"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IFIP.TMA.traffic.measure.annal,when=2021-03-19 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/19/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210321.ⒿIEEEsensors.inforpositioning.txt   210321   > 2021-03-21
+DELETE  php /code/gcal/gcal.php delete deadlines "ⒿIEEEsensors.inforpositioning"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=ⒿIEEEsensors.inforpositioning,when=2021-03-21 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/21/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210325.IFIP.future.internet.transport.txt   210325   > 2021-03-25
+DELETE  php /code/gcal/gcal.php delete deadlines "IFIP.future.internet.transport"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IFIP.future.internet.transport,when=2021-03-25 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/25/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210326.IEEE.DCOSS.urban.computing.txt   210326   > 2021-03-26
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.DCOSS.urban.computing"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.DCOSS.urban.computing,when=2021-03-26 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/26/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210330.(J)JNSM.beyond5G.txt   210330   > 2021-03-30
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)JNSM.beyond5G"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)JNSM.beyond5G,when=2021-03-30 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/30/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210330.IEEE.ATC.trusted.computing.txt   210330   > 2021-03-30
+DELETE  php /code/gcal/gcal.php delete deadlines "IEEE.ATC.trusted.computing"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=IEEE.ATC.trusted.computing,when=2021-03-30 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/30/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210331.(J)ACMIntTechJ.multiagent.systems.for.IoT.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)ACMIntTechJ.multiagent.systems.for.IoT"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)ACMIntTechJ.multiagent.systems.for.IoT,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210331.(J)ACMtran.comp.ling.multimedia.IoT.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)ACMtran.comp.ling.multimedia.IoT"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)ACMtran.comp.ling.multimedia.IoT,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210331.(J)Elsevier(edge.iot).txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)Elsevier(edge.iot)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)Elsevier(edge.iot),when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210331.(J)Elsevier.smart.veh.in.6G.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)Elsevier.smart.veh.in.6G"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)Elsevier.smart.veh.in.6G,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210331.(J)IEEE.Sensors.indoor.positioning.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)IEEE.Sensors.indoor.positioning"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)IEEE.Sensors.indoor.positioning,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210331.BRAINS.blockchain.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete deadlines "BRAINS.blockchain"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=BRAINS.blockchain,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210401.(J)MDPI.ai.things.readtime.datamon.txt   210401   > 2021-04-01
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.ai.things.readtime.datamon"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.ai.things.readtime.datamon,when=2021-04-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=4/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210401.(J)TNSM.AI4network.txt   210401   > 2021-04-01
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)TNSM.AI4network"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)TNSM.AI4network,when=2021-04-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=4/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210402.ITC.teletraffic.congress.txt   210402   > 2021-04-02
+DELETE  php /code/gcal/gcal.php delete deadlines "ITC.teletraffic.congress"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=ITC.teletraffic.congress,when=2021-04-02 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=4/2/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210405.(J)IEEE.VTechMag.6gapps.txt   210405   > 2021-04-05
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)IEEE.VTechMag.6gapps"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)IEEE.VTechMag.6gapps,when=2021-04-05 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=4/5/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210413.EAI.MONAMI.japan.mobile.nets.txt   210413   > 2021-04-13
+DELETE  php /code/gcal/gcal.php delete deadlines "EAI.MONAMI.japan.mobile.nets"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=EAI.MONAMI.japan.mobile.nets,when=2021-04-13 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=4/13/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210415.(J)MDPI.sensors.intelligent.vehicles.txt   210415   > 2021-04-15
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.sensors.intelligent.vehicles"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.sensors.intelligent.vehicles,when=2021-04-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=4/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210415.GLOBECOM.txt   210415   > 2021-04-15
+DELETE  php /code/gcal/gcal.php delete deadlines "GLOBECOM"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=GLOBECOM,when=2021-04-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=4/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210501.ACM.GoodIT.txt   210501   > 2021-05-01
+DELETE  php /code/gcal/gcal.php delete deadlines "ACM.GoodIT"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=ACM.GoodIT,when=2021-05-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=5/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210505.(J)tailor.digitaltwin.txt   210505   > 2021-05-05
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)tailor.digitaltwin"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)tailor.digitaltwin,when=2021-05-05 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=5/5/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210515.ACM.middleware.txt   210515   > 2021-05-15
+DELETE  php /code/gcal/gcal.php delete deadlines "ACM.middleware"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=ACM.middleware,when=2021-05-15 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=5/15/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210531.(J)wiley.SPE.highperfcomp.apps.txt   210531   > 2021-05-31
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)wiley.SPE.highperfcomp.apps"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)wiley.SPE.highperfcomp.apps,when=2021-05-31 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=5/31/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210601.(J)MDPI.cloud.based.iot.smartcities.txt   210601   > 2021-06-01
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.cloud.based.iot.smartcities"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.cloud.based.iot.smartcities,when=2021-06-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=6/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210630.ⒿMDPI.HPC.math.txt   210630   > 2021-06-30
+DELETE  php /code/gcal/gcal.php delete deadlines "ⒿMDPI.HPC.math"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=ⒿMDPI.HPC.math,when=2021-06-30 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=6/30/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210701.(J)MDPI.energy.in.networks.txt   210701   > 2021-07-01
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)MDPI.energy.in.networks"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)MDPI.energy.in.networks,when=2021-07-01 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=7/1/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+deadlines.210731.(J)BigDataJournal.perfmanagment.large.clusters.txt   210731   > 2021-07-31
+DELETE  php /code/gcal/gcal.php delete deadlines "(J)BigDataJournal.perfmanagment.large.clusters"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=deadlines,title=(J)BigDataJournal.perfmanagment.large.clusters,when=2021-07-31 00:00:00,url1=http://maratishe.github.io/gcal/deadlines.md,url2=http://maratishe.github.io/gcal/deadlines.md.txt,when2=7/31/2021,duration=allday,description=http://maratishe.github.io/gcal/deadlines.md http://maratishe.github.io/gcal/deadlines.md.txt"
+no ap calls, skip
+DONE > deadlines.json
+
+
+
+
+
+
+
+
+
+
+jobhunt.200601.-龍谷大.通信工学分野.txt   200601   > 2020-06-01
+DELETE  php /code/gcal/gcal.php delete jobhunt "-龍谷大.通信工学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-龍谷大.通信工学分野,when=2020-06-01 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=6/1/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200626.-拓殖大.ソフトウェア工学.txt   200626   > 2020-06-26
+DELETE  php /code/gcal/gcal.php delete jobhunt "-拓殖大.ソフトウェア工学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-拓殖大.ソフトウェア工学,when=2020-06-26 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=6/26/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200715.+中央大.txt   200715   > 2020-07-15
+DELETE  php /code/gcal/gcal.php delete jobhunt "+中央大"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+中央大,when=2020-07-15 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/15/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200715.-同志社大.txt   200715   > 2020-07-15
+DELETE  php /code/gcal/gcal.php delete jobhunt "-同志社大"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-同志社大,when=2020-07-15 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/15/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200717.-千葉商科大.txt   200717   > 2020-07-17
+DELETE  php /code/gcal/gcal.php delete jobhunt "-千葉商科大"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-千葉商科大,when=2020-07-17 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/17/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200717.-千葉商科大.情報・メディア.txt   200717   > 2020-07-17
+DELETE  php /code/gcal/gcal.php delete jobhunt "-千葉商科大.情報・メディア"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-千葉商科大.情報・メディア,when=2020-07-17 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/17/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200720.-近畿大情報セキュリティ評価✘推薦書.txt   200720   > 2020-07-20
+DELETE  php /code/gcal/gcal.php delete jobhunt "-近畿大情報セキュリティ評価✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-近畿大情報セキュリティ評価✘推薦書,when=2020-07-20 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/20/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200721.-東京大(missed13日締切).txt   200721   > 2020-07-21
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京大(missed13日締切)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京大(missed13日締切),when=2020-07-21 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/21/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200724.-慶應義塾.情報工学分野✘推薦書.txt   200724   > 2020-07-24
+DELETE  php /code/gcal/gcal.php delete jobhunt "-慶應義塾.情報工学分野✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-慶應義塾.情報工学分野✘推薦書,when=2020-07-24 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/24/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200730.+滋賀大✌email↓rejectletter.txt   200730   > 2020-07-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "+滋賀大✌email↓rejectletter"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+滋賀大✌email↓rejectletter,when=2020-07-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200731.+埼玉工業大.情報学★エクセル業績.txt   200731   > 2020-07-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "+埼玉工業大.情報学★エクセル業績"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+埼玉工業大.情報学★エクセル業績,when=2020-07-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200731.+名古屋大.人間情報学★教授.txt   200731   > 2020-07-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "+名古屋大.人間情報学★教授"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+名古屋大.人間情報学★教授,when=2020-07-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200731.-岡山理科大(ous).人工知能✘toomuchwork+morelater.txt   200731   > 2020-07-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岡山理科大(ous).人工知能✘toomuchwork+morelater"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岡山理科大(ous).人工知能✘toomuchwork+morelater,when=2020-07-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200731.-九州国際大.情報学基礎✘badformat.txt   200731   > 2020-07-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-九州国際大.情報学基礎✘badformat"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-九州国際大.情報学基礎✘badformat,when=2020-07-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200731.-法政大.信号処理、統計、計測、機械学習分野✘推薦書.txt   200731   > 2020-07-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-法政大.信号処理、統計、計測、機械学習分野✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-法政大.信号処理、統計、計測、機械学習分野✘推薦書,when=2020-07-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200812.+三重大.知能工学講座・データサイエンス2jobs.txt   200812   > 2020-08-12
+DELETE  php /code/gcal/gcal.php delete jobhunt "+三重大.知能工学講座・データサイエンス2jobs"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+三重大.知能工学講座・データサイエンス2jobs,when=2020-08-12 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/12/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200817.+筑波大.txt   200817   > 2020-08-17
+DELETE  php /code/gcal/gcal.php delete jobhunt "+筑波大"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+筑波大,when=2020-08-17 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/17/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200817.-NAIST.ロボティクス分野.txt   200817   > 2020-08-17
+DELETE  php /code/gcal/gcal.php delete jobhunt "-NAIST.ロボティクス分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-NAIST.ロボティクス分野,when=2020-08-17 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/17/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200819.+岡山県立大.知覚情報処理.txt   200819   > 2020-08-19
+DELETE  php /code/gcal/gcal.php delete jobhunt "+岡山県立大.知覚情報処理"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+岡山県立大.知覚情報処理,when=2020-08-19 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/19/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200819.-近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs✘推薦書.txt   200819   > 2020-08-19
+DELETE  php /code/gcal/gcal.php delete jobhunt "-近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs✘推薦書,when=2020-08-19 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/19/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200821.+玉川大学.国際教養学科✌jrec.txt   200821   > 2020-08-21
+DELETE  php /code/gcal/gcal.php delete jobhunt "+玉川大学.国際教養学科✌jrec"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+玉川大学.国際教養学科✌jrec,when=2020-08-21 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/21/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200821.+龍谷大学・通信工学分野★給料明記.txt   200821   > 2020-08-21
+DELETE  php /code/gcal/gcal.php delete jobhunt "+龍谷大学・通信工学分野★給料明記"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+龍谷大学・通信工学分野★給料明記,when=2020-08-21 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/21/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200824.+中京大.コンピュータ処理論及び関連科目.txt   200824   > 2020-08-24
+DELETE  php /code/gcal/gcal.php delete jobhunt "+中京大.コンピュータ処理論及び関連科目"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+中京大.コンピュータ処理論及び関連科目,when=2020-08-24 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/24/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200825.+大阪大学.社会イノベーション部門.txt   200825   > 2020-08-25
+DELETE  php /code/gcal/gcal.php delete jobhunt "+大阪大学.社会イノベーション部門"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+大阪大学.社会イノベーション部門,when=2020-08-25 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/25/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200825.-日本大.ロボット・制御✘mismatch.txt   200825   > 2020-08-25
+DELETE  php /code/gcal/gcal.php delete jobhunt "-日本大.ロボット・制御✘mismatch"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-日本大.ロボット・制御✘mismatch,when=2020-08-25 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/25/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200828.+広島工業大・経営情報システム✌jrec.txt   200828   > 2020-08-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "+広島工業大・経営情報システム✌jrec"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+広島工業大・経営情報システム✌jrec,when=2020-08-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/28/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200828.-和光大学.情報の基礎✖too much work.txt   200828   > 2020-08-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "-和光大学.情報の基礎✖too much work"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-和光大学.情報の基礎✖too much work,when=2020-08-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/28/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.+岡山大学.サイバーフィジカル情報の応用研究.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "+岡山大学.サイバーフィジカル情報の応用研究"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+岡山大学.サイバーフィジカル情報の応用研究,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.+駒澤大.情報分野✌jrec.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "+駒澤大.情報分野✌jrec"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+駒澤大.情報分野✌jrec,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.+大阪大.情報科学☢試用6カ月✌jrec.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "+大阪大.情報科学☢試用6カ月✌jrec"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+大阪大.情報科学☢試用6カ月✌jrec,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.+東京都市大学・情報学.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "+東京都市大学・情報学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+東京都市大学・情報学,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.+立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース★english.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "+立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース★english"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース★english,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-岡山理科大(ous).情報数理.情報工学.2posts✘(still)toomuchwork.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岡山理科大(ous).情報数理.情報工学.2posts✘(still)toomuchwork"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岡山理科大(ous).情報数理.情報工学.2posts✘(still)toomuchwork,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-株式会社Nextremer.計算科学.quantum.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-株式会社Nextremer.計算科学.quantum"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-株式会社Nextremer.計算科学.quantum,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-京都大.通信情報システム中✘試用.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-京都大.通信情報システム中✘試用"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-京都大.通信情報システム中✘試用,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-工学院大学.情報学フロンティア-情報学✘推薦書.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-工学院大学.情報学フロンティア-情報学✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-工学院大学.情報学フロンティア-情報学✘推薦書,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-工学院大学.複合領域-デザイン学-総合理工-計算科学.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-工学院大学.複合領域-デザイン学-総合理工-計算科学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-工学院大学.複合領域-デザイン学-総合理工-計算科学,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-滋賀県立大.センシング工学分野.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-滋賀県立大.センシング工学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-滋賀県立大.センシング工学分野,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-東京電機大.人間情報学✘推薦書.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京電機大.人間情報学✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京電機大.人間情報学✘推薦書,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-東京都市大学・経営情報システム.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京都市大学・経営情報システム"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京都市大学・経営情報システム,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-東京都立大.情報学基礎.2posts.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京都立大.情報学基礎.2posts"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京都立大.情報学基礎.2posts,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-日本工業大✘推薦書.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-日本工業大✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-日本工業大✘推薦書,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200831.-般社団法人CRD.txt   200831   > 2020-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-般社団法人CRD"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-般社団法人CRD,when=2020-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200907.-明治大✘推薦書.txt   200907   > 2020-09-07
+DELETE  php /code/gcal/gcal.php delete jobhunt "-明治大✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-明治大✘推薦書,when=2020-09-07 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/7/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200910.+公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform.txt   200910   > 2020-09-10
+DELETE  php /code/gcal/gcal.php delete jobhunt "+公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform,when=2020-09-10 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/10/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200910.-公立はこだて未来大.txt   200910   > 2020-09-10
+DELETE  php /code/gcal/gcal.php delete jobhunt "-公立はこだて未来大"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-公立はこだて未来大,when=2020-09-10 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/10/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200910.-広島工業大学・コンピュータシステム.txt   200910   > 2020-09-10
+DELETE  php /code/gcal/gcal.php delete jobhunt "-広島工業大学・コンピュータシステム"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-広島工業大学・コンピュータシステム,when=2020-09-10 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/10/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200910.-広島工業大学・情報ネットワーク(did.not.make.it).txt   200910   > 2020-09-10
+DELETE  php /code/gcal/gcal.php delete jobhunt "-広島工業大学・情報ネットワーク(did.not.make.it)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-広島工業大学・情報ネットワーク(did.not.make.it),when=2020-09-10 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/10/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200911.+★金沢大学.IoT及び情報通信分野.txt   200911   > 2020-09-11
+DELETE  php /code/gcal/gcal.php delete jobhunt "+★金沢大学.IoT及び情報通信分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+★金沢大学.IoT及び情報通信分野,when=2020-09-11 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/11/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200911.+法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin.txt   200911   > 2020-09-11
+DELETE  php /code/gcal/gcal.php delete jobhunt "+法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin,when=2020-09-11 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/11/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200911.-北海道.情報科学研究院.txt   200911   > 2020-09-11
+DELETE  php /code/gcal/gcal.php delete jobhunt "-北海道.情報科学研究院"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-北海道.情報科学研究院,when=2020-09-11 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/11/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200911.-明治大学・統計科学・統計数学・知能情報科学.txt   200911   > 2020-09-11
+DELETE  php /code/gcal/gcal.php delete jobhunt "-明治大学・統計科学・統計数学・知能情報科学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-明治大学・統計科学・統計数学・知能情報科学,when=2020-09-11 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/11/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200914.+★東京理科大工学部情報工学科インテリジェントシステム分野.txt   200914   > 2020-09-14
+DELETE  php /code/gcal/gcal.php delete jobhunt "+★東京理科大工学部情報工学科インテリジェントシステム分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+★東京理科大工学部情報工学科インテリジェントシステム分野,when=2020-09-14 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/14/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200914.-国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation.txt   200914   > 2020-09-14
+DELETE  php /code/gcal/gcal.php delete jobhunt "-国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation,when=2020-09-14 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/14/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200914.-琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定.txt   200914   > 2020-09-14
+DELETE  php /code/gcal/gcal.php delete jobhunt "-琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定,when=2020-09-14 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/14/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200915.+青山学院大.情報社会科学✌freeform.txt   200915   > 2020-09-15
+DELETE  php /code/gcal/gcal.php delete jobhunt "+青山学院大.情報社会科学✌freeform"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+青山学院大.情報社会科学✌freeform,when=2020-09-15 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/15/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200915.-岡山大学.ハードウェア.ソフトウェア.txt   200915   > 2020-09-15
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岡山大学.ハードウェア.ソフトウェア"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岡山大学.ハードウェア.ソフトウェア,when=2020-09-15 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/15/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200918.+▲長岡技術科学大.情報・経営システム工学専攻.txt   200918   > 2020-09-18
+DELETE  php /code/gcal/gcal.php delete jobhunt "+▲長岡技術科学大.情報・経営システム工学専攻"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+▲長岡技術科学大.情報・経営システム工学専攻,when=2020-09-18 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/18/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200918.-京都先端科学大学・統計やビジネスデータの見方.txt   200918   > 2020-09-18
+DELETE  php /code/gcal/gcal.php delete jobhunt "-京都先端科学大学・統計やビジネスデータの見方"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-京都先端科学大学・統計やビジネスデータの見方,when=2020-09-18 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/18/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200918.-東京電機大学・情報学部門.txt   200918   > 2020-09-18
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京電機大学・情報学部門"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京電機大学・情報学部門,when=2020-09-18 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/18/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200920.-松本大学.データサイエンス.情報学-データサイエンス.txt   200920   > 2020-09-20
+DELETE  php /code/gcal/gcal.php delete jobhunt "-松本大学.データサイエンス.情報学-データサイエンス"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-松本大学.データサイエンス.情報学-データサイエンス,when=2020-09-20 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/20/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200921.-法政大学.情報学・計算基盤(picked.another.200911).txt   200921   > 2020-09-21
+DELETE  php /code/gcal/gcal.php delete jobhunt "-法政大学.情報学・計算基盤(picked.another.200911)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-法政大学.情報学・計算基盤(picked.another.200911),when=2020-09-21 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/21/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200923.-岐阜聖徳学園大学・情報学.txt   200923   > 2020-09-23
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岐阜聖徳学園大学・情報学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岐阜聖徳学園大学・情報学,when=2020-09-23 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/23/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200925.+▲成蹊大学.総合理工-計算科学-数物系科学.txt   200925   > 2020-09-25
+DELETE  php /code/gcal/gcal.php delete jobhunt "+▲成蹊大学.総合理工-計算科学-数物系科学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+▲成蹊大学.総合理工-計算科学-数物系科学,when=2020-09-25 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/25/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200925.-▲日本大学.ソフトウェア分野-情報システム分野-データサイエンス分野-知能ロボティクス分野☢福島.txt   200925   > 2020-09-25
+DELETE  php /code/gcal/gcal.php delete jobhunt "-▲日本大学.ソフトウェア分野-情報システム分野-データサイエンス分野-知能ロボティクス分野☢福島"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-▲日本大学.ソフトウェア分野-情報システム分野-データサイエンス分野-知能ロボティクス分野☢福島,when=2020-09-25 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/25/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200925.-★東京理科大.数理モデリング、知能数理分野.txt   200925   > 2020-09-25
+DELETE  php /code/gcal/gcal.php delete jobhunt "-★東京理科大.数理モデリング、知能数理分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-★東京理科大.数理モデリング、知能数理分野,when=2020-09-25 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/25/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200925.-岩手県立大.人工知能コース.txt   200925   > 2020-09-25
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岩手県立大.人工知能コース"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岩手県立大.人工知能コース,when=2020-09-25 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/25/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200925.-東京大学.高性能計算地球科学分野.txt   200925   > 2020-09-25
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京大学.高性能計算地球科学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京大学.高性能計算地球科学分野,when=2020-09-25 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/25/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200928.-岡山大学・知能機械システム学講座.txt   200928   > 2020-09-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岡山大学・知能機械システム学講座"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岡山大学・知能機械システム学講座,when=2020-09-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/28/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.+‼★公立はこだて未来大学・情報システム.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "+‼★公立はこだて未来大学・情報システム"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+‼★公立はこだて未来大学・情報システム,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.+▲東京都市大学・情報理論.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "+▲東京都市大学・情報理論"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+▲東京都市大学・情報理論,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.+★龍谷大学・情報科学分野.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "+★龍谷大学・情報科学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+★龍谷大学・情報科学分野,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.+福岡大.情報学.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "+福岡大.情報学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+福岡大.情報学,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-▲成蹊大.計算科学(1of2).txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-▲成蹊大.計算科学(1of2)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-▲成蹊大.計算科学(1of2),when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-▲静岡理工科大学.電子情報分野(smalluni).txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-▲静岡理工科大学.電子情報分野(smalluni)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-▲静岡理工科大学.電子情報分野(smalluni),when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-岡山大学・電気電子機能開発・powerelec.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岡山大学・電気電子機能開発・powerelec"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岡山大学・電気電子機能開発・powerelec,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-熊本大学・ビッグデータ.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-熊本大学・ビッグデータ"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-熊本大学・ビッグデータ,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-兵庫県立大学.AI・IoT・ビックデータ.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-兵庫県立大学.AI・IoT・ビックデータ"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-兵庫県立大学.AI・IoT・ビックデータ,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.兵庫県立大学.情報学-情報通信-ネットワーク.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "兵庫県立大学.情報学-情報通信-ネットワーク"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=兵庫県立大学.情報学-情報通信-ネットワーク,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-兵庫県立大学・情報通信工学.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-兵庫県立大学・情報通信工学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-兵庫県立大学・情報通信工学,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-北海道大学.数理科学・応用数学分野.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-北海道大学.数理科学・応用数学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-北海道大学.数理科学・応用数学分野,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.200930.-名城大学・情報学、統計学、フィールド調査.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-名城大学・情報学、統計学、フィールド調査"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-名城大学・情報学、統計学、フィールド調査,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201002.-明星大.データアナリティクス✘推薦書.txt   201002   > 2020-10-02
+DELETE  php /code/gcal/gcal.php delete jobhunt "-明星大.データアナリティクス✘推薦書"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-明星大.データアナリティクス✘推薦書,when=2020-10-02 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/2/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201008.-東洋大学・情報社会の総合政策.txt   201008   > 2020-10-08
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東洋大学・情報社会の総合政策"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東洋大学・情報社会の総合政策,when=2020-10-08 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/8/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201009.-立命館大学.システム制御工学.無線通信・電波.txt   201009   > 2020-10-09
+DELETE  php /code/gcal/gcal.php delete jobhunt "-立命館大学.システム制御工学.無線通信・電波"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-立命館大学.システム制御工学.無線通信・電波,when=2020-10-09 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/9/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201012.-東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど.txt   201012   > 2020-10-12
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど,when=2020-10-12 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/12/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201016.+千葉経済大学・情報学分野.txt   201016   > 2020-10-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "+千葉経済大学・情報学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+千葉経済大学・情報学分野,when=2020-10-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/16/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201016.▲愛知工科大学・データサイエンスまたはＡＩ.txt   201016   > 2020-10-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "▲愛知工科大学・データサイエンスまたはＡＩ"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=▲愛知工科大学・データサイエンスまたはＡＩ,when=2020-10-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/16/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201016.-FIT.制御・計測に関連する分野.txt   201016   > 2020-10-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "-FIT.制御・計測に関連する分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-FIT.制御・計測に関連する分野,when=2020-10-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/16/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201016.-愛知工科大学・組込み系システム.txt   201016   > 2020-10-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "-愛知工科大学・組込み系システム"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-愛知工科大学・組込み系システム,when=2020-10-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/16/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201016.-石川県工業試験場・電気職.txt   201016   > 2020-10-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "-石川県工業試験場・電気職"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-石川県工業試験場・電気職,when=2020-10-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/16/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201016.-大阪大学大学院・情報科学研究科✘probation.txt   201016   > 2020-10-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "-大阪大学大学院・情報科学研究科✘probation"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-大阪大学大学院・情報科学研究科✘probation,when=2020-10-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/16/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201016.-東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究.txt   201016   > 2020-10-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究,when=2020-10-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/16/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201019.+玉川大学・ソフトウェアサイエンス学科.txt   201019   > 2020-10-19
+DELETE  php /code/gcal/gcal.php delete jobhunt "+玉川大学・ソフトウェアサイエンス学科"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+玉川大学・ソフトウェアサイエンス学科,when=2020-10-19 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/19/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201023.-東京工業大学・情報通信における応用AI分野.txt   201023   > 2020-10-23
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京工業大学・情報通信における応用AI分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京工業大学・情報通信における応用AI分野,when=2020-10-23 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/23/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201029.-成城大学・経営統計学✘bad format.txt   201029   > 2020-10-29
+DELETE  php /code/gcal/gcal.php delete jobhunt "-成城大学・経営統計学✘bad format"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-成城大学・経営統計学✘bad format,when=2020-10-29 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/29/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201030.+公立小松大学・データマイニング・機械学習・データ科学関連分野.txt   201030   > 2020-10-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "+公立小松大学・データマイニング・機械学習・データ科学関連分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+公立小松大学・データマイニング・機械学習・データ科学関連分野,when=2020-10-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201030.+福岡工業大.txt   201030   > 2020-10-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "+福岡工業大"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+福岡工業大,when=2020-10-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201030.-茨城キリスト教大学・経営情報分野.txt   201030   > 2020-10-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-茨城キリスト教大学・経営情報分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-茨城キリスト教大学・経営情報分野,when=2020-10-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201030.-香川大学・機械システム.txt   201030   > 2020-10-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-香川大学・機械システム"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-香川大学・機械システム,when=2020-10-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201030.-高知大学・情報工学.txt   201030   > 2020-10-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-高知大学・情報工学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-高知大学・情報工学,when=2020-10-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201030.-足利大学・情報工学、情報科学センター.txt   201030   > 2020-10-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-足利大学・情報工学、情報科学センター"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-足利大学・情報工学、情報科学センター,when=2020-10-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201030.-足利大学・人工知能.txt   201030   > 2020-10-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-足利大学・人工知能"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-足利大学・人工知能,when=2020-10-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=10/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201104.+お茶の水女子大学・人間工学（ロボット工学、生体工学）.txt   201104   > 2020-11-04
+DELETE  php /code/gcal/gcal.php delete jobhunt "+お茶の水女子大学・人間工学（ロボット工学、生体工学）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+お茶の水女子大学・人間工学（ロボット工学、生体工学）,when=2020-11-04 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/4/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201104.-久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械.txt   201104   > 2020-11-04
+DELETE  php /code/gcal/gcal.php delete jobhunt "-久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械,when=2020-11-04 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/4/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201105.+名古屋市立大学・情報環境デザイン領域.txt   201105   > 2020-11-05
+DELETE  php /code/gcal/gcal.php delete jobhunt "+名古屋市立大学・情報環境デザイン領域"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+名古屋市立大学・情報環境デザイン領域,when=2020-11-05 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/5/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201106.-近畿大学・情報セキュリティ教育(講師or助教).txt   201106   > 2020-11-06
+DELETE  php /code/gcal/gcal.php delete jobhunt "-近畿大学・情報セキュリティ教育(講師or助教)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-近畿大学・情報セキュリティ教育(講師or助教),when=2020-11-06 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/6/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201109.-三重大学大学院工学研究科・知能工学講座★再公募.txt   201109   > 2020-11-09
+DELETE  php /code/gcal/gcal.php delete jobhunt "-三重大学大学院工学研究科・知能工学講座★再公募"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-三重大学大学院工学研究科・知能工学講座★再公募,when=2020-11-09 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/9/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201110.-公立千歳科学技術大学・情報システム工学科(任期).txt   201110   > 2020-11-10
+DELETE  php /code/gcal/gcal.php delete jobhunt "-公立千歳科学技術大学・情報システム工学科(任期)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-公立千歳科学技術大学・情報システム工学科(任期),when=2020-11-10 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/10/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201113.-香川大学・情報システム・セキュリティコース✘講師以下.txt   201113   > 2020-11-13
+DELETE  php /code/gcal/gcal.php delete jobhunt "-香川大学・情報システム・セキュリティコース✘講師以下"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-香川大学・情報システム・セキュリティコース✘講師以下,when=2020-11-13 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/13/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201114.-白百合女子大学・情報教育・プログラミング教育・ICT教育‼調布・推薦.txt   201114   > 2020-11-14
+DELETE  php /code/gcal/gcal.php delete jobhunt "-白百合女子大学・情報教育・プログラミング教育・ICT教育‼調布・推薦"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-白百合女子大学・情報教育・プログラミング教育・ICT教育‼調布・推薦,when=2020-11-14 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/14/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201118.-滋賀県立大学・知能情報工学分野・データサイエンス‼エクセルCV.txt   201118   > 2020-11-18
+DELETE  php /code/gcal/gcal.php delete jobhunt "-滋賀県立大学・知能情報工学分野・データサイエンス‼エクセルCV"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-滋賀県立大学・知能情報工学分野・データサイエンス‼エクセルCV,when=2020-11-18 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/18/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201120.-岡山理科大学・計算機工学・コンピュータシステム分野✘toomuchwork.txt   201120   > 2020-11-20
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岡山理科大学・計算機工学・コンピュータシステム分野✘toomuchwork"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岡山理科大学・計算機工学・コンピュータシステム分野✘toomuchwork,when=2020-11-20 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/20/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201120.-香川大学・情報通信コース.txt   201120   > 2020-11-20
+DELETE  php /code/gcal/gcal.php delete jobhunt "-香川大学・情報通信コース"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-香川大学・情報通信コース,when=2020-11-20 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/20/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201124.-広島大学・情報メディア教育研究センター.txt   201124   > 2020-11-24
+DELETE  php /code/gcal/gcal.php delete jobhunt "-広島大学・情報メディア教育研究センター"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-広島大学・情報メディア教育研究センター,when=2020-11-24 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/24/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201126.-九州大学・ロシア語担当.txt   201126   > 2020-11-26
+DELETE  php /code/gcal/gcal.php delete jobhunt "-九州大学・ロシア語担当"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-九州大学・ロシア語担当,when=2020-11-26 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/26/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-岡山理科大学・データサイエンス.txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岡山理科大学・データサイエンス"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岡山理科大学・データサイエンス,when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-岐阜大学・数理・データサイエンス.txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岐阜大学・数理・データサイエンス"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岐阜大学・数理・データサイエンス,when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-京都大学・国際高等教育院附属データ科学イノベーション教育研究センター.txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-京都大学・国際高等教育院附属データ科学イノベーション教育研究センター"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-京都大学・国際高等教育院附属データ科学イノベーション教育研究センター,when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-金沢大学・先端科学・社会共創推進機構.txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-金沢大学・先端科学・社会共創推進機構"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-金沢大学・先端科学・社会共創推進機構,when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-金沢大学・先端科学・社会共創推進機構・人材育成グループ.txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-金沢大学・先端科学・社会共創推進機構・人材育成グループ"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-金沢大学・先端科学・社会共創推進機構・人材育成グループ,when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-信州大学.通信システム分野(助教).txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-信州大学.通信システム分野(助教)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-信州大学.通信システム分野(助教),when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-長岡技術科学大学・情報・経営システム工学(better.at.1204).txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-長岡技術科学大学・情報・経営システム工学(better.at.1204)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-長岡技術科学大学・情報・経営システム工学(better.at.1204),when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-東京大学・人間エネルギー環境学分野.txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京大学・人間エネルギー環境学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京大学・人間エネルギー環境学分野,when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201130.-名古屋商科大学・情報(nolab).txt   201130   > 2020-11-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-名古屋商科大学・情報(nolab)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-名古屋商科大学・情報(nolab),when=2020-11-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=11/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201201.-東京工業大学・ソフトウェア工学分野.txt   201201   > 2020-12-01
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京工業大学・ソフトウェア工学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京工業大学・ソフトウェア工学分野,when=2020-12-01 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/1/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201203.-広島工業大学・コンピュータシステム.txt   201203   > 2020-12-03
+DELETE  php /code/gcal/gcal.php delete jobhunt "-広島工業大学・コンピュータシステム"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-広島工業大学・コンピュータシステム,when=2020-12-03 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/3/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201204.+九州国際大学・ビジネスデータ分析.txt   201204   > 2020-12-04
+DELETE  php /code/gcal/gcal.php delete jobhunt "+九州国際大学・ビジネスデータ分析"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+九州国際大学・ビジネスデータ分析,when=2020-12-04 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/4/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201204.+長岡技術科学大学・情報通信制御システム工学講座.txt   201204   > 2020-12-04
+DELETE  php /code/gcal/gcal.php delete jobhunt "+長岡技術科学大学・情報通信制御システム工学講座"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+長岡技術科学大学・情報通信制御システム工学講座,when=2020-12-04 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/4/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201204.-岩手大学・情報基盤センター.txt   201204   > 2020-12-04
+DELETE  php /code/gcal/gcal.php delete jobhunt "-岩手大学・情報基盤センター"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-岩手大学・情報基盤センター,when=2020-12-04 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/4/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201205.-東京電機大学・情報システムデザイン.txt   201205   > 2020-12-05
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京電機大学・情報システムデザイン"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京電機大学・情報システムデザイン,when=2020-12-05 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/5/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201205.-東京都市大学・情報科学科・計算機工学分野.txt   201205   > 2020-12-05
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京都市大学・情報科学科・計算機工学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京都市大学・情報科学科・計算機工学分野,when=2020-12-05 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/5/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201206.-神奈川工科大学・情報学部・情報メディア学科.txt   201206   > 2020-12-06
+DELETE  php /code/gcal/gcal.php delete jobhunt "-神奈川工科大学・情報学部・情報メディア学科"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-神奈川工科大学・情報学部・情報メディア学科,when=2020-12-06 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/6/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201208.-データ同化研究チーム.txt   201208   > 2020-12-08
+DELETE  php /code/gcal/gcal.php delete jobhunt "-データ同化研究チーム"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-データ同化研究チーム,when=2020-12-08 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/8/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201209.-名古屋大学・システム研究所未来エレクトロニクス集積研究センター.txt   201209   > 2020-12-09
+DELETE  php /code/gcal/gcal.php delete jobhunt "-名古屋大学・システム研究所未来エレクトロニクス集積研究センター"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-名古屋大学・システム研究所未来エレクトロニクス集積研究センター,when=2020-12-09 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/9/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201211.-九州産業大学理工学部・機械工学科・メカトロニクス.txt   201211   > 2020-12-11
+DELETE  php /code/gcal/gcal.php delete jobhunt "-九州産業大学理工学部・機械工学科・メカトロニクス"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-九州産業大学理工学部・機械工学科・メカトロニクス,when=2020-12-11 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/11/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201214.-静岡理工科大学・電子情報分野.txt   201214   > 2020-12-14
+DELETE  php /code/gcal/gcal.php delete jobhunt "-静岡理工科大学・電子情報分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-静岡理工科大学・電子情報分野,when=2020-12-14 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/14/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201214.-東京通信大学・情報システム分野.txt   201214   > 2020-12-14
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京通信大学・情報システム分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京通信大学・情報システム分野,when=2020-12-14 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/14/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201215.-琉球大学・総合情報処理センター.txt   201215   > 2020-12-15
+DELETE  php /code/gcal/gcal.php delete jobhunt "-琉球大学・総合情報処理センター"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-琉球大学・総合情報処理センター,when=2020-12-15 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/15/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201216.-千葉大学・情報工学・画像工学・医工学.txt   201216   > 2020-12-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "-千葉大学・情報工学・画像工学・医工学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-千葉大学・情報工学・画像工学・医工学,when=2020-12-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/16/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201218.-NAIST・情報科学領域・コンピューティング・アーキテクチャ分野.txt   201218   > 2020-12-18
+DELETE  php /code/gcal/gcal.php delete jobhunt "-NAIST・情報科学領域・コンピューティング・アーキテクチャ分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-NAIST・情報科学領域・コンピューティング・アーキテクチャ分野,when=2020-12-18 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/18/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201218.-立正大学・環境情報学・環境科学分野.txt   201218   > 2020-12-18
+DELETE  php /code/gcal/gcal.php delete jobhunt "-立正大学・環境情報学・環境科学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-立正大学・環境情報学・環境科学分野,when=2020-12-18 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/18/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201230.-東日本国際大学・情報学.txt   201230   > 2020-12-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東日本国際大学・情報学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東日本国際大学・情報学,when=2020-12-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/30/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.201231.-リージョナルフィッシュ株式会社・ゲノム編集水産育種のバイオインフォマティクス研究員の募集【リモートワーク可】.txt   201231   > 2020-12-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "-リージョナルフィッシュ株式会社・ゲノム編集水産育種のバイオインフォマティクス研究員の募集【リモートワーク可】"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-リージョナルフィッシュ株式会社・ゲノム編集水産育種のバイオインフォマティクス研究員の募集【リモートワーク可】,when=2020-12-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=12/31/2020,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210108.-足利大学工学部・機械分野【再公募】.txt   210108   > 2021-01-08
+DELETE  php /code/gcal/gcal.php delete jobhunt "-足利大学工学部・機械分野【再公募】"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-足利大学工学部・機械分野【再公募】,when=2021-01-08 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=1/8/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210114.-新潟大学・システムソフトウェア・並列分散処理.txt   210114   > 2021-01-14
+DELETE  php /code/gcal/gcal.php delete jobhunt "-新潟大学・システムソフトウェア・並列分散処理"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-新潟大学・システムソフトウェア・並列分散処理,when=2021-01-14 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=1/14/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210117.-東京工業大学・理論計算機科学・サイバーセキュリティ分野.txt   210117   > 2021-01-17
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京工業大学・理論計算機科学・サイバーセキュリティ分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京工業大学・理論計算機科学・サイバーセキュリティ分野,when=2021-01-17 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=1/17/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210129.-足利大学・工学部・教員の公募（情報工学、情報科学センター）【再公募】.txt   210129   > 2021-01-29
+DELETE  php /code/gcal/gcal.php delete jobhunt "-足利大学・工学部・教員の公募（情報工学、情報科学センター）【再公募】"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-足利大学・工学部・教員の公募（情報工学、情報科学センター）【再公募】,when=2021-01-29 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=1/29/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210129.-足利大学・工学部・教員の公募（人工知能関連分野）【再公募】.txt   210129   > 2021-01-29
+DELETE  php /code/gcal/gcal.php delete jobhunt "-足利大学・工学部・教員の公募（人工知能関連分野）【再公募】"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-足利大学・工学部・教員の公募（人工知能関連分野）【再公募】,when=2021-01-29 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=1/29/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210131.東京通信大学・情報システム・データサイエンス分野.txt   210131   > 2021-01-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "東京通信大学・情報システム・データサイエンス分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=東京通信大学・情報システム・データサイエンス分野,when=2021-01-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=1/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210201.●静岡理工科大学（ソフトウェア開発を基盤とする、知能情報や感性情報処理に関連する分野）.txt   210201   > 2021-02-01
+DELETE  php /code/gcal/gcal.php delete jobhunt "●静岡理工科大学（ソフトウェア開発を基盤とする、知能情報や感性情報処理に関連する分野）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=●静岡理工科大学（ソフトウェア開発を基盤とする、知能情報や感性情報処理に関連する分野）,when=2021-02-01 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/1/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210201.-金城学院大学・生活環境学部生活マネジメント学科・専任教員の公募（情報学）.txt   210201   > 2021-02-01
+DELETE  php /code/gcal/gcal.php delete jobhunt "-金城学院大学・生活環境学部生活マネジメント学科・専任教員の公募（情報学）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-金城学院大学・生活環境学部生活マネジメント学科・専任教員の公募（情報学）,when=2021-02-01 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/1/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210201.-静岡理工科大学・講師・准教授・または教授の公募（電子機械制御分野）.txt   210201   > 2021-02-01
+DELETE  php /code/gcal/gcal.php delete jobhunt "-静岡理工科大学・講師・准教授・または教授の公募（電子機械制御分野）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-静岡理工科大学・講師・准教授・または教授の公募（電子機械制御分野）,when=2021-02-01 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/1/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210205.+名古屋大学・行動信号処理分野.txt   210205   > 2021-02-05
+DELETE  php /code/gcal/gcal.php delete jobhunt "+名古屋大学・行動信号処理分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+名古屋大学・行動信号処理分野,when=2021-02-05 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/5/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210205.-日本大学・専任教員（教授）の公募（データサイエンス関連科目）.txt   210205   > 2021-02-05
+DELETE  php /code/gcal/gcal.php delete jobhunt "-日本大学・専任教員（教授）の公募（データサイエンス関連科目）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-日本大学・専任教員（教授）の公募（データサイエンス関連科目）,when=2021-02-05 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/5/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210209.-東京工業大学・教授の公募（ソフトウェア工学分野）.txt   210209   > 2021-02-09
+DELETE  php /code/gcal/gcal.php delete jobhunt "-東京工業大学・教授の公募（ソフトウェア工学分野）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=-東京工業大学・教授の公募（ソフトウェア工学分野）,when=2021-02-09 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/9/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210212.+中央学院大学・情報数学他.txt   210212   > 2021-02-12
+DELETE  php /code/gcal/gcal.php delete jobhunt "+中央学院大学・情報数学他"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=+中央学院大学・情報数学他,when=2021-02-12 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/12/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210225.大阪大学・機械工学・情報学.txt   210225   > 2021-02-25
+DELETE  php /code/gcal/gcal.php delete jobhunt "大阪大学・機械工学・情報学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=大阪大学・機械工学・情報学,when=2021-02-25 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/25/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210226.●大和大学（3jobs）.txt   210226   > 2021-02-26
+DELETE  php /code/gcal/gcal.php delete jobhunt "●大和大学（3jobs）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=●大和大学（3jobs）,when=2021-02-26 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/26/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210228.株式会社ベイシスコンサルティング・リサーチャー募集.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "株式会社ベイシスコンサルティング・リサーチャー募集"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=株式会社ベイシスコンサルティング・リサーチャー募集,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210228.岩手大学・知能・メディア情報コース・准教授公募.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "岩手大学・知能・メディア情報コース・准教授公募"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=岩手大学・知能・メディア情報コース・准教授公募,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210228.京都情報大学院大学・情報学分野.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "京都情報大学院大学・情報学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=京都情報大学院大学・情報学分野,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210228.国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210228.東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野）.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野）,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210228.武庫川女子大学・経営情報分野.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "武庫川女子大学・経営情報分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=武庫川女子大学・経営情報分野,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210228.武庫川女子大学・情報セキュリティ分野.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "武庫川女子大学・情報セキュリティ分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=武庫川女子大学・情報セキュリティ分野,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210228.武庫川女子大学・情報ネットワーク分野.txt   210228   > 2021-02-28
+DELETE  php /code/gcal/gcal.php delete jobhunt "武庫川女子大学・情報ネットワーク分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=武庫川女子大学・情報ネットワーク分野,when=2021-02-28 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=2/28/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210301.盛岡大学・情報処理.txt   210301   > 2021-03-01
+DELETE  php /code/gcal/gcal.php delete jobhunt "盛岡大学・情報処理"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=盛岡大学・情報処理,when=2021-03-01 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/1/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210301.東京国際工科専門職大学・プログラミング関連.txt   210301   > 2021-03-01
+DELETE  php /code/gcal/gcal.php delete jobhunt "東京国際工科専門職大学・プログラミング関連"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=東京国際工科専門職大学・プログラミング関連,when=2021-03-01 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/1/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210301.東京国際工科専門職大学・通信・コンピュータ分野.txt   210301   > 2021-03-01
+DELETE  php /code/gcal/gcal.php delete jobhunt "東京国際工科専門職大学・通信・コンピュータ分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=東京国際工科専門職大学・通信・コンピュータ分野,when=2021-03-01 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/1/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+
+
+jobhunt.210310.サイエンス・テクノロジー・システムズ株式会社・サイエンティフィック コンサルタント.txt   210310   > 2021-03-10
+DELETE  php /code/gcal/gcal.php delete jobhunt "サイエンス・テクノロジー・システムズ株式会社・サイエンティフィック コンサルタント"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=サイエンス・テクノロジー・システムズ株式会社・サイエンティフィック コンサルタント,when=2021-03-10 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/10/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210311.公益社団法人国際経済労働研究所・データ分析研究員募集.txt   210311   > 2021-03-11
+DELETE  php /code/gcal/gcal.php delete jobhunt "公益社団法人国際経済労働研究所・データ分析研究員募集"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=公益社団法人国際経済労働研究所・データ分析研究員募集,when=2021-03-11 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/11/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210312.★青山学院大学・経済学部経済学科・統計学・データサイエンス.txt   210312   > 2021-03-12
+DELETE  php /code/gcal/gcal.php delete jobhunt "★青山学院大学・経済学部経済学科・統計学・データサイエンス"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=★青山学院大学・経済学部経済学科・統計学・データサイエンス,when=2021-03-12 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/12/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210315.神奈川工科大学・情報学部・情報工学科.txt   210315   > 2021-03-15
+DELETE  php /code/gcal/gcal.php delete jobhunt "神奈川工科大学・情報学部・情報工学科"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=神奈川工科大学・情報学部・情報工学科,when=2021-03-15 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/15/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210319.香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース）.txt   210319   > 2021-03-19
+DELETE  php /code/gcal/gcal.php delete jobhunt "香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース）,when=2021-03-19 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/19/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210319.北海道大学・メディアネットワーク部門・情報通信システム学分野・教授.txt   210319   > 2021-03-19
+DELETE  php /code/gcal/gcal.php delete jobhunt "北海道大学・メディアネットワーク部門・情報通信システム学分野・教授"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=北海道大学・メディアネットワーク部門・情報通信システム学分野・教授,when=2021-03-19 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/19/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210322.名古屋大学大学院工学研究科・情報・通信工学専攻.txt   210322   > 2021-03-22
+DELETE  php /code/gcal/gcal.php delete jobhunt "名古屋大学大学院工学研究科・情報・通信工学専攻"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=名古屋大学大学院工学研究科・情報・通信工学専攻,when=2021-03-22 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/22/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210329.★東京理科大学・工学部情報工学科・インテリジェントシステム分野.txt   210329   > 2021-03-29
+DELETE  php /code/gcal/gcal.php delete jobhunt "★東京理科大学・工学部情報工学科・インテリジェントシステム分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=★東京理科大学・工学部情報工学科・インテリジェントシステム分野,when=2021-03-29 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/29/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210331.清水建設株式会社・民間企業の研究員（３D計測技術・ロボティクス）.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "清水建設株式会社・民間企業の研究員（３D計測技術・ロボティクス）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=清水建設株式会社・民間企業の研究員（３D計測技術・ロボティクス）,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210331.鳥取大学工学部教員公募（ロボティクス）.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "鳥取大学工学部教員公募（ロボティクス）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=鳥取大学工学部教員公募（ロボティクス）,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210331.東京工業大学・応用数理分野.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "東京工業大学・応用数理分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=東京工業大学・応用数理分野,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210331.福岡大学工学部電子情報工学科.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "福岡大学工学部電子情報工学科"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=福岡大学工学部電子情報工学科,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210331.名古屋大学・大学院工学研究科・教授公募・情報学.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "名古屋大学・大学院工学研究科・教授公募・情報学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=名古屋大学・大学院工学研究科・教授公募・情報学,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210331.名古屋大学・知能情報学分野.txt   210331   > 2021-03-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "名古屋大学・知能情報学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=名古屋大学・知能情報学分野,when=2021-03-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=3/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210412.関西大学・ソフトウェア工学.txt   210412   > 2021-04-12
+DELETE  php /code/gcal/gcal.php delete jobhunt "関西大学・ソフトウェア工学"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=関西大学・ソフトウェア工学,when=2021-04-12 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/12/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210415.bestat株式会社・技術責任者・CTO.txt   210415   > 2021-04-15
+DELETE  php /code/gcal/gcal.php delete jobhunt "bestat株式会社・技術責任者・CTO"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=bestat株式会社・技術責任者・CTO,when=2021-04-15 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/15/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210416.東京都市大学・経営情報システム.txt   210416   > 2021-04-16
+DELETE  php /code/gcal/gcal.php delete jobhunt "東京都市大学・経営情報システム"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=東京都市大学・経営情報システム,when=2021-04-16 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/16/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210422.東北大学・情報リテラシー論分野.txt   210422   > 2021-04-22
+DELETE  php /code/gcal/gcal.php delete jobhunt "東北大学・情報リテラシー論分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=東北大学・情報リテラシー論分野,when=2021-04-22 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/22/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210423.群馬大学・情報通信分野.txt   210423   > 2021-04-23
+DELETE  php /code/gcal/gcal.php delete jobhunt "群馬大学・情報通信分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=群馬大学・情報通信分野,when=2021-04-23 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/23/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210423.香川大学・創造工学部・准教授または講師の公募（機械システムコース）.txt   210423   > 2021-04-23
+DELETE  php /code/gcal/gcal.php delete jobhunt "香川大学・創造工学部・准教授または講師の公募（機械システムコース）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=香川大学・創造工学部・准教授または講師の公募（機械システムコース）,when=2021-04-23 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/23/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210426.東京工科大学コンピュータサイエンス学部・人工知能.txt   210426   > 2021-04-26
+DELETE  php /code/gcal/gcal.php delete jobhunt "東京工科大学コンピュータサイエンス学部・人工知能"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=東京工科大学コンピュータサイエンス学部・人工知能,when=2021-04-26 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/26/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210430.岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野）.txt   210430   > 2021-04-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野）,when=2021-04-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/30/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210430.山口大学・電気電子工学分野.txt   210430   > 2021-04-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "山口大学・電気電子工学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=山口大学・電気電子工学分野,when=2021-04-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/30/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210430.知能情報学関連分野.txt   210430   > 2021-04-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "知能情報学関連分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=知能情報学関連分野,when=2021-04-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=4/30/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210507.滋賀県立大学・知能情報工学分野.txt   210507   > 2021-05-07
+DELETE  php /code/gcal/gcal.php delete jobhunt "滋賀県立大学・知能情報工学分野"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=滋賀県立大学・知能情報工学分野,when=2021-05-07 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=5/7/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210510.岡山理科大学・准教授・講師または助教（計算機工学，コンピュータシステム分野）.txt   210510   > 2021-05-10
+DELETE  php /code/gcal/gcal.php delete jobhunt "岡山理科大学・准教授・講師または助教（計算機工学，コンピュータシステム分野）"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=岡山理科大学・准教授・講師または助教（計算機工学，コンピュータシステム分野）,when=2021-05-10 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=5/10/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210531.株式会社ヒューマノーム研究所(5jobs).txt   210531   > 2021-05-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "株式会社ヒューマノーム研究所(5jobs)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=株式会社ヒューマノーム研究所(5jobs),when=2021-05-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=5/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210531.青山学院大学理工学部電気電子工学科.txt   210531   > 2021-05-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "青山学院大学理工学部電気電子工学科"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=青山学院大学理工学部電気電子工学科,when=2021-05-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=5/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210630.トヨタ自動車株式会社・スマートシティプラットフォームの開発.txt   210630   > 2021-06-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "トヨタ自動車株式会社・スマートシティプラットフォームの開発"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=トヨタ自動車株式会社・スマートシティプラットフォームの開発,when=2021-06-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=6/30/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210630.株式会社キーウォーカー【AI企業】自然言語処理研究員・エンジニア募集.txt   210630   > 2021-06-30
+DELETE  php /code/gcal/gcal.php delete jobhunt "株式会社キーウォーカー【AI企業】自然言語処理研究員・エンジニア募集"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=株式会社キーウォーカー【AI企業】自然言語処理研究員・エンジニア募集,when=2021-06-30 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=6/30/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210718.能美防災株式会社・センサシステムに関するソフトウェアの製品開発業務.txt   210718   > 2021-07-18
+DELETE  php /code/gcal/gcal.php delete jobhunt "能美防災株式会社・センサシステムに関するソフトウェアの製品開発業務"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=能美防災株式会社・センサシステムに関するソフトウェアの製品開発業務,when=2021-07-18 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/18/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210719.能美防災株式会社・センサ応用製品に関する研究開発業務.txt   210719   > 2021-07-19
+DELETE  php /code/gcal/gcal.php delete jobhunt "能美防災株式会社・センサ応用製品に関する研究開発業務"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=能美防災株式会社・センサ応用製品に関する研究開発業務,when=2021-07-19 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/19/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210731.株式会社iMedTechnologies・リードAIエンジニア.txt   210731   > 2021-07-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "株式会社iMedTechnologies・リードAIエンジニア"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=株式会社iMedTechnologies・リードAIエンジニア,when=2021-07-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=7/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210831.★株式会社アラヤ・リサーチャー (強化学習).txt   210831   > 2021-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "★株式会社アラヤ・リサーチャー (強化学習)"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=★株式会社アラヤ・リサーチャー (強化学習),when=2021-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+jobhunt.210831.★株式会社アラヤ・計算論的神経科学者・情報理論学者.txt   210831   > 2021-08-31
+DELETE  php /code/gcal/gcal.php delete jobhunt "★株式会社アラヤ・計算論的神経科学者・情報理論学者"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=jobhunt,title=★株式会社アラヤ・計算論的神経科学者・情報理論学者,when=2021-08-31 00:00:00,url1=http://maratishe.github.io/gcal/jobhunt.md,url2=http://maratishe.github.io/gcal/jobhunt.md.txt,when2=8/31/2021,duration=allday,description=http://maratishe.github.io/gcal/jobhunt.md http://maratishe.github.io/gcal/jobhunt.md.txt"
+no ap calls, skip
+DONE > jobhunt.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fundhunt.200722.-国立研究開発法人科学技術振興機構.「IoE社会のエネルギーシステム」.txt   200722   > 2020-07-22
+DELETE  php /code/gcal/gcal.php delete fundhunt "-国立研究開発法人科学技術振興機構.「IoE社会のエネルギーシステム」"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=fundhunt,title=-国立研究開発法人科学技術振興機構.「IoE社会のエネルギーシステム」,when=2020-07-22 00:00:00,url1=http://maratishe.github.io/gcal/fundhunt.md,url2=http://maratishe.github.io/gcal/fundhunt.md.txt,when2=7/22/2020,duration=allday,description=http://maratishe.github.io/gcal/fundhunt.md http://maratishe.github.io/gcal/fundhunt.md.txt"
+no ap calls, skip
+DONE > fundhunt.json
+
+
+fundhunt.200805.-国土技術政策総合研究所・データ結合999.999.999千円.txt   200805   > 2020-08-05
+DELETE  php /code/gcal/gcal.php delete fundhunt "-国土技術政策総合研究所・データ結合999.999.999千円"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=fundhunt,title=-国土技術政策総合研究所・データ結合999.999.999千円,when=2020-08-05 00:00:00,url1=http://maratishe.github.io/gcal/fundhunt.md,url2=http://maratishe.github.io/gcal/fundhunt.md.txt,when2=8/5/2020,duration=allday,description=http://maratishe.github.io/gcal/fundhunt.md http://maratishe.github.io/gcal/fundhunt.md.txt"
+no ap calls, skip
+DONE > fundhunt.json
+
+
+fundhunt.200901.三谷産業フェア★金沢.txt   200901   > 2020-09-01
+DELETE  php /code/gcal/gcal.php delete fundhunt "三谷産業フェア★金沢"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=fundhunt,title=三谷産業フェア★金沢,when=2020-09-01 00:00:00,url1=http://maratishe.github.io/gcal/fundhunt.md,url2=http://maratishe.github.io/gcal/fundhunt.md.txt,when2=9/1/2020,duration=allday,description=http://maratishe.github.io/gcal/fundhunt.md http://maratishe.github.io/gcal/fundhunt.md.txt"
+no ap calls, skip
+DONE > fundhunt.json
+
+
+fundhunt.200911.本多記念賞200万・50万・30万.2items.txt   200911   > 2020-09-11
+DELETE  php /code/gcal/gcal.php delete fundhunt "本多記念賞200万・50万・30万.2items"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=fundhunt,title=本多記念賞200万・50万・30万.2items,when=2020-09-11 00:00:00,url1=http://maratishe.github.io/gcal/fundhunt.md,url2=http://maratishe.github.io/gcal/fundhunt.md.txt,when2=9/11/2020,duration=allday,description=http://maratishe.github.io/gcal/fundhunt.md http://maratishe.github.io/gcal/fundhunt.md.txt"
+no ap calls, skip
+DONE > fundhunt.json
+
+
+fundhunt.200930.airpf人工知能研究振興財団.txt   200930   > 2020-09-30
+DELETE  php /code/gcal/gcal.php delete fundhunt "airpf人工知能研究振興財団"
+no ap calls, skip
+ADD  php /code/gcal/gcal.php add "calendar=fundhunt,title=airpf人工知能研究振興財団,when=2020-09-30 00:00:00,url1=http://maratishe.github.io/gcal/fundhunt.md,url2=http://maratishe.github.io/gcal/fundhunt.md.txt,when2=9/30/2020,duration=allday,description=http://maratishe.github.io/gcal/fundhunt.md http://maratishe.github.io/gcal/fundhunt.md.txt"
+no ap calls, skip
+DONE > fundhunt.json
+
+
+making deadlines.[md,md.txt,html]...   (J)MDPI.electronics.deepleaning     deadlines.210215.(J)MDPI.electronics.deepleaning.txt
+   IEEE.ISIE.industry.electronics     deadlines.210215.IEEE.ISIE.industry.electronics.txt
+   (J)MDPI.sensors.internet.of.things     deadlines.210215.(J)MDPI.sensors.internet.of.things.txt
+   EAI.WiCOM.wireless     deadlines.210215.EAI.WiCOM.wireless.txt
+   IEEE.ACM.IWQoS.qos     deadlines.210215.IEEE.ACM.IWQoS.qos.txt
+   IEEE.HPSC.highperfcomp     deadlines.210215.IEEE.HPSC.highperfcomp.txt
+   IEEE.IDS.intelligent.data.sec     deadlines.210215.IEEE.IDS.intelligent.data.sec.txt
+   IEEE.COMPSAC     deadlines.210218.IEEE.COMPSAC.txt
+   IEEE.DDINS.datadriven     deadlines.210219.IEEE.DDINS.datadriven.txt
+   (J)JCN.covid19     deadlines.210220.(J)JCN.covid19.txt
+   (J)MDPI.smartcities.traffic.sensors.IoT     deadlines.210220.(J)MDPI.smartcities.traffic.sensors.IoT.txt
+   (J)MDPI.Telecom.Journal     deadlines.210221.(J)MDPI.Telecom.Journal.txt
+   (J)MDPI.mobile.computing     deadlines.210221.(J)MDPI.mobile.computing.txt
+   IEEE.ComSoc.CQR.quality.reliablity     deadlines.210221.IEEE.ComSoc.CQR.quality.reliablity.txt
+   IEEE.SECON.sensing.comm.net     deadlines.210222.IEEE.SECON.sensing.comm.net.txt
+   LANMAN.networking.is.new.normal     deadlines.210222.LANMAN.networking.is.new.normal.txt
+   ⒿIEEEJ.intell.wireless.control.systems     deadlines.210225.ⒿIEEEJ.intell.wireless.control.systems.txt
+   jour.mdpi.vehicularfleets     deadlines.210228.jour.mdpi.vehicularfleets.txt
+   (J)Elsevier.ICN(blockchain.for.covid)     deadlines.210228.(J)Elsevier.ICN(blockchain.for.covid).txt
+   Springer.dataintensive.cluster     deadlines.210301.Springer.dataintensive.cluster.txt
+   (J)IEET.green.internet.and.services     deadlines.210301.(J)IEET.green.internet.and.services.txt
+   IEEE.IFIP.wirelessdays     deadlines.210301.IEEE.IFIP.wirelessdays.txt
+   (J)Springer.queueing.learning.control     deadlines.210301.(J)Springer.queueing.learning.control.txt
+   IEEE.ISIE.industry.elec     deadlines.210215.IEEE.ISIE.industry.electronics.txt,deadlines.210305.IEEE.ISIE.industry.elec.txt
+   LNCS.mobiwis.mobileweb.intelligentsystems     deadlines.210310.LNCS.mobiwis.mobileweb.intelligentsystems.txt
+   ficloud.future.cloud     deadlines.210310.ficloud.future.cloud.txt
+   IEEE.FiCloud.iot.cloud     deadlines.210310.IEEE.FiCloud.iot.cloud.txt
+   CloudConf.KSEM@tokyo     deadlines.210315.CloudConf.KSEM@tokyo.txt
+   KSEM.knowledge     deadlines.210315.KSEM.knowledge.txt
+   (J)MDPI.drone.swarms     deadlines.210315.(J)MDPI.drone.swarms.txt
+   (J)IEEEWComm.AI.assisted.wcomm     deadlines.210315.(J)IEEEWComm.AI.assisted.wcomm.txt
+   ACM.WiSec.wireless.security     deadlines.210318.ACM.WiSec.wireless.security.txt
+   Elsevier.FNC.future.nets     deadlines.210319.Elsevier.FNC.future.nets.txt
+   IFIP.TMA.traffic.measure.annal     deadlines.210319.IFIP.TMA.traffic.measure.annal.txt
+   ⒿIEEEsensors.inforpositioning     deadlines.210321.ⒿIEEEsensors.inforpositioning.txt
+   IFIP.future.internet.transport     deadlines.210325.IFIP.future.internet.transport.txt
+   IEEE.DCOSS.urban.computing     deadlines.210326.IEEE.DCOSS.urban.computing.txt
+   IEEE.ATC.trusted.computing     deadlines.210330.IEEE.ATC.trusted.computing.txt
+   (J)JNSM.beyond5G     deadlines.210330.(J)JNSM.beyond5G.txt
+   (J)IEEE.Sensors.indoor.positioning     deadlines.210331.(J)IEEE.Sensors.indoor.positioning.txt
+   (J)Elsevier.smart.veh.in.6G     deadlines.210331.(J)Elsevier.smart.veh.in.6G.txt
+   (J)ACMtran.comp.ling.multimedia.IoT     deadlines.210331.(J)ACMtran.comp.ling.multimedia.IoT.txt
+   (J)Elsevier(edge.iot)     deadlines.210331.(J)Elsevier(edge.iot).txt
+   (J)ACMIntTechJ.multiagent.systems.for.IoT     deadlines.210331.(J)ACMIntTechJ.multiagent.systems.for.IoT.txt
+   BRAINS.blockchain     deadlines.210315.BRAINS.blockchain.txt,deadlines.210331.BRAINS.blockchain.txt
+   (J)MDPI.ai.things.readtime.datamon     deadlines.210401.(J)MDPI.ai.things.readtime.datamon.txt
+   (J)TNSM.AI4network     deadlines.210401.(J)TNSM.AI4network.txt
+   ITC.teletraffic.congress     deadlines.210402.ITC.teletraffic.congress.txt
+   (J)IEEE.VTechMag.6gapps     deadlines.210405.(J)IEEE.VTechMag.6gapps.txt
+   EAI.MONAMI.japan.mobile.nets     deadlines.210413.EAI.MONAMI.japan.mobile.nets.txt
+   (J)MDPI.sensors.intelligent.vehicles     deadlines.210415.(J)MDPI.sensors.intelligent.vehicles.txt
+   GLOBECOM     deadlines.210415.GLOBECOM.txt
+   ACM.GoodIT     deadlines.210501.ACM.GoodIT.txt
+   (J)tailor.digitaltwin     deadlines.210505.(J)tailor.digitaltwin.txt
+   ACM.middleware     deadlines.210515.ACM.middleware.txt
+   (J)wiley.SPE.highperfcomp.apps     deadlines.210531.(J)wiley.SPE.highperfcomp.apps.txt
+   (J)MDPI.cloud.based.iot.smartcities     deadlines.210601.(J)MDPI.cloud.based.iot.smartcities.txt
+   ⒿMDPI.HPC.math     deadlines.210630.ⒿMDPI.HPC.math.txt
+   (J)MDPI.energy.in.networks     deadlines.210701.(J)MDPI.energy.in.networks.txt
+   (J)BigDataJournal.perfmanagment.large.clusters     deadlines.210731.(J)BigDataJournal.perfmanagment.large.clusters.txt
+ OK
+pandoc -f markdown -t html deadlines.md > deadlines.html ...  OK
+making jobhunt.[md,md.txt,html]...   ★株式会社アラヤ・計算論的神経科学者・情報理論学者     jobhunt.210831.★株式会社アラヤ・計算論的神経科学者・情報理論学者.txt
+   ★株式会社アラヤ・リサーチャー (強化学習)     jobhunt.210831.★株式会社アラヤ・リサーチャー (強化学習).txt
+   株式会社iMedTechnologies・リードAIエンジニア     jobhunt.210731.株式会社iMedTechnologies・リードAIエンジニア.txt
+   能美防災株式会社・センサ応用製品に関する研究開発業務     jobhunt.210719.能美防災株式会社・センサ応用製品に関する研究開発業務.txt
+   能美防災株式会社・センサシステムに関するソフトウェアの製品開発業務     jobhunt.210718.能美防災株式会社・センサシステムに関するソフトウェアの製品開発業務.txt
+   株式会社キーウォーカー【AI企業】自然言語処理研究員・エンジニア募集     jobhunt.210630.株式会社キーウォーカー【AI企業】自然言語処理研究員・エンジニア募集.txt
+   トヨタ自動車株式会社・スマートシティプラットフォームの開発     jobhunt.210630.トヨタ自動車株式会社・スマートシティプラットフォームの開発.txt
+   青山学院大学理工学部電気電子工学科     jobhunt.210531.青山学院大学理工学部電気電子工学科.txt
+   株式会社ヒューマノーム研究所(5jobs)     jobhunt.210531.株式会社ヒューマノーム研究所(5jobs).txt
+   岡山理科大学・准教授・講師または助教（計算機工学，コンピュータシステム分野）     jobhunt.210510.岡山理科大学・准教授・講師または助教（計算機工学，コンピュータシステム分野）.txt
+   滋賀県立大学・知能情報工学分野     jobhunt.201118.-滋賀県立大学・知能情報工学分野・データサイエンス‼エクセルCV.txt,jobhunt.210507.滋賀県立大学・知能情報工学分野.txt
+   山口大学・電気電子工学分野     jobhunt.210430.山口大学・電気電子工学分野.txt
+   知能情報学関連分野     jobhunt.210430.岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野）.txt,jobhunt.210430.知能情報学関連分野.txt
+   岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野）     jobhunt.210430.岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野）.txt
+   東京工科大学コンピュータサイエンス学部・人工知能     jobhunt.210426.東京工科大学コンピュータサイエンス学部・人工知能.txt
+   香川大学・創造工学部・准教授または講師の公募（機械システムコース）     jobhunt.210423.香川大学・創造工学部・准教授または講師の公募（機械システムコース）.txt
+   群馬大学・情報通信分野     jobhunt.210423.群馬大学・情報通信分野.txt
+   東北大学・情報リテラシー論分野     jobhunt.210422.東北大学・情報リテラシー論分野.txt
+   東京都市大学・経営情報システム     jobhunt.200831.-東京都市大学・経営情報システム.txt,jobhunt.210416.東京都市大学・経営情報システム.txt
+   bestat株式会社・技術責任者・CTO     jobhunt.210415.bestat株式会社・技術責任者・CTO.txt
+   関西大学・ソフトウェア工学     jobhunt.210412.関西大学・ソフトウェア工学.txt
+   名古屋大学・知能情報学分野     jobhunt.210331.名古屋大学・知能情報学分野.txt
+   名古屋大学・大学院工学研究科・教授公募・情報学     jobhunt.210331.名古屋大学・大学院工学研究科・教授公募・情報学.txt
+   東京工業大学・応用数理分野     jobhunt.210331.東京工業大学・応用数理分野.txt
+   鳥取大学工学部教員公募（ロボティクス）     jobhunt.210331.鳥取大学工学部教員公募（ロボティクス）.txt
+   清水建設株式会社・民間企業の研究員（３D計測技術・ロボティクス）     jobhunt.210331.清水建設株式会社・民間企業の研究員（３D計測技術・ロボティクス）.txt
+   福岡大学工学部電子情報工学科     jobhunt.210331.福岡大学工学部電子情報工学科.txt
+   ★東京理科大学・工学部情報工学科・インテリジェントシステム分野     jobhunt.210329.★東京理科大学・工学部情報工学科・インテリジェントシステム分野.txt
+   名古屋大学大学院工学研究科・情報・通信工学専攻     jobhunt.210322.名古屋大学大学院工学研究科・情報・通信工学専攻.txt
+   香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース）     jobhunt.210319.香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース）.txt
+   北海道大学・メディアネットワーク部門・情報通信システム学分野・教授     jobhunt.210319.北海道大学・メディアネットワーク部門・情報通信システム学分野・教授.txt
+   神奈川工科大学・情報学部・情報工学科     jobhunt.210315.神奈川工科大学・情報学部・情報工学科.txt
+   ★青山学院大学・経済学部経済学科・統計学・データサイエンス     jobhunt.210312.★青山学院大学・経済学部経済学科・統計学・データサイエンス.txt
+   公益社団法人国際経済労働研究所・データ分析研究員募集     jobhunt.210311.公益社団法人国際経済労働研究所・データ分析研究員募集.txt
+   サイエンス・テクノロジー・システムズ株式会社・サイエンティフィック コンサルタント     jobhunt.210310.サイエンス・テクノロジー・システムズ株式会社・サイエンティフィック コンサルタント.txt
+   盛岡大学・情報処理     jobhunt.210301.盛岡大学・情報処理.txt
+   東京国際工科専門職大学・プログラミング関連     jobhunt.210301.東京国際工科専門職大学・プログラミング関連.txt
+   東京国際工科専門職大学・通信・コンピュータ分野     jobhunt.210301.東京国際工科専門職大学・通信・コンピュータ分野.txt
+   京都情報大学院大学・情報学分野     jobhunt.210228.京都情報大学院大学・情報学分野.txt
+   武庫川女子大学・経営情報分野     jobhunt.210228.武庫川女子大学・経営情報分野.txt
+   国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）     jobhunt.210228.国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）.txt
+   武庫川女子大学・情報ネットワーク分野     jobhunt.210228.武庫川女子大学・情報ネットワーク分野.txt
+   武庫川女子大学・情報セキュリティ分野     jobhunt.210228.武庫川女子大学・情報セキュリティ分野.txt
+   株式会社ベイシスコンサルティング・リサーチャー募集     jobhunt.210228.株式会社ベイシスコンサルティング・リサーチャー募集.txt
+   岩手大学・知能・メディア情報コース・准教授公募     jobhunt.210228.岩手大学・知能・メディア情報コース・准教授公募.txt
+   東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野）     jobhunt.210228.東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野）.txt
+   ●大和大学（3jobs）     jobhunt.210226.●大和大学（3jobs）.txt
+   大阪大学・機械工学・情報学     jobhunt.210225.大阪大学・機械工学・情報学.txt
+ WARNING!  no files found for [+中央学院大学・情報数学他], skipping this item.
+ WARNING!  no files found for [-東京工業大学・教授の公募（ソフトウェア工学分野）], skipping this item.
+ WARNING!  no files found for [-日本大学・専任教員（教授）の公募（データサイエンス関連科目）], skipping this item.
+ WARNING!  no files found for [+名古屋大学・行動信号処理分野], skipping this item.
+ WARNING!  no files found for [-静岡理工科大学・講師・准教授・または教授の公募（電子機械制御分野）], skipping this item.
+ WARNING!  no files found for [-金城学院大学・生活環境学部生活マネジメント学科・専任教員の公募（情報学）], skipping this item.
+   ●静岡理工科大学（ソフトウェア開発を基盤とする、知能情報や感性情報処理に関連する分野）     jobhunt.210201.●静岡理工科大学（ソフトウェア開発を基盤とする、知能情報や感性情報処理に関連する分野）.txt
+   東京通信大学・情報システム・データサイエンス分野     jobhunt.210131.東京通信大学・情報システム・データサイエンス分野.txt
+ WARNING!  no files found for [-足利大学・工学部・教員の公募（人工知能関連分野）【再公募】], skipping this item.
+ WARNING!  no files found for [-足利大学・工学部・教員の公募（情報工学、情報科学センター）【再公募】], skipping this item.
+ WARNING!  no files found for [-東京工業大学・理論計算機科学・サイバーセキュリティ分野], skipping this item.
+ WARNING!  no files found for [-新潟大学・システムソフトウェア・並列分散処理], skipping this item.
+ WARNING!  no files found for [-足利大学工学部・機械分野【再公募】], skipping this item.
+ WARNING!  no files found for [-リージョナルフィッシュ株式会社・ゲノム編集水産育種のバイオインフォマティクス研究員の募集【リモートワーク可】], skipping this item.
+ WARNING!  no files found for [-東日本国際大学・情報学], skipping this item.
+ WARNING!  no files found for [-NAIST・情報科学領域・コンピューティング・アーキテクチャ分野], skipping this item.
+ WARNING!  no files found for [-立正大学・環境情報学・環境科学分野], skipping this item.
+ WARNING!  no files found for [-千葉大学・情報工学・画像工学・医工学], skipping this item.
+ WARNING!  no files found for [-琉球大学・総合情報処理センター], skipping this item.
+ WARNING!  no files found for [-静岡理工科大学・電子情報分野], skipping this item.
+ WARNING!  no files found for [-東京通信大学・情報システム分野], skipping this item.
+ WARNING!  no files found for [-九州産業大学理工学部・機械工学科・メカトロニクス], skipping this item.
+ WARNING!  no files found for [-名古屋大学・システム研究所未来エレクトロニクス集積研究センター], skipping this item.
+ WARNING!  no files found for [-データ同化研究チーム], skipping this item.
+ WARNING!  no files found for [-神奈川工科大学・情報学部・情報メディア学科], skipping this item.
+ WARNING!  no files found for [-東京都市大学・情報科学科・計算機工学分野], skipping this item.
+ WARNING!  no files found for [-東京電機大学・情報システムデザイン], skipping this item.
+ WARNING!  no files found for [+九州国際大学・ビジネスデータ分析], skipping this item.
+ WARNING!  no files found for [-岩手大学・情報基盤センター], skipping this item.
+ WARNING!  no files found for [+長岡技術科学大学・情報通信制御システム工学講座], skipping this item.
+ WARNING!  no files found for [-広島工業大学・コンピュータシステム], skipping this item.
+ WARNING!  no files found for [-東京工業大学・ソフトウェア工学分野], skipping this item.
+ WARNING!  no files found for [-東京大学・人間エネルギー環境学分野], skipping this item.
+ WARNING!  no files found for [-長岡技術科学大学・情報・経営システム工学(better.at.1204)], skipping this item.
+ WARNING!  no files found for [-岐阜大学・数理・データサイエンス], skipping this item.
+ WARNING!  no files found for [-金沢大学・先端科学・社会共創推進機構], skipping this item.
+ WARNING!  no files found for [-岡山理科大学・データサイエンス], skipping this item.
+ WARNING!  no files found for [-名古屋商科大学・情報(nolab)], skipping this item.
+ WARNING!  no files found for [-信州大学.通信システム分野(助教)], skipping this item.
+ WARNING!  no files found for [-京都大学・国際高等教育院附属データ科学イノベーション教育研究センター], skipping this item.
+ WARNING!  no files found for [-金沢大学・先端科学・社会共創推進機構・人材育成グループ], skipping this item.
+ WARNING!  no files found for [-九州大学・ロシア語担当], skipping this item.
+ WARNING!  no files found for [-広島大学・情報メディア教育研究センター], skipping this item.
+ WARNING!  no files found for [-香川大学・情報通信コース], skipping this item.
+ WARNING!  no files found for [-岡山理科大学・計算機工学・コンピュータシステム分野✘toomuchwork], skipping this item.
+ WARNING!  no files found for [-滋賀県立大学・知能情報工学分野・データサイエンス‼エクセルCV], skipping this item.
+ WARNING!  no files found for [-白百合女子大学・情報教育・プログラミング教育・ICT教育‼調布・推薦], skipping this item.
+ WARNING!  no files found for [-香川大学・情報システム・セキュリティコース✘講師以下], skipping this item.
+ WARNING!  no files found for [-公立千歳科学技術大学・情報システム工学科(任期)], skipping this item.
+ WARNING!  no files found for [-三重大学大学院工学研究科・知能工学講座★再公募], skipping this item.
+ WARNING!  no files found for [-近畿大学・情報セキュリティ教育(講師or助教)], skipping this item.
+ WARNING!  no files found for [+名古屋市立大学・情報環境デザイン領域], skipping this item.
+ WARNING!  no files found for [-久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械], skipping this item.
+ WARNING!  no files found for [+お茶の水女子大学・人間工学（ロボット工学、生体工学）], skipping this item.
+ WARNING!  no files found for [-香川大学・機械システム], skipping this item.
+ WARNING!  no files found for [-足利大学・情報工学、情報科学センター], skipping this item.
+ WARNING!  no files found for [-足利大学・人工知能], skipping this item.
+ WARNING!  no files found for [+福岡工業大], skipping this item.
+ WARNING!  no files found for [+公立小松大学・データマイニング・機械学習・データ科学関連分野], skipping this item.
+ WARNING!  no files found for [-茨城キリスト教大学・経営情報分野], skipping this item.
+ WARNING!  no files found for [-高知大学・情報工学], skipping this item.
+ WARNING!  no files found for [-成城大学・経営統計学✘bad format], skipping this item.
+ WARNING!  no files found for [-東京工業大学・情報通信における応用AI分野], skipping this item.
+ WARNING!  no files found for [+玉川大学・ソフトウェアサイエンス学科], skipping this item.
+   ▲愛知工科大学・データサイエンスまたはＡＩ     jobhunt.201016.▲愛知工科大学・データサイエンスまたはＡＩ.txt
+ WARNING!  no files found for [+千葉経済大学・情報学分野], skipping this item.
+ WARNING!  no files found for [-東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究], skipping this item.
+ WARNING!  no files found for [-FIT.制御・計測に関連する分野], skipping this item.
+ WARNING!  no files found for [-愛知工科大学・組込み系システム], skipping this item.
+ WARNING!  no files found for [-石川県工業試験場・電気職], skipping this item.
+ WARNING!  no files found for [-大阪大学大学院・情報科学研究科✘probation], skipping this item.
+ WARNING!  no files found for [-東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど], skipping this item.
+ WARNING!  no files found for [-立命館大学.システム制御工学.無線通信・電波], skipping this item.
+ WARNING!  no files found for [-東洋大学・情報社会の総合政策], skipping this item.
+ WARNING!  no files found for [-明星大.データアナリティクス✘推薦書], skipping this item.
+ WARNING!  no files found for [-北海道大学.数理科学・応用数学分野], skipping this item.
+ WARNING!  no files found for [-兵庫県立大学・情報通信工学], skipping this item.
+ WARNING!  no files found for [-熊本大学・ビッグデータ], skipping this item.
+ WARNING!  no files found for [-兵庫県立大学.AI・IoT・ビックデータ], skipping this item.
+ WARNING!  no files found for [-名城大学・情報学、統計学、フィールド調査], skipping this item.
+ WARNING!  no files found for [-▲成蹊大.計算科学(1of2)], skipping this item.
+ WARNING!  no files found for [+福岡大.情報学], skipping this item.
+   兵庫県立大学.情報学-情報通信-ネットワーク     jobhunt.200930.兵庫県立大学.情報学-情報通信-ネットワーク.txt
+ WARNING!  no files found for [+★龍谷大学・情報科学分野], skipping this item.
+ WARNING!  no files found for [+▲東京都市大学・情報理論], skipping this item.
+ WARNING!  no files found for [-▲静岡理工科大学.電子情報分野(smalluni)], skipping this item.
+ WARNING!  no files found for [+‼★公立はこだて未来大学・情報システム], skipping this item.
+ WARNING!  no files found for [-株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】], skipping this item.
+ WARNING!  no files found for [-岡山大学・電気電子機能開発・powerelec], skipping this item.
+ WARNING!  no files found for [-岡山大学・知能機械システム学講座], skipping this item.
+ WARNING!  no files found for [-★東京理科大.数理モデリング、知能数理分野], skipping this item.
+ WARNING!  no files found for [+▲成蹊大学.総合理工-計算科学-数物系科学], skipping this item.
+ WARNING!  no files found for [-東京大学.高性能計算地球科学分野], skipping this item.
+ WARNING!  no files found for [-▲日本大学.ソフトウェア分野-情報システム分野-データサイエンス分野-知能ロボティクス分野☢福島], skipping this item.
+ WARNING!  no files found for [-岩手県立大.人工知能コース], skipping this item.
+ WARNING!  no files found for [-岐阜聖徳学園大学・情報学], skipping this item.
+ WARNING!  no files found for [-法政大学.情報学・計算基盤(picked.another.200911)], skipping this item.
+ WARNING!  no files found for [-松本大学.データサイエンス.情報学-データサイエンス], skipping this item.
+ WARNING!  no files found for [-京都先端科学大学・統計やビジネスデータの見方], skipping this item.
+ WARNING!  no files found for [+▲長岡技術科学大.情報・経営システム工学専攻], skipping this item.
+ WARNING!  no files found for [-東京電機大学・情報学部門], skipping this item.
+ WARNING!  no files found for [-岡山大学.ハードウェア.ソフトウェア], skipping this item.
+ WARNING!  no files found for [+青山学院大.情報社会科学✌freeform], skipping this item.
+ WARNING!  no files found for [+★東京理科大工学部情報工学科インテリジェントシステム分野], skipping this item.
+ WARNING!  no files found for [-琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定], skipping this item.
+ WARNING!  no files found for [-国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation], skipping this item.
+ WARNING!  no files found for [-明治大学・統計科学・統計数学・知能情報科学], skipping this item.
+ WARNING!  no files found for [+法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin], skipping this item.
+ WARNING!  no files found for [+★金沢大学.IoT及び情報通信分野], skipping this item.
+ WARNING!  no files found for [-北海道.情報科学研究院], skipping this item.
+ WARNING!  no files found for [+公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform], skipping this item.
+ WARNING!  no files found for [-広島工業大学・情報ネットワーク(did.not.make.it)], skipping this item.
+ WARNING!  no files found for [-公立はこだて未来大], skipping this item.
+ WARNING!  no files found for [-明治大✘推薦書], skipping this item.
+ WARNING!  no files found for [+大阪大.情報科学☢試用6カ月✌jrec], skipping this item.
+ WARNING!  no files found for [-東京都市大学・経営情報システム], skipping this item.
+ WARNING!  no files found for [-東京都立大.情報学基礎.2posts], skipping this item.
+ WARNING!  no files found for [-東京電機大.人間情報学✘推薦書], skipping this item.
+ WARNING!  no files found for [+岡山大学.サイバーフィジカル情報の応用研究], skipping this item.
+ WARNING!  no files found for [+立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース★english], skipping this item.
+ WARNING!  no files found for [-般社団法人CRD], skipping this item.
+ WARNING!  no files found for [+駒澤大.情報分野✌jrec], skipping this item.
+ WARNING!  no files found for [-日本工業大✘推薦書], skipping this item.
+ WARNING!  no files found for [+東京都市大学・情報学], skipping this item.
+ WARNING!  no files found for [-京都大.通信情報システム中✘試用], skipping this item.
+ WARNING!  no files found for [-工学院大学.複合領域-デザイン学-総合理工-計算科学], skipping this item.
+ WARNING!  no files found for [-工学院大学.情報学フロンティア-情報学✘推薦書], skipping this item.
+ WARNING!  no files found for [-岡山理科大(ous).情報数理.情報工学.2posts✘(still)toomuchwork], skipping this item.
+ WARNING!  no files found for [-滋賀県立大.センシング工学分野], skipping this item.
+ WARNING!  no files found for [-株式会社Nextremer.計算科学.quantum], skipping this item.
+ WARNING!  no files found for [+広島工業大・経営情報システム✌jrec], skipping this item.
+ WARNING!  no files found for [-和光大学.情報の基礎✖too much work], skipping this item.
+ WARNING!  no files found for [+大阪大学.社会イノベーション部門], skipping this item.
+ WARNING!  no files found for [-日本大.ロボット・制御✘mismatch], skipping this item.
+ WARNING!  no files found for [+中京大.コンピュータ処理論及び関連科目], skipping this item.
+ WARNING!  no files found for [+玉川大学.国際教養学科✌jrec], skipping this item.
+ WARNING!  no files found for [+龍谷大学・通信工学分野★給料明記], skipping this item.
+ WARNING!  no files found for [-近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs✘推薦書], skipping this item.
+ WARNING!  no files found for [+岡山県立大.知覚情報処理], skipping this item.
+ WARNING!  no files found for [+筑波大], skipping this item.
+ WARNING!  no files found for [-NAIST.ロボティクス分野], skipping this item.
+ WARNING!  no files found for [+三重大.知能工学講座・データサイエンス2jobs], skipping this item.
+ WARNING!  no files found for [+埼玉工業大.情報学★エクセル業績], skipping this item.
+ WARNING!  no files found for [-岡山理科大(ous).人工知能✘toomuchwork+morelater], skipping this item.
+ WARNING!  no files found for [+名古屋大.人間情報学★教授], skipping this item.
+ WARNING!  no files found for [-九州国際大.情報学基礎✘badformat], skipping this item.
+ WARNING!  no files found for [-法政大.信号処理、統計、計測、機械学習分野✘推薦書], skipping this item.
+ WARNING!  no files found for [+滋賀大✌email↓rejectletter], skipping this item.
+ WARNING!  no files found for [-慶應義塾.情報工学分野✘推薦書], skipping this item.
+ WARNING!  no files found for [-東京大(missed13日締切)], skipping this item.
+ WARNING!  no files found for [-近畿大情報セキュリティ評価✘推薦書], skipping this item.
+ WARNING!  no files found for [-千葉商科大.情報・メディア], skipping this item.
+ WARNING!  no files found for [-千葉商科大], skipping this item.
+ WARNING!  no files found for [+中央大], skipping this item.
+ WARNING!  no files found for [-同志社大], skipping this item.
+ WARNING!  no files found for [-拓殖大.ソフトウェア工学], skipping this item.
+ WARNING!  no files found for [-龍谷大.通信工学分野], skipping this item.
+ OK
+pandoc -f markdown -t html jobhunt.md > jobhunt.html ...  OK
+making fundhunt.[md,md.txt,html]... WARNING!  no files found for [-国立研究開発法人科学技術振興機構.「IoE社会のエネルギーシステム」], skipping this item.
+ WARNING!  no files found for [-国土技術政策総合研究所・データ結合999.999.999千円], skipping this item.
+   三谷産業フェア★金沢     fundhunt.200901.三谷産業フェア★金沢.txt
+   本多記念賞200万・50万・30万.2items     fundhunt.200911.本多記念賞200万・50万・30万.2items.txt
+   airpf人工知能研究振興財団     fundhunt.200930.airpf人工知能研究振興財団.txt
+ OK
+pandoc -f markdown -t html fundhunt.md > fundhunt.html ...  OK
+PUT rsync -avz "deadlines.210215.(J)MDPI.electronics.deepleaning.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210215.(J)MDPI.sensors.internet.of.things.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210215.EAI.WiCOM.wireless.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210215.IEEE.ACM.IWQoS.qos.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210215.IEEE.HPSC.highperfcomp.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210215.IEEE.IDS.intelligent.data.sec.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210215.IEEE.ISIE.industry.electronics.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210218.IEEE.COMPSAC.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210219.IEEE.DDINS.datadriven.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210220.(J)JCN.covid19.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210220.(J)MDPI.smartcities.traffic.sensors.IoT.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210221.(J)MDPI.mobile.computing.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210221.(J)MDPI.Telecom.Journal.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210221.IEEE.ComSoc.CQR.quality.reliablity.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210222.IEEE.SECON.sensing.comm.net.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210222.LANMAN.networking.is.new.normal.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210225.ⒿIEEEJ.intell.wireless.control.systems.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210228.(J)Elsevier.ICN(blockchain.for.covid).txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210228.jour.mdpi.vehicularfleets.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210301.(J)IEET.green.internet.and.services.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210301.(J)Springer.queueing.learning.control.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210301.IEEE.IFIP.wirelessdays.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210301.Springer.dataintensive.cluster.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210305.IEEE.ISIE.industry.elec.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210310.ficloud.future.cloud.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210310.IEEE.FiCloud.iot.cloud.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210310.LNCS.mobiwis.mobileweb.intelligentsystems.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210315.(J)IEEEWComm.AI.assisted.wcomm.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210315.(J)MDPI.drone.swarms.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210315.BRAINS.blockchain.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210315.CloudConf.KSEM@tokyo.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210315.KSEM.knowledge.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210318.ACM.WiSec.wireless.security.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210319.Elsevier.FNC.future.nets.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210319.IFIP.TMA.traffic.measure.annal.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210321.ⒿIEEEsensors.inforpositioning.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210325.IFIP.future.internet.transport.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210326.IEEE.DCOSS.urban.computing.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210330.(J)JNSM.beyond5G.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210330.IEEE.ATC.trusted.computing.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210331.(J)ACMIntTechJ.multiagent.systems.for.IoT.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210331.(J)ACMtran.comp.ling.multimedia.IoT.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210331.(J)Elsevier(edge.iot).txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210331.(J)Elsevier.smart.veh.in.6G.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210331.(J)IEEE.Sensors.indoor.positioning.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210331.BRAINS.blockchain.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210401.(J)MDPI.ai.things.readtime.datamon.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210401.(J)TNSM.AI4network.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210402.ITC.teletraffic.congress.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210405.(J)IEEE.VTechMag.6gapps.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210413.EAI.MONAMI.japan.mobile.nets.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210415.(J)MDPI.sensors.intelligent.vehicles.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210415.GLOBECOM.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210501.ACM.GoodIT.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210505.(J)tailor.digitaltwin.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210515.ACM.middleware.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210531.(J)wiley.SPE.highperfcomp.apps.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210601.(J)MDPI.cloud.based.iot.smartcities.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210630.ⒿMDPI.HPC.math.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210701.(J)MDPI.energy.in.networks.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.210731.(J)BigDataJournal.perfmanagment.large.clusters.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.backup.201124.tbz" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.backup.201213.tbz" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.backup.210116.tbz" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.backup.210202 (1).tbz" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.backup.210202.tbz" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.backup.210212.tbz" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.backup.210213.tbz" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.html" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.json" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.md" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.md.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.reject.txt" /local/githubpages/gcal/.
+PUT rsync -avz "deadlines.txt" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.200722.-国立研究開発法人科学技術振興機構.「IoE社会のエネルギーシステム」.txt" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.200805.-国土技術政策総合研究所・データ結合999.999.999千円.txt" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.200901.三谷産業フェア★金沢.txt" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.200911.本多記念賞200万・50万・30万.2items.txt" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.200930.airpf人工知能研究振興財団.txt" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.html" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.json" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.md" /local/githubpages/gcal/.
+PUT rsync -avz "fundhunt.md.txt" /local/githubpages/gcal/.
+PUT rsync -avz "index.html" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.★210630.Craif株式会社・解析チームマネージャー.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200601.-龍谷大.通信工学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200626.-拓殖大.ソフトウェア工学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200715.+中央大.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200715.-同志社大.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200717.-千葉商科大.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200717.-千葉商科大.情報・メディア.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200720.-近畿大情報セキュリティ評価✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200721.-東京大(missed13日締切).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200724.-慶應義塾.情報工学分野✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200730.+滋賀大✌email↓rejectletter.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200731.+埼玉工業大.情報学★エクセル業績.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200731.+名古屋大.人間情報学★教授.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200731.-岡山理科大(ous).人工知能✘toomuchwork+morelater.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200731.-九州国際大.情報学基礎✘badformat.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200731.-法政大.信号処理、統計、計測、機械学習分野✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200812.+三重大.知能工学講座・データサイエンス2jobs.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200817.+筑波大.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200817.-NAIST.ロボティクス分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200819.+岡山県立大.知覚情報処理.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200819.-近畿大.経営ビジネス学科1.電気電子工学科1.情報学科3jobs✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200821.+玉川大学.国際教養学科✌jrec.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200821.+龍谷大学・通信工学分野★給料明記.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200824.+中京大.コンピュータ処理論及び関連科目.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200825.+大阪大学.社会イノベーション部門.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200825.-日本大.ロボット・制御✘mismatch.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200828.+広島工業大・経営情報システム✌jrec.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200828.-和光大学.情報の基礎✖too much work.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.+岡山大学.サイバーフィジカル情報の応用研究.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.+駒澤大.情報分野✌jrec.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.+大阪大.情報科学☢試用6カ月✌jrec.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.+東京都市大学・情報学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.+立命館大学2jobs(1eng).情報理工学部.セキュリティ・ネットワークコース★english.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-岡山理科大(ous).情報数理.情報工学.2posts✘(still)toomuchwork.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-株式会社Nextremer.計算科学.quantum.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-京都大.通信情報システム中✘試用.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-工学院大学.情報学フロンティア-情報学✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-工学院大学.複合領域-デザイン学-総合理工-計算科学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-滋賀県立大.センシング工学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-東京電機大.人間情報学✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-東京都市大学・経営情報システム.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-東京都立大.情報学基礎.2posts.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-日本工業大✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200831.-般社団法人CRD.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200907.-明治大✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200910.+公立はこだて未来大.情報デザイン.複雑系知能分野✌freeform.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200910.-公立はこだて未来大.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200910.-広島工業大学・コンピュータシステム.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200910.-広島工業大学・情報ネットワーク(did.not.make.it).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200911.+★金沢大学.IoT及び情報通信分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200911.+法政大学.情報科学部コンピュータ科学科✌freeform✌jrecin.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200911.-北海道.情報科学研究院.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200911.-明治大学・統計科学・統計数学・知能情報科学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200914.+★東京理科大工学部情報工学科インテリジェントシステム分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200914.-国立研究開発法人理化学研究所.チームリーダー.革新知能統合研究センター✘probation.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200914.-琉球大学.知能情報コース-知能情報講座(知能情報学-ヒューマンコンピュータ・インタラクション✘女性限定.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200915.+青山学院大.情報社会科学✌freeform.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200915.-岡山大学.ハードウェア.ソフトウェア.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200918.+▲長岡技術科学大.情報・経営システム工学専攻.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200918.-京都先端科学大学・統計やビジネスデータの見方.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200918.-東京電機大学・情報学部門.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200920.-松本大学.データサイエンス.情報学-データサイエンス.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200921.-法政大学.情報学・計算基盤(picked.another.200911).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200923.-岐阜聖徳学園大学・情報学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200925.+▲成蹊大学.総合理工-計算科学-数物系科学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200925.-▲日本大学.ソフトウェア分野-情報システム分野-データサイエンス分野-知能ロボティクス分野☢福島.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200925.-★東京理科大.数理モデリング、知能数理分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200925.-岩手県立大.人工知能コース.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200925.-東京大学.高性能計算地球科学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200928.-岡山大学・知能機械システム学講座.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.+‼★公立はこだて未来大学・情報システム.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.+▲東京都市大学・情報理論.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.+★龍谷大学・情報科学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.+福岡大.情報学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-▲成蹊大.計算科学(1of2).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-▲静岡理工科大学.電子情報分野(smalluni).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-岡山大学・電気電子機能開発・powerelec.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-株式会社メトロ.計算科学エンジニア【スーパーコンピュータ向けアプリケーション】.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-熊本大学・ビッグデータ.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-兵庫県立大学.AI・IoT・ビックデータ.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.兵庫県立大学.情報学-情報通信-ネットワーク.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-兵庫県立大学・情報通信工学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-北海道大学.数理科学・応用数学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.200930.-名城大学・情報学、統計学、フィールド調査.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201002.-明星大.データアナリティクス✘推薦書.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201008.-東洋大学・情報社会の総合政策.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201009.-立命館大学.システム制御工学.無線通信・電波.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201012.-東京都市大学.都市デジタルシミュレーション-人間行動分析-協働まちづくりなど.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201016.+千葉経済大学・情報学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201016.▲愛知工科大学・データサイエンスまたはＡＩ.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201016.-FIT.制御・計測に関連する分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201016.-愛知工科大学・組込み系システム.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201016.-石川県工業試験場・電気職.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201016.-大阪大学大学院・情報科学研究科✘probation.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201016.-東京都立大学.人とのインタラクションや感覚を対象とした情報科学的研究.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201019.+玉川大学・ソフトウェアサイエンス学科.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201023.-東京工業大学・情報通信における応用AI分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201029.-成城大学・経営統計学✘bad format.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201030.+公立小松大学・データマイニング・機械学習・データ科学関連分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201030.+福岡工業大.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201030.-茨城キリスト教大学・経営情報分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201030.-香川大学・機械システム.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201030.-高知大学・情報工学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201030.-足利大学・情報工学、情報科学センター.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201030.-足利大学・人工知能.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201104.+お茶の水女子大学・人間工学（ロボット工学、生体工学）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201104.-久留米工業大学・IoT・AIロボティクス・メカトロニクス・知能機械.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201105.+名古屋市立大学・情報環境デザイン領域.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201106.-近畿大学・情報セキュリティ教育(講師or助教).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201109.-三重大学大学院工学研究科・知能工学講座★再公募.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201110.-公立千歳科学技術大学・情報システム工学科(任期).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201113.-香川大学・情報システム・セキュリティコース✘講師以下.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201114.-白百合女子大学・情報教育・プログラミング教育・ICT教育‼調布・推薦.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201118.-滋賀県立大学・知能情報工学分野・データサイエンス‼エクセルCV.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201120.-岡山理科大学・計算機工学・コンピュータシステム分野✘toomuchwork.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201120.-香川大学・情報通信コース.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201124.-広島大学・情報メディア教育研究センター.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201126.-九州大学・ロシア語担当.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-岡山理科大学・データサイエンス.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-岐阜大学・数理・データサイエンス.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-京都大学・国際高等教育院附属データ科学イノベーション教育研究センター.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-金沢大学・先端科学・社会共創推進機構.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-金沢大学・先端科学・社会共創推進機構・人材育成グループ.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-信州大学.通信システム分野(助教).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-長岡技術科学大学・情報・経営システム工学(better.at.1204).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-東京大学・人間エネルギー環境学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201130.-名古屋商科大学・情報(nolab).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201201.-東京工業大学・ソフトウェア工学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201203.-広島工業大学・コンピュータシステム.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201204.+九州国際大学・ビジネスデータ分析.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201204.+長岡技術科学大学・情報通信制御システム工学講座.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201204.-岩手大学・情報基盤センター.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201205.-東京電機大学・情報システムデザイン.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201205.-東京都市大学・情報科学科・計算機工学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201206.-神奈川工科大学・情報学部・情報メディア学科.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201208.-データ同化研究チーム.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201209.-名古屋大学・システム研究所未来エレクトロニクス集積研究センター.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201211.-九州産業大学理工学部・機械工学科・メカトロニクス.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201214.-静岡理工科大学・電子情報分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201214.-東京通信大学・情報システム分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201215.-琉球大学・総合情報処理センター.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201216.-千葉大学・情報工学・画像工学・医工学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201218.-NAIST・情報科学領域・コンピューティング・アーキテクチャ分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201218.-立正大学・環境情報学・環境科学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201230.-東日本国際大学・情報学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.201231.-リージョナルフィッシュ株式会社・ゲノム編集水産育種のバイオインフォマティクス研究員の募集【リモートワーク可】.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210108.-足利大学工学部・機械分野【再公募】.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210114.-新潟大学・システムソフトウェア・並列分散処理.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210117.-東京工業大学・理論計算機科学・サイバーセキュリティ分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210129.-足利大学・工学部・教員の公募（情報工学、情報科学センター）【再公募】.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210129.-足利大学・工学部・教員の公募（人工知能関連分野）【再公募】.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210131.東京通信大学・情報システム・データサイエンス分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210201.●静岡理工科大学（ソフトウェア開発を基盤とする、知能情報や感性情報処理に関連する分野）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210201.-金城学院大学・生活環境学部生活マネジメント学科・専任教員の公募（情報学）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210201.-静岡理工科大学・講師・准教授・または教授の公募（電子機械制御分野）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210205.+名古屋大学・行動信号処理分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210205.-日本大学・専任教員（教授）の公募（データサイエンス関連科目）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210209.-東京工業大学・教授の公募（ソフトウェア工学分野）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210212.+中央学院大学・情報数学他.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210225.大阪大学・機械工学・情報学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210226.●大和大学（3jobs）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210228.株式会社ベイシスコンサルティング・リサーチャー募集.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210228.岩手大学・知能・メディア情報コース・准教授公募.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210228.京都情報大学院大学・情報学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210228.国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210228.東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210228.武庫川女子大学・経営情報分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210228.武庫川女子大学・情報セキュリティ分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210228.武庫川女子大学・情報ネットワーク分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210301.盛岡大学・情報処理.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210301.東京国際工科専門職大学・プログラミング関連.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210301.東京国際工科専門職大学・通信・コンピュータ分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210309,Ｍ・Ｓ・Ｋ株式会社・ソフトウェア開発部.GPS通信機器.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210310.サイエンス・テクノロジー・システムズ株式会社・サイエンティフィック コンサルタント.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210311.公益社団法人国際経済労働研究所・データ分析研究員募集.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210312.★青山学院大学・経済学部経済学科・統計学・データサイエンス.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210315.神奈川工科大学・情報学部・情報工学科.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210319.香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210319.北海道大学・メディアネットワーク部門・情報通信システム学分野・教授.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210322.名古屋大学大学院工学研究科・情報・通信工学専攻.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210329.★東京理科大学・工学部情報工学科・インテリジェントシステム分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210331.清水建設株式会社・民間企業の研究員（３D計測技術・ロボティクス）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210331.鳥取大学工学部教員公募（ロボティクス）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210331.東京工業大学・応用数理分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210331.福岡大学工学部電子情報工学科.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210331.名古屋大学・大学院工学研究科・教授公募・情報学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210331.名古屋大学・知能情報学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210412.関西大学・ソフトウェア工学.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210415.bestat株式会社・技術責任者・CTO.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210416.東京都市大学・経営情報システム.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210422.東北大学・情報リテラシー論分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210423.群馬大学・情報通信分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210423.香川大学・創造工学部・准教授または講師の公募（機械システムコース）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210426.東京工科大学コンピュータサイエンス学部・人工知能.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210430.岩手大学・知能・メディア情報コース 准教授公募（知能情報学関連分野）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210430.山口大学・電気電子工学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210430.知能情報学関連分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210507.滋賀県立大学・知能情報工学分野.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210510.岡山理科大学・准教授・講師または助教（計算機工学，コンピュータシステム分野）.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210531.株式会社ヒューマノーム研究所(5jobs).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210531.青山学院大学理工学部電気電子工学科.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210630.トヨタ自動車株式会社・スマートシティプラットフォームの開発.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210630.株式会社キーウォーカー【AI企業】自然言語処理研究員・エンジニア募集.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210718.能美防災株式会社・センサシステムに関するソフトウェアの製品開発業務.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210719.能美防災株式会社・センサ応用製品に関する研究開発業務.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210731.株式会社iMedTechnologies・リードAIエンジニア.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210831.★株式会社アラヤ・リサーチャー (強化学習).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210831.★株式会社アラヤ・計算論的神経科学者・情報理論学者.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.210831・一般財団法人電力中央研究所・電力市場・統運用・計画手法.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.html" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.json" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.md" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.md.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.reject (1).txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.reject.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.selected.txt" /local/githubpages/gcal/.
+PUT rsync -avz "jobhunt.txt" /local/githubpages/gcal/.
+PUT rsync -avz "list.deadlines.json" /local/githubpages/gcal/.
+PUT rsync -avz "list.jobhunt.json" /local/githubpages/gcal/.
+PUT rsync -avz "temp.json" /local/githubpages/gcal/.
+PUT rsync -avz "temp.txt" /local/githubpages/gcal/.
+PUT rsync -avz "todo.current.md" /local/githubpages/gcal/.
+PUT rsync -avz "todo.longterm.md" /local/githubpages/gcal/.
+PUT rsync -avz "todo.midterm.md" /local/githubpages/gcal/.
+PUT rsync -avz "todo.regulars.md" /local/githubpages/gcal/.
+PUT rsync -avz "todo.txt" /local/githubpages/gcal/.
+PUT rsync -avz "todoarchive.txt" /local/githubpages/gcal/.
+PUT rsync -avz "todotxt.php" /local/githubpages/gcal/.
+PUT rsync -avz "Untitled-1" /local/githubpages/gcal/.
