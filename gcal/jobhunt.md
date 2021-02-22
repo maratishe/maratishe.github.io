@@ -4,8 +4,8 @@
 
 this file is generated automatically, do not make manual changes to it!
 
-2021-08-31 [★株式会社アラヤ・計算論的神経科学者・情報理論学者](#d514e1c10b)  
 2021-08-31 [★株式会社アラヤ・リサーチャー (強化学習)](#7e865db73e)  
+2021-08-31 [★株式会社アラヤ・計算論的神経科学者・情報理論学者](#d514e1c10b)  
 2021-07-31 [株式会社iMedTechnologies・リードAIエンジニア](#963a073260)  
 2021-07-19 [能美防災株式会社・センサ応用製品に関する研究開発業務](#9c0b8e16e7)  
 2021-07-18 [能美防災株式会社・センサシステムに関するソフトウェアの製品開発業務](#676c5d4073)  
@@ -44,9 +44,9 @@ this file is generated automatically, do not make manual changes to it!
 2021-03-01 [盛岡大学・情報処理](#dd0b976a69)  
 2021-02-28 [東京国際大学・教授、准教授、または講師の公募（データサイエンス、AI等分野）](#02f89fdc3c)  
 2021-02-28 [<strike>武庫川女子大学・経営情報分野</strike>](#ca1ccdd96b)  
-2021-02-28 [京都情報大学院大学・情報学分野](#57a9c6a4a1)  
+2021-02-28 [★online国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）](#a0acb4fdbb)  
+2021-02-28 [★online京都情報大学院大学・情報学分野](#0b02581def)  
 2021-02-28 [<strike>株式会社ベイシスコンサルティング・リサーチャー募集</strike>](#7b776d946a)  
-2021-02-28 [●bymail国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）](#93f9b0d9e1)  
 2021-02-28 [武庫川女子大学・情報ネットワーク分野](#96d0ba3235)  
 2021-02-28 [<strike>武庫川女子大学・情報セキュリティ分野</strike>](#02a140fc3e)  
 2021-02-28 [岩手大学・知能・メディア情報コース・准教授公募](#e756317d79)  
@@ -211,21 +211,6 @@ this file is generated automatically, do not make manual changes to it!
 2020-06-01 [<strike>龍谷大.通信工学分野</strike>](#a5bc67a750)  
 
 
-## ★株式会社アラヤ・計算論的神経科学者・情報理論学者  (2021-08-31) <span id="d514e1c10b"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 38  
-id : D121010023  
-update : 2021年01月06日  
-univ : 株式会社アラヤ・計算論的神経科学者・情報理論学者  
-title : リサーチャー (計算論的神経科学者/情報理論学者)  
-field : 数物系科学 - 数学 -- 複合領域 - 脳科学 -- 総合生物 - 神経科学  
-post : 研究員・ポスドク相当 -- 研究・教育補助者相当  
-tenure : 常勤 (任期あり)  
-deadline : 2021年08月31日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010023&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010023&ln_jor=0&top_btn=1)  
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## ★株式会社アラヤ・リサーチャー (強化学習)  (2021-08-31) <span id="7e865db73e"></span> <span style="color:#666;">[→top](#top)</span>
 
 no : 34  
@@ -238,6 +223,21 @@ post : 研究員・ポスドク相当 -- 研究・教育補助者相当
 tenure : 常勤 (任期あり)  
 deadline : 2021年08月31日  
 url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010025&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010025&ln_jor=0&top_btn=1)  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## ★株式会社アラヤ・計算論的神経科学者・情報理論学者  (2021-08-31) <span id="d514e1c10b"></span> <span style="color:#666;">[→top](#top)</span>
+
+no : 38  
+id : D121010023  
+update : 2021年01月06日  
+univ : 株式会社アラヤ・計算論的神経科学者・情報理論学者  
+title : リサーチャー (計算論的神経科学者/情報理論学者)  
+field : 数物系科学 - 数学 -- 複合領域 - 脳科学 -- 総合生物 - 神経科学  
+post : 研究員・ポスドク相当 -- 研究・教育補助者相当  
+tenure : 常勤 (任期あり)  
+deadline : 2021年08月31日  
+url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010023&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010023&ln_jor=0&top_btn=1)  
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -858,7 +858,22 @@ url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121010680&ln_jor=0&t
  <span style="color:#666;">[→top](#top)</span>
 
 
-## 京都情報大学院大学・情報学分野  (2021-02-28) <span id="57a9c6a4a1"></span> <span style="color:#666;">[→top](#top)</span>
+## ★online国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）  (2021-02-28) <span id="a0acb4fdbb"></span> <span style="color:#666;">[→top](#top)</span>
+
+no : 56  
+id : D120121872  
+update : 2020年12月25日  
+univ : 国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）  
+title : 情報学基礎、計算基盤（准教授、教授公募）  
+field : 情報学 - 全て  
+post : 教授相当 -- 准教授・常勤専任講師相当  
+tenure : 常勤 (任期なし)  
+deadline : 2021年02月28日  
+url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121872&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121872&ln_jor=0&top_btn=1)  
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## ★online京都情報大学院大学・情報学分野  (2021-02-28) <span id="0b02581def"></span> <span style="color:#666;">[→top](#top)</span>
 
 no : 15  
 id : D121010361  
@@ -885,21 +900,6 @@ post : 研究開発・技術者担当【R&D／Engineer】 助教相当 研究員
 tenure : 常勤 (任期なし)  
 deadline : 2021年02月28日  
 url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120110826&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120110826&ln_jor=0&top_btn=1) ----------  
- <span style="color:#666;">[→top](#top)</span>
-
-
-## ●bymail国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）  (2021-02-28) <span id="93f9b0d9e1"></span> <span style="color:#666;">[→top](#top)</span>
-
-no : 56  
-id : D120121872  
-update : 2020年12月25日  
-univ : 国際基督教大学・情報学基礎、計算基盤（准教授、教授公募）  
-title : 情報学基礎、計算基盤（准教授、教授公募）  
-field : 情報学 - 全て  
-post : 教授相当 -- 准教授・常勤専任講師相当  
-tenure : 常勤 (任期なし)  
-deadline : 2021年02月28日  
-url : [https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121872&ln_jor=0&top_btn=1](https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D120121872&ln_jor=0&top_btn=1)  
  <span style="color:#666;">[→top](#top)</span>
 
 
