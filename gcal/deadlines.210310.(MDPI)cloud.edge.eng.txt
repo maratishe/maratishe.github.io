@@ -1,0 +1,119 @@
+
+Special Issue on "Smart Cyberphysical Systems and Cloud–Edge Engineering"
+Information - an Open Access Journal by MDPI
+(https://www.mdpi.com/journal/information/special_issues/Cyberphysical_Cloud_Engineering)
+
+Dear Colleagues,
+
+At present, computers, smart sensors and devices are pervasive, and
+computational processes are increasingly becoming transparent to
+humans, making up the very fabric of contemporary societies. In this
+context, the cyberphysical system (CPS) paradigm is thriving. CPS
+refers to the integration of computation with physical processes. A
+CPS uses sensors and actuators to link the computational systems to
+the physical world. Through the instrumentation of the physical world,
+it is possible to monitor several variables and transfer data to
+cyberspace, where applications and services use such data to make
+decisions that affect and control physical processes, in a feedback
+loop. The ultimate goal of this integration is to improve processes,
+making them more effective and optimized, increasing productivity for
+companies and quality of life for citizens.
+
+The recent advancement of computational intelligence techniques has
+leveraged the new generation of CPS, which is known as smart
+cyberphysical systems (sCPS). sCPS are distributed and
+software-intensive systems that, from heterogeneous data sources, both
+physical and virtual, and from their processing using computational
+intelligence paradigms, are able to efficiently and autonomously
+manage real-world processes. Such systems have the potential to
+optimize and support a wide range of application domains.
+
+The growing scale, in terms of devices and data, of modern sCPS and
+the need to perform complex processing and provide fast responses
+makes cloud–edge platforms natural candidates for integrating such
+systems. By applying the model and principles of cloud computing to
+sCPS, any virtual or physical device, including sensors and actuators,
+is available as a service and can quickly and autonomously be
+provisioned for usage to meet the user and application demands. By
+leveraging the edge computing paradigm, time constraints of CPS can be
+dealt with.
+
+In this context, this Special Issue intends to explore the multiple
+aspects of sCPS and the role of cloud–edge computing as an integrating
+and enabling platform for this paradigm. Potential topics of interest
+include but are not limited to the following:
+
+Cloud/edge/cloud–edge computing and services for cyberphysical systems;
+Resource management in cloud–edge-based sCPS;
+sCPS as a service;
+Design, implementation, and operation of cloud/edge/cloud–edge
+platforms for sCPS;
+Practical design issues in building cloud–edge-based sCPS;
+Managing big data for sCPS;
+Programming models, benchmarks, and tools for cloud-based sCPS;
+Virtualization models for sCPS;
+Architectures and frameworks for sCPS;
+Interoperability issues in cloud/edge/cloud–edge-based sCPS;
+Solutions for reliability and resilience in cloud/edge/cloud–edge-based sCPS;
+Self-adaptation, self-healing, and self-configuration in sCPS;
+Real-time data analytics and data stream processing for sCPS;
+Context-aware event processing for sCPS;
+Internet of Things and real-time services for sCPS;
+Security challenges in cloud/edge/cloud–edge-based sCPS.
+
+Prof. Dr. Flavia C. Delicato
+Prof. Dr. Paulo F. Pires
+Dr. Kevin I-Kai Wang
+Guest Editors
+
+Manuscript Submission Information
+
+Manuscripts should be submitted online at www.mdpi.com by registering
+and logging in to this website. Manuscripts can be submitted until the
+deadline. All papers will be peer-reviewed. Accepted papers will be
+published continuously in the journal (as soon as accepted) and will
+be listed together on the special issue website. Research articles,
+review articles as well as short communications are invited. For
+planned papers, a title and short abstract (about 100 words) can be
+sent to the Editorial Office for announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor
+be under consideration for publication elsewhere (except conference
+proceedings papers). All manuscripts are thoroughly refereed through a
+single-blind peer-review process. A guide for authors and other
+relevant information for submission of manuscripts is available on the
+Instructions for Authors page. Information is an international
+peer-reviewed open access monthly journal published by MDPI.
+
+Please visit the Instructions for Authors page before submitting a
+manuscript. The Article Processing Charge (APC) for publication in
+this open access journal is 1400 CHF (Swiss Francs). Submitted papers
+should be well formatted and use good English. Authors may use MDPI's
+English editing service prior to publication or during author
+revisions.
+
+
+Special Issue Editors
+
+Prof. Dr. Flavia C. Delicato - Guest Editor
+Fluminense Federal University, Brazil
+Interests: Internet of Things; middleware; edge computing; wireless
+sensor networks
+
+
+Prof. Dr. Paulo F. Pires  - Guest Editor
+Fluminense Federal University, Brazil
+Interests: IoT sytems; cloud/edge computing; software architecture;
+model-based software development
+
+
+Dr. Kevin I-Kai Wang - Guest Editor
+Department of Electrical, Computer, and Software Engineering, The
+University of Auckland, Auckland 1010, New Zealand
+Interests: IoT-based ambient intelligence; pervasive healthcare
+systems; human activity recognition; predictive data analytics and
+bio-cybernetic systems
+
+
+
+

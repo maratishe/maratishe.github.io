@@ -1,0 +1,225 @@
+
+CALL FOR PAPERS
+
+The 19th ACM* International Symposium on Mobility Management and Wireless
+
+Access (ACM MobiWac 2021)
+
+
+
+November 22 - 26, 2021 - Alicante, Spain
+
+http://mobiwac-symposium.org/
+
+
+
+(*Pending) Sponsored by ACM
+
+
+
+---------------------------------------------------------------------------------------
+
+IMPORTANT:  Paper submission deadline: July 5th, 2021
+
+---------------------------------------------------------------------------------------
+
+
+
+The MobiWac series of events are intended to provide an international
+
+forum for the discussion and presentation of original ideas, recent
+
+results and achievements by researchers, students, and systems
+
+developers on issues and challenges related to mobility management and
+
+wireless access protocols. Authors are encouraged to submit both
+
+theoretical and practical results of significance on all aspects of
+
+wireless and mobile access technologies, with an emphasis on mobility
+
+management and wireless access. Authors are invited to submit full
+
+papers describing original research. Submitted papers must neither have
+
+been published elsewhere nor currently be under review by another
+
+conference or journal.
+
+
+
+Topics of interest include, but are not limited to:
+
+
+
+* 5G/6G
+
+* AI-based mobility management
+
+* AI-enabled wireless networks
+
+* Analysis/simulation of wireless mobile systems
+
+* Big data analytics for mobile and wireless networks
+
+* Channels and resource allocation algorithms
+
+* Context-aware protocols, services, architecture and applications
+
+* Cyber-Physical Systems and Cyber-Physical Social Systems
+
+* Energy and power management algorithms
+
+* Fault tolerance solutions
+
+* Localization and tracking
+
+* Mobile and wireless entertainment and multimedia applications
+
+* Mobile broadband wireless access
+
+* Mobile cloud/fog/edge computing
+
+* Mobile/vehicular environment access
+
+* Mobility models, control and management
+
+* Multi-Channel Multi-Radio MAC/network layer management
+
+* Multi-Homing and vertical handoff
+
+* Multi-technology switching using Software Defined Radios
+
+* Next generation wireless systems
+
+* Pervasive communication and computing
+
+* Pervasive, mobile and wearable computing systems and services
+
+* QoS management
+
+* Reconfigurable Intelligent Surfaces and Mobility Management
+
+* SDN solutions in mobile and wireless networks
+
+* Security, trust management and privacy issues
+
+* Social mobile networks and applications
+
+* Testbeds for experimental and simulation analysis
+
+* Ubiquitous and mobile access
+
+* Wireless ad hoc and sensor networks
+
+* Wireless applications and testbeds
+
+* Wireless Internet and All-IP integration
+
+* Wireless systems' design
+
+* Wireless/mobile access protocols and web access
+
+
+
+============================================================================
+
+
+
+Submission Guidelines:
+
+
+
+High-quality original papers are solicited. Papers must be unpublished
+
+and must not be submitted for publication elsewhere. All papers will be
+
+reviewed by Technical Program Committee members and other experts active
+
+in the field to ensure high quality and relevance to the Symposium. The
+
+symposium will have a single track for regular papers and in addition, a
+
+separate interwoven track with short papers / posters. Paper length must
+
+be no more than 10 pages, double column, ACM style including tables and
+
+figures. Note that the regular paper size will be 8 pages, with the
+
+possibility to obtain up to 2 additional pages (total 10 pages) by
+
+paying a publication fee. Only PDF format is accepted. All accepted
+
+papers will appear in the Symposium proceedings published by ACM press.
+
+
+
+Papers are submitted via the EDAS system: https://edas.info/N28242
+
+
+
+For any question or problems related to MobiWac 2021 submissions, please
+
+contact the PC Chairs.
+
+
+
+============================================================================
+
+
+
+Important Dates:
+
+
+
+Submission Deadline: July 5th, 2021
+
+Notification of Acceptance: August 15th, 2021
+
+Camera Ready version due: TBA
+
+Author Registration deadline: TBA
+
+Submission link: https://edas.info/N28242
+
+============================================================================
+
+
+
+Organizing Committee:
+
+
+
+General Chair
+
+Azzedine Boukerche, University of Ottawa, Canada
+
+
+
+Program Co-Chairs
+
+Eirini Eleni Tsiropoulou, University of New Mexico, USA
+
+Rodolfo W. L. Coutinho, Concordia University, Canada
+
+
+
+Tutorials Chair
+
+Antonio A. F. Loureiro, Federal University of Minas Gerais, Brazil
+
+
+
+Posters/Demo Chair
+
+Valeria Loscri, Inria, France
+
+
+
+Publicity Co-Chairs
+
+Mirela. A. M. Notare, Technology University on Fly Transportation, Brazil
+
+
+

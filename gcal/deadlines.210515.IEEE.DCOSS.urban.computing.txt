@@ -1,0 +1,114 @@
+
+3rd International Workshop on Urban Computing
+Coral Bay, Cyprus (with IEEE DCOSS 2021)
+
+Website: https://sites.google.com/view/urbcom-2021
+
+
+**** Important Dates ****
+
+Paper Submission: May 15, 2021
+Acceptance Notification: June 7, 2021
+Camera Ready: June 14, 2021
+
+
+
+**** Aims and Scope ****
+
+It is undeniable that the cities' urbanisation has modernised people's
+lives, bringing several benefits to the population. However, it has also
+brought serious challenges such as public management of collective
+spaces, air pollution, traffic congestion, energy consumption, and
+quality of life. In this context, Urban Computing emerges as a process
+of acquisition, integration, and analysis of a large volume of
+heterogeneous data generated from different sources in urban spaces,
+such as portable devices, sensors, vehicles, humans, among others. Urban
+Computing is an interdisciplinary area that connects information and
+communication technology, advanced management of large volumes of data,
+and diverse data analysis methods to propose solutions to problems faced
+by cities. In addition, Urban Computing seeks to understand the nature
+of urban and social phenomena to better plan the future of cities and
+improve their inhabitants' quality of life.
+
+UrbCom aims to create a space for: (1) presentation and discussion of
+studies in the area of Urban Computing; (2) collaboration between
+researchers from different areas that, given the interdisciplinary
+nature, is not limited to Computer Science.
+
+
+**** Topics of interest (not limited to) ****
+
+Architectures and Protocols for Urban Environments
+Data Analysis and Mining
+D2D and 5G Communication in Urban Environments
+Data Offloading
+e-Governance
+e-Health and m-Health
+Green Computing in Urban Environments
+Heterogeneous Data Management
+Human Mobility
+Human-Computer Interaction in Urban Spaces
+Improving Quality of Life in the City Using Mobile Services and Big Data
+Intelligent Transportation Systems
+Internet of Things
+Location Based Services
+Participatory / Opportunistic Sensing
+Recommendation Systems
+Reliability and Security in Urban Computing
+Smart Cities
+Social Computing
+Urban Data Visualisation
+Urban Planning Using Big Data
+Urban Sensing Infrastructures
+
+
+**** General Chairs ****
+
+Leandro A. Villas - University of Campinas / Brazil
+Thiago H. Silva - Federal Univ. of Tech. / Brazil and Univ. of Toronto /
+Canada
+
+
+**** Program Chairs ****
+
+Aline Carneiro Viana - INRIA / France
+Daniel L. Guidoni - Federal University of São João del-Rei / Brazil
+Roberto Rigolin F. Lopes - Fraunhofer FKIE / Germany
+
+
+**** Technical Program Committee ****
+
+Ademar Takeo - PUC Sao Paulo, Brazil
+Albert Zomaya - University of Sydney, Australia
+Aline Carneiro Viana - INRIA, France
+Antonio Loureiro - Federal University of Minas Gerais, Brazil
+Artur Ziviani - National Laboratory for Scientific Computing, Brazil
+Bruno Sousa - University of Coimbra, Portugal
+Claudio Silva - New York University, USA
+Damla Turgut - University of Central Florida, USA
+Eduardo Cerqueira - Federal University of Para, Brazil
+Fabio Kon - University of Sao Paulo, Brazil
+Felipe Da Cunha Pontifical Catholic University of Minas Gerais, Brazil
+Guilherme Maia - Federal University of Minas Gerais, Brazil
+Helder Oliveira - Federal University of Para, Brazil
+Kanchana Thilakarathna - University of Sydney, Australia
+Luca Foschini- University of Bologna, Italy
+Luiz Bittencourt - University of Campinas, Brazil
+Marco Fiore - IMDEA Networks Institute, Spain
+Marilia Curado - University of Coimbra, Portugal
+Mark Fox - University of Toronto, Canada
+Oana Iova - INSA, France
+Richard Pazzi - University of Ontario Institute of Technology, Canada
+Roberto R. Lopes - Fraunhofer FKIE, Germany
+Robson De Grande - Brock University, Canada
+Rodolfo Meneguette - University of Sao Paulo, Brazil
+Samiul Hasan - University of Central Florida, USA
+Torsten Braun - University of Bern, Switzerland
+Veljko Pejovic - University of Ljubljana, Slovenia
+Vinicius Mota - Federal University of Espirito Santo, Brazil
+Xiangjie Kong - Zhejiang University of Technology, China
+Xuan Song - University of Iowa, USA
+(More names will be announced soon)
+
+
+

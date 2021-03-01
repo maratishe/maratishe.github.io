@@ -1,0 +1,212 @@
+
+=============================================================================
+Call for Papers: 14th ACM Conference on Security and Privacy in Wireless
+and Mobile Networks (ACM WiSec 2021)
+=============================================================================
+
+The 14th ACM Conference on Security and Privacy in Wireless and Mobile
+Networks (ACM WiSec 2021, https://nyuad.nyu.edu/wisec21) will be held
+virtually from June 28 to July 1, 2021.
+
+ACM WiSec is the leading ACM and SIGSAC conference dedicated to all
+aspects of security and privacy in wireless and mobile networks and
+their applications. In addition to the traditional ACM WiSec topics of
+physical, link, and network layer security, we welcome papers focusing
+on the increasingly diverse range of mobile or wireless applications
+such as Internet of Things, Cyber-Physical Systems, as well as the
+security and privacy of mobile software platforms, usable security and
+privacy, biometrics, and cryptography.
+
+The conference welcomes both theoretical as well as systems
+contributions. Topics of interest include, but are not limited to
+
+- Cryptographic primitives for wireless and mobile security
+- Data-driven security attacks and countermeasures
+- Economics of mobile security and privacy
+- Jamming attacks and defenses
+- Key management (agreement or distribution) for wireless or
+mobile systems
+- Lightweight cryptography primitives and protocols
+- Mobile malware and platform security
+- NFC and smart payment applications
+- Next generation cellular network fraud and security
+- Physical tracking security and privacy
+- Resilience and dependability for mobile and wireless networks
+- Reverse engineering of and tampering with mobile applications
+- Security and privacy for cognitive radio and dynamic spectrum
+access systems
+- Security and privacy for mobile applications (e.g., mobile
+sensing systems)
+- Security and privacy for smart devices (e.g., smartphones)
+- Secure localization and location privacy
+- Security protocols for wireless networking
+- Side-channel and fault attacks on smart devices
+- Side-channel attacks on mobile and wearable systems
+- Theoretical and formal approaches for wireless and mobile security
+- Usable mobile security and privacy
+- Vehicular networks security (e.g., drones, automotive, avionics,
+autonomous driving)
+- Wireless and mobile privacy and anonymization techniques
+- Wireless or mobile security for cyber-physical systems
+(e.g, healthcare, smart grid) and IoT systems
+- Wireless network security for critical infrastructures
+
+The proceedings of ACM WiSec, sponsored by SIGSAC, will be published by
+the ACM.
+
+
+Important dates
+===============
+
+- Paper submission deadline: March 18, 2021 (23:59 AoE)
+- Author notification: April 29, 2021
+- Camera-ready deadline: May 21, 2021 (23:59 AoE)
+- WiSec conference: June 28 to July 1, 2021
+
+
+Full and short papers
+=====================
+
+Full paper submissions to ACM WiSec 2021 can be up to 10 pages in the
+ACM conference style excluding the bibliography and well-marked
+appendices, and up to 12 pages in total. ACM WiSec also encourages the
+submission of short papers with a length of up to 6 pages (including
+bibliography and appendices), which describe mature work of a more
+succinct nature. All papers must be thoroughly anonymized for
+double-blind reviewing. Detailed submission instructions are available
+on the WiSec 2021 website at https://nyuad.nyu.edu/wisec21.
+
+For the first time in WiSec, we solicit Systematization of Knowledge
+(SoK) papers that evaluate, systematize, and contextualize existing
+knowledge on any of the above topics. Suitable papers provide an
+important new viewpoint on an established research area, support or
+challenge long-held beliefs with compelling evidence, present a
+convincing new taxonomy of such an area, and/or identify research gaps
+with evidence and a structured approach. Survey papers without such
+contributions are not suitable. SoK submissions will be distinguished by
+the prefix "SoK:" in the title and a checkbox on the submission form.
+They will be reviewed by the program committee and held to the same
+standards as regular research papers, except instead of emphasizing
+novel research contributions the emphasis will be on value to the
+community. Accepted papers will be presented at the symposium and
+included in the proceedings.
+
+
+Posters and demos
+=================
+
+WiSec will solicit submission of posters and demos. The instructions to
+submit posters/demos will be made available on the WiSec 2021 website.
+
+
+Replicability label
+===================
+
+WiSec will again offer a replicability label for reproducible results.
+Authors are encouraged to plan ahead when running their experiments to
+minimize the overhead of applying for this label. The process of
+reviewing the work for replicability will be largely similar to the
+previous years.
+
+
+Double submissions
+==================
+
+It is a policy of the ACM to disallow double/simultaneous submissions,
+where the same (or substantially similar) paper is concurrently
+submitted to multiple conferences/journals. Any double submissions
+detected will be immediately rejected from all conferences/journals
+involved.
+
+
+Workshops and Tutorial
+==================
+ACM WiSec will host workshops/tutorial co-organized with the main
+conference. Details will be made available on the website.
+
+
+Organisation committee
+======================
+
+- General Chairs
+* Christina Pöpper, New York University Abu Dhabi, UAE
+* Mathy Vanhoef, New York University Abu Dhabi, UAE
+- PC Chairs
+* Lejla Batina, Radboud University, The Netherlands
+* René Mayrhofer, Johannes Kepler University Linz, Austria
+- Reproducibility Chairs
+* Aanjhan Ranganathan, Northeastern University, Boston, USA
+* Bradley Reaves, North Carolina State University, Raleigh, NC, USA
+
+
+Program committee
+=================
+• Adrian Dabrowski, University of California, Irvine, US
+• Ahmad-Reza Sadeghi, TU Darmstadt, DE
+• Alexandra Dmitrienko, University Wurzburg, DE
+• Bradley Reaves, North Carolina State University, US
+• Christian Doerr, University of Potsdam, DE
+• Cristina Onete, University of Limoges, FR
+• Daniel Gruss, TU Graz, AT
+• Dave Singelee, KU Leuven, BE
+• David (Aziz) Mohaisen, University of Central Florida, US
+• David Barrera, Carleton University, CA
+• Doowon Kim, University of Tennessee, Knoxville, US
+• Eleonora Losiouk, University of Padua, IT
+• Erik Tews, University Twente, NL
+• Fareena Saqib, University of North Carolina at Charlotte, US
+• Gang Wang, University of Illinois at Urbana, US
+• Gerhard Hancke, City University of Hong Kong, HK
+• Gildas Avoine, Rennes, FR
+• Guevara Noubir, Northeastern University, US
+• Ioana Boureanu, University of Surrey, UK
+• Jian (Jack) Liu, University of Tennessee, Knoxville, US
+• Jie Yang, Florida State University, US
+• Jiska Classen, TU Darmstadt, DE
+• Jorge Guajardo, Bosch, US
+• Jorge Toro-Pozo, ETH, CH
+• Katerina Mitrokotsa, University of St. Gallen, CH
+• Katharina Kohls, Radboud University, NL
+• Kazuo Sakiyama, University of Telecommunication Tokyo, US
+• Kerstin Lemke-Rust, University of Applied Sciences
+Bonn-Rhein-Sieg, DE
+• Kevin Butler, University of Florida, US
+• Luyi Xing, Indiana University Bloomington, US
+• Martin Henze, Fraunhofer FKIE, DE
+• Mathy Vanhoef, NYU Abu Dhabi, UAE
+• Matthias Hollick, TU Darmstadt, DE
+• Matthias Payer, EPFL, CH
+• Michael Roland, Johannes Kepler University Linz, AT
+• Naofumi Homma, Tohoku University, JP
+• Nele Mentens, Leiden University and KU Leuven, NL
+• Nils Ole Tippenhauer, CISPA Saarbrucken, DE
+• Nitesh Saxena, University of Alabama at Birmingham, US
+• Panos Papadimitratos, KTH, SE
+• Patrick Traynor, University of Florida, US
+• Rolando Trujillo Rasua, Deakin Melbourne, AU
+• Selcuk Uluagac, Florida International University, US
+• Shivam Bhasin, NTU, SG
+• Srdjan Capkun, ETH Zurich, CH
+• Stjepan Picek, TU Delft, NL
+• William Enck, NC State University, US
+• Xiayu Ji, ZJU, CN
+• Xun Chen, Samsung Research, US
+• Yanick Fratantonio, Cisco Talos, AT
+• Yao Zheng, University of Hawaiʻi at Mānoa, US
+• Yingying Chen, Rutgers University, US
+• Yuan Tian, University of Virginia, US
+
+
+Steering committee
+=================
+• Patrick Traynor, University of Florida, USA
+• Kevin Butler, University of Florida, USA
+• William Enck, North Carolina State University, USA
+• René Mayrhofer, Johannes Kepler University Linz, Austria
+• Guevara Noubir, Northeastern University, USA
+• Panos Papadimitratos, KTH Royal Institute of Technology, Sweden
+• Christina Pöpper, New York University Abu Dhabi, UAE
+
+
+
+

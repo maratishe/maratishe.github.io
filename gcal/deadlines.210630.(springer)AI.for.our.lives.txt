@@ -1,0 +1,92 @@
+
+[Apologies if you receive multiple copies of this message]
+
+------------------------------------------------------------------------------------------------------------------
+
+CALL FOR PAPERS Journal of Ambient Intelligence and Humanized Computing Special Issue on “AI Drives Our Future Life”
+
+------------------------------------------------------------------------------------------------------------------
+
+
+
+SUMMARY
+
+
+While “Artificial Intelligence” (AI) becomes the mainstream of application techniques breakthrough, its impacts to our future life is unprecedented. AI becomes increasingly important for understanding complex data and offering intelligent processing to foster innovative business applications, self-driving cars, voice recognition, drug design, and new medical applications in the future. Recently, new technologies with explainable AI, such as federated learning, meta-learning, active learning, multi-task learning, inductive graph learning, transfer learning, and ensemble learning, have emerged and attracted considerable interests from both academic and industrial communities. Meanwhile, the rising prominence of AI has dramatically transformed a variety of domains. For intelligent wireless networks, due to privacy constraints and limited communication resources, distributed multi-agent reinforcement learning and federated learning are employed to solve complex convex and nonconvex optimization problems and collaboratively learn shared prediction models for user clustering, resource management, and interference alignment. For smart automatic driving, robust deep learning models that are capable to avoid adversarial examples are developed to analyze world state representations and behavior models, as well as forecast and control the car trajectory according to various sensors (e.g., cameras, HD maps, inertial measurement units, wheel encoders, LiDAR).
+
+
+
+Moreover, for immersive VR and AR, Generative Adversarial Networks (GANs) have been widely adopted to address scene segmentation, depth estimation, realistic 3D modeling, image fusion, whereas effective gaze estimation and prediction algorithms are designed to reduce the computation time for immersive view rendering. For health and digitized education, AI is also the cornerstone to infer indicators of disease activities for early detection of emerging outbreaks, and to facilitate knowledge tracing for online courses. To support the above applications, domain-specific software and hardware co-design in DNN accelerators is crucial to boost the performance and energy efficiency for various computation and memory-intensive tasks, making these models usable on smaller devices at the edge of the Internet. Researchers and practitioners are jointly devoting efforts to develop solutions for related problems using various AI methods. Therefore, this special issue aims to bring together recent advances in AI for
+
+various domains to share new findings among the community and bridge the gaps between research and practice.
+
+
+
+SCOPE
+
+The topics of interest include, but are not limited to:
+
+● Artificial Intelligence Learning Theory and Statistics
+
+● AI for Healthcare and Bioinformatics
+
+● Artificial Intelligence on Education
+
+● AIoT Applications
+
+● AR/VR and Human Computer Interaction
+
+● Autonomous Driving
+
+● Algorithms and Computation Theory with AI
+
+● Big Data Systems and Analysis
+
+● Image Processing, Computer Graphics, and Multimedia Technologies
+
+● Intelligent Network
+
+● Intelligent Manufacturing
+
+● Web Intelligence and Social Network
+
+● Cyber Security
+
+● Computer Architecture, Embedded Systems, SoC, and VLSI/EDA to support AI
+
+● Parallel, Distributed, and Cloud/Edge Computing for AI
+
+
+
+SUBMISSION PROCEDURE
+
+All manuscripts must be prepared and submitted following to the submission guidelines of Journal of Ambient Intelligence and Humanized Computing that can be accessed at https://www.springer.com/journal/12652/submission-guidelines?IFA. Submission of a manuscript implies that the work described has not been published before, and that it is not under consideration for publication anywhere else. All submitted papers will go through the same review process as the regular Journal of Ambient Intelligence and Humanized Computing paper submissions. Referees will consider originality, significance, technical soundness, clarity of exposition, and relevance to the special issue topics above.
+
+
+
+IMPORTANT DATES
+
+Manuscript submission: June 30, 2021
+
+First Decision: September 15, 2021
+
+First Revision Submission: October 15, 2021
+
+Second Revision Submission: October 30, 2021
+
+Final Decision: November 10, 2021
+
+
+
+GUEST EDITORS
+
+Pau-Choo (Julia) Chung National Cheng Kung University, Taiwan
+
+Gary G. Yen Oklahoma State University, USA
+
+De-Nian Yang Academia Sinica, Taipei, Taiwan
+
+Meng-Hsun Tsai National Cheng Kung University, Taiwan
+
+
+

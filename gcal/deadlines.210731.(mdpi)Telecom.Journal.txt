@@ -1,0 +1,118 @@
+
+CALL FOR PAPERS
+
+Special Issue on "Theoretical Models and Simulations for New
+Mobile-Computing Architectures"
+
+MDPI - Telecom Journal
+
+https://www.mdpi.com/journal/telecom/special_issues/Simulations_Mobile-Computing
+
+-----------------------------------------------------------------------------------------------
+
+Important Dates:
+================
+
+Submission deadline: February 21st, 2021 -> EXTENDED to July 31st, 2021
+
+-----------------------------------------------------------------------------------------------
+
+Scope:
+======
+
+In the last decade, a huge amount of research contributions have been
+proposed in the scientific
+community in the field of mobile communications, aimed especially at
+enhancing the quality of service
+or experience (QoS or QoE) perceived by mobile hosts. Mobile computing,
+especially in 5G, has been
+proven to offer many advantages (such as flexibility and robustness),
+but at the same time, different
+issues arise when QoS/QoE need to be guaranteed. It is well known, for
+example, that user mobility
+affects channel conditions (Doppler and fast/slow fading degradations,
+strictly related to the average
+speed) or blocking/dropping probability performance (when users move
+among different coverage areas
+in infrastructure networks, the available resources could be scarce).
+Traffic flowing may be also
+affected, with dynamic congestion levels and huge fluctuations in
+relevant QoS/QoE parameters, such as
+throughput, e2e-delay, jitter, packet-loss, etc. Similar problems arise
+also in distributed
+environments, where topology changes are frequent and routing protocols
+suffer high overheads for new
+path rearrangements.
+
+This Special Issue is aimed at dealing with the issues above, providing
+a point of interest for the
+discussion and presentation of theoretical models, simulation approaches
+or a mixture of them,
+regarding the world of the mobile computing paradigm. The development of
+theoretical models regarding
+different OSI-layers has been showing relevant results in recent years,
+especially if predictive
+approaches are involved. This Special Issue is soliciting original
+quality and high-level technical
+papers addressing the main research challenges in QoE-aware mobile
+networking, via the introduction of
+new models and simulations based on emerging approaches, such as swarm
+intelligence, evolutionary
+genetics, neural networks, artificial intelligence, cellular automata, etc.
+
+
+The interest of this Special Issue is focused on, but not limited to,
+the following areas of interest:
+
+Mobility patterns analysis by synthetic or realistic models;
+Innovative modelling techniques for communication systems, and their
+execution using optimized simulation algorithms;
+Simulation of wireless channel dynamics in new generation networks;
+Aerial drone object tracking through predictive models and simulations;
+Complex systems and networks;
+Congestion and admission control in wireless networks;
+Mobility management and congestion avoidance in vehicular environments;
+New tools and prediction techniques for measuring and monitoring mobile
+networks;
+Development of new simulation engines for communication systems with
+mobile nodes;
+Performance evaluation of mobile networks;
+QoS/QoE and models for predictive routing;
+Simulation of mobile network structures;
+Traffic analysis in mobile networks and modeling of performance metrics;
+Modelling of telecommunication systems by taking into account user mobility.
+
+
+Manuscript Submission Information
+=================================
+
+Submitted manuscripts should not have been published previously, nor be
+under consideration for
+publication elsewhere (except conference proceedings papers). All
+manuscripts are thoroughly refereed
+through a single-blind peer-review process. A guide for authors and
+other relevant information for
+submission of manuscripts is available on the Instructions for Authors
+page. Telecom is an
+international peer-reviewed open access quarterly journal published by MDPI.
+
+Please visit the Instructions for Authors page before submitting a
+manuscript. The Article Processing
+Charge (APC) for publication in this open access journal is 1000 CHF
+(Swiss Francs). Submitted papers
+should be well formatted and use good English. Authors may use MDPI's
+English editing service prior to
+publication or during author revisions.
+
+
+Guest Editors
+=============
+
+Dr. Peppino Fazio (University of Calabria, ITALY, Technical University
+of Ostrava, CZECK REPUBLIC)
+Prof. Dr. Floriano De Rango (University of Calabria, ITALY)
+Prof. Dr. Carlos Tavares Calafate (Technical University of Valencia, SPAIN)
+
+
+
+

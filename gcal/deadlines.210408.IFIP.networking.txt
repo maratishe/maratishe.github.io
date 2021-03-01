@@ -1,0 +1,30 @@
+
+Call for Demos: IFIP Networking 2021
+https://networking.ifip.org/2021/demo-session
+
+The demo track will provide a unique opportunity for students, researchers and engineers to present all types of network prototypes (software, platform, hardware, testbed…) they have developed, share their experience in front of an international audience and stimulate collaborations. The conference being virtual this year, the demo session will take place online.
+
+Demonstrations showcasing working systems, innovative applications, groundbreaking ideas, and novel concepts related to computer and communication networks are welcome. We are looking for demos complementary to contributions accepted and presented in other sessions of IFIP Networking 2021 (technical sessions, workshops) as well as independent submission.
+
+All demo proposals will be evaluated through a single-blind peer review based on the following criteria:
+	Relevance to IFIP Networking 2021 topics
+	Significance of the research and practical contribution
+	Potential Impact
+	Clarity of the setup and scenario description
+
+SUBMISSION GUIDELINES
+Demo papers must be written in English, with a maximum length limit of 2 printed pages using the IEEE two-column format, including all the figures, references, and appendices. The authors are invited to submit a supplementary video showcasing the demo. All papers and videos must be submitted in the Portable Document Format (PDF) electronically using the following link:https://edas.info/N28262
+
+An author of an accepted demo paper is required to register for the conference at author rate and the demo must be presented by an author of that demo at the conference. The 2-pages paper of the accepted and presented demos will be included in the conference proceedings and available in IEEE Explore.
+
+DEMO CHAIR
+CRISTEL PELSSER 	Université de Strasbourg, France
+
+IMPORTANT DATES
+PAPER SUBMISSION: April 8, 2021
+NOTIFICATION: April 29, 2021
+CAMERA READY: May 6, 2021
+
+
+
+

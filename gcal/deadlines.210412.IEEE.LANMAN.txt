@@ -1,0 +1,83 @@
+
+--------------------------------------------------------------------
+****************************************************************************
+Call for Papers (deadline extended)
+IEEE LANMAN 2021
+
+The 27th IEEE International Symposium on Local and Metropolitan Area
+Networks
+12 -14 July 2021// Virtual
+
+https://lanman2021.ieee-lanman.org/
+*****************************************************************************
+
+Abstract registration:  April 12, 2021, 23:59 EDT (extended, firm
+deadline)
+Paper submission:  April 12, 2021, 23:59 EDT (extended, firm deadline)
+
+https://lanman2021.ieee-lanman.org/
+
+*******************************************
+
+IEEE LANMAN has an established tradition as a forum for presenting and
+discussing the latest technical advances in local and metropolitan area
+networking. Cutting-edge papers spanning both theory and experimentation
+are solicited in all areas of networking. In keeping with the heritage of
+the symposium, there will be a central theme, and in 2021 the theme is
+“Networking in the New Normal.”
+
+The COVID-19 pandemic has changed the world to a new normal. Not only are
+research, business, education, and entertainment being shifted online, but
+also many of our daily activities are.  Recent technological advances in
+networking present unique opportunities to bring us to this new normal.  At
+the same time, they still pose numerous challenges to be addressed, such as
+scalable and pervasive connectivity, sustainable networking, and new
+application paradigms for online activities.
+
+The intimate single-track format of the symposium encourages stimulating
+exchanges between researchers. The event is expected to be a forum for
+discussion of new and interdisciplinary ideas on network access protocols,
+network management and control, services and applications. Speculative and
+potentially transformative ideas are particularly encouraged, as are
+studies reporting measurements from real-life networks and testbeds. Papers
+are solicited on any topic in networking, including, but not limited to:
+
+Networking for online education and entertainment
+Networking protocols and architectures for the IoTs
+Machine-to-machine communication
+Cloud, edge and fog computing integration
+Co-existence and heterogeneity support at the edge (HetNets)
+Energy efficiency for local and metropolitan area networking
+5G and 6G localization, device-free localization, and privacy-aware
+localization
+Information security for local and metropolitan area networking
+Intelligent routing, forwarding, and scheduling
+Named data networking
+Network and transport mechanisms for latency reduction
+Network virtualization in local and metropolitan areas
+Performance and reliability of local and metropolitan area networks
+Software-defined networking in local and metropolitan areas
+
+IEEE LANMAN 2021 solicits paper submissions of papers up to 6 pages. Some
+regular paper submissions may be accepted as short papers (2 pages) by the
+TPC. The page limits include all figures, tables, and references. All
+papers must be electronically submitted in PDF according to the guidelines
+in the symposium website  https://lanman2021.ieee-lanman.org/. The
+proceedings will be published in IEEE Xplore and will include both short
+and regular papers presented at the symposium. A best paper award will be
+awarded.
+
+Important Dates:
+Abstract registration:  April 12, 2021, 23:59 EDT (extended, firm deadline)
+Paper submission:  April 12, 2021, 23:59 EDT (extended, firm deadline)
+Acceptance notification:  June 7, 2021
+Camera-ready papers:  June 21, 2021
+Conference Dates:  July 12-14, 2021
+
+COVID-19 UPDATE
+--------------------------
+Following the advice and guidelines from healthcare officials and local
+authorities, IEEE LANMAN 2021 will now be held virtually on 12-14 July 2021.
+
+
+

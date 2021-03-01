@@ -1,0 +1,65 @@
+
+10th International Congress on Advanced Applied Informatics
+July 11-16, 2021, Niigata, Japan
+Note: Based on the situation of COVID-19, it might be held online.
+http://www.iaiai.org/conference/aai2021/
+
+Paper Submission Deadline(Full / Short and Poster paper): April 10, 2021
+AAI 2021 Proceedings will be published by Conference Publishing Services,
+provided by IEEE Computer Society. CPS will submit to be indexed by INSPEC,
+EI (Compendex), Thomson ISI and other indexing services.
+
+Conferences in AAI 2021 Congress
+-International Conference on E-Service and Knowledge Management (ESKM 2021)
+-International Conference on Learning Technologies and Learning Environments (LTLE 2021)
+-International Conference on Data Science and Institutional Research (DSIR 2021)
+-International Conference on Smart Computing and Artificial Intelligence (SCAI 2021)
+-International Conference on Business Management of Technology (BMOT 2021)
+-International Conference on Enterprise Architecture and Information Systems (EAIS 2021)
+-International Conference on Interaction Design and Digital Creation / Computing (IDDC 2021)
+-International Conference on Decision Science, Theory and Management (DSTM 2021)
+
+AAI 2021 congress composes the above 8 joint conferences and poster session.
+The congress totally has 70-80 technical sessions. And, AAI 2021 invites 2 keynotes
+from academia and industries.
+
+AAI 2021 Proceedings will be published by Conference Publishing Services, provided
+by IEEE Computer Society. CPS will submit to be indexed by INSPEC, EI (Compendex),
+Thomson ISI and other indexing services.
+Outstanding papers are published in the post conference publications.
+1. International Journal of Smart Computing and Artificial Intelligence (IJSCAI)
+2. Information Engineering Express – International Journal (IEE)
+3. International Journal of Service and Knowledge Management (IJSKM)
+4. International Journal of Institutional Research and Management (IJIRM)
+5. International Journal of Learning Technologies and Learning Environments (IJLTLE)
+
+Format guidelines for paper submissions
+We encourage paper submissions in IEEE CS style format. (See the IEEE CS home page:).
+The length of papers is recommended to be 6 pages length(full paper) ,
+4 pages length(short paper) or 2 page length(poster abstract).
+All submissions must not include the author's name(s), affiliation,
+complete mailing address, phone number, fax number and email address.
+Papers must be submitted in PDF format.
+
+Submissions
+Please read the author instructions carefully and submit your papers through
+http://iaiai.org/conference/aai2021/paper-submission/
+
+Review policy
+The submitted papers will be reviewed by at least 4 reviewers.
+The review criteria are Evaluation of work impact and contribution,
+Originality and novelty, Relevance to the call of papers, Significance
+to theory and practice, Readability and organization, Technical quality
+and soundness, and Overall evaluation with Reviewer familiarity and confidence.
+
+Important Dates
+Workshop and Special Session Proposal: February 25, 2021
+Full/Short/Poster Paper (6/4/2 pages) Submission: April 10, 2021
+Notification: April 30, 2021
+Cameraready due: May 15, 2021
+Early Registration: May 15, 2021
+Congress dates: July 11- 16, 2021
+
+
+
+
