@@ -1,0 +1,68 @@
+
+------------------------------------------------------------------------------------------
+[We apology for possible cross posting, and thank you in advance for
+distributing this CFP]
+
+IEEE/ACM IWQoS 2021: Call for Posters
+IEEE/ACM International Symposium on Quality of Service
+25-28 June 2021, Tokyo, Japan
+https://iwqos2021.ieee-iwqos.org/
+
+Call for Posters
+IEEE/ACM IWQoS is the premier annual symposium on Quality of Service,
+providing an international forum for the presentation and discussion of
+cutting edge research in the field. Following previous practice, IWQoS
+2021 will include a poster track and technical posters presenting
+innovative and original research are solicited. In general, IWQoS is
+interested in posters of technology with a special focus on work in
+progress, upcoming research challenges, and new directions in the field
+of QoS.
+
+The topics of the IWQoS poster session coincide with the IWQoS main
+track. They include but are not limited to:
+•    Quality of services in Internet of things
+•    Quality of cloud services and cloud computing
+•    Quality of mobile cloud services and fog computing
+•    Quality of protection, user experience, security and privacy
+•    Quality of services in software-defined networking
+•    Quality of services in information-centric networking
+•    Quality of services in mobile and next generation cellular networking
+•    Quality of service in physical networks
+•    System dependability, availability, resilience and robustness to
+faults and security attacks
+•    Robustness against security vulnerabilities in critical infrastructures
+•    Scheduling, resource management, queue management, admission control
+•    Traffic engineering approaches and tools for provisioning and
+evaluation
+•    Quality evaluation metrics and methodologies
+•    QoS parsing, identification and control
+•    Quality of software
+•    Quality of experience in multimedia networks
+•    Measurement, evaluation, adaptation and verification
+•    Network operations, pricing and billing, network and service management
+•    Architectures and protocols for IP, overlay and peer-to-peer
+networks, optical networks, wireless, ad hoc, mesh, and sensor networks
+•    Energy awareness in communication systems
+•    Design for future networks and computing systems with QoS in mind
+
+Submission Guidelines
+Authors are invited to submit extended abstracts no longer than 2
+single-spaced, double-column pages with font-size of 10 point using the
+standard IEEE template for Microsoft Word or LaTeX formats found at
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+Poster submissions do NOT need to be double-blind. Accepted and
+presented posters will be published in the conference proceedings and
+submitted to IEEE Xplore.
+
+Papers must be submitted electronically as PDF files, via EDAS
+(https://www.edas.info/newPaper.php?c=27998&track=105374)
+
+Important Dates
+Poster Paper Submission Deadline:  April 8 2021
+Notification of Decision: May 1 2021
+Camera-ready Version: May 13 2021
+
+IEEE/ACM IWQoS 2021 Poster Co-Chairs
+•    Yuki Koizumi, Osaka University, Japan – ykoizumi@ist.osaka-u.ac.jp
+•    Tian Wang, Beijing Normal University & UIC, China – wangtian@hqu.edu.cn
+

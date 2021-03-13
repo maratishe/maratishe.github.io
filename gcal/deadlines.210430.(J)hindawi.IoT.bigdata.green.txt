@@ -1,0 +1,56 @@
+
+======================================================================
+
+Call for Paper
+
+Special Issue "Internet of Things and Big Data Analytics for a Green Environment"
+
+Website:  : https://www.hindawi.com/journals/mpe/si/705263/
+
+Deadline: 30 Apr 2021 .
+
+Dear Colleagues,
+
+The rapid growth in the population density in green cities demands that services and infrastructure be provided to meet the needs of city inhabitants. Thus, there has been an increase in the request for embedded devices, such as sensors, actuators, and smartphones, leading to considerable business potential for the new era of the Internet of Things (IoT), in which all devices are capable of interconnecting and communicating with each other over the Internet.
+
+Thus, Internet technologies provide a way of integrating and sharing a common communication medium and a complete system consisting of various types of sensor deployment, including smart home sensors, vehicular networking, weather and water sensors, smart parking sensors, and surveillance objects.
+
+This iSpecial Issue aims to bring together researchers and practitioners to discuss various aspects of Internet of things and Big Data for Green Cities, to explore key technologies, and to develop new applications in this research field. Original research and review articles are welcome.
+
+Potential topics include but are not limited to the following:
+
+* IoT-based big data processes and applications for green cities
+
+* IoT-based services for smart and green cities
+
+* Social computing big data and networks for green cities
+
+* Green city big data governance and management
+
+* City analytics methods and applications
+
+* Green informatics: acquisition, aggregation, and analysis of big data
+
+* Green computing for sustainable planning and city configuration evaluation
+
+* Big data modelling, storage, management, and analytics
+
+Authors can submit their manuscripts through the Manuscript Tracking System at
+
+https://review.hindawi.com/submit?specialIssue=532007
+
+
+
+Papers are published upon acceptance, regardless of the Special Issue publication date
+
+For more information please visit : https://www.hindawi.com/journals/mpe/si/705263/
+
+
+
+
+Best Regards,
+Mohammed FATTAH
+Guest Editor
+
+
+

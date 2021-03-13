@@ -1,11 +1,12 @@
 
+**[Please accept our apologies if you receive multiple copies of this email]**
+
 Dear Colleagues,
 As one of the Guest Editors, I cordially invite you to submit a manuscript for consideration and possible publication in the Special Issue on "Innovating the Network for Data-Intensive Science (INDIS 2020)" to be published in Cluster Computing: The Journal of Networks, Software Tools and Applications (https://www.springer.com/journal/10586). Manuscript submission deadline is March 31, 2021. For submission details, please see below or refer to our website: https://scinet.supercomputing.org/community/indis/cfp-journal/.
 
 Kind regards,
 Sarah Neuwirth
 on behalf of the INDIS 2020 Guest Editors
-
 
 ================================
 Scope, Aims, and Topics
@@ -16,7 +17,7 @@ Networks for data-intensive science have more extreme requirements than general-
 
 The INDIS 2020 workshop (https://scinet.supercomputing.org/community/indis/), held virtually in conjunction with the Supercomputing Conference in November 2020, provided a venue for the exchange of ideas on the above topics.
 
-For this special issue to be published in Cluster Computing: The Journal of Networks, Software Tools and Applications (https://www.springer.com/journal/10586) related to the INDIS workshop, we encourage research papers that address one or more of the following networking research challenges; and developments that are essential in the information systems infrastructure for the scientific discovery process. Participants to the workshop are invited to submit extended versions of their accepted papers. We also welcome new paper submissions on related topics.
+For this special issue to be published in Cluster Computing: The Journal of Networks, Software Tools and Applications (https://www.springer.com/journal/10586) related to the INDIS workshop, we encourage research papers that address one or more of the following network research challenges; and developments that are essential in the information systems infrastructure for the scientific discovery process. Participants to the workshop are invited to submit extended versions of their accepted papers. We also welcome new paper submissions on related topics.
 
 Topics of interest include, but are not limited to:
 - Data-intensive distributed application architectures
@@ -34,11 +35,11 @@ Topics of interest include, but are not limited to:
 ================================
 Submission Guidelines
 ================================
-Accepted papers will be published in Cluster Computing: The Journal of Networks, Software Tools and Applications. Please follow the submission guidelines for Cluster Computing when preparing your manuscript for the INDIS 2020 special issue: https://www.springer.com/journal/10586/submission-guidelines
+Accepted papers will be published in Cluster Computing: The Journal of Networks, Software Tools and Applications. Please follow the submission guidelines for Cluster Computing (https://www.springer.com/journal/10586/submission-guidelines) when preparing your manuscript for the INDIS 2020 special issue. Please note that there is no page limit and that there is no fee to publish the paper, unless the authors decide to use the open access publishing service of the journal.
+
+For extended workshop papers, the paper should have a new title, a new abstract, and about 40-50% of new content in comparison to the original workshop paper.
 
 Special issue papers must be submitted electronically at https://www.editorialmanager.com/clus/default.aspx and must use Springer’s LaTeX macro package (choose the formatting option “twocolumn”), which can be found here: https://www.springer.com/journal/10586/submission-guidelines. When starting a new submission, please select the special issue INDIS-2020 from the drop down list.
-
-For extended workshop papers, the paper should have a new title, a new abstract, and about 40-50％ of new content in comparison to the original workshop paper.
 
 ================================
 Projected Timeline
@@ -52,7 +53,7 @@ Projected Timeline
 Guest Editors
 ================================
 - Michelle Zhu, Montclair State University, USA
-- Sarah M. Neuwirth, Heidelberg University, Germany
+- Sarah M. Neuwirth, Goethe-University Frankfurt, Germany
 - Mariam Kiran, ESnet, Lawrence Berkeley National Laboratory, USA
 
 ================================
@@ -63,5 +64,19 @@ Please refer to our INDIS 2020 website for the latest updates:
 https://scinet.supercomputing.org/community/indis/
 
 
+-----------------------------------------------------------------------
+Dr. Sarah M. Neuwirth
+Goethe-Universität Frankfurt | Campus Riedberg
+Modulares Supercomputing und Quantencomputing
+FIAS-Gebäude | Raum 2.403 | Ruth-Moufang-Str. 1
+60438 Frankfurt am Main | Germany
+-----------------------------------------------------------------------
+
+---------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Authors mailing list
+Authors@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/authors
 
 

@@ -1,4 +1,6 @@
 
+---------------------Call for Papers - Deadline Extended ------------------------------
+
 The 8th International Conference on Future Internet of Things and Cloud (FiCloud 2021)
 IEEE-CS TCI
 
@@ -6,7 +8,7 @@ IEEE-CS TCI
 
 http://www.ficloud.org/2021/
 
----------------------------------------------------------------------------------------
+------------------------------------------------------------
 
 Cloud is a modern computing platform for delivering on-demand computing services to service consumers over the Internet. Computing services include, for example, storage, memory, compute power, databases, and networking among others. Cloud services are generally provided using SaaS (Software-as-a-Service), PaaS (Platform-as-a-Service) and IaaS (Infrastructure-as-a-Service). Unlike conventional distributed computing, cloud offers flexibility, scalability, efficiency and elasticity in service provisioning.
 
@@ -39,7 +41,7 @@ CONFERENCE TRACKS:
 
 Important Dates:
 
-Submission Deadline: 10 March 2021
+Submission Deadline: 31 March 2021
 Authors Notification: 20 May 2021
 Final Manuscript Due: 15 June 2021
 
@@ -55,4 +57,14 @@ All papers accepted for this conference are planned to be published in the confe
 
 Authors of selected papers will be invited to submit extended versions of their papers for special issues in international journals (see conference website).
 
+-------------------------------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Mycolleagues mailing list
+Mycolleagues@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/mycolleagues
+
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
+OR
+- Easy unsubscribe: https://mailman.ufsc.br/mailman/options/mycolleagues
 

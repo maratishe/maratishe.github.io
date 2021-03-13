@@ -1,0 +1,90 @@
+
+Call For Papers: Special Track on AI for Tackling Dis/Misinformation
+during Pandemics In conjunction with the ACM International Conference
+on Information Technology for Social Good (GoodIT 2021)
+
+The GoodIT conference is sponsored by ACM SIGCAS, the Association for
+Computing Machinery's Special Interest Group on Computers & Society.
+The conference focuses on the application of IT technologies to social
+good.
+
+The Special Track on AI for Tackling Dis/Misinformation during
+Pandemics focuses on new data technologies based on artificial
+intelligence, data governance, machine learning, natural language
+processing, and social network analysis to aid experts in analyzing
+large volumes of social media data in order to detect fake news,
+misinformation, and disinformation. A number of open challenges need
+more investigation from the research community, such as recent trends
+in composing information disorder by combining false and real content,
+the mechanisms that drive fake content diffusion during pandemics, how
+to differentiate fake content from personal viewpoints, why people
+tend to believe fake content and make decisions based on it during
+pandemics, and what are the different motivations behind the
+dissemination of fake content.  Fact-checking and claim verification
+are two important strategies that are worth incorporating in the
+automated tackling and curtailment of fake content during and after
+pandemics.
+
+************ Key Dates ************
+Papers Submission Due:      May 1, 2021
+Authors Notifications:         June 22, 2021
+Final Manuscript Due:         July 10, 2021
+GoodIT 2021:                    September 09-11, 2021
+
+************ Important Links ************
+Special Track Website: https://aitdmp.conceptechint.net
+Submission Link: https://goodit2021.hotcrp.com/
+
+************ Submission Guidelines  ************
+All submissions will be reviewed using a single-blind review process.
+The identity of referees will not be revealed to authors, but authors
+can keep their names on the submitted papers, on figures,
+bibliography, etc.
+
+Papers should not exceed 6 pages (US letter size) double column
+including figures, tables, and references in standard ACM format.
+Papers must be submitted electronically in printable PDF form.
+Templates for the standard ACM format can be found here:
+https://www.acm.org/publications/proceedings-template No changes to
+margins, spacing, or font sizes are allowed from those specified by
+the style files. Papers violating the formatting guidelines will be
+returned without review.
+
+ACM has partnered with Overleaf, a free cloud-based, collaborative
+authoring tool, to provide an ACM LaTeX authoring template. The ACM
+LaTeX template on Overleaf platform is available to all ACM authors
+at: www.overleaf.com/gallery/tagged/acm-official
+
+Accepted papers will be included in the ACM Digital Library. Special
+issues associated with the conference are being organized.
+
+************ Topics ************
+Papers on practical as well as on theoretical topics and problems in
+various topics related to rumors, fake news, misinformation, and
+disinformation during and after pandemics, are invited, with special
+emphasis on novel techniques and tools for automated tackling and
+curtailment of fake content during and after pandemics. Topics include
+(but are not limited to):
+-AI approaches for the detection of online influence and manipulation
+-AI approaches to identify misinformation and disinformation campaigns
+-AI approaches for spotting misinformation and disinformation spreaders.
+-Social media mining for automated detection of misinformation
+propagation and disinformation circulation
+-AI approaches for automated identification and verification of claims
+-AI approaches for intention detection for misinformation and
+disinformation contents
+-AI approaches for credibility assessment of Social media sources
+-AI approaches for fake news curtailment, filtering and prevention.
+-AI approaches for analysis/detection of distributed and
+multi-platform misinformation and disinformation disseminations
+-AI approaches for predicting the Impact of misinformation and
+disinformation during pandemics
+-New datasets and evaluation methodologies to aid in automated
+detection and analysis of misinformation and disinformation content in
+social media channels
+
+**********The Conference Sponsored by**********
+Association for Computing Machinery's Special Interest Group on
+Computers & Society http://www.sigcas.org/
+
+

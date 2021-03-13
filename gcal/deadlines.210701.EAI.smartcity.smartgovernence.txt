@@ -1,0 +1,125 @@
+
+CALL FOR PAPERS
+
+EAI SmartGov 2021 - 3rd EAI International Conference on Smart Governance for Sustainable Smart Cities, November 24-26, 2021
+
+Website: https://smart-governance.eai-conferences.org/2021/
+
+Paper Submission: 1 July 2021
+
+Scope
+
+Rapid urbanization and social change drives governments to seek out new ways to deliver services and manage cities and drives innovation in processes and policies through smart cities. At the same time, emerging digital technologies offer new ways for local government to understand and monitor the dynamics of the city, respond to the state of the city, carry out administrative tasks and streamline procedures. The complexity of smart cities and settlements means that roles and responsibilities must shift to allow a greater range of stakeholders to contribute to the design and delivery of smart services. This means that smart cities need to find new ways to interact with business, thought-leaders, suppliers, residents, and visitors. Greater transparency and frequent, two-way communication are expected with the co-creation of public services allowing for greater innovation. Advances in data science allow relevant, real-time data to be transformed into useful information to understand urban behavior and infrastructure needs. This can support evidence-based decision making, automated responses and autonomously managed procedures. Realizing this potential, however, raises concerns about privacy and security issues, the resilience of critical information infrastructures, and the unintended consequences as social expectations and behaviors are shaped by algorithms.
+
+In this regard, it is crucial for smart cities to provide trustworthy services which are secure, privacy aware and sustainable. Our aim is to promote the development of secure and sustainable smart cities with smart governance. The SmartGov 2021 will serve as a forum for researchers from academia, government and industries, to exchange ideas, present new results, and provide future visions on these topics.
+
+Topics
+
+Topics include, but not limited to:
+
+Smart governance foundations, models, frameworks, and principles for smart cities
+Wireless networking for smart cities
+Cybersecurity and privacy for smart cities
+Cloud/edge/fog computing for smart cities
+IoT and Cyber Physical Systems for smart cities
+Secure and Trustworthy Computing for smart cities
+Social media and urban awareness
+Blockchain for smart governance and smart cities
+Data and evidence-based policymaking
+Urban big data from heterogeneous sources
+AI and Machine Learning for secure and sustainable smart cities.
+Smart governance practices, dynamics, challenges, and trade-offs
+Alignment of city policies with social and environmental sustainability goals
+Governance of transformation processes
+Measurement and monitoring of smart governance process and outcomes.
+Smart governance-related case-studies and experience reports
+Citizen-centricity and citizen-driven solutions for smart cities
+Co-production and collaborative forms of service design and delivery
+Open governance, participatory decision making and accountability
+Urban innovation, new business models, legal and normative frameworks
+Impact of emerging technologies (e.g., AI, machine learning, blockchain, sensor networks, intelligent transportation systems)
+
+Publication
+
+All registered papers will be submitted for publishing by Springer and made available through SpringerLink Digital Library.
+
+Proceedings will be submitted for inclusion in leading indexing services, Ei Compendex, ISI Web of Science, Scopus, CrossRef, Google Scholar, DBLP, as well as EAI’s own EU Digital Library (EUDL).
+
+All accepted authors are eligible to submit an extended version in a fast track of:
+
+EAI Endorsed Transactions on Smart Cities (Open Access)
+EAI Endorsed Transactions on Energy Web (Open Access)
+indexed in Scopus
+
+Additional publication opportunities:
+
+EAI/Springer Innovations in Communications and Computing Book Series
+
+Paper submission
+
+Papers should be submitted through EAI ‘Confy+' (https://confyplus.eai.eu/) system, and have to comply with the Springer format (see Author’s kit section - https://smart-governance.eai-conferences.org/2021/submission/#authorskit).
+
+Important dates
+
+Full Paper Submission deadline
+1 July 2021
+
+Notification deadline
+1 August 2021
+
+Camera-ready deadline
+1 September 2021
+
+Start of Conference
+24 November 2021
+
+End of Conference
+26 November 2021
+
+ORGANIZING COMMITTEE
+
+General Chair
+
+Danda B. Rawat
+Howard University, USA
+
+Technical Program Committee Chairs
+
+Yun Lin
+Harbin Engineering University, China
+
+Wenjia Li
+New York Institute of Technology, USA
+
+Prof. Varun Menon
+SCMS School of Engineering and Technology, India
+
+Web Chair
+
+Babu Ram Dawadi
+Tribhuvan University, Nepal
+
+Publicity and Social Media Chair
+
+Al-Sakib Khan Pathan
+Independent University, Bangladesh (IUB), Bangladesh
+
+Workshops Chair
+
+Kayhan Zrar Ghafoor
+Knowledge University, Iraq
+
+Publications Chairs
+
+Linwei Niu
+Howard University, USA
+
+Danda B. Rawat
+Howard University, USA
+
+Panels Chair
+
+Linwei Niu
+Howard University, USA
+
+

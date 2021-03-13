@@ -1,0 +1,53 @@
+
+second Call for Papers
+
+Society 5.0 Conference
+
+Integrating Digital World and Real World to Resolve Challenges in Business and Society
+
+Virtual forum - 22nd to 24th June 2021
+
+https://www.conference-society5.org/
+
+
+
+We are excited to invite you to submit research papers to our first Society 5.0 Conference.
+
+
+
+Society 5.0 can be defined as a human-centered society that balances economic advancement with the resolution of social problems by a system that highly integrates cyberspace (virtual space) and physical (real) space. The aim of Society 5.0 is to create a society where social challenges are resolved by incorporating the innovations of the fourth industrial revolution (e.g. Internet of Things, Big Data, Artificial intelligence, and the sharing economy) into industry and social life. The term originated in Japan from the government’s Council for Science, Technology, and Innovation and it tackles any aspect of society like healthcare, mobility, infrastructure, politics, government, economy and industry.
+
+
+
+Society 5.0 also involves the enormous opportunities and challenges of the 21st century. Problems such as climate change, migration and resource consumption must be solved jointly and globally. Sustainable Development Goals (SDGs) such as poverty and education require international efforts. Lessons learned from the Covid-19 pandemic can have an important impact on dealing with global challenges and crisis situations. Technological advancements and trends for digital transformation should assist us to address these global problems. Convergence of cyberspace and physical space can foster new forms of global cooperation. People, things, and systems are all connected in cyberspace. Results obtained by AI can exceed the capabilities of humans and are fed back to physical space.
+
+
+
+The conference Society 5.0 is going to deal with the entire range of these opportunities and challenges and show solutions. For a list of topics please refer to the website https://www.conference-society5.org/call-for-papers
+
+
+
+All submissions will be double blind peer-reviewed by an international programme committee, and accepted papers will be published in a volume of Springer CCIS (Communications in Computer and Information Science) series (final approval pending). CCIS is abstracted/indexed in DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago and Scopus.
+
+
+
+Authors should consult Springer's authors' guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers.  All submissions must be unpublished and not be under review elsewhere. Page limit for all papers is 12 pages.
+
+
+
+Submissions should be made in PDF format using the conference EasyChair submission page.
+
+
+
+The conference series will kick off with a virtual forum on 22nd-24th June 2021. In 2022 the Society 5.0 conference will take place in Switzerland.
+
+
+
+Important Dates
+
+Submission deadline: 14th March 2021
+Notification of authors: 1st of May 2021
+Camera-ready: 15th of May 2021
+Virtual forum: 22nd to 24th of June 2021
+For more details about topics and submissions, see https://www.conference-society5.org/
+

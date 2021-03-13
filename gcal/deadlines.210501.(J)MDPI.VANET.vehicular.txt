@@ -1,0 +1,40 @@
+
+Dear Colleagues,
+As Guest Editor, I cordially invite you to submit a manuscript for consideration and possible publication in a Special Issue "Security Measures in Vehicular Ad-Hoc Networks" to be published in the journal Electronics (IF 2.412) (ISSN 2079-9292) (https://www.mdpi.com/journal/electronics/).
+
+The Vehicular Ad-Hoc Network (VANET) is a self-organised ad-hoc network that can be formed by connecting vehicles with other vehicles on the road and with static infrastructure such as crossroads or parking lots. VANET allows its users to share their information and knowledge about road conditions, events, and traffic. Analysing data from this type of network allows road safety to be increased efficiently by controlling crises on the road and supports traffic management thanks to Internet access for drivers and software developers.
+However, just like any network, VANET is exposed to attacks and attempts to gain access to data that are generated and transferred between network elements.
+Therefore, it has become necessary to design, develop, and extend the appropriate security methods, mechanisms and tools for VANET to protect and secure data exchanged between the network nodes, and, consequently, to secure its users and protect them against incorrect information, misinformation, and delays in information sending.
+This Special Issue aims to present a collection of papers that address problems in the methods, mechanisms, and tools for securing the VANETs and their users by exploring aspects such as security design, architectures, deployment, routing, and protocols.
+Topics of interest include but not are limited to security methods and mechanics for vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication environments, protective methods against any form of security attack (e.g., DoS attack, timing attack, man-in-the-middle attack, Bogus, Sybil, Black, Worm and Gray Hole attack), the security of routing protocols, security and privacy methods for availability, confidentiality, data integration, authentication, and access control.
+
+The manuscript submission deadline is 31 August 2021. We will process your paper in time once we receive your submission. For more details please visit the Special Issue website:
+
+https://www.mdpi.com/journal/electronics/special_issues/security_measures
+
+The topics include but are not limited to:
+
+Security and privacy methods and mechanics
+Authentication and access control
+Security of routing protocols
+Data availability
+Confidentiality and integration
+Cryptography
+Vanet architecture for security
+V2v and v2i communication security
+
+
+Please share this invitation with your team members and colleagues; co-authors are most welcome. Please let me know as soon as possible if you are interested in submitting a manuscript for this Special Issue with tentative title and abstract. Your contribution would be most welcome.
+
+We are looking forward to hearing from you.
+
+With kind regards,
+
+Guest Editors
+
+Prof. Dr. Aneta Poniszewska-Maranda
+
+Institute of Information Technology,
+
+Lodz University of Technology, 90-924 Lodz, Poland
+
