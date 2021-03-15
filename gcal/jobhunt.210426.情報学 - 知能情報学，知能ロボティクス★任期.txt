@@ -1,0 +1,10 @@
+no : 19
+id : D121030031 
+update : 2021年03月03日
+univ : 金沢大学
+title : 教授、准教授または講師の公募（国際基幹教育院）
+field : 情報学 - 知能情報学，知能ロボティクス，人工知能/Intelligence informatics; Intelligence robotics; Artificial intelligence -- 総合理工 - 知能情報学，知能ロボティクス，人工知能/Intelligence informatics; Intelligence robotics; Artificial intelligence
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期あり)
+deadline : 2021年04月26日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030031&ln_jor=0&top_btn=1

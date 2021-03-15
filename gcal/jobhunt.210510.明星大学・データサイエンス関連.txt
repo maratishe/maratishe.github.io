@@ -1,0 +1,10 @@
+no : 7
+id : D121030418 
+update : 2021年03月08日
+univ : 明星大学・データサイエンス関連
+title : 教授、准教授または助教の公募 [Ctrl  ]
+field : 情報学 - 全て -- 社会科学 - 経営学 -- 複合領域 - 科学教育・教育工学
+post : 教授相当 -- 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月10日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030418&ln_jor=0&top_btn=1

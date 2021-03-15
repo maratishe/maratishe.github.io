@@ -1,0 +1,10 @@
+no : 16
+id : D121030381 
+update : 2021年03月06日
+univ : 山口大学
+title : 山口大学大学院創成科学研究科工学系学域知能情報工学分野　准教授の公募
+field : 工学 - 知能工学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月21日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030381&ln_jor=0&top_btn=1

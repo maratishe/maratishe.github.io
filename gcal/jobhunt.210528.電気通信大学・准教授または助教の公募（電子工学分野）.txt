@@ -1,0 +1,10 @@
+no : 17
+id : D121030542 
+update : 2021年03月10日
+univ : 電気通信大学・准教授または助教の公募（電子工学分野）
+title : 准教授または助教の公募（電子工学分野）
+field : 工学 - 電気電子工学 -- 総合理工 - ナノ・マイクロ科学 -- 工学 - 物理工学
+post : 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月28日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030542&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 22
+id : D121030615 
+update : 2021年03月11日
+univ : 名古屋工業大学
+title : 名古屋工業大学・情報工学分野・教授募集
+field : 情報学 - 全て
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年04月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030615&ln_jor=0&top_btn=1

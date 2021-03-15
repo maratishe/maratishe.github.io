@@ -1,0 +1,10 @@
+no : 32
+id : D121030539 
+update : 2021年03月10日
+univ : 関西大学
+title : 関西大学経済学部専任教員（データ分析入門（原因と結果の経済学））教授、准教授または助教の公募
+field : 社会科学 - 経済学
+post : 教授相当 -- 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月07日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030539&ln_jor=0&top_btn=1

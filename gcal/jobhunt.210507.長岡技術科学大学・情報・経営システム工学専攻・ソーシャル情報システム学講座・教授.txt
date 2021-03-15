@@ -1,0 +1,10 @@
+no : 22
+id : D121030505 
+update : 2021年03月09日
+univ : 長岡技術科学大学・情報・経営システム工学専攻・ソーシャル情報システム学講座・教授
+title : 情報・経営システム工学専攻　ソーシャル情報システム学講座　教授
+field : 情報学 - 全て -- 総合理工 - 計算科学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月07日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030505&ln_jor=0&top_btn=1
