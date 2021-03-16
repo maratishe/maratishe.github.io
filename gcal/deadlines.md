@@ -829,88 +829,6 @@ conference. Details will be made available on the website.
 
 
 
-Organisation committee  
-======================  
-
-
-- General Chairs  
-* Christina Pöpper, New York University Abu Dhabi, UAE  
-* Mathy Vanhoef, New York University Abu Dhabi, UAE  
-- PC Chairs  
-* Lejla Batina, Radboud University, The Netherlands  
-* René Mayrhofer, Johannes Kepler University Linz, Austria  
-- Reproducibility Chairs  
-* Aanjhan Ranganathan, Northeastern University, Boston, USA  
-* Bradley Reaves, North Carolina State University, Raleigh, NC, USA  
-
-
-
-
-Program committee  
-=================  
-• Ahmad-Reza Sadeghi, TU Darmstadt, DE  
-• Alexandra Dmitrienko, University Wurzburg, DE  
-• Bradley Reaves, North Carolina State University, US  
-• Cristina Onete, University of Limoges, FR  
-• Daniel Gruss, TU Graz, AT  
-• Dave Singelee, KU Leuven, BE  
-• David (Aziz) Mohaisen, University of Central Florida, US  
-• David Barrera, Carleton University, CA  
-• Doowon Kim, University of Tennessee, Knoxville, US  
-• Eleonora Losiouk, University of Padua, IT  
-• Erik Tews, University Twente, NL  
-• Fareena Saqib, University of North Carolina at Charlotte, US  
-• Gang Wang, University of Illinois at Urbana, US  
-• Gerhard Hancke, City University of Hong Kong, HK  
-• Gildas Avoine, Rennes, FR  
-• Guevara Noubir, Northeastern University, US  
-• Ioana Boureanu, University of Surrey, UK  
-• Jian (Jack) Liu, University of Tennessee, Knoxville, US  
-• Jiska Classen, TU Darmstadt, DE  
-• Jorge Guajardo, Bosch, US  
-• Jorge Toro-Pozo, ETH, CH  
-• Katerina Mitrokotsa, University of St. Gallen, CH  
-• Katharina Kohls, Radboud University, NL  
-• Kazuo Sakiyama, University of Telecommunication Tokyo, US  
-• Kerstin Lemke-Rust, University of Applied Sciences  
-Bonn-Rhein-Sieg, DE  
-• Kevin Butler, University of Florida, US  
-• Luyi Xing, Indiana University Bloomington, US  
-• Martin Henze, Fraunhofer FKIE, DE  
-• Mathy Vanhoef, NYU Abu Dhabi, UAE  
-• Matthias Hollick, TU Darmstadt, DE  
-• Matthias Payer, EPFL, CH  
-• Michael Roland, Johannes Kepler University Linz, AT  
-• Naofumi Homma, Tohoku University, JP  
-• Nele Mentens, Leiden University and KU Leuven, NL  
-• Nils Ole Tippenhauer, CISPA Saarbrucken, DE  
-• Nitesh Saxena, University of Alabama at Birmingham, US  
-• Panos Papadimitratos, KTH, SE  
-• Patrick Traynor, University of Florida, US  
-• Rolando Trujillo Rasua, Deakin Melbourne, AU  
-• Selcuk Uluagac, Florida International University, US  
-• Shivam Bhasin, NTU, SG  
-• Srdjan Capkun, ETH Zurich, CH  
-• Stjepan Picek, TU Delft, NL  
-• William Enck, NC State University, US  
-• Xiayu Ji, ZJU, CN  
-• Yanick Fratantonio, Cisco Talos, AT  
-• Yao Zheng, University of Hawaiʻi at Mānoa, US  
-• Yingying Chen, Rutgers University, US  
-• Yuan Tian, University of Virginia, US  
-
-
-
-
-Steering committee  
-=================  
-• Patrick Traynor, University of Florida, USA  
-• Kevin Butler, University of Florida, USA  
-• William Enck, North Carolina State University, USA  
-• René Mayrhofer, Johannes Kepler University Linz, Austria  
-• Guevara Noubir, Northeastern University, USA  
-• Panos Papadimitratos, KTH Royal Institute of Technology, Sweden  
-• Christina Pöpper, New York University Abu Dhabi, UAE  
 
 
 
@@ -987,119 +905,43 @@ TMA 2021 Proceedings are open access, available at the IFIP Open Digital Library
 ***Call for Papers***  
 
 
-
-
-
-
 The surging demand for bandwidth and the increasing heterogeneity of services are posing substantial new challenges in networking. Emerging paradigms based on the softwarization, virtualization, cloudification of the network infrastructures are fostering exciting changes in the ways we build and manage such systems. In particular, they force us to re-think traffic measurement and analysis across the whole stack, from the physical layer up to applications in the Cloud.  
-
-
-
-
 
 
 The Network Traffic Measurement and Analysis Conference (TMA) aims at being a highly selective venue for the presentation of early-stage and mature research – as well as controversial work – on all aspects of both measurement and analysis of network traffic. The TMA conference has a strong tradition of open and lively interaction among scientists and engineers in academia and industry, and serves as a premier forum to exchange ideas, and present advances over the state-of-the-art.  
 
 
-
-
-
-
 TMA 2021 invite submissions presenting concepts, experiences, and of course results in collection, processing, analysis and visualization of network traffic data, which may address performance enhancement, monitoring, management, security, privacy or other uses of network data. The focus is on improving the practice or application of network measurements across the entire network stack up to application layers, with an emphasis on new areas of network communication such as Network Function Virtualization, Software-Defined Networks, Cloud services, data centers or Content Distribution Networks, towards as to support innovative services and applications. We also welcome more traditional measurement topics, such as traffic classification, anomaly detection, network performance evaluation and traffic analysis.  
 
 
-
-
-
-
 Topics of interest include, but are not limited to:  
-
-
-
-
-
-
 - Traffic measurement, analysis, characterization, visualization and classification  
-
-
 - Use of data analytics, data mining, artificial intelligence and machine learning in network measurement and analysis  
-
-
 - Use of big data, high-rate processing and data reduction in network measurement, analysis and visualization  
-
-
 - Measurements of data centers or cloud-based systems  
-
-
 - Measurements of Software-Defined Networks (SDN) and Virtual Network Functions (VNF)  
-
-
 - Measurements of home, mobile and wireless traffic including devices with multiple network paths  
-
-
 - Application-layer measurements, including web services, social networks, mobile applications  
-
-
 - Measurements of quality of service and quality of experience, for network services using audio, video, virtual/augmented reality and gaming  
-
-
 - Measurements of network performance and network structure  
-
-
 - Measurement of traditional and new protocols (e.g. TCP, MPTCP, HTTP/2, QUIC) and modes of communication (e.g. NFC and IoT)  
-
-
 - Measurements on testbeds, experimental networks or prototype networks  
-
-
 - Platforms for measurement, troubleshooting, management, and control of operational networks  
-
-
 - Simulation and modelling for network measurements, analysis and visualization  
-
-
 - Identification and classification of traffic, including encrypted and proprietary protocols  
-
-
 - Techniques for and implications of privacy preservation, enhancement and anonymization in the context of traffic measurements  
-
-
 - Applications of traffic analysis for security, anomaly/vulnerability/attack detection and user profiling/privacy  
-
-
 - Current and emerging regulatory frameworks for measurement, analysis and privacy  
-
-
 - Validation and repeatability of measurements, shared datasets, collaborative platforms  
 
 
 
 
-
-
-
-
-
-
 ***Important Dates***  
-
-
-
-
-
-
 Paper registration: March 19 midnight CET, 2021  
-
-
 Paper submission: March 26 midnight CET, 2021  
-
-
 Author notification: June 16, 2021  
-
-
 Camera ready: July 16, 2021  
-
-
 Conference dates: Sep 13-15, 2021  
 
 
