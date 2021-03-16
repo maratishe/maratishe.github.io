@@ -189,9 +189,9 @@
 2021-03-16 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2021-03-16
 2021-03-16 wifi dongle @ home #current due:2021-03-16
 2021-03-16 ACM.WiSec.wireless.security #deadlines due:2021-03-18
+2021-03-16 (IFIP)TMA.traffic.measure.annal #deadlines due:2021-03-19
 2021-03-16 (hindawi)AI #deadlines due:2021-03-19
 2021-03-16 Elsevier.FNC.future.nets #deadlines due:2021-03-19
-2021-03-16 IFIP.TMA.traffic.measure.annal #deadlines due:2021-03-19
 2021-03-16 北海道大学・メディアネットワーク部門・情報通信システム学分野・教授 #jobhunt due:2021-03-19
 2021-03-16 香川大学・創造工学部 准教授・講師または助教の公募（情報通信コース） #jobhunt due:2021-03-19
 2021-03-16 (elsevier)appliedenergy.sharing #deadlines due:2021-03-20
