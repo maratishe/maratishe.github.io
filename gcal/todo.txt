@@ -189,7 +189,6 @@
 2021-03-16 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2021-03-16
 2021-03-16 wifi dongle @ home #current due:2021-03-16
 2021-03-16 ACM.WiSec.wireless.security #deadlines due:2021-03-18
-2021-03-16 (IFIP)TMA.traffic.measure.annal #deadlines due:2021-03-19
 2021-03-16 (hindawi)AI #deadlines due:2021-03-19
 2021-03-16 Elsevier.FNC.future.nets #deadlines due:2021-03-19
 2021-03-16 北海道大学・メディアネットワーク部門・情報通信システム学分野・教授 #jobhunt due:2021-03-19
@@ -200,8 +199,8 @@
 2021-03-16 (3) docomocycle data collect #regulars due:2021-03-23
 2021-03-16 ① money (weekly) #regulars due:2021-03-23
 2021-03-16 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2021-03-23
-2021-03-16 IFIP.TMA.traffic.analysis #deadlines due:2021-03-25
-2021-03-16 IFIP.future.internet.transport #deadlines due:2021-03-25
+2021-03-16 (IFIP)TMA.traffic.analysis #deadlines due:2021-03-25
+2021-03-16 (IFIP)future.internet.transport #deadlines due:2021-03-25
 2021-03-16 (hindawi)smart.caching.in.smart.cities #deadlines due:2021-03-26
 2021-03-16 audio automation for open campus #midterm due:2021-03-26
 2021-03-16 kgu zemi faces #midterm due:2021-03-26
