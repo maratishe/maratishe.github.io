@@ -1,0 +1,10 @@
+no : 27
+id : D121031455 
+update : 2021年04月01日
+univ : 東京農工大学（コンピュータシステムおよび関連分野）
+title : 教授の公募（コンピュータシステムおよび関連分野）
+field : 情報学 - 全て -- 総合理工 - 計算科学 -- 工学 - 電気電子工学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月28日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121031455&ln_jor=0&top_btn=1

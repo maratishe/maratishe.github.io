@@ -1,0 +1,10 @@
+no : 31
+id : D121030860 
+update : 2021年03月17日
+univ : 流通科学大学・データ分析分野
+title : 流通科学大学の専任教員公募（データ分析分野）
+field : 社会科学 - 経済学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030860&ln_jor=0&top_btn=1

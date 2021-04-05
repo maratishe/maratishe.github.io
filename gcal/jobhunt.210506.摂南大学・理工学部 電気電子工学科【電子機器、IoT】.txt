@@ -1,0 +1,10 @@
+no : 11
+id : D121030730 
+update : 2021年03月16日
+univ : 摂南大学・理工学部 電気電子工学科【電子機器、IoT】
+title : 理工学部 電気電子工学科【電子機器、IoT】特任教授、准教授または講師の公募
+field : 工学 - 電気電子工学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月06日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030730&ln_jor=0&top_btn=1

@@ -1,0 +1,9 @@
+id : D121031395 
+update : 2021年03月30日
+univ : 獨協大学・国際教養学部専任教員（数理・データサイエンス関連分野）
+title : 国際教養学部専任教員（数理・データサイエンス関連分野）公募要項
+field : 数物系科学 - 全て -- 情報学 - 全て -- 総合理工 - 計算科学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年07月07日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121031395&ln_jor=0&top_btn=1
