@@ -1,0 +1,84 @@
+
+Special Issue on
+Services Computing and Software-Defined Systems for Future Internet
+https://www.mdpi.com/journal/electronics/special_issues/SDS_electronics
+MDPI Electronics
+
+Deadline for manuscript submissions: 20 December 2021
+---------------------------------------------------------------------------------------------------------------------
+
+Dear Colleagues,
+
+The vision of a Future Internet has steered many research works. Fifth-generation (5G) networks built across the globe are considered a driving force for the Future Internet. Network softwarization strategies such as software-defined networking (SDN) and network functions virtualization (NFV) are set to bring more unified control and flexibility to classic network architectures. Software-defined systems have been built to enlarge the scope of the network softwarization efforts up to the Internet scale. Services computing enables the decoupling of complex workflows. The Internet of the future is a computer, where users will say what to do, and the network will do it. The computation is brought closer to the end-users’ computers in-network at the edge. We envision the future Internet to be more accessible and high-performing across the world, with new governance models and collective intelligence. Combined and made more flexible, resorting to containerization, services computing can scale to the Internet, composing dynamic workflows with minimal data transfer and low latency.
+
+We invite researchers to contribute to this Special Issue with their original research works or survey papers that focus on the challenges and solutions towards realizing the Future Internet.
+
+Topics of interest include but are not limited to the following:
+
+Software-defined systems for wide area networks
+Mobile edge computing (MEC) for 5G and Future Internet
+Services computing for Future Internet applications
+Towards accessible Internet
+Cloud-assisted networks and Internet-scale overlay networks
+Internet measurements for self-adaptive Internet-scale networks
+Policy, management, and economic aspects of the Future Internet
+Service workflow compositions in 5G networks
+Network function virtualization (NFV) in the Future Internet and 5G
+Software-defined cyber-physical systems
+Latency-sensitive Internet service workflows
+Internet-scale network operating systems
+Energy efficiency in the Future Internet
+Peer-to-peer networks and decentralized architectures on the Internet
+QoS control and management in the Future Internet
+Future Internet support for massive Internet of Things (IoT) deployments.
+Dr. Pradeeban Kathiravelu
+Prof. Cristina Cervelló-Pastor
+Prof. Luís Veiga
+Guest Editors
+
+Manuscript Submission Information
+
+Manuscripts should be submitted online at www.mdpi.com by registering and logging in to this website. Once you are registered, click here to go to the submission form. Manuscripts can be submitted until the deadline. All papers will be peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
+
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a single-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the Instructions for Authors page. Electronics is an international peer-reviewed open access semimonthly journal published by MDPI.
+
+Please visit the Instructions for Authors page before submitting a manuscript. The Article Processing Charge (APC) for publication in this open access journal is 1800 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's English editing service prior to publication or during author revisions.
+
+Keywords
+service-oriented architecture (SOA)
+software-defined systems (SDS)
+Future Internet (FI)
+workflow composition
+mobile edge computing (MEC)
+software-defined wide area networks (SD-WANs)
+cloud-assisted networks (CANs)
+network function virtualization (NFV)
+5G networks
+NFV architectures
+Placement
+Optimization
+Internet of Things (IoT) and cyber-physical systems (CPS)
+Regards,
+Pradeeban.
+--
+Pradeeban Kathiravelu, Ph.D.
+Postdoctoral Researcher,
+Emory University,
+Atlanta, GA, USA.
+
+Blog: [Llovizna] kkpradeeban.blogspot.com
+LinkedIn: www.linkedin.com/in/kpradeeban
+
+-------------------------------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Mycolleagues mailing list
+Mycolleagues@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/mycolleagues
+
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
+OR
+- Easy unsubscribe: https://mailman.ufsc.br/mailman/options/mycolleagues
+
+
+

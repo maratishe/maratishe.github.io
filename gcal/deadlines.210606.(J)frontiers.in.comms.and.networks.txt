@@ -1,0 +1,130 @@
+
+Dear colleagues,
+
+In collaboration with the new journal “Frontiers in Communications and Networks”, we are pleased to let you know about our open-access special-issue call on “Bridging Global Broadband Divides: Concepts, Understanding and Network Solutions”.
+
+
+
+We look forward to your contributions.  Please feel free to forward this call for papers to any active researchers in the field.
+
+
+
+----------------------------------------------
+
+URL:
+
+https://www.frontiersin.org/research-topics/16899/bridging-global-broadband-divides-concepts-understanding-and-network-solutions
+
+
+
+----------------------------------------------
+
+Important Date:
+
+Manuscript submission deadline: June 6 2021
+
+
+
+----------------------------------------------
+
+THEME
+
+Globalization, urbanization and digitalization are rapidly changing established structures and appearances of cities and regions across the world. In particular, tomorrow’s societies face new challenges in rural and remote regions, characterized by low population densities, low potential revenues, and large distances to urban clusters and to societal service. How is economic development in these regions assured? How are democratic values and governing structures guaranteed? How will governments be able to ascertain that residents and visitors of such regions will remain a part of an inclusive society? It is widely recognized that provision of reliable fixed and mobile broadband connectivity is an important part of the answer. Ubiquitous broadband connectivity has been linked to many of the United Nations' sustainable development goals.
+
+
+
+The fifth cellular network generation has started to be rolled out these days, starting in the cities. For over three decades, new technologies and innovations have first reached urban regions where return-on-investment has been high, after which deployments and coverage have successively moved outwards to the countryside, rurality and regions with less operational revenues. This process has consistently generated wealth and value in urban regions first, and hence increased the urban-rural gap.
+
+
+
+Provision of reliable, ubiquitous connectivity with sustainable performance in remote areas is a challenge that remains unconquered despite successive generations of standards and networks. Service and equipment providers who grapple with unsustainable ARPUs, and end users who are perpetually denied the fruits of advancements in communications technology. Establishing broadband connectivity in remote and low-ARPU regions requires overcoming new and different research and engineering challenges that are not as pertinent in other topographies and demographics.
+
+
+
+The goal of this Research Topic is to collect and publish original research articles that contribute to bridging these divides with future networks. Timing is opportune, given that work in the area of 6G is gaining traction and early emphasis to this area can bolster the chances of it getting a fair representation. We envisage this Research Topic as a collection of timely and relevant research results that advance today's knowledge and understanding in topics related to wireless broadband access for rural and remote areas and, moreover, provide credible new insights with a good potential to impact rural societies and low-ARPU regimes everywhere.
+
+
+
+Submissions may span various domains of research and may focus on various critical rural-network aspects, from radio architectural and access concepts and technologies, through spectrum regulatory policies and processes, to business models and new network-operational approaches. We welcome articles (original research and survey articles, but also magazine-style articles) in both technological and techno-economical domains, analyses that increase understanding for the mechanisms of the urban-rural divide, the ARPU divide, as well as new approaches, concepts and solutions that help bridging these. Industry views and contributions are particularly interesting.
+
+
+
+Potential topics include but are not limited to the following:
+
+• Channel and propagation modeling for rural and remote regions
+
+• Physical layer design: coding, modulation, waveform, multiple-input and multiple-output (MIMO) and beamforming
+
+• Medium access control frameworks for rural scenarios
+
+• Networking and backhauling for rural and remote areas
+
+• Multi-hop network elasticity
+
+• Physical-layer solutions for front/mid/backhaul.
+
+• Delay-tolerant networks, traffic models, edge caching, etc
+
+• Non-terrestrial network solutions
+
+• Quality-of-Experience in rural and remote regions
+
+• SDN and SON with respect to rural/remote networks and connectivity
+
+• Network layout planning and maintenance, status sensing/diagnosing and performance optimization
+
+• Incorporating context, using cognition and applying AI/ML tools
+
+• Energy harvesting, energy efficiency and green solutions
+
+• Coexistence and convergence with 5G NR and legacy systems
+
+• Spectrum management, standardization, policies and regulatory issues
+
+• Business models for beyond-5G deployments in rural and remote areas
+
+• Radio or traffic measurement campaigns in rural scenarios
+
+• Impact of novel technical solutions on OPEX and CAPEX for rural area scenarios
+
+
+
+----------------------------------------------
+
+Frontiers ranks as the fifth most-cited publisher among the 20 largest publishers in 2020, with more than 1.6 million overall citations. The new journal of Frontiers “Frontiers in Communications and Networks” publishes cutting edge research in telecommunication across different domains. The editorial board of Frontiers and Communications and Networks consists of global leading and active researchers in the field of wireless and wired communication systems and networks. The journal capitalizes on the distinctive Frontiers digital platform for collaborative review to provide better and fair opportunities to receive and offer information. The ultimate goal is to create new knowledge and improve the quality and readability of open-access published papers.
+
+
+
+----------------------------------------------
+
+Topic Editors (Guest Editors):
+
+Jaap van de Beek, Luleå University of Technology, Luleå, Sweden
+
+Luca Chiaraviglio, University of Rome Tor Vergata, Rome, Italy
+
+Mohamed-Slim Alouini, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia
+
+Harri Saarnisaari, Oulu University, Oulu, Finland
+
+William Liu, Auckland University of Technology, Auckland, New Zealand
+
+Muhammad Imran, University of Glasgow, Glasgow, United Kingdom
+
+Luciano Mendes, National Institute of Communications, Santa Rita do Sapucaí, Brazil
+
+Maria Valéria Marquezini, Ericsson, Indaiatuba, Brazil
+
+Abhay Karandikar, Indian Institute of Technology Kanpur, Kanpur, India
+
+Zoraida Frias, Technical University of Madrid, Madrid, Spain
+
+Arjuna Sathiaseelan, GAIUS Networks, United Kingdom
+
+Antoine Bagula, University of the Western Cape, South Africa
+
+Edward Oughton, George Mason University, Fairfax, United States
+
+
+
+

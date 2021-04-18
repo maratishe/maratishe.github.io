@@ -1,0 +1,36 @@
+
+CALL FOR PAPERS
+MDPI Sensors, IF: 3.275 (ISSN 1424-8220)
+Special Issue on
+Data-Driven Cybersecurity and Safety for Critical Applications and Infrastructures
+Submission deadline: October 30, 2021
+
+https://www.mdpi.com/si/57327
+==================================================================
+
+Modern critical systems are pervasive and quite diversified in terms of scale, whether related to factories, utility infrastructures, vehicles or even UAVs. Nevertheless, regardless of their size or scope, such systems have one thing in common: a set of special requirements in terms of security and safety, which ultimately deem their classification as “critical”. This is due to the sensitive nature of the involved control processes and applications, whose malfunction, whether accidental or resulting of malicious intervention, may pose a significant risk to human lives, assets or essential services.
+
+With the emergence of complex application scenarios, either new or evolved from existing ones, the distributed nature of such critical systems is quickly unfolding into a massive scale: smart grids have pushed infrastructure components such as smart meters and inverters up to the consumer’s doorstep;  the creation of services for automated UAV airspace coordination, in the scope of collision avoidance frameworks; or even vehicular networks, whose emergence may help overcome many of today’s problems associated with sustainable and safe mobility, are just a few examples. Ensuring the reliable, secure and continuous operation of scenarios with such a scale will imply the adoption of data-driven approaches, capable of dealing with considerable amounts of information to support the dependable (semi)automated analysis and decision mechanisms such applications need to become unfeasible.
+
+This Special Issue is aimed at representing the latest advances in data-driven and security and safety for critical applications, encompassing different application scenarios such as (but not limited to):
+• Data-driven cyber-security for critical infrastructures and essential services;
+• Vehicular networks and V2X scenarios;
+• 5G-assisted security and safety mechanisms;
+• UAV airspace coordination and navigation;
+• Industrial IoT safety and security applications;
+• Resiliency, stability and fast control algorithms for grids;
+• Algorithms and techniques for data-driven anomaly detection, for safety and security;
+
+** Deadline for manuscript submissions: 30 October 2021 **
+
+Manuscript Preparation and Submission
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website.  Authors should follow the “Manuscript Submission Information” guidelines (https://www.mdpi.com/journal/sensors/special_issues/cybersecurity_safety#info).
+
+Guest Editor(s)
+Tiago Cruz, University of Coimbra, Portugal (tjcruz@dei.uc.pt)
+Paulo Simões, University of Coimbra, Portugal (psimoes@dei.uc.pt)
+
+Requests for additional information should be addressed to the guest editors.
+
+
+

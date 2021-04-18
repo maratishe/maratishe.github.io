@@ -1,0 +1,151 @@
+
+**********************************************************************
+Call for Papers
+
+IFIP/IEEE/In-cooperation with ACM SIGCOMM
+
+17th International Conference on Network and Service Management
+
+CNSM 2021
+October 25-29, 2021
+Izmir, Turkey
+
+http://www.cnsm-conf.org/2021/
+
+**********************************************************************
+
+The 17th  International Conference  on Network and  Service Management
+(CNSM) is  inviting authors  to submit  original contributions  in the
+area  of network  and  service  management research.  CNSM  2021 is  a
+selective  single-track  conference,  covering   all  aspects  of  the
+management of  networks and services, pervasive  systems, enterprises,
+and cloud computing  environments. The core track  will be accompanied
+by a series of workshops and poster sessions.
+
+Papers accepted and  presented at CNSM 2021 will be  published as open
+access on  the conference website  (with IFIP copyright), and  will be
+submitted to IEEE Xplore Digital Library.  Authors of selected papers,
+accepted for publication in the CNSM 2021 proceedings, will be invited
+to submit an extended version of their papers to the IEEE Transactions
+on Network and Service Management journal.
+
+*** Topics of Interest ***
+**************************
+Network Management
+* Software-defined networks
+* Virtual networks
+* Overlay networks
+* Wireless and cellular networks
+* Sensor networks
+* Internet of Things networks
+* Information-centric networks
+* Enterprise networks and campus networks
+* Data center networks
+* Optical networks
+* IP networks
+* Home networks
+* Access networks
+* Smart cities and Smart grids
+
+Management Paradigms
+* Centralized management
+* Distributed management
+* Hierarchical management
+* Federated management
+* Autonomic and cognitive management
+* Policy-based management
+* Pro-active management
+* Energy-aware management
+* Quality of experience-centric management
+
+Service Management
+* Cloud computing services
+* Content delivery services
+* Multimedia services
+* Internet connectivity and Internet access
+* Internet of Things services
+* Security services
+* Context-aware services
+* Information technology services
+
+Business Management
+* Economic aspects
+* Multi-stakeholder aspects
+* Service level agreements
+* Lifecycle aspects
+* Process and workflow aspects
+* Legal perspective
+* Regulatory perspective
+* Privacy aspects
+
+Functional Areas
+* Deployment management
+* Fault management
+* Configuration management
+* Accounting management
+* Performance management
+* Security management
+
+Management Technologies
+* Network function virtualization
+* Software-defined networking
+* Orchestration
+* Cloud computing and cloud storage
+* Communication protocols
+* Middleware
+* Data models, information models semantic models
+* Operations support systems and business support systems
+* Information visualization
+
+Methods
+* Mathematical optimization
+* Control theory
+* Probability theory, stochastic processes, and queuing theory
+* Machine learning, artificial intelligence
+* Evolutionary computing
+* Economic theory and game theory
+* Mathematical logic and automated reasoning
+* Data mining and (big) data analysis
+* Monitoring and measurements
+* Computer simulation experiments
+* Prototype implementation and testbed experimentation
+* Field trials
+
+
+*** Submission Guidelines ***
+*****************************
+Authors are  invited to  submit original  contributions that  have not
+been published  or submitted for publication  elsewhere. Papers should
+be prepared using  the IEEE 2-column conference style  and are limited
+to 9  pages including references (full papers)  or  5  pages including
+references (short papers). They have to be submitted electronically in
+PDF format through EDAS at https://www.edas.info/newPaper.php?c=28015
+
+Papers    exceeding   page    limits,   multiple    submissions,   and
+self-plagiarized papers  will be rejected without  further review. All
+other papers will get a thorough single-blind review process, followed
+by a rebuttal phase.
+
+For more information, please check http://www.cnsm-conf.org/2021/.
+
+
+*** Important Dates ***
+***********************
+Paper Submission:        May 28, 2021
+Acceptance Notification: July 15, 2021
+Camera Ready due:        August 1, 2021
+
+
+*** TPC Co-Chairs ***
+*********************
+Müge Sayit, Ege University, Turkey
+Stuart Clayman, University College London, UK
+
+
+*** General Co-Chairs ***
+*************************
+Prosper Chemouil, Cnam, France
+Mehmet Ulema, Manhattan College, USA
+
+
+

@@ -1,0 +1,230 @@
+
+10th International Conference on Complex Networks & Their Applications
+
+Madrid, Spain November 30 - December 02, 2021
+
+COMPLEX NETWORKS 2021
+
+
+
+You are cordially invited to submit your contribution until September 02, 2020.
+
+
+
+SPEAKERS (TBU)
+
+·       Marc Barthélémy CEA France
+
+·       Ginestra Bianconi Queen Mary University of London UK
+
+·       João Gama University of Porto Portugal
+
+·       Dirk Helbing ETH Zürich Switzerland
+
+
+
+TUTORIALS (November 29, 2021)
+
+·       Elisabeth Lex Graz University of Technology Austria
+
+·       Giovanni Petri ISI Foundation Italy
+
+
+
+PUBLICATION
+
+Full papers (not previously published up to 12 pages) and Extended Abstracts (about published or unpublished research up to 4 pages) are welcome.
+
+·       Papers will be included in the conference proceedings edited by Springer
+
+·       Extended abstracts will be published in the Book of Abstracts (with ISBN)
+
+
+
+Extended versions will be invited for publication in special issues of international journals:
+
+o   Applied Network Science edited by Springer
+
+o   Complex Systems
+
+o   Computational Social Networks edited by Springer
+
+o   Frontiers in Big Data
+
+o   Network Science edited by Cambridge University Press
+
+o   PLOS one
+
+o   Social Network Analysis and Mining edited by Springer
+
+
+
+TOPICS
+
+Topics include, but are not limited to:
+
+o   Models of Complex Networks
+
+o   Structural Network Properties and Analysis
+
+o   Complex Networks and Epidemics
+
+o   Community Structure in Networks
+
+o   Community Discovery in Complex Networks
+
+o   Motif Discovery in Complex Networks
+
+o   Network Mining
+
+o   Network embedding methods
+
+o   Machine learning with graphs
+
+o   Dynamics and Evolution Patterns of Complex Networks
+
+o   Link Prediction
+
+o   Multilayer Networks
+
+o   Network Controllability
+
+o   Synchronization in Networks
+
+o   Visual Representation of Complex Networks
+
+o   Large-scale Graph Analytics
+
+o   Social Reputation, Influence, and Trust
+
+o   Information Spreading in Social Media
+
+o   Rumour and Viral Marketing in Social Networks
+
+o   Recommendation Systems and Complex Networks
+
+o   Financial and Economic Networks
+
+o   Complex Networks and Mobility
+
+o   Biological and Technological Networks
+
+o   Mobile call Networks
+
+o   Bioinformatics and Earth Sciences Applications
+
+o   Resilience and Robustness of Complex Networks
+
+o   Complex Networks for Physical Infrastructures
+
+o   Complex Networks, Smart Cities and Smart Grids
+
+o   Political networks
+
+o   Supply chain networks
+
+o   Complex networks and information systems
+
+o   Complex networks and CPS/IoT
+
+o   Graph signal processing
+
+o   Cognitive Network Science
+
+o   Network Medicine
+
+o   Network Neuroscience
+
+o   Quantifying success through network analysis
+
+o   Temporal and spatial networks
+
+o   Historical Networks
+
+
+
+GENERAL CHAIRS
+
+Rosa Maria Benito Universidad Politecnica de Madrid, Spain
+
+Hocine Cherifi University of Burgundy, France
+
+Esteban Moro Universidad Carlos III de Madrid, Spain
+
+ADVISORY BOARD
+
+Jon Crowcroft University of Cambridge, UK
+
+Raissa D'Souza UC Davis, USA
+
+Eugene Stanley Boston University, USA
+
+Ben Y. Zhao University of Chicago, USA
+
+PROGRAM CHAIRS
+
+Chantal Cherifi University of Lyon, France
+
+Luis M. Rocha Indiana University, USA
+
+Marta Sales-Pardo Universitat Rovira i Virgili, Spain
+
+LIGHTNING CHAIRS
+
+Jesús Gomez Gardeñes University of Zaragoza, Spain
+
+Regino Criado Universidad Rey Juan Carlos de Madrid, Spain
+
+Huijuan Wang TU Delft, Netherlands
+
+POSTER CHAIRS
+
+Manuel Marques Pita Universidade Lusófona, Portugal
+
+Taha Yasseri University of Oxford, UK
+
+José Javier Ramasco IFISC, Spain
+
+TUTORIAL CHAIRS
+
+Luca Maria Aiello Nokia-Bell Labs, UK
+
+Leto Peel Université Catholique de Louvain, Belgium
+
+SATELLITE CHAIRS
+
+Sabrina Gaito Università degli Studi di Milano, Italy
+
+Javier Galeano Universidad Politecnica de Madrid, Spain
+
+PUBLICITY CHAIRS
+
+Benjamin Renoust Osaka University, Japan
+
+Xiangjie Kong Dalian University of Technology, China
+
+
+
+SPONSOR CHAIR
+
+Roberto Interdonato CIRAD, France
+
+
+
+PUBLICATION CHAIR
+
+Matteo Zignani Università degli Studi di Milano, Italy
+
+WEB CHAIR
+
+Stephany Rajeh University of Burgundy, France
+
+LOCAL COMMITTEE CHAIR
+
+Juan Carlos Losada Universidad Politecnica de Madrid, Spain
+
+
+Join us at COMPLEX NETWORKS 2021 Madrid Spain
+
+
+

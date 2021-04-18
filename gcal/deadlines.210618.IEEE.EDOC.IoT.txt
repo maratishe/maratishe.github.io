@@ -1,0 +1,134 @@
+
+First International Workshop on
+Latest Advances in Enterprise Architectures in the IoT Era (EAIoT’2021)
+http://eaiot2021.connect.rs
+In conjunction with IEEE EDOC’21
+http://ieee-edoc.org/2021/
+Gold Coast, Australia, October 25, 2021
+
+CALL FOR PAPERS
+Internet of Things (IoT), one of the fastest growing Information and
+Communication Technologies (ICT), is impacting organizations from all
+perspectives (e.g., operational, legal, financial, and
+competitiveness) forcing them to review their functional and
+non-functional practices. According to the International Data
+Corporation (IDC), ``IoT spending will increase by a compound annual
+growth rate (CAGR) of 13.6% from 2017 to 2022, reaching $1.2 trillion
+within the next four years. It is also predicted 41 billion IoT
+devices by 2027 and 70% of automobiles will be connected to the
+Internet by 2023.
+
+To tap into the endless benefits and uses of IoT, the design
+principles and foundations of organizations’ enterprise architectures
+are expected to adjust to ensure a smooth integration of IoT into
+these architectures’ foundations namely organization, business,
+information, application, and technology. Aiming at examining these
+foundations separately and then collectively, this workshop is an open
+forum for discussions between academics and industry partners about
+the latest advances and developments in the dynamic field of
+enterprise architecture in the IoT era. The workshop addresses the
+lack of techniques and guidelines that would enable enterprises to
+integrate IoT into the life cycle of designing, developing, and
+deploying enterprise architectures. This integration should lead to a
+new generation of enterprise architectures that would foster not only
+a deeper retrospect on the involved interactive digital resources
+inside the life cycle covering data collection, information analysis,
+knowledge reasoning and wisdom strategies, but also a better
+understanding of potential threats as well as the development of new
+ways of aligning business and ICT resources together to improve the
+competitiveness of the enterprise in the background of the Artificial
+Intelligence (AI) trend.
+
+Whilst, on the one hand, IoT enacts many opportunities that
+enterprises could tap into, there are also obstacles that could
+undermine these opportunities, on the other hand. Some of these
+obstacles are lack of standards that cover both enterprise
+architecture and IoT, security holes that potentially exist in IoT
+devices making them questionable in terms of trust, security, and
+privacy, IoT limitations like silo restriction, computational
+capabilities, lack of semantic technologies that should describe IoT
+in a machine-understandable manner, just to mention some.
+
+
+
+Topics of Interest
+This workshop constitutes an opportunity for researchers from both
+disciplines enterprise computing (with focus on enterprise
+architecture) and IoT technologies to discuss how enterprises could
+capitalize on these technologies so, that, a new generation of
+business processes could spread over the emergent network of IoT.
+Topics for discussions include, but are not limited to:
+•       Standards for IoT-based enterprise architecture.
+•       Enterprise architecture for Industry 4.0.
+•       Data science for IoT-based enterprise architecture.
+•       Semantic technologies for IoT-based enterprise architecture.
+•       Agentification of IoT-based enterprise architecture.
+•       Interoperability inside and between IoT-based enterprise architecture.
+•       Guidelines and best practices for IoT-based enterprise architecture
+•       Privacy, trust, and security of IoT-based enterprise architecture.
+•       Context management and awareness for IoT-based enterprise architecture
+•       Case studies related to IoT-based enterprise architecture.
+
+COMMITTEES
+Organizing committee
+•       Ejub Kajan, State University of Novi Pazar, Novi Pazar, Serbia
+•       Zakaria Maamar, Zayed University, Dubai, UAE
+•       Yucong Duan, Hainan University, Haikou, China
+
+Program committee
+•       Mohammad Asim, FAST NUCES, Pakistan
+•       Saoussen Cheikhrouhou, University of Sfax, Tunis
+•       Marco Cremaschi, Università di Milano-Bicocca, Italy
+•       Christophe Cruz, Université de Bourgogne, France
+•       Frank Dieter-Dorloff, University of Duisburg-Essen, Germany
+•       Qiang Duan, Pennsylvania State University, USA
+•       Abdelrahman Elfaki, University of Tabuk, Saudi Arabia
+•       Rik Eshuis, Eindhoven University of Technology, The Netherlands
+•       Noura Faci, University Lyon1, Lyon, France
+•       Francisco Falcone, Public University of Navarra, Pamplona, Spain
+•       Veit Jahns, University of Duisburg-Essen, Germany
+•       Soraya Kouadri Mostefaoui, Open University, UK
+•       In Lee, Western Illniois University, USA
+•       Sylvain Lefebvre, Toyota, Japan
+•       Nanjangud C. Narendra, Ericsson, India
+•       Hien D. Nguyen, University of Information Technology, Vietnam
+•       Alexander Norta, Tallinn University of Technology, Estonia
+•       Guadalupe Ortiz-Bellot, Cadiz University, Spain
+•       Pitaya Poompuang, Rajamangala University of Technology Thanyaburi, Thailand
+•       Dragan Stojanović, University of Niš, Serbia
+•       Yang Xu, Fudan University, China
+•       Chen Yang, Gent University, Belgium
+•       Joe Zhou, IBM, USA
+
+IMPORTANT DATES AND SUBMISSION
+Important Dates
+•       Paper Submission: June 18, 2021
+•       Authors Notification: July 16, 2021
+•       Camera Ready submission: July 30, 2021
+•       Author registration: July 30, 2021
+•       Workshop: October 25, 2021
+
+Submission format
+The workshop welcomes conceptual and technical submissions as well
+submissions summarizing real case-studies. Submission should follow
+IEEE Computer Society Conference Proceedings Formatting Guidelines
+(8-10 pages for full and 4-6 pages for short) and be submitted in PDF
+format using the online EasyChair submission system at
+https://easychair.org/conferences/?conf=eaiot2021
+All submissions will be refereed by at least 3 members of the
+international program committee. Selection criteria will include
+relevance, significance, impact, originality, and technical soundness.
+Publication
+The Proceedings will be published by the IEEE Computer Society Press
+and be available through IEEE Xplore and the IEEE Digital Library.
+Organizers are discussing with leading publishers to assure
+publications of extended accepted papers in a special issue in an
+appropriate journal. Details will be available soon.
+
+REGISTRATION PROCEDURE
+At least one author of each accepted paper should register to the
+venue and present the paper. Further instructions will be available in
+due course.
+
+
+

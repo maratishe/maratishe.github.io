@@ -1,0 +1,144 @@
+
+18th ACS/IEEE International Conference on Computer Systems and
+Applications AICCSA 2021
+
+November 8th - 11th, 2021
+
+http://www.aiccsa.net/AICCSA2021/call-for-contributions/call-for-papers
+
+The ACS/IEEE International Conference on Computer Systems and
+Applications (AICCSA) is the premier conference covering all
+contemporary areas in computer systems and applications and hence it
+is an international forum for leading researchers and practitioners in
+these important and rapidly changing disciplines. AICCSA 2021 will be
+held in the lovely and highly vibrant city of Tangier, Morocco.We are
+pleased to invite you to submit original contributions to AICCSA’21
+via the official submission system for the conference
+https://easychair.org/conferences/?conf=aiccsa2021. A submission may
+include technical and experimental study, theoretical study,
+conceptual study, or a survey. All submissions will be peer-reviewed
+on the basis of relevance, originality, importance and clarity. Topics
+of interest fall under one or more of the conference tracks :
+
+Track 1: Information Retrieval, Big Data, Databases and Knowledge Systems
+Track 2: Cloud, Parallel, Distributed and High-Performance Computing
+Track 3: Multimedia, Computer Vision and Image Processing
+Track 4: Advances in Software Engineering
+Track 5: Natural Language Processing and Applications
+Track 6: Artificial Intelligence & Cognitive Systems
+Track 7: Security, Privacy and Trust
+Track 8: Social and Mobile Computing
+Track 9: Advances in Web Technologies, Semantics and Future Internet
+Track 10: Knowledge Management and Ontology Engineering
+Track 11: Advances in Data Networks, Ad-Hoc Networks, Sensor Networks,
+VANETs, Internet ofThings (IoT)
+
+
+
+Submissions Guidelines and PROCEEDINGSManuscripts should be prepared
+in 10-point font using the IEEE 8.5" x 11" two-column conference
+format. All papers should be in PDF format, and submitted
+electronically on EasyChair at
+https://easychair.org/conferences/?conf=aiccsa2021. A regular paper
+must not exceed 8 pages (including all figures, tables and
+references). Submitted papers must present original unpublished
+research that is not currently under review for any other conference
+or journal. Papers not following these guidelines will be rejected
+without review. In addition, submissions received after the due date,
+exceeding the length limit, or not appropriately structured will be
+rejected without review. Authors may contact the Program Chair for
+further information or clarification.All submissions will be blind
+peer-reviewed by at least three reviewers. Accepted papers will appear
+in the Conference Proceedings, and be published by the IEEE Computer
+Society Conference Publishing Services and be submitted to IEEE Xplore
+for inclusion.Each paper should include up to 7 keywords, complete
+postal and e-mail addresses, and fax and phone numbers of the
+corresponding author. Authors of accepted papers are expected to
+present their work at the conference. Submitted papers that are deemed
+of good quality but could not be accepted as regular papers, may be
+accepted as short papers.
+
+Double-Blind Peer Review GuidelinesAICCSA 2021 uses double-blind
+review, which means that the author’s identities are concealed from
+the reviewers, and vice versa, throughout the review process. To
+facilitate this, authors must ensure that their manuscripts be
+prepared in a way that does not give away their identities or
+affiliations. If a submission is not anonymized, it will be rejected
+without review.
+
+Information to help prepare the Blinded ManuscriptBesides the obvious
+need to remove names and affiliations under the title within the
+manuscript, there are other steps that need to be taken to ensure the
+manuscript is correctly prepared for double-blind peer review. To
+assist with this process, the key items that need to be observed are
+as follows:
+
+• Use the third person to refer to the work the authors have
+previously undertaken, e.g., replace any phrases like “as we have
+shown before” with “… has been shown before [Anonymous, 2007]”.
+• Make sure that figures not contain any affiliation-related
+identifier.• Do not eliminate essential self-references or other
+references but limit self-references only to papers that are relevant
+for those reviewing the submitted paper.
+• Cite papers published by the authors in the text as follows:
+‘[Anonymous, 2007]’.
+• For blinding on the reference list: ‘[Anonymous 2007] Details
+omitted for double-blind review
+• Remove references to funding sources.• Do not include acknowledgments.
+• Remove any identifying information, including author names, from
+file names, etc. and anonymizedocument properties.
+
+Special IssuesSelected papers from the conference will be invited to
+submit an extended version to a journal to be announced. Papers will
+be selected based on their reviewers’ scores and appropriateness to
+the Journal’s theme. All extended versions will undergo reviews and
+must represent original unpublished research work. Further details
+will be made available at a later stage.
+
+
+Important Dates
+
+Conference dates: 8 – 11 November 2021
+
+
+
+Main Conference / Symposium • Paper submission due: May 1st, 2021
+
+• Notification to authors: July 1st, 2021 • Camera-ready manuscript
+due:  August 25th, 2021• Early registration due (authors): August 1st,
+2021• Late registration due: September 24th, 2021
+
+
+Ph.D. Forum• Paper submission due: June 15th, 2021• Notification to
+authors: July 1st, 2021• Camera-ready manuscript due:  August 25,
+2021• Early registration due: August 1st, 2021
+
+
+Workshop Proposals• Workshop proposal due: April 29th, 2021•
+Notification of acceptance: May 10th, 2021
+
+• Workshop paper submission due: June 15th, 2021
+• Workshops paper notification of acceptance: July 15th, 2021
+
+
+Tutorial Proposals• Proposal submission due: June 1st, 2021•
+Notification to authors: July 15th, 2021• Camera-ready manuscript due:
+August 1st, 2021• Early registration due: August 1st, 2021
+
+
+For further details please contact the TPC chairs : Wu, Chase
+chase.wu@njit.edu or Sandra Sendra Compte sansenco@upv.es
+
+General Co-Chairs
+
+· Nadia KABACHI, University of Lyon, France
+· Jaime Lloret, Universitat Politecnica de Valencia, Spain
+
+
+
+Program Committee Co-Chairs
+
+· Chase Wu, New Jersey Institute of Technology, USA
+· Sandra Sendra, Universitat Politecnica de Valencia, Spain
+
+

@@ -1,0 +1,32 @@
+
+Call For Papers
+Special Issue: Artificial Intelligence in Industrial Applications
+JOURNAL OF THE CHINESE INSTITUTE OF ENGINEERS
+
+As AI technology has grown significantly to solve many human challenges, the industrial sector would be the crucial part that needs to be first addressed in demand for solutions, so as to improve facilities and quality production enriching human lives and improving the environment. The Journal of Chinese Institute of Engineers (JCIE) has therefore called a special issue for research articles that use AI technologies to solve or provide solutions to the wide variety of industrial challenges. The submitted papers should deal with applying state-of-the-art AI technologies to all aspects of the industrial challenges, but are not limited to the following: 1. Automated Optical Inspection (AOI) 2. Smart Manufacturing / Automated Production 4. Process Control / Heuristics / Scheduling / Optimization / Automation 5. The Applications of AI in Industry 6. Defect Detection / Quality Control 8. Integrated Solutions / Performance Evaluation 9. Explainable AI 10. Raw Material Transport 11. Big Data Analytics in Engineering (Methods and Applications) 12. Industrial Applications of Fuzzy Set Theory / Data-driven Decision-making and Many More ... The Journal is published in English and is indexed in the Science Citation Index (SCI), the Engineering Index (EI), SciSearch, Research Alert, and SciCurrent Contents. Prospective authors should follow the JCIE manuscript format described in the Information for Authors found in any issue of JCIE. Submission Notice 1. Authors have to use the online submission at “Online Submission” to submit their manuscripts for the “Special Issue for AI” section for consideration as publications in this special issue of JCIE. 2. For details of online submission to JCIE, please refer to https://jcie.ntust.edu.tw/ or https://mc.manuscriptcentral.com/tcie.
+
+Publication Schedule:
+Manuscript Submission Due: July 1, 2021
+Acceptance Notification: Aug. 15, 2021
+Final Manuscript Due: Sep. 30, 2021
+
+Guest Editors:
+Professor Shyan-Ming Yuan (smyuan@cs.nctu.edu.tw) Department of Computer Science, National Yang Ming Chiao Tung University, Hsinchu, Taiwan
+Associate Professor Ruey-Kai Sheu (rickysheu@thu.edu.tw) Department of Computer Science, Tunghai University, Taichung, Taiwan
+Associate Professor Zheng-Yun Zhuang (wayne@nkust.edu.tw) Department of Civil Engineering, National Kaohsiung University of Science and Technology, Kaohsiung, Taiwa
+袁賢銘  Shyan-Ming Yuan, Ph.D.
+Director, Library, National Yang Ming Chiao Tung University
+Professor, Computer Science Department
+https://scholar.google.com.tw/citations?user=X9nPxF4AAAAJ&hl=zh-TW
+https://orcid.org/0000-0002-3621-9528
+
+
+-------------------------------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Mycolleagues mailing list
+Mycolleagues@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/mycolleagues
+
+
+

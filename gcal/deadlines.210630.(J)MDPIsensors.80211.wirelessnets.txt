@@ -1,0 +1,36 @@
+
+Dear Dr. Zhanikeev,
+
+I am pleased to inform you that the Special Issue "IEEE 802.11 and Wireless Sensors Networks" is open for submission in Sensors (ISSN 1424-8220, indexed by SCIE—WoS, Q1, IF 3.275). Based on your experience in this field, we would like to invite you to submit a manuscript (either a review article or research paper) for publication after peer review. Topics of interest include but are not limited to the following ones:
+
+Use of IEEE 802.11 standards in applications for smart city, smart grid, or intelligent transportation systems
+Performance evaluation of IEEE 802.11 features in WSN and IoT scenarios
+Location-aware WSN and IoT applications based on IEEE 802.11 (including IEEE 802.11az)
+IEEE 802.11-based Wake-Up Radio applications (including IEEE 802.11ba)
+Latest advances in IEEE 802.11ah (Wi-Fi HaLow) networks
+Latest advances for IoT and WSN in future IEEE 802.11be
+IEEE 802.11-based wireless mesh networking for low power and sensor applications
+Wi-Fi sensing techniques and applications
+Cross-Technology communications for heterogeneous IoT (i.e. enabling communications between devices with non-compatible wireless NICs).
+For more information, please check the following website:
+
+https://www.mdpi.com/journal/sensors/special_issues/IWSN
+
+Guest Editors: Dr. Eduard Garcia-Villegas
+
+Submission Deadline: 30 June 2021
+
+
+
+Sensors is covered by leading indexing services, including the Science Citation Index Expanded (SCIE—Web of Science), PubMed/MEDLINE, Scopus, etc. The latest Impact Factor for the year 2019 is 3.275, and the five-year Impact Factor is 3.427.
+
+Sensors is a peer reviewed and fully open access journal of MDPI. Our aim is to process manuscripts quickly and publish them shortly after peer-review. Some high-quality manuscripts have been peer-reviewed and published in less than four weeks from submission. Open access is supported by the authors and their institutes. Article Processing Charges (APCs) of CHF 2200 apply to accepted papers. You may be entitled to a discount if you have previously received a discount code or if your institute is participating in the MDPI Institutional Open Access Program (IOAP). For more information, see: http://www.mdpi.com/about/ioap.
+
+For further details on the submission process, please see the instructions for authors on the journal website (http://www.mdpi.com/journal/sensors/instructions).
+
+
+
+
+
+
+

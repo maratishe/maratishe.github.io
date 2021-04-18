@@ -1,0 +1,42 @@
+
+Special Issue on Federated Deep Learning-Empowered Internet of Vehicles
+
+Internet of Vehicles (IoV) is designed to seamlessly connect smart vehicles, road infrastructures, communication facilities and users. The goal is to provide a comprehensive environment overview, improve transportation efficiency and reduce road accidents. Artificial intelligence (AI) technology, especially deep learning, is essential for the progress of intelligent IoV. However, with the growing complexity of on-board sensors, the big raw data sets available for deep learning can give rise to concerns over data security and privacy, as well as huge communication overheads.
+
+Distributed machine learning among smart vehicles and edge-cloud entities based on federated deep learning (FDL) is helping to address these challenges.  FDL allows a central server to cooperate with multiple clients to jointly train a machine learning model. Clients upload parameters of the trained model to the central server and keep their training data locally, thus significantly reducing the communication costs and the data privacy risks. Although FDL has great potential for intelligent IoV, further research is required in some areas. For example, the trade-off optimisation between Quality of Service (QoS) and energy consumption in intelligent IoV, the efficient design of learning models in FDL for different intelligent IoV problems, communication efficiency for heterogeneous IoV technologies, and the security and privacy issues related to FDL under the dynamic IoV environment.
+
+The objective of this special issue is to assemble high-quality research papers on emerging theories, frameworks, architectures and algorithms for solving the challenging problems related to FDL- empowered intelligent IoV. It will also offer an open platform for scholars and engineers to exchange their recent novel ideas and explore the potential convergence of existing intelligent IoV systems and advanced FDL technologies.
+
+Topics Covered:
+
+Novel FDL algorithms for intelligent IoV systems and applications
+Architectures and models for FDL-empowered IoV
+Theory and protocols for FDL-empowered IoV
+Resource management for FDL-empowered IoV
+Communication-efficiency in FDL-empowered IoV
+Big data and data analytics in FDL-empowered IoV
+Traffic and network status predictions in FDL-empowered IoV
+Performance optimisation for FDL-empowered IoV
+Energy-efficiency in FDL-empowered IoV
+Security and privacy in FDL-empowered IoV
+Convergence of blockchain and FDL-empowered IoV
+Use cases and real-world experiments for FDL-empowered IoV
+Important Deadlines:
+
+Submission deadline: 31 July 2021
+Acceptance deadline: 30 Jan 2022
+Publication date: March 2022
+Submission Instructions:
+
+Please read the Guide for Authors before submitting. All articles should be submitted online via the editorial management system. Please select the option ‘SI: FDL-IoV’.
+
+Guest Editors:
+
+Jia Hu, University of Exeter, UK. (Managing Guest Editor)
+Hamid Sharif, University of Nebraska, USA.
+Tony Q.S. Quek, Singapore University of Technology and Design, Singapore.
+Peng Liu, Hangzhou Dianzi University, China.
+
+
+
+

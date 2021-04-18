@@ -1,0 +1,53 @@
+
+International Journal of Ad Hoc and Ubiquitous Computing
+
+Special Issue on: "Recent Advances in Wearable Devices for Emerging Expert Systems"
+
+Guest Editors:
+Dr. Maheswar Rajagopal, VIT Bhopal University, India
+Dr. Jaime Lloret, Universidad Politecnica de Valencia, Spain
+
+
+Wearable devices are electronic devices worn by consumers ubiquitously and continually to capture or track biometric information related to health or fitness. Wearable devices range from smartwatches and fitness trackers to virtual reality (VR) headsets, physiological and real-time health monitoring, navigation systems, advanced textiles, military personnel wear and so on.
+
+Research into wearable devices a hot area, specifically for researchers working in personal and ubiquitous computing. Several challenges with wearable devices exist due to limited display area, battery life, renewable battery power, miniaturisation and integration, safety, security and privacy. Further important issues include reliability, software bugs and failure modes. But advancements in electronic product design, fabrication techniques, artificial intelligence, machine learning, deep learning and signal processing techniques facilitate the overcoming of the aforementioned challenging issues. Numerous research projects are in progress to provide solutions for limited memory, battery size, device shapes, data reliability, security concerns, and communication and networking protocols.
+
+This special issue is primarily focused on wearable devices in terms of different sensing mechanisms, materials for sensing (including energy harvesting) and how artificial intelligence, machine learning, deep learning and signal processing can be employed for ubiquitous computing in wearable devices.
+
+Subject Coverage
+Suitable topics include, but are not limited, to the following:
+o       Physical layer design in wearable devices
+o       Interfacing circuits for wearable devices
+o       Antennas for wearable devices
+o       Networking algorithms and protocols for wearable devices
+o       Device to device (D2D) communication protocols for wearable devices
+o       Cross-layer design issues in wearable devices
+o       Mobility effects in wearable devices
+o       Channel interference issues in wearable device networks
+o       RFID technology in wearable devices
+o       Integration of wearable and medical sensors with network infrastructures
+o       Energy harvesting and optimisation in wearable devices
+o       Security and privacy issues in wearable devices
+o       Reliability issues in wearable devices
+o       Intelligent and expert systems for wearable devices
+o       Information fusion for wearable devices
+o       Health data privacy in wearable devices
+o       Modelling and simulation of wearable device network
+
+
+Notes for Prospective Authors
+Submitted papers should not have been previously published nor be currently under consideration for publication elsewhere. (N.B. Conference papers may only be submitted if the paper has been completely re- written and if appropriate written permissions have been obtained from any copyright holders of the original paper).
+
+All papers are refereed through a peer review process.
+
+All papers must be submitted online. To submit a paper, please read the Submitting articles page:
+https://www.inderscience.com/info/inauthors/author_submit.php
+
+Important Dates
+Manuscripts due by: 30 October, 2021
+Notification to authors: 15 January, 2022
+Final versions due by: 15 March, 2022
+
+
+
+

@@ -1,0 +1,75 @@
+
+Dear Colleagues,
+As one of the Guest Editors, I cordially invite you to submit a manuscript for consideration and possible publication in the Special Issue on "Innovating the Network for Data-Intensive Science (INDIS 2020)" to be published in Cluster Computing: The Journal of Networks, Software Tools and Applications (https://www.springer.com/journal/10586). The manuscript submission deadline has been extended to April 30, 2021 11:59 PM AoE (final extension). For submission details, please see below or refer to our website: https://scinet.supercomputing.org/community/indis/cfp-journal/.
+
+Kind regards,
+Sarah Neuwirth
+on behalf of the INDIS 2020 Guest Editors
+
+================================
+Scope, Aims, and Topics
+================================
+Many fields of science have been experiencing and continue to experience a large influx of data. Managing, transporting, and architecting systems, as well as building tools to deal with the delivery of these data have become increasingly important. Additionally, the ecosystem of information and communication systems is becoming more complex. Wide area networks are now an integral and essential part of this data-driven supercomputing ecosystem connecting information sources, data stores, processing, simulation, visualization and user communities together. Furthermore, networks are required to connect research instruments such as photon sources and large visualization displays.
+
+Networks for data-intensive science have more extreme requirements than general-purpose networks. These requirements not only closely impact the design of processor interconnects in supercomputers and cluster computers, but they also impact campus networks, regional networks and national backbone networks. The developments in network technologies are tremendous. Speeds of many hundreds of Gigabits and deep programmability of network infrastructure are now common. This enables a fundamentally different approach of integrating networks in supercomputing applications.
+
+The INDIS 2020 workshop (https://scinet.supercomputing.org/community/indis/), held virtually in conjunction with the Supercomputing Conference in November 2020, provided a venue for the exchange of ideas on the above topics.
+
+For this special issue to be published in Cluster Computing: The Journal of Networks, Software Tools and Applications (https://www.springer.com/journal/10586) related to the INDIS workshop, we encourage research papers that address one or more of the following network research challenges; and developments that are essential in the information systems infrastructure for the scientific discovery process. Participants to the workshop are invited to submit extended versions of their accepted papers. We also welcome new paper submissions on related topics.
+
+Topics of interest include, but are not limited to:
+- Data-intensive distributed application architectures
+- Software-defined networking (SDN) and Network Function Virtualization (NFV) in service of data science applications
+- High-performance data transfer applications and techniques
+- Science DMZs and other campus network architecture constructs
+- Requirements and issues for network quality of service (QoS) or experience (QoE)
+- Multi-domain networking, including hybrid clouds, multi-domain authorization, data sharing, and data privacy
+- Network monitoring and traffic analytics, autonomous network control
+- Network management: diagnostics, troubleshooting, fault management, performance monitoring, configuration management, and scheduling
+- High-performance network protocols and network architectures
+- Securing high-speed networks
+- Cross-layer network architectures and concepts
+
+================================
+Submission Guidelines
+================================
+Accepted papers will be published in Cluster Computing: The Journal of Networks, Software Tools and Applications. Please follow the submission guidelines for Cluster Computing (https://www.springer.com/journal/10586/submission-guidelines) when preparing your manuscript for the INDIS 2020 special issue. Please note that there is no page limit and that there is no fee to publish the paper, unless the authors decide to use the open access publishing service of the journal.
+
+For extended workshop papers, the paper should have a new title, a new abstract, and about 40-50% of new content in comparison to the original workshop paper.
+
+Special issue papers must be submitted electronically at https://www.editorialmanager.com/clus/default.aspx and must use Springer’s LaTeX macro package (choose the formatting option “twocolumn”), which can be found here: https://www.springer.com/journal/10586/submission-guidelines. When starting a new submission, please select the special issue INDIS-2020 from the drop down list.
+
+================================
+Projected Timeline
+================================
+- Submissions due: April 30, 2021 11:59 PM AoE (FINAL EXTENSION)
+- Completion of first round of reviews: Monday, May 31, 2021
+- Deadline for revised manuscripts: Saturday, July 31, 2021
+- Completion of the review and revision process:  Thursday, September 30, 2021
+
+================================
+Guest Editors
+================================
+- Michelle Zhu, Montclair State University, USA
+- Sarah M. Neuwirth, Goethe-University Frankfurt, Germany
+- Mariam Kiran, ESnet, Lawrence Berkeley National Laboratory, USA
+
+================================
+Contact information:
+================================
+For questions, please email us at: scinet-workshop@scinet.supercomputing.org
+Please refer to our INDIS 2020 website for the latest updates:
+https://scinet.supercomputing.org/community/indis/
+
+
+-----------------------------------------------------------------------
+Dr. Sarah M. Neuwirth
+Goethe-University Frankfurt | Campus Riedberg
+Modular Supercomputing and Quantum Computing
+FIAS Building | Room 2.403 | Ruth-Moufang-Str. 1
+60438 Frankfurt am Main | Germany
+Email: s.neuwirth@em.uni-frankfurt.de
+-----------------------------------------------------------------------
+
+
+

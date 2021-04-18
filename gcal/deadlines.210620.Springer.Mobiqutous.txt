@@ -1,0 +1,106 @@
+
+===================CALL FOR PAPERS===================
+18th International Conference on Mobile and Ubiquitous
+Systems: Computing, Networking and Services (MobiQuitous 2021)
+8-11 November 2021
+Beppu Convention Center, Beppu, Japan in a hybrid format
+https://mobiquitous.eai-conferences.org/2021/
+=====================================================
+
+SCOPE
+
+The goal of the eighteenth annual International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2021) is to provide a forum for presenting and discussing high-quality research in the field, involving international practitioners and researchers from diverse backgrounds. MobiQuitous 2021 will thus foster research collaboration through focused discussions, interaction and exchange of experiences that will designate future research efforts and directions.
+
+We are pleased to invite you to submit your paper to EAI MobiQuitous 2021. Submissions should be in English, following the Springer formatting guidelines. See the submission page:
+https://mobiquitous.eai-conferences.org/2021/call-for-papers/
+
+
+TOPICS
+
+We solicit technical papers describing original, previously unpublished research, not currently under review by another conference or journal, pertaining to the Internet of Things, mobile and ubiquitous systems. Submissions should clearly identify how they relate to issues on mobile and ubiquitous systems. Contributions describing an overall working system and reporting real world deployment experiences are particularly of interest. Topics include, but are not limited to:
+
+-Mobile User Experience
+-Security and Privacy
+-User Behaviour Analysis and Modelling
+-Crowdsourcing - Platforms and Applications
+-Internet of Things - Systems, Data Analytics, and Applications
+-Urban/mobile Crowd-sensing
+-Participatory Sensing
+-Wireless Access Technologies
+-Performance Analysis, Modelling and Measurement of Mobile Networks
+-Wearable Computing
+-Body Area Networks
+-Mobile Data Analysis and Mobile Platforms
+-Mobile Multimedia
+-Mobile User Interfaces and Interaction Technologies
+-Toolkit and Languages for Mobile Computing
+-Networked Sensing and Applications
+-Mobile Device Architectures
+-Mobile Systems and Applications
+-Mobile Data Management and Analytics
+-Energy Aware Mobile Computing
+-Pervasive Sensing
+-Localization and Tracking
+-Activity Recognition
+-Social Network Applications to Mobile Computing
+-Context and Location-based Applications and Services
+-AI and Machine Learning Algorithms and Application for Mobile Computing
+-Mobile Augmented Reality/Mixed Reality
+-Mobile Cloud Computing
+
+
+IMPORTANT DATES
+
+FULL PAPER SUBMISSION DEADLINE: JUNE 20, 2021
+NOTIFICATION DEADLINE: AUGUST 22, 2021
+CAMERA-READY DEADLINE: SEPTEMBER 7, 2021
+CONFERENCE DATES: NOVEMBER 8 - 11, 2021
+
+
+ORGANIZING COMMITTEE
+
+General Chairs
+Takahiro Hara - Osaka University, Japan
+Hirozumi Yamaguchi - Osaka University, Japan
+
+Technical Program Committee Chairs
+Takuya Maekawa - Osaka University, Japan
+Stephan Sigg - Aalto University, Finland
+Vaskar Raychoudhury - Miami University, United States
+
+Web Chair
+Tatsuya Amano - Osaka University, Japan
+
+Publicity and Social Media Chair
+Keiichi Yasumoto - NAIST, Japan
+Stephan Haller - Bern University of Applied Sciences, Switzerland
+
+Workshops Chair
+Takuya Yoshihiro Wakayama University, Japan
+Janick Edinger - University of Mannheim, Germany
+Md Osman Gani - Miami University, USA
+
+Sponsorship & Exhibits Chair
+Susumu Ishihara - Shizuoka University, Japan
+
+Publications Chair
+Akira Uchiyama - Osaka University, Japan
+
+Poster/Demos Chair
+Yutaka Arakawa - Kyushu University, Japan
+JeongGil Ko - Yonsei University, Korea
+
+Local Chairs
+Shigemi Ishida - Kyushu University, Japan
+Tetsuya Shigeyasu - Prefectural University of Hiroshima, Japan
+
+Financial Chair
+Akimitsu Kanzaki - Shimane University, Japan
+
+Award Committee Chair
+Hiroshi Shigeno - Keio University, Japan
+
+Student Volunteer Chair
+Teruhiro Mizumoto - Osaka University, Japan
+
+

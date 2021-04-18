@@ -1,0 +1,107 @@
+
+CALL FOR PAPERS
+
+IEEE 22nd International Conference on Information Reuse and Integration for Data Science (IEEE IRI 2021)
+
+August 10 - August 12, 2021. ** Taking Place Virtually **
+
+URL: https://homepages.uc.edu/~niunn/IRI21/index.html
+CFP URL: https://homepages.uc.edu/~niunn/IRI21/resources/IEEE-IRI21-CfP-Dec23.pdf
+
+Intelligent  applications  derive  from  Information  Reuse  and  Integration  (IRI)  and  data  science.  IRI  seeks  to  maximize  the  utility  of  information  by  creating  simple  cost-effective  representations  of  knowledge.  IRI  consequently explores strategies for integrating this knowledge into systems and applications.
+Call for Papers
+
+This conference and its constituents support the development of science and technology to improve the human condition. The conference includes, but is certainly not limited to, the areas listed below:
+
+- Applications – Autonomous Vehicles, Business, Education, Engineering, Healthcare and Medical Informatics, the Internet of Things, Math, Military, Multimedia, NLP, Robotics, Science, Security, Social Networking, Space, Vision, etc.
+- Data & Knowledge Representation and Management
+- Data Science & Technologies - Heuristic Acquisition
+- Data Visualization
+- Machine Learning & AI
+- AI and Security
+- Evolutionary Techniques
+- Statistical Analysis
+- Information Science Theory
+
+Best  Paper  Award:
+The  best  papers  will  be  selected  by  distinct  (cleared)  committees  and  will  be  the  ones,  which  report  novel  and  promising  research  work,  which  have  a  high  potential  for  world  impact.  Additional  select awards will also be made.
+
+** Journal Special Issues will be organized to include the top papers accepted into IRI’21. **
+
+Call for Workshop Proposals: Please find the call here -
+
+https://homepages.uc.edu/~niunn/IRI21/call_workshop.html
+
+Important Dates:
+Deadline (full paper research/industry/application/government track): April 30, 2021 Deadline (short paper, poster, and demo paper): May 17, 2021
+Full paper acceptance notification: May 31, 2021
+Short paper, poster, and demo paper acceptance notification: June 11, 2021
+Camera ready submission deadline: June 18, 2021
+Author registration due: July 2, 2021
+
+Submission Instructions
+
+Instructions Papers  reporting  original  and  unpublished  research  results  pertaining  to  the  above  and  related  topics  are  solicited.  Full/regular  papers  must  be  in  English  of  up  to  8  pages  (using  the  IEEE  two-column  template  instructions).  Six  pages  is  typical  and  allows  for  extension  of  invited  papers  being  extended  for  journal  publication. Poster and demo papers are up to 4 and 2 pages, respectively. Full paper submissions can be made to  the  regular  research  track  or  to  the  industry/application  track.
+
+Submissions  should  be  double  blind  and  should  include  only  the  title  and  should  not  include  the  author(s),  affiliation(s),  e-mail  address(es),  tel/fax  numbers,       and postal address(es) in the paper. The online submission site is: https://easychair.org/conferences/?conf=iri21.
+
+The  authors need to mark  if  their  submission is for the “Regular Research Track”, or for the “Industry/Applications Track”.
+
+If web submission is not possible, please contact the program co-chair, Dr. Danda Rawat (db.rawat@ieee.org) for alternate  arrangements. Papers  will  be  selected based on their originality, timeliness, significance, relevance, and  clarity of presentation. Paper submission implies the intent  of at least  one  of  the authors to register and present the paper, if accepted. We may allow international telecoms for the presentation of registered international papers.
+
+Organizing Committee
+
+General Co-Chairs
+
+Stuart Rubin, SPAWAR Systems Center Pacific (SSC-Pacific), USA
+Shu-Ching Chen, Florida International University, USA
+
+Program Co-Chairs
+
+Danda B. Rawat, Howard University, USA
+Nan Niu, University of Cincinnati, USA
+
+Industry/Application Track Co-Chairs
+
+Wentao Wang, Oracle, USA
+
+Finance Chair
+
+Wei-Bang Chen, Virginia State University, USA
+
+Proceedings Chair
+
+Lydia Bouzar-Benlabiod, Ecole Nationale Supérieure d'Informatique, Algeria
+
+Publicity Chair
+
+Al-Sakib Khan Pathan, Independent University, Bangladesh
+
+Award Chair
+
+Chengcui Zhang, University of Alabama at Birmingham, USA
+
+===================================================
+Regards,
+Sakib
+Publicity Chair
+--
+Al-Sakib Khan Pathan, Ph.D., SMIEEE
+Editor-in-Chief, Int. Jrnl of Computers and Applications, Taylor & Francis, UK
+Associate Editor, Connection Science, Taylor & Francis, UK
+Associate Editor, Int. Jrnl of Computational Science and Engineering, Inderscience
+Editor, Ad Hoc and Sensor Wireless Networks, Old City Publishing
+Editor, International Journal of Sensor Networks, Inderscience
+Editor, Malaysian Journal of Computer Science
+All My Books: https://sites.google.com/site/spathansite/books
+
+Adjunct Professor, Department of Computer Science and Engineering
+Independent University, Bangladesh (IUB)
+Plot 16 Block B, Aftabuddin Ahmed Road, Bashundhara R/A, Dhaka, Bangladesh
+Phone: (Mobile) +8801756084583
+Email: spathan@ieee.org, sakib.pathan@gmail.com
+URL: https://sites.google.com/site/spathansite/
+
+
+
+
