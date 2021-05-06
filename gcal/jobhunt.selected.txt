@@ -1,11 +1,120 @@
+no : 32
+id : D121040544 
+update : 2021年04月16日
+univ : 東京国際工科専門職大学
+title : 専任教員の公募（コンピュータ・通信分野）
+field : 情報学 - 全て -- 工学 - 電気電子工学
+post : 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月16日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040544&ln_jor=0&top_btn=1
 
-no : 33
-id : D121030681 
-update : 2021年03月12日
-univ : 神奈川工科大学
-title : 神奈川工科大学　情報学部　情報メディア学科　教員（教授または准教授（特任可））公募　１名
-field : 情報学 - 人間情報学
+no : 28
+id : D121041104 
+update : 2021年04月22日
+univ : 同志社大学
+title : 教授または准教授または助教の公募（数理・データ科学分野）
+field : 情報学 - 情報学基礎 -- 情報学 - 人間情報学 -- 数物系科学 - 数学
+post : 教授相当 -- 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年07月16日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121041104&ln_jor=0&top_btn=1
+
+no : 38
+id : D121041303 
+update : 2021年04月22日
+univ : 東北大学
+title : 教授の公募（東北大学工学研究科ロボティクス専攻ロボットシステム講座）
+field : 工学 - 機械工学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年06月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121041303&ln_jor=0&top_btn=1
+
+no : 5
+id : D121040993 
+update : 2021年04月21日
+univ : 埼玉大学
+title : 教授１名の公募（情報工学）
+field : 情報学 - 全て -- 総合理工 - 全て -- 工学 - 全て
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040993&ln_jor=0&top_btn=1
+
+no : 29
+id : D121040518 
+update : 2021年04月16日
+univ : 大分県立芸術文化短期大学
+title : 情報コミュニケーション学科　情報メディアコース　専任講師または助教の公募
+field : その他 - メディア論　映像表現論　 -- 情報学 - メディア論　メディアリテラシー -- 総合人文社会 - メディア論　映像表現論
+post : 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月27日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040518&ln_jor=0&top_btn=1
+
+no : 22
+id : D121040505 
+update : 2021年04月16日
+univ : 東洋大学
+title : 理工学部 電気電子情報工学科 専任教員の公募（情報通信工学）
+field : 工学 - 電気電子工学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年06月25日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040505&ln_jor=0&top_btn=1
+
+no : 23
+id : D121040502 
+update : 2021年04月16日
+univ : 東北学院大学
+title : 教授、准教授、講師または助教（情報通信分野）
+field : 工学 - 電気電子工学
+post : 教授相当 -- 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年06月21日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040502&ln_jor=0&top_btn=1
+
+no : 13
+id : D121040266 
+update : 2021年04月10日
+univ : 京都大学
+title : システム科学専攻教員公募（教授）
+field : 情報学 - 全て -- 工学 - 機械工学 -- 工学 - 全て
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年06月18日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040266&ln_jor=0&top_btn=1
+
+no : 19
+id : D121040276 
+update : 2021年04月10日
+univ : 盛岡大学
+title : 「情報処理」を専門分野とする教員の公募について
+field : 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月28日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040276&ln_jor=0&top_btn=1
+
+no : 6
+id : D121030050 
+update : 2021年04月06日
+univ : 北海道情報大学
+title : 教授、准教授、講師 （システム情報系）
+field : 情報学 - 人間情報学 -- 情報学 - 情報学基礎 -- 情報学 - 情報学フロンティア
 post : 教授相当 -- 准教授・常勤専任講師相当
 tenure : 常勤 (任期なし)
 deadline : 2021年05月31日
-url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030681&ln_jor=0&top_btn=1
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121030050&ln_jor=0&top_btn=1
+
+no : 23
+id : D121040066 
+update : 2021年04月06日
+univ : 電気通信大学
+title : 准教授または助教の公募（人工知能統合分野）
+field : 情報学 - 全て -- 工学 - 全て -- 複合領域 - 全て
+post : 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040066&ln_jor=0&top_btn=1
