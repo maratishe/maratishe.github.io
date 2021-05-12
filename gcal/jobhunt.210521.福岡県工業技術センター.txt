@@ -1,0 +1,10 @@
+no : 26
+id : D121050059 
+update : 2021年05月11日
+univ : 福岡県工業技術センター
+title : 2021（令和3年度）福岡県職員（研究職員）採用選考試験（情報処理）
+field : 情報学 - 情報学基礎 -- 工学 - 電気電子工学
+post : 研究員・ポスドク相当 -- 研究開発・技術者相当
+tenure : 常勤 (任期なし)
+deadline : 2021年05月21日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121050059&ln_jor=0&top_btn=1

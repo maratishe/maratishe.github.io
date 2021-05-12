@@ -1,0 +1,10 @@
+no : 84
+id : D121041409 
+update : 2021年04月24日
+univ : 豊橋技術科学大学・情報・知能工学系
+title : 豊橋技術科学大学 情報・知能工学系 教員（教授または准教授）公募
+field : 情報学 - 計算基盤 -- 情報学 - 情報学基礎
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年06月15日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121041409&ln_jor=0&top_btn=1

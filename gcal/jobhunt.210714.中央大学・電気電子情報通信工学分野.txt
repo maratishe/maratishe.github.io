@@ -1,0 +1,10 @@
+no : 30
+id : D121041324 
+update : 2021年04月27日
+univ : 中央大学・電気電子情報通信工学分野
+title : 准教授・助教の公募（電気電子情報通信工学分野）
+field : 工学 - 全て
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年07月14日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121041324&ln_jor=0&top_btn=1

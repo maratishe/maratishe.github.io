@@ -1,0 +1,10 @@
+no : 10
+id : D121031199 
+update : 2021年04月28日
+univ : 会津大学短期大学部・経営情報コース専任教員（経済学分野）
+title : 経営情報コース専任教員（経済学分野）公募
+field : 社会科学 - 経済学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年06月07日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121031199&ln_jor=0&top_btn=1

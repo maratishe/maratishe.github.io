@@ -1,0 +1,10 @@
+no : 40
+id : D121041615 
+update : 2021年04月28日
+univ : 愛知学院大学・データサイエンス分野
+title : 講師、准教授または教授の公募（データサイエンス分野）
+field : 社会科学 - 経営学 -- 社会科学 - 経済学 -- 情報学 - 情報学基礎
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年06月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121041615&ln_jor=0&top_btn=1
