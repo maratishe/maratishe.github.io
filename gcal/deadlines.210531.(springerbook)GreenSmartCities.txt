@@ -1,0 +1,83 @@
+
+Dear colleague,
+
+We are editing a Springer Book entitled “Computational Intelligence Techniques for Green Smart Cities”. The Book will be indexed by Scopus and ISI.
+
+I cordially invite you to contribute a chapter. The full chapter is due later this year but for now, I will just need the following:
+
+- Author List
+- Chapter Title
+- Abstract (between 2 and 6 sentences)
+
+The last deadline to submit your short abstract directly at lahby@ieee.org is  May, 31th, 2021
+
+The tentative structure of the book is mentioned below:
+
+PART 1: Green Smart Education
+
+Chapter 1. Machine learning for green smart education
+
+Chapter 2. Deep learning for green smart education
+
+Chapter 3. Evolutionary algorithms for green smart education
+
+Chapter 4. Green Smart learning solutions for  combating Covid-19
+
+
+
+PART 2: Green Smart Health
+
+Chapter 5. Machine learning for green smart health
+
+Chapter 6. Deep learning for green smart health
+
+Chapter 7. Evolutionary algorithms for green smart health
+
+Chapter 8. Green Smart health solutions for  combating Covid-19
+
+
+
+PART 3: Green Smart transportation
+
+Chapter 9. Machine learning for green smart transportation
+
+Chapter 10. Deep learning for green smart transportation
+
+Chapter 11. Evolutionary algorithms for green smart transportation
+
+Chapter 12. Green Smart transportation solutions for  combating Covid-19
+
+
+
+PART 4: Green Smart Environment
+
+Chapter 13. Machine learning for green smart environment
+
+Chapter 14. Deep learning for green smart environment
+
+Chapter 15. Evolutionary algorithms for green smart environment
+
+Chapter 16. Green Smart environment solutions for  combating Covid-19
+
+
+
+Looking forward to hearing from you soon. Feel free to share with your network as well.
+
+Regards
+
+
+--
+
+
+
+Dr.  M.Lahby
+
+Laboratory of Mathematics and Applications, University Hassan II, Ecole Normale Supérieure (ENS) Casablanca, Morocco
+
+mlahby@gmail.com
+
+GSM : +212 6 65 29 23 76
+In the world of Linux, who needs Windows and Gates
+
+
+

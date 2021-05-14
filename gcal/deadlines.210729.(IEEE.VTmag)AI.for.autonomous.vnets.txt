@@ -1,0 +1,45 @@
+
+**********************************************************************************
+Call for Papers Special Issue on Artificial Intelligence for Autonomous Vehicular Communication Networks - IEEE VT Magazine (Impact Factor: 7.921)
+http://ieeevtc.org/vtmagazine/specisu--AI-AVCNet.php
+**********************************************************************************
+
+With the advancement of sensing, communications and networking, autonomous vehicles and unmanned aerial vehicles (UAVs) are expected to play a vital role in a variety of areas, including healthcare, industry 4.0, smart farming and agriculture, logistics, transportation, and public safety. Together with the upcoming B5G/6G technologies, connected vehicular systems will become more ubiquitous and practical. Artificial intelligence (AI) and machine learning (ML) techniques can provide significant benefits towards automating the tasks of sensing, computing, and communicating in vehicular communication networks.
+
+To achieve real-time perception and autonomous control, computing and communications in AI-enabled vehicular communication networks will be more complex and heterogeneous than before. Security and privacy will be extremely challenging, due to certain characteristics of these complex systems (high mobility of nodes and unreliable link connectivity) combined with vulnerable end devices, limited resources, and heterogeneous networking. For example, data collected from sensors for AI-based approaches pose new security threats. ML models trained at edge devices may suffer from various malicious attacks, but distributed ML algorithms are essential in vehicular communication networks with multiple self-organizing vehicles for control that is both scalable and low-latency.
+
+The objective of this special issue is to bring together state-of-the-art innovations and research activities (from both academia and industry) to explore AI-based autonomous vehicular communication network technologies. Topics of interest include but are not limited to:
+
+- Edge learning in autonomous vehicular communication networks
+- Deep learning and distributed machine learning for vehicular communication networks
+- AI techniques for radio environment awareness in vehicular networks
+- Reinforcement learning for network decision making, network control, and management
+- Reinforcement learning for self-organized vehicular communication networks
+- Predictive QoS in autonomous vehicular communication networks
+- Privacy-preserving machine learning for autonomous vehicular communication networks
+- Blockchain-enabled autonomous vehicular communication networks
+- Joint design of AI-based communication and sensing in vehicular communication networks
+- AI-driven energy-efficient architectures/solutions for autonomous vehicular communication networks
+- Fault detection and self-healing in vehicular communication networks
+- New AI-based intelligent transportation systems and services in vehicular communication networks
+
+All manuscripts should contain state-of-the-art material presented in a tutorial or survey style, and must adhere to IEEE VTM guidelines at http://www.ieeevtc.org/vtmagazine/submission.php. Authors should submit a PDF version of their manuscript to (select Special Issue when submitting) http://mc.manuscriptcentral.com/vtm-ieee
+
+Important Dates
+* Manuscript Submission by: 29 July 2021
+* First Round Reviews by: 28 October 2021
+* Second Round Submissions by: 23 December 2021
+* Second Round Reviews / Editorial Decision: 22 February 2022
+* Final Articles by: 4 March 2022
+* Publication: June 2022
+
+Guest Editors
+* Li-Chun Wang, National Yang Ming Chiao Tung University, Taiwan
+* Haris Gaçanin, RWTH Aachen University, Germany
+* Dusit (Tao) Niyato, Nanyang Technological University, Singapore
+* Yu-Jia Chen, National Central University, Taiwan
+* Chun-Hung Liu, Mississippi State University, USA
+* Alagan Anpalagan, Ryerson University, Canada
+
+
+

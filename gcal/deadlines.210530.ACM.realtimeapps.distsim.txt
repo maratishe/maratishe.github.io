@@ -1,0 +1,222 @@
+
+Call for Papers - DS-RT 2021
+
+25th IEEE/ACM International Symposium on
+Distributed Simulation and Real Time Applications
+http://www.ds-rt.com
+September 27-29, 2021, Valencia, Spain
+
+---------------------------------------------------------------------------------------
+Important: Paper submission deadline: May 30th, 2021 (EXTENDED)
+---------------------------------------------------------------------------------------
+
+
+** The Symposium **
+
+The 2021 IEEE/ACM International Symposium on Distributed Simulation
+and Real Time Applications (DS-RT 2021) promises to be a grand affair
+and will take place in Valencia, Spain. DS-RT 2021
+serves as a platform for simulationists from academia, industry and
+research labs for presenting recent research results in Distributed
+Simulation and Real Time Applications.
+
+DS-RT 2021 targets the growing overlap between large distributed
+simulations and real time applications, such as collaborative virtual
+environments, pervasive and ubiquitous application scenarios, motor-,
+controller-, sensor- and actuator systems.
+
+The conference features prominent invited speakers as well as papers
+by top researchers in the field. DS-RT 2021 will include contributed
+technical papers, invited papers, and panel discussions. The
+proceedings will be published by IEEE-CS press.
+
+
+** Call for Papers **
+
+DS-RT provides an international forum for the discussion and
+presentation of original ideas, recent results and achievements by
+researchers, research students, and systems developers on issues and
+challenges related to distributed simulation and real time
+applications. Authors are encouraged to submit both theoretical and
+practical results of significance. Demonstration of new
+tools/applications is very encouraged.
+
+The scope of the symposium includes, but is not limited to:
+
+- Paradigms, Methodology and Software Architectures for Large Scale
+Distributed and Real-Time Simulations (e.g. Parallel and Distributed
+Simulation, Multi-Agent Based Distributed Simulation, HLA/RTI, Web,
+Grid and cloud based Simulation, hardware-software co-design for
+extreme scale simulations)
+
+- Paradigms, Modelling, Architecture and Environments for Large Scale
+Real-time Systems and Concurrent Systems with hard and soft Real-Time
+Constraints
+
+- Advanced modelling techniques (reuse of models, new modelling
+languages, agent-based M&S, and spatial M&S)
+
+- Non-functional Properties of Distributed Simulation and Real-Time
+Systems (e.g. Dependability, Availability, Reliability,
+Maintainability, Safety, Security, Trustworthiness, QoS)
+
+- Theoretical Foundations of Large Scale Real-Time and Simulation
+Models (e.g. Event Systems, Causality, Space-Time Models, Notions of
+Time, Discrete and Continuous Systems, Simulator Coordination)
+
+- Simulation Studies at Large and Very Large Scale (e.g. Industrial,
+Commercial, Ecological and Environmental, Societal, Power and Energy,
+Pervasive and Ubiquitous Computing Systems)
+
+- Performance and Validation of Large Scale and Distributed
+Simulations (e.g., benchmarking and analytical results, empirical
+studies DIS, HLA/RTI studies)
+
+- Algorithms and methods for parallel or distributed simulation
+(synchronization, scheduling, memory management, and load balancing)
+
+- Languages and Tools, Development Environments, Data Interfaces,
+Network Protocols and Model Repositories that address Very Large
+Simulations
+
+- Data Management and Distribution Issues, Interest Management,
+Semantic Modelling, Multi-resolution Modelling, Dead-Reckoning
+Mechanisms
+
+- Pervasive and Ubiquitous Computing Architectures and Applications
+that involve Simulations and/or adhere to Real-Time Constraints
+
+- Simulation based Virtual Environments and Mixed Reality Systems
+(e.g. Interactive Virtual Reality, Human Communication through
+Immersive Environments)
+
+- Collaborative Virtual and Augmented Reality, Shared Interaction
+Spaces, Telepresence Systems and Shared Workspaces, 3D Video and
+Acoustic Reconstruction, Shared Object Manipulation
+
+- Serious Gaming and Massive Multiplayer Online Games (MMOG)
+applications, architectures and scalability issues
+
+- Visual Interactive Simulation Environments (e.g., Generic Animation,
+Visual Interactive Modelling, Interactive Computer Based Training and
+Learning, Scientific Visualization, High-End Computer Graphics)
+
+- Design Issues, Interaction Designs, Human Commuter Interaction
+Issues raised by Large Scale DS-RT Systems
+
+- Media Convergence (e.g. New Technologies, Media Theory, Real-Time
+considerations of Multi Modality, etc.)
+
+- Innovative Styles of Interactions with Large Scale DS-RT Systems
+(e.g. Implicit, Situative and Attentive Interaction, Tangible
+Interaction, Embedded Interaction, etc.)
+
+- Technologies for Living Labs (e.g. Mirror World Simulation,
+Interoperability, Large Scale Multi Sensor Networks, Global Wireless
+Communication, Multi Stakeholder Understanding and Innovation)
+
+- Environmental and Emerging Simulation Challenges (e.g. Growth of
+Human Population, Climate Change, CO2, Health Care, Ecosystems,
+Sustainable Development, Water and Energy Supply, Human Mobility, Air
+Traffic, World Stock Markets, Food Supply Chains, Megacities, Smart
+Cities, Disaster Planning, etc.)
+
+- Advanced Simulation Studies and Technologies (e.g. Discrete event,
+continuous Simulation, etc.)
+
+- Cognitive Modelling and Simulation, Artificial Intelligence in
+Simulation, and Neural Network Models and Simulation
+
+- Service-oriented Computing and Simulation, Web-based Modelling and
+Simulation, and Simulation of Multimedia Applications and Systems
+
+- Modeling and Virtual Evaluation of Distributed Systems through Simulation,
+Resilience Network Evaluation in Distributed Systems through Simulation,
+Models and Simulation Environments for Distributed Cyber-Physical Systems
+Evaluation
+
+- Advances in Simulation Methodology and Practices
+
+- Smart Network Design and Traffic Modelling
+
+- Haptic-audio-visual System and applications
+
+- Medical and surgical simulation based Systems
+
+- Human-computer interaction in virtual reality environment
+
+
+
+
+
+** Important Dates Full Papers **
+
+Paper Submission Deadline: May 30th, 2021
+Notification of Acceptance: June 30th, 2021
+Camera Ready version due: TBA
+Symposium presentation: September 27-29, 2021
+
+
+
+
+** Call for Posters/Demos/Industrial Case Studies **
+
+The 25th IEEE/ACM International Symposium on Distributed Simulation
+and Real Time Applications (DS-RT 2021) also solicits posters and
+technical demonstrations that report on recent original results,
+ongoing research or industrial case studies in the area of distributed
+simulation and real time applications.
+
+
+** Important Dates Posters/Demos/Industrial Case Studies **
+
+Paper submission deadline: June 30th, 2021
+Notification of acceptance: July 20th, 2021
+Camera-ready deadline: TBA
+
+
+** Submission **
+
+Papers must be unpublished and must not be submitted for publication
+elsewhere. All paper should be submitted using the following<https://edas.info/N28003>. All papers will be reviewed by Technical Program Committee
+members and other experts active in the field to ensure high quality
+and relevance to the conference.
+
+Accepted papers will appear in the conference proceedings to be
+published by IEEE-CS press.
+General information regarding submission can be found at
+http://ds-rt.com/2021
+Questions from authors may be directed to the Program Co-Chairs.
+
+
+IMPORTANT: ATTENDANCE BY AT LEAST ONE AUTHOR IS MANDATORY
+
+
+** ORGANIZING COMMITTEE**
+
+General Chair:
+Carlos Tavares Calafate, Universitat Politècnica de València, Spain
+
+Program Chair:
+Floriano De Rango, University of Calabria, Italy
+
+Program Vice Chair
+Gregory Zacharewicz, National Institute of Mining and Telecommunication, France
+
+Special Session Chair:
+Rodolfo W. L. Coutinho, Concordia University, Canada
+
+Local Organization Chair
+José Oliver Gil, Universitat Politècnica de València, Spain
+
+Posters/Demos Chair:
+Pietro Manzoni, Universitat Politècnica de València, Spain
+
+Tutorials Chair
+Claudio Palazzi, University of Padua, Italy
+
+Finance and Registration Chair
+Juan Carlos Cano, Universitat Politècnica de València , Spain
+
+
+

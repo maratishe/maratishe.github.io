@@ -1,0 +1,28 @@
+
+IEEE Access
+Deep Learning for Internet of Things
+CFP:  https://ieeeaccess.ieee.org/open-special-sections/deep-learning-for-internet-of-things/
+
+
+
+Submission Deadline:  30 November 2021
+
+IEEE Access invites manuscript submissions in the area of Deep Learning for Internet of Things.
+
+In recent years, the techniques of Internet of Things (IoT) and mobile communications have been developed to detect and collect human and environment information (e.g. geo-information, weather information, bio-information, human behaviors, etc.) for a variety of intelligent services and applications. The three layers in IoT are the sensor, networking, and application layers; several techniques and standards (e.g. oneM2M, Open Connectivity Foundation, etc.) have been proposed and established for these three layers. For the sensor and networking layers, the rise of mobile technology advancements (e.g. wireless sensor networks, LoRaWAN, Sigfox, narrow band-IoT, etc.) has led to a new wave of machine-to-machine (M2M), machine-to-human (M2H), human-to-human (H2H), and human-to-machine (H2M) communications. For the application layer, the IoT techniques in several applications, including energy, enterprise, healthcare, public services, residency, retail, and transportation, have been designed and implemented to detect environmental changes and send instant updates to a cloud computing server farm via mobile communications and middleware for big data analyses. One of the perfect examples is that the vehicle on-board units can instantly detect and share information about the vehicle geolocation, speed, following distance, as well as gaps with other neighboring vehicles. Big data can be collected by IoT techniques and then analyzed by deep learning techniques for a variety of applications and services.
+
+Deep learning techniques, e.g. neural network (NN), convolutional neural network (CNN), recurrent neural network (RNN), long short-term memory (LSTM), etc., have been popularly applied into image recognition and time-series inference for IoT applications. Advanced driver assistance systems and autonomous cars, for instance, have been developed based on machine learning and deep learning techniques, which perform forward collision warning, blind spot monitoring, lane departure warning, traffic sign recognition, traffic safety, infrastructure management and congestion, and so on. Autonomous cars can share their detected information, such as traffic signs, collision events, etc., with other cars via vehicular communication systems, e.g., dedicated short range communications (DSRC), vehicular ad hoc networks (VANETs), long term evolution (LTE), and 5th generation mobile networks for cooperation. However, how to enhance the performance and efficiency of these deep learning techniques is one of the big challenges for implementing these real-time applications.
+
+Furthermore, several optimization techniques, such as stochastic gradient descent algorithm (SGD), adaptive moment estimation algorithm (Adam), and Nesterov-accelerated Adaptive Moment Estimation (Nadam), have been proposed to support deep learning algorithms for faster solution searching; for example, the gradient descent method is a popular optimization technique to quickly seek the optimized weight sets and filters of CNN for image recognition. The IoT applications based on these image recognition techniques (autonomous cars, augmented reality navigation systems, etc.) have gained considerable attention, and the hybrid approaches typical of mathematics for engineering and computer science (deep learning and optimization techniques) can be investigated and developed to support a variety of IoT applications.
+
+The topics of interest include, but are not limited to:
+
+Deep learning for massive IoT
+Deep learning for critical IoT
+Deep learning for enhancing IoT security
+Deep learning for enhancing IoT privacy
+Preprocessing of IoT data for AI modeling
+Deep learning for IoT applications (smart home, smart agriculture, interactive art, etc.)
+
+
+

@@ -1,0 +1,109 @@
+
+Communities in Networks
+
+July 01, 2021
+
+An Online Workshop Satellite of Networks 2021
+
+
+
+Submission deadline: May 17, 2021
+
+Acceptance notification: May 30, 2021
+
+
+
+Invited Speakers
+
+Mark Newman University of Michigan, USA
+
+Tiago Peixoto Central European University, Hungary
+
+Martin Rosvall Umeå University, Sweden
+
+Renaud Lambiotte University of Oxford, U.K
+
+
+
+Community structure is one of the most relevant features encountered in numerous real-world applications of networked systems. Despite the tremendous effort of a large interdisciplinary community of scientists working on this subject over the past few years to characterize, model, and analyze communities, more investigations are needed in order to better understand the impact of their structure and dynamics on networked systems. Therefore, the primary goal of this satellite workshop is to demonstrate the cutting-edge research advances on community structures in networks, in order to provide a landscape of research progresses and application potentials in related areas.
+
+Papers ranging from a broad nature, to various aspects of community structure with strong algorithmic innovations, but also application-oriented works are solicited.
+
+Topics relevant to this satellite session include, but are not limited to, the following:
+
+
+
+
+Models of Communities
+
+Embedding Models of Communities
+
+Evolution/Temporal Communities
+
+Dynamic and/of Communities
+
+Community Detection
+
+Communities in Uncertain Data
+
+Entropy Metrics for Communities
+
+Visual Representation of Communities
+
+Parallel Algorithms for Communities
+
+Hierarchy and Ego-Networks
+
+Communities and Sampling
+
+Communities and Controllability
+
+Communities and Synchronization
+
+Communities and Machine Learning
+
+Communities and Resilience
+
+Communities and Link Prediction
+
+Communities in Social Networks
+
+Communities in Multiplex
+
+Communities in Economics & Finance
+
+Communities in Epidemics
+
+Communities in Rumor Spreading
+
+Communities in Mobile Networks
+
+Communities in Biological Networks
+
+Communities in Brain
+
+Communities in Technological Networks
+
+
+
+
+CONTRIBUTION:
+
+Extended Abstracts about published or unpublished research (2 to 4 pages including references). They must follow the BioMed Central article template available at:
+
+
+
+https://appliednetsci.springeropen.com/submission-guidelines/preparing-your-manuscript/research-articles
+
+
+
+PUBLICATION:
+
+
+
+Selected contributions will be invited to submit an extended version to a special issue of Applied Network Science edited by Springer
+
+
+
+
+

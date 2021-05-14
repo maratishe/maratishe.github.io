@@ -1,0 +1,29 @@
+
+s Guest Editors, we cordially invite you to submit a manuscript for consideration and possible publication in a Special Issue "Cloud-Based IoT Applications for Smart Cities" to be published in the journal Smart Cities (ISSN 2624-6511) (https://www.mdpi.com/journal/smartcities/).
+
+The idea of the smart city connects many IT systems that improve and automate various aspects of everyday life. The effect of implementing the smart city idea is the popularization of access to information about the city, plans for further development, improving the work of offices and municipal institutions, better investment conditions, improved communication, improving the functioning of municipal services, improving the conditions of the environment, increasing safety, increasing the number of cultural and sports activities and opportunities to spend free time, as well as the active participation of residents in development and improvement.
+Thanks to Internet of Things devices, it is possible to automate tedious processes related to measurement and data transfer, and it is also possible to control the mechanisms remotely. In a smart city, there are many different types of sensors that collect information about the environment and send it to the central office. The question is: What to do with such a huge amount of data? Where to store it and how to manage it effectively? This is where cloud computing comes in handy.
+The main goal of this Special Issue is to analyze the possibilities that arise from the use of Internet of Things and cloud computing in the idea of the smart city, both for technical and utility reasons, as well as for the development of ICT.
+The manuscript submission deadline is 31 January 2022. We will process your paper in time once we receive your submission. For more details please visit the Special Issue website:
+
+https://www.mdpi.com/journal/smartcities/special_issues/Cloud_Based_IoT_Applications_Smart_Cities
+
+The topics include but are not limited to:
+
+smart energy
+smart buildings
+smart technology
+IoT-based applications
+cloud storage and processing for smart cities
+data science for smart cities
+security for smart cities
+
+
+Please share this invitation with your team members and colleagues; co-authors are most welcome. Please let us know as soon as possible if you are interested in submitting a manuscript for this Special Issue with tentative title and abstract. Your contribution would be most welcome.
+
+We are looking forward to hearing from you.
+
+With kind regards,
+
+
+

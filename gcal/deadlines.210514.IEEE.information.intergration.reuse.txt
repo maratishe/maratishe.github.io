@@ -1,0 +1,70 @@
+
+Call for Papers (full paper deadline May 14, 2021)
+
+The 22nd IEEE International Conference on Information Integration and Reuse (IRI'2021)
+Held Virtually, Aug. 10-12, 2021
+https://homepages.uc.edu/~niunn/IRI21/call_papers.html
+
+---------------------
+Confirmed Keynote Speakers (so far):
+https://homepages.uc.edu/~niunn/IRI21/speakers_keynotes.html
+
+1. "Multimedia Big Data Analytics for Data Science", Dr. Shu-Ching Chen, Professor, School of Computing and Information Sciences, Florida International University, USA
+2. "Data Analytics for Software Systems Observability: Challenges and Opportunities", Dr. Wahab Hamou-Lhadj, Professor, Gina Cody School of Engineering and Computer Science, Concordia University, Canada
+3. "Knowledge-Based Software Engineering", Dr. Stuart Rubin, Naval Information Warfare Center (NIWC) Pacific, USA
+
+---------------------
+This conference presents excellent, novel, and contemporary papers covering all aspects of Data – including Scientific Theory and Technology-Based Applications. New data analytic algorithms, technologies, and tools are sought for data management in the face of hardware, software, and/or bandwidth constraints; to construct models yielding important data insights; and, to create visualizations to aid in presenting and understanding the data. System development and integration need to adapt to these new algorithms, technologies, tools, and needs. This conference and its constituents support the development of science and technology to improve the human condition.
+
+Furthermore, IRI addresses the representation, cleansing, generalization, validation, and reasoning strategies for the scientifically sound and the cost-effective advancement of all systems and systems of systems (SoS) – including all software and hardware aspects. These non-trivial tasks lead to challenging research problems – for example, how to optimally select the information/data sets for reuse and how to optimize the integration of existing information/knowledge with new, developing information/knowledge sources.
+
+The IEEE IRI conference serves as a forum for researchers and practitioners from academia, industry, and government to present, discuss, and exchange ideas that address real-world problems with real-world solutions. Theoretical and applied papers are both welcome. The conference program will include several plenary speeches from academia, industry, and government; special sessions, open forum workshops, and panels.
+
+The conference includes, but is certainly not limited to, the areas listed below:
+
+* Applications – Autonomous Vehicles, Business, Education, Engineering, Healthcare and Medical Informatics, Internet of Things, Math, Military, Multimedia, NLP, Robotics, Science, Security, Social Networking, Space, Vision, etc.
+* Brain-Computer Interface: Applications and Algorithms
+* Contemporary as well as Novel Data Mining Techniques
+* Data & Knowledge Representation and Management
+* Data Science & Technologies - Heuristic Acquisition
+* Data Science and Software Engineering – Identify Security Bugs, Code Reviews, Adaptive Systems, Testing, etc.
+* Data Visualization
+* Graph Models
+* Machine Learning & AI
+* Heuristics, and Explanation-Based Learning vs. neural networks which are intractable
+* AI and Security
+* Symbolic AI
+* Evolutionary Techniques
+* Predictive Data Analysis & Intelligence
+* Recommender Systems
+* Statistical Analysis
+* Information Science & Theory
+
+Best Paper Award: The best papers will be selected by distinct committees and will be the ones, which report novel and promising research work, which have a high potential for world impact.
+
+Important Dates:
+
+*EXTENDED* Submission Deadline (full research/industry/application/government track):
+May 14, 2021
+
+Submission Deadline (short paper, poster, and demo paper track):
+May 17, 2021
+
+*EXTENDED* Full Paper Acceptance Notification:
+June 11, 2021
+
+Short Paper, Poster, and Demo Paper Acceptance Notification:
+June 11, 2021
+
+Camera Ready Submission Deadline:
+June 18, 2021
+
+Author Registration Due:
+July 2, 2021
+
+Conference Events
+August 10 - Aug 12, 2021
+
+
+
+

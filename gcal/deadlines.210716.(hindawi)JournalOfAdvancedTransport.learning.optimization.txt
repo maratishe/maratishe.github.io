@@ -1,0 +1,34 @@
+
+Journal of Advanced Transportation
+Machine Learning, Deep Learning, and Optimization Techniques for Transportation 2021
+Submission deadline
+16 Jul 2021
+
+Submission link
+https://review.hindawi.com/submit?specialIssue=606945
+
+Call for papers
+This Issue is now open for submissions.
+
+Papers are published upon acceptance, regardless of the Special Issue publication date.
+
+Description
+In recent years, machine learning techniques (e.g., support vector machine (SVM), decision tree, random forest, etc.) and deep learning techniques (e.g., convolutional neural network (CNN), recurrent neural network (RNN), long-short term memory (LSTM), etc.) have been popularly applied into image recognition and time-series inferences for intelligent transportation systems (ITSs). For instance, advanced driver assistance systems and autonomous cars have been developed based on machine learning and deep learning techniques to perform forward collision warning, blind spot monitoring, lane departure warning systems, traffic sign recognition, traffic safety, infrastructure management and congestion, and so on. Autonomous cars can share their detected information (e.g., traffic signs, collision events, etc.) with other cars via vehicular communication systems (e.g., dedicated short range communication (DSRC), vehicular ad hoc networks (VANETs), long-term evolution (LTE), and the 5th generation mobile networks) for cooperation. However, the performance and efficiency of these techniques are big challenges for performing real-time applications.
+
+Therefore, several optimization techniques (e.g., gradient descent algorithm, Adam optimization algorithm, particle swarm optimization algorithm, etc.) have been proposed to support deep learning algorithms in finding faster solutions. For example, the gradient descent method is a popular optimization technique to quickly seek the optimized weight sets and filters of CNN for image recognition. The ITS applications based on these image recognition techniques (e.g., autonomous cars, augmented reality navigation systems, etc.) have gained more attention, and the hybrid approaches typical of mathematics for engineering and computer science (e.g. machine learning, deep learning, and optimization techniques) can be investigated and developed to support a variety of ITS applications.
+
+The aim of this Special Issue is to focus on both original research and review articles on various disciplines of ITS applications, particularly machine learning, deep learning, and optimization techniques for ITS time-series data analyses, ITS spatiotemporal data analyses, advanced traffic management systems, advanced traveler information systems, commercial vehicle operation systems, advanced vehicle control and safety systems, advanced public transportation services, emergency management services, electronic payment services, advanced information management services, information management services, vulnerable individual protection services, and other ITS applications.
+
+Potential topics include but are not limited to the following:
+
+Machine learning, deep learning, and optimization techniques for ITS time-series and spatiotemporal data analyses
+Machine learning, deep learning, and optimization techniques for advanced traffic management and safety, traveler information, commercial vehicle operation, advanced vehicle control and safety, and advanced public transportation systems
+Machine learning, deep learning, and optimization techniques for emergency management, electronic payment, advanced information management, and vulnerable individual protection services
+Machine learning, deep learning, and optimization techniques for image recognition
+Applications and techniques for image recognition based on machine learning and deep learning for ITS
+Applications and techniques for autonomous cars and ships based on machine learning and deep learning
+Machine learning, deep learning, and optimization techniques for quality of service in VANET
+Machine learning, deep learning, and optimization techniques for infrastructure management and congestion
+
+
+

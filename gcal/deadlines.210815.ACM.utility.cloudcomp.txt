@@ -1,0 +1,225 @@
+
+===============================================================================
+
+14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2021)
+
+December 6-9, 2021 - Leicester, UK - Call for Papers
+
+Website: http://ucc-conference.org/
+
+===============================================================================
+
+
+
+CALL FOR PAPERS
+
+
+
+The digital transformation of all areas of life is accelerated in this decade
+
+by novel cloud services, e-infrastructures, data platforms and cyber-physical
+
+system integration. This broader scope of cloud computing calls for technically
+
+sound contributions that combine scale with convenience and reliability.
+
+Society and economy depend on cloud applications delivering compute power on
+
+demand in every location along data paths as a general service to the public,
+
+in analogy to conventional utilities. The engineering of such systems and
+
+applications calls for scientifically proven approaches, methods, tools and
+
+technologies.
+
+
+
+Providing a forum to review and discuss possible solutions, UCC is the premier
+
+IEEE/ACM conference for areas related to Cloud Computing as a Utility where
+
+leading researchers and practitioners in this important and growing field
+
+gather on an annual basis.
+
+
+
+This will be the 14th UCC in a successful conference series of community-driven
+
+events. Previous events were held in Shanghai, China (Cloud 2009), Melbourne,
+
+Australia (Cloud 2010 & UCC 2011), Chennai, India (UCC 2010), Chicago, USA (UCC
+
+2012), Dresden, Germany (UCC 2013), London, UK (UCC 2014), Limassol, Cyprus
+
+(UCC 2015), Shanghai, China (UCC 2016), Austin, Texas, USA (UCC 2017), Zurich,
+
+Switzerland (UCC 2018), Auckland, New Zealand (UCC 2019) and online during the
+
+pandemic (UCC 2020).
+
+
+
+UCC 2021 will be hosted at the University of Leicester. The city of Leicester
+
+is a major city in the middle of country and is well connected to the rest of
+
+the world with road, rail and air networks.
+
+
+
+UCC 2021 offers a technical programme, workshops, tutorials, and a doctoral
+
+symposium. The event will have a co-located 8th International Conference on
+
+Big Data Computing Applications and Technologies (BDCAT 2021).
+
+
+
+Authors are invited to submit original, unpublished research manuscripts in all
+
+areas of Cloud and Utility Computing and related computing paradigms such as
+
+Fog/Edge, Serverless and Distributed Computing.
+
+
+
+NEW in 2021: UCC submissions continue to use a double column format for review
+
+based on the new single-column template to facilitate the new ACM production
+
+process; the details are described in separate submission instructions.
+
+
+
+Also NEW in 2021: Authors of accepted papers can opt into reproducible research
+
+decoration; the details are described below.
+
+
+
+Topics of interest include but are not limited to:
+
+
+
+• Formal and qualitative aspects of Cloud technology
+
+• Security, trust and privacy in Clouds, and Cloud-hosted Blockchains
+
+• Architectural models and patterns to achieve Utility in Clouds
+
+• Cloud business and legal implications beyond technology
+
+• Cloud Computing middleware, stacks, tools, delivery networks and services at all layers (XaaS)
+
+• Cloud large-scale foundations for Big Data, IoT, and real-time analytics
+
+• Cloud management: autonomic, adaptive, self-*, SLAs, and monitoring
+
+• Cloud-native application design, engineering and serverless/microservice implementation
+
+• Cloud, Fog and edge/mobile devices management, hierarchy models, and business models
+
+• Designs and deployment models for Clouds: private, public, hybrid, federated, aggregated
+
+• Economic and business models of Clouds and services
+
+• High Performance Computing and the Cloud
+
+• Innovative cloud applications and experiences
+
+• Integration of Cloud systems with Fog/edge and IoT devices, continuum computing
+
+* Leading edge topics such as hybrid quantum clouds, coded computing and FHE
+
+• Mobile and energy-efficient use of Clouds
+
+• Networking for clouds and data centres
+
+• Performance analysis and modelling of cloud systems and applications
+
+• Policy languages and programming models
+
+• Principles and theoretical foundations of Utility Computing
+
+• Resource management and scalability: brokering, scheduling, capacity planning, and elasticity
+
+• Utility-driven platforms for Clouds
+
+• Utility-driven models and mechanisms for interclouds / federations
+
+• Virtualization, containerization, composition, orchestration and other enablers
+
+
+
+Important Dates (all AoE - Anywhere on Earth):
+
+
+
+Paper submissions due:       August  15, 2021
+
+Notification of acceptance:  October  1, 2021
+
+Camera ready papers due:     October 31, 2021
+
+Early registration deadline: October 31, 2021
+
+
+
+Check separate UCC calls for workshops, tutorials and other tracks.
+
+
+
+Reproducibility:
+
+
+
+The authors of accepted papers will be invited to submit supporting materials
+
+to be made publicly available as 'source materials' in the ACM Digital Library.
+
+The materials (data, code, models etc.) will be vetted by an evaluation process
+
+run by a separate committee. This submission is voluntary but encouraged for
+
+better highlighting the contributions that facilitate high-quality research.
+
+Papers that pass through the process successfully will receive badges printed
+
+on them.
+
+
+
+Awards and Special Issues:
+
+
+
+A selection commission chaired by the UCC 2021 technical programme committee
+
+will select and acknowledge the best paper and the best student paper to
+
+receive an award during the conference.
+
+
+
+Authors of highly rated papers from UCC 2021 will be invited to submit an
+
+extended version to special issues of prestigious journals, including the
+
+SpringerOpen Journal of Cloud Computing.
+
+
+
+Program Committee Chairs:
+
+
+
+• Ivona Brandic, Vienna University of Technology, Austria
+
+• Rizos Sakellariou, University of Manchester, UK
+
+• Josef Spillner, Zurich University of Applied Sciences, Switzerland
+
+
+

@@ -1,0 +1,127 @@
+
+CALL FOR PAPERS
+
+=========================
+
+The 3rd Distributed Computing for Emerging Smart Networks Workshop (DiCES-N)
+
+December 18, 2021, Bizerte, Tunisia
+
+https://visidia.labri.fr/DiCESN2021/
+
+
+
+It is planned to publish the DiCES-N 2021 proceeding with Springer in their Communications in Computer and Information Science series CCIS (final approval pending).
+
+http://www.springer.com/series/7899
+
+Indexing: The books of this series are indexed in Scopus, DBLP, Google Scholar, EI-Compendex, Mathematical Reviews, SCImago.
+
+
+
+===========================
+
+The organizing team is closely monitoring the development of the COVID-19 situation. In case of travel restrictions that prohibit physical attendance, the conference will be held in an alternative way using distance presentations in order to ensure both the safety of participants and wide dissemination.
+
+===========================
+
+Aims and Scope
+
+Nowadays, the global vision is the progressive migration towards smart cities in order to enhance the citizen life and to encounter many problems induced by population growth and increased urbanization, such as traffic congestion, air pollution, ... These smart environments can be viewed as interconnection of wide-scale cyber-physical systems, with sensors monitoring cyber and physical indicators to collect diverse information from the surrounding environment and with actuators dynamically changing the complex urban environment in some way. Through such systems, many innovative applications can be proposed in several fields of activity, such as smart living, smart mobility, smart economy, smart environment and smart governance.  As the human factor is involved in many applications, verifying and proving the validity and correctness of protocols and applications are crucial steps before deployment, in addition to ensuring other paradigms such as scalability, energy saving, resource constraints, etc. In this context, several methods and approaches of Distributed Computing are exploited in software and hardware to propose new approaches able to support and analyse the huge amount of collected information and to deal with the control of these emerging networks.
+
+The workshop aims to be a major forum for researchers and practitioners, interested in the design, development and evaluation of distributed systems, platforms and architectures for Cyber Physical Systems in the context of smart cities. Highlights of the workshop will include a high quality single-track technical program and an invited speaker.
+
+
+
+Main Topics of interest:
+
+Authors are invited to submit original and unpublished contributions in all aspects of Distributed Computing applied to CPS and to real cases in the context of emerging networks. Topical areas of interest are, but not limited to, the following:
+
+-  Self-organization, self-stabilization, self-healing and autonomic computing for CPS
+
+-  Distributed algorithms for emergent wireless networks
+
+-  Communication and networking distributed protocols for emergent wireless networks
+
+-  Artificial intelligence and machine learning applied to Cyber Physical Systems and smart cities applications
+
+-  Machine intelligence in Cyber Physical Systems and real time analytics
+
+-  Optimization, approximation methods for Cyber Physical Systems and smart cities applications
+
+-  Security and privacy of distributed systems in the context of CPS
+
+-  Modelling and performance evaluation
+
+-  Performance analysis : complexity, correctness, scalability
+
+-  Robustness, fault-tolerance, scalability and real-time in the context of CPS
+
+-  Verification and validation of algorithms and applications in the context of CPS
+
+- Network virtualization and software-defined wireless networks
+
+- Cognitive communications and networking
+
+- Mobile fog/edge/cloud computing
+
+- IoT Computing and Networking and applications
+
+- Context-awareness in wireless, mobile networks
+
+- Energy-Efficient Designs
+
+- Smart city applications: e-health, smart transportation,…
+
+- Wireless and Mobile Networks: Adhoc networks, VANET, WSN, 5G,…
+
+- Signal processing and applications in the context of smart city applications
+
+
+
+
+
+
+
+Important dates
+
+Paper Submission                                          : August 30, 2021
+
+Author Notification                                       : November 08, 2021
+
+Camera-ready Copy Submission                 : November 29, 2021
+
+Author Registration                                       : November 29, 2021
+
+
+
+Workshop Committee
+
+
+
+General co chairs
+
+Imen Jemili, University of Carthage, Tunisia
+
+Mohamed Mosbah,  Bordeaux INP, France
+
+
+
+TPC co chairs
+
+Sabra Mabrouk, University of Carthage, Tunisia
+
+Soumaya Dahi, University of Carthage, Tunisia
+
+Akka Zemmari, University of Bordeaux, France
+
+
+
+Publicity chair
+
+Emna Ben Salem, University of Carthage, Tunisia
+
+
+
+
+

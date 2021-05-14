@@ -1,0 +1,68 @@
+
+Call for Papers - MDPI's Electronics (Impact Factor: 2.412, JCR: Q2 - Engineering, Electrical & Electronic)
+
+
+
+"Special Issue on Recent Advances in Internet of Vehicles"
+
+Deadline: May 31, 2021
+
+https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles
+
+
+****************************************************************************
+
+
+
+Summary
+
+
+
+Recent considerable advancements in the emerging yet promising paradigm of the Internet of Things (IoT) and its convergence with the state-of-the-art wireless communication technologies has led to the evolution of conventional vehicular ad hoc networks into the Internet of Vehicles (IoV). IoV is primarily an amalgamation of a variety of network entities, i.e., vehicles, vulnerable pedestrians, and supporting roadside infrastructure, and act as a dynamic communication system for facilitating real-time efficient information sharing among these entities in order to guarantee safer navigation and intelligent traffic management. This not only entails vehicle-to-vehicle communication but also takes into consideration vehicle-to-human, vehicle-to-road, and vehicle-to-sensor interactions. Hence, recently, the notion of IoV is being explored by researchers and scientists from both academia and industry, nevertheless, significant developments from a wide variety of technological facets still need to be materialized so as to unleash the true potential of IoV in the realm of intelligent transportation system which itself is integral to the evolution of futuristic smart and connected cities.
+
+
+This special issue, accordingly, welcome original contributions so as to bring forth the state-of-the-art advancements in the IoV landscape. Both high-quality survey and technical contributions are welcome for this special issue.
+
+
+
+Topics include but are not limited to:
+
+
+
+Promising architectures and protocols for IoV
+Emerging communication technologies for IoV (DSRC, mmWave, Terahertz, etc.)
+Security and privacy issues in IoV
+Machine learning-based techniques/algorithms for IoV
+Software-defined approaches in IoV
+Blockchain-enabled IoV
+Trust and reputation management in IoV
+Leveraging fog and edge computing in IoV
+Intelligent resource management in IoV
+Quality-of-service and quality-of-experience in IoV
+Social IoV
+Big data analytics in IoV
+Autonomic service delivery in IoV
+Testbed and simulation tools for IoV
+
+
+Keywords
+
+
+
+Internet of Vehicles, Heterogeneous Wireless Networks, Software-defined Networking, Intelligent Resource Management, Big Data Analytics, Security & Privacy, and Quality-of-Service.
+
+
+Submission Instructions
+
+For detailed submission instructions, please visit https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles.
+
+In case of any questions, please feel free to contact the Guest Editors.
+
+Best Regards,
+Prof. Dr. Michael Sheng*, Assoc. Prof. Dr. Jian Yu**, and Adnan Mahmood* (Guest Editors)
+*Department of Computing, Macquarie University, Sydney, NSW 2109, Australia.
+**Department of Computer Science, Auckland University of Technology, Auckland, 1010, New Zealand.
+
+
+
+

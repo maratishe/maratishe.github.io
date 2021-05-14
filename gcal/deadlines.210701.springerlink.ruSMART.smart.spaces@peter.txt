@@ -1,0 +1,159 @@
+
+The 21st International Conference on Next Generation Wired/Wireless Advanced Networks and Systems NEW2AN 2021
+http://www.new2an.info/
+
+August 26 - 27, 2021
+St.Petersburg, Russia
+
+co-located with
+the 14th International Conference on Internet of Things and Smart Spaces ruSMART 2021
+http://rusmart.e-werest.org/2021.html
+
+HIGHLIGHTS
+
+- The conference will be implemented in hybrid format
+- EU nations and selected others can use e-VISA to enter St.Petersburg (similar to ESTA of USA)
+- NEW2AN/ruSMART 2021 proceedings will be published in Springer's LNCS and indexed by relevant databases such as SCOPUS.
+- Submission deadline July 01, 2021
+- Acceptance rate is 35% (5 years)
+- Authors of selected best papers will be invited to submit extended versions of their papers to be published in a special issue of a journal Begell Telecommunications and Radio Engineering
+- Takes place in St. Petersburg https://www.youtube.com/watch?v=4EoUz39nPMM
+
+IMPORTANT DATES
+- Submission deadline July 01, 2021
+- Notification August 02, 2021
+- Camera ready August 17, 2021
+
+CALL FOR PAPERS
+
+About the Conference
+
+Future mobile networks will evolve out of existing wired and wireless networks of different nature by means of convergence, fusion and mutual penetration; next-generation multimedia services in turn pose new requirements and challenges on treatment of traffic within communication systems - a certain degree of multilayer co-operation has to be achieved. This forms a framework on harmonization of results obtained separately in different areas of network research like network performance evaluation, architecture and protocol design, and low layer network design. The conference goal is in the identification, investigation and integration of new algorithms, approaches, architectures, methods and mechanisms to enable proper and efficient operation of a next-generation IP-based wireless network. Therefore, wireless networks and systems and their interaction with wired networks and systems shall be widely examined and addressed throughout the conference.
+
+The history of NEW2AN dates back to 1993, today it is an established conference featured by proceedings published by Springer LNCS (confirmed) and distinguished keynote speakers.
+
+The NEW2AN 2021 will be held in St. Petersburg, Russia - the meeting point of East and West. Through its stunning architecture and wonderful art galleries and museums, among a number of other attractions, the wealth of history of East and West can be seen and felt in this beautiful city.
+
+Topics of interest
+
+Topics of interest include but are not limited to:
+
+Fundamentals and PHY
+
+• Channel capacity estimation and equalization
+• Channel measurement and modeling
+• Cognitive and green radio
+• Cooperative communications
+• Interference mitigation
+• Multi-antenna signal processing
+• Physical layer design
+• Power efficient communications
+• Advanced modulation schemes
+• Antennas and beamforming
+• Single and multi-user MIMO
+• Source and channel coding
+• Vehicular communications
+
+MAC design and Cross-Layering
+
+• Adaptive and cognitive MACs
+• Cross-layer designs involving MAC
+• Implementation of testbeds and prototypes
+• Information-theoretical approaches to MAC designs
+• Radio resource management, allocation, and scheduling
+• Reconfigurable MACs
+• Routing and QoS scheduling
+• Scheduling algorithms for various systems
+• Security issues in MAC designs
+
+Fixed, Mobile and Wireless Networks
+
+• Beyond 5G
+• Ultra dense networks
+• Next-Generation access networking
+• Ad hoc and mesh networks
+• Body area networks
+• Cognitive radio networks
+• Congestion, load and admission control
+• Future wireless Internet
+• Internet of things
+• Mobile computing
+• Multi-hop and relay networks
+• Future Internet and Next-Generation Networking Architectures
+• Satellite communications
+• Smart cities and smart grids
+• Vehicular networks
+• Wireless sensor networks
+• Network virtualization, virtual private networks (VPN), and services
+• Network management methodologies and control plane design for Future Internet
+• Next generation network provisioning, monitoring, and management of IP services: traffic engineering, and
+mobility support
+
+Services and Applications
+
+• Emerging Internet applications
+• Authentication, authorization and accounting
+• Context and location-awareness in pervasive systems
+• Cyber-physical systems and applications
+• Emerging wireless and mobile applications
+• P2P services for multimedia
+• Secure network and service access
+• Self-adaptation on the service layer
+• Service discovery and portability
+• Service oriented architectures and cloud computing
+• User interfaces, user-machine interactions
+• Project management in communications industry
+
+BlockChain
+
+• Theories of blockchain and distributed ledger technology
+• Distributed consensus and fault tolerance mechanisms
+• Security, privacy and trust of blockchain and distributed ledger technology
+• Decentralization, scalability, and security tradeoff
+• Performance analysis and optimization
+• Simulation and performance evaluation techniques
+• Smart contract and chain code
+• Applications and services with blockchain and distributed ledger technology
+• Protocols and algorithms based on blockchain
+• Blockchain in the Internet of things (IoT)
+• Blockchain in cyber physical systems
+• Blockchain in social networking
+• Blockchain in supply chain management
+• Blockchain in agriculture
+• Blockchain in connected and autonomous vehicles
+• Blockchain in crowdsourcing and crowdsensing
+• Blockchain in mobile cellular networks
+• Blockchain in edge and cloud computing
+
+Nano Communications
+
+• Nano-Electromagnetic communications
+• Graphene-based nano-antennas
+• Terahertz Band communication
+• Nanomaterials for applications in communications
+• Molecular communications
+• Protocols and architectures for nano communications
+• Information theoretical approaches to nanoscale communications
+• Internet of Nano Things (IoNT)
+• Privacy, Security and Trust in nanonetworks
+• Future emerging applications of nano/molecular communications
+
+Paper submission
+
+The authors are encouraged to submit full papers describing original, previously unpublished, complete research, not currently under review by another conference or journal, addressing state-of-the-art research and development in all areas of computer networking and data communications. All papers will be reviewed and accepted papers will appear in the conference proceedings, published by Springer-Verlag in the LNCS series. Papers must be submitted electronically in the conference site. The maximum size of papers should be 5000 words including tables and figures. Please adhere to the formatting standard for a 12-page manuscript of Springer-Verlag LNCS. The cover page must contain an abstract of about 150 words, 3-5 keywords, name and affiliation of author(s) as well as the corresponding author's e-mail and postal address. Selected best papers will appear in a journal special issue.
+
+For further and up-to-date information please visit official web page of the Conference http://www.new2an.info
+
+-------------------------------------------------------
+We love you. We are sorry. Please forgive us. Thank you.
+_______________________________________________
+Mycolleagues mailing list
+Mycolleagues@mailman.ufsc.br
+https://mailman.ufsc.br/mailman/listinfo/mycolleagues
+
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.
+OR
+- Easy unsubscribe: https://mailman.ufsc.br/mailman/options/mycolleagues
+
+
+

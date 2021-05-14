@@ -1,0 +1,46 @@
+
+Machine Learning for Security and Communication Networks
+Submission deadline
+18 Jun 2021
+
+Submission link
+https://review.hindawi.com/submit?specialIssue=589396
+
+Call for papers
+This Issue is now open for submissions.
+
+Papers are published upon acceptance, regardless of the Special Issue publication date.
+
+Description
+In recent years, supervised machine learning methods (e.g. k nearest neighbours, Bayes' theorem, decision tree, support vector machine, random forest, neural network, convolutional neural network, recurrent neural network, long short-term memory network, gated recurrent unit network), unsupervised machine learning methods (e.g. association rules, k-means, density-based spatial clustering of applications with noise, hierarchical clustering, deep belief networks, deep Boltzmann machine, auto-encoder, de-noising auto-encoder, etc.), reinforcement learning methods (e.g. generative adversarial network, deep Q network, trust region policy optimization, etc.), and federated learning methods have been applied to security and communication networks. For instance, machine learning methods have been used to analyze the behaviours of the data stream in networks and extract the patterns of malicious activities (packet dropping, worm propagation, jammer attacks, etc.) for generating rules in intrusion detection systems. Furthermore, time-series methods (e.g. local outlier factor, cumulative sum, adaptive online thresholding, etc.) have been proposed to retrieve the time-series features of anomalous behaviours for preventing cyber-attacks and malfunctions.
+
+While the area of machine learning methods for security and communication networks is a rapidly expanding field of scientific research, several open research questions still need to be discussed and studied. For instance, using and improving machine learning methods for malicious activity detection, attack detection, mobile endpoint analyses, repetitive security task automation, zero-day vulnerability prevention, and other security applications are important issues in computing and communications.
+
+This Special Issue will solicit papers across various disciplines of security and communication networks in computing and communications. Original research and review articles are welcome.
+
+Potential topics include but are not limited to the following:
+
+New supervised machine learning methods for security and communication networks
+New unsupervised machine learning methods for security and communication networks
+New reinforcement learning methods for security and communication networks
+New federated learning methods for security and communication networks
+New optimization methods for security and communication networks
+
+Lead Editor
+Chin-Ling Chen1
+Guest Editors
+Chi-Hua Chen2 | Lingjuan Lyu3 | Feng-Jang Hwang4
+1
+Chaoyang University of Technology, Taichung, Taiwan
+
+2
+Fuzhou University, Fuzhou, China
+
+3
+National University of Singapore, Singapore
+
+4
+University of Technology Sydney, Sydney, Australia
+
+
+

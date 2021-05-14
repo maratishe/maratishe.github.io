@@ -1,0 +1,160 @@
+
+C a l l  F o r  P a p e r s
+
+ACM(*) PE-WASUN 2021
+
+
+
+18th ACM(*) International Symposium on Performance Evaluation of
+Wireless Ad Hoc, Sensor, and Ubiquitous Networks
+(Jointly with the 24th ACM(*) MSWiM Conference)
+
+http://pewasun.upc.edu/PEWASUN2021
+
+
+
+(*) ACM sponsored pending
+
+
+
+Alicante, Spain.
+
+November 22nd- 26th, 2021
+
+
+
+**********************
+
+Scope
+
+**********************
+
+Wireless ad hoc, sensor, along with ubiquitous networks have recently witnessed their fastest growth period ever in history, and this trend is likely to continue for the foreseeable future. However, as such networks become increasingly complex, performance modelling and evaluation will play a crucial part in their design process to ensure their successful deployment and exploitation in practice.
+
+This symposium will bring together scientists, engineers, and practitioners to share and exchange their experiences, discuss challenges, and report state-of-the-art and in-progress research on all aspects of wireless ad hoc, sensor, and ubiquitous networks with a specific emphasis on their performance evaluation and analysis.
+
+Topics of interest include, but are not limited to:
+
+· Predictive performance models of ad hoc, sensor, and ubiquitous networks.
+
+· Probabilistic models for ad hoc, sensor and ubiquitous networks.
+
+· Queuing and network information theoretic analysis
+
+· Analytical modeling and simulation methods
+
+· Automatic performance analysis
+
+· Tracing and trace analysis
+
+· Software tools for network performance and evaluation
+
+· Performance measurement, evaluation and monitoring tools for ad hoc, sensor and ubiquitous networks
+
+· Case studies demonstrating the role of performance evaluation in the design of ad hoc, sensor and ubiquitous networks
+
+· Network performance improvement through optimization and tuning
+
+· Mobility modeling and management
+
+· Traffic models for ad hoc, sensor networks
+
+· Performance evaluation of wireless mesh networks
+
+· Performance evaluation of pervasive and ubiquitous networks
+
+· Performance evaluation of VANETs
+
+· Performance of wireless and sensor devices
+
+· Performance of spectrum agile and cognitive wireless sensor networks
+
+· Analysis of multimedia applications over wireless ad-hoc and sensor networks
+
+· Performance of pervasive computing and services
+
+· Analysis of mobile cloud networking and computing
+
+· Performance of continuity of service over heterogeneous networks, seamless connectivity
+
+· Analysis of security and privacy in ad hoc networks and ubiquitous networks
+
+· Simulation methods, performance and analysis
+
+· Real experimentation, deployments, open platforms
+
+
+
+General chair
+
+Mónica Aguilar Igartua         Universitat Politècnica de Catalunya, Spain (monica.aguilar@upc.edu)
+
+General co-chair
+
+Isabelle Guérin-Lassous      Université Lyon 1/LIP, France (isabelle.guerin-lassous@ens-lyon.fr)
+
+Program Co-Chairs
+
+Luis de la Cruz Llopis           Universitat Politècnica de Catalunya, Spain (luis.delacruz@upc.edu)
+
+Thomas Begin                      Université Claude Bernard Lyon 1, France (thomas.begin@ens-lyon.fr)
+
+Web/poster Chair
+
+Juan Pablo Astudillo León    Universitat Politècnica de Catalunya, Spain (juan.pablo.astudillo@upc.edu)
+
+Demo/Tools Chair
+
+Pablo Barbecho Bautista      Universitat Politècnica de Catalunya, Spain (pablo.barbecho@upc.edu)
+
+Publicity Chair
+
+Leticia Lemus                       Universitat Politècnica de Catalunya, Spain (leticia.lemus@upc.edu)
+
+
+
+Program Committee Members
+
+http://pewasun.upc.edu/PEWASUN2021/committees.html
+
+
+
+*********************
+
+Paper Submission
+
+*********************
+
+Authors are invited to submit their papers through EasyChair on the
+following link: https://www.easychair.org/conferences/?conf=pewasun2021
+
+
+The length of the papers should not exceed 8 single-spaced pages
+(in two-column format), ACM style including tables and figures. A template
+for ACM SIG Proceedings style (LaTeX2e and MS Word) can be found at
+
+https://www.acm.org/publications/proceedings-template
+Accepted papers will appear in the ACM symposium proceedings.
+
+The authors of accepted papers must guarantee that their paper will be
+presented at the Symposium. At least one author of each accepted paper
+must be registered for the symposium, in order for that paper to appear
+in the proceedings and to be scheduled for presentation.
+
+*******************
+
+Important Dates
+
+*******************
+
+Full paper due: June 15th, 2021
+Acceptance notification: July 31th, 2021
+Camera ready due: TBA
+Speaker Author Registration: TBA
+Symposium: November 22nd - 26th, 2021 - Jointly with MSWiM'21
+
+
+
+For more information, please refer to the conference website: http://pewasun.upc.edu/PEWASUN2021
+
+We hope to see you in Alicante.

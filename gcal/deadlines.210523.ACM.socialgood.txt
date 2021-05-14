@@ -1,0 +1,66 @@
+
+CFP: ACM International Conference on Information Technology for Social
+Good (GoodIT 2021)
+
+
+GoodIT 2021: ACM International Conference on Information Technology for
+Social Good
+
+http://www.grc.upv.es/goodit2021/
+
+9-11 September 2021, Rome, Italy
+
+## SPECIAL ISSUES
+All accepted papers will be included in the ACM Digital Library.
+Selected papers will be invited to submit an extended version to the
+following special issues:
++ MDPI "Sensors", Special Issue on: "Application of Information
+Technology (IT) to Social Good"
+- 3 papers free of charge and 2 more with a 50% discount.
++ Springer "Multimedia Tools and Applications", Special Issue on
+"Information Technology for Social Good [1223]"
+
+## MOTIVATION AND RATIONALE
+The conference will focus on the application of IT technologies to
+social good. Social good is typically defined as an action that provides
+some sort of benefit to the general public. In this case, Internet
+connection, education, and healthcare are all good examples of social
+goods. However, new media innovations and the explosion of online
+communities have added new meaning to the term. Social good is now about
+global citizens uniting to unlock the potential of individuals,
+technology, and collaboration to create positive societal impact.
+
+## TOPICS
+* IT for education
+* Data Science
+* Digital solutions for Cultural Heritage
+* Data sensing, processing, and persistency
+* Game, entertainment, and multimedia applications
+* Health and social care
+* IT for development
+* Privacy and trust issues and solutions
+* Sustainable cities and transportation
+* Smart governance and e-administration
+* IT for smart living
+* Technology addressing the digital divide
+* IT for automotive
+* Frugal solutions for IT
+* Ethical computing
+* Decentralized approaches to IT
+* Citizen science
+* Socially responsible IT solutions
+* Sustainable IT
+* Social informatics
+* Civic intelligence
+
+
+
+## IMPORTANT DATES
+* Submission deadline: May 23, 2021 (extended)
+* Notification of acceptance: June 22, 2021
+* Camera Ready: July 10, 2021
+
+---------------------------------
+
+
+

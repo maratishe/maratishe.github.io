@@ -1,0 +1,38 @@
+
+IEEE Transactions on Emerging Topics in Computing (TETC) seeks submissions for the upcoming special section on “To Be Safe and Dependable in the Era of Artificial Intelligence: Emerging Techniques for Trusted and Reliable Machine Learning”.
+
+During the last decade, advances in areas such as convolutional neural networks, deep learning, and hardware accelerators have enabled the widespread and ubiquitous adoption of machine learning (ML) in real-world systems. This trend is expected to continue and expand in the coming years, leading to a world that depends heavily on ML-based systems.
+
+To be safe and dependable in this new era of artificial intelligence, these innovative systems have to be reliable and secure. This poses many research challenges. For example, fault tolerance is commonly achieved by redundant design, but the implementation of deep neural networks is already challenging, so there is little room to add additional elements for fault tolerance. Similarly, understanding the vulnerabilities of advanced ML systems is a complex issue, as shown by recent attacks on image classification implementations. Therefore, it is essential to learn how to build ML systems that cannot be manipulated or corrupted by malicious attackers and that can operate reliably when its underlying hardware or software suffers from errors.
+
+This special section is devoted to: 1) recent advances in techniques, algorithms, and implementations for error-tolerant ML systems and 2) trust/reliable aspects of ML systems and algorithms, including vulnerabilities, management, protection, and mitigation schemes. Original papers with substantial technical contribution are solicited on the following topics:
+
+Design and analysis of trusted/reliable ML algorithms and systems
+Innovative computational paradigms for ML, such as approximate/stochastic computing
+Fault/error-tolerant ML systems and techniques
+Trust, dependability, reliability, and security in ML implementations
+Adversarial and related techniques for ML systems and algorithms
+Techniques for trustworthy ML inclusive of detection, mitigation, and defense
+Evaluation of ML for applications such as in safety-critical and secure systems
+
+Schedule
+Deadline for submissions: October 15, 2021
+First decision (accept/reject/revise, tentative): January 15, 2022
+Submission of revised papers: March 15, 2022
+Notification of final decision (tentative): May 1, 2022
+Journal publication (tentative): second half of 2022
+
+Submission Guidelines
+Submitted papers must include new significant research-based technical contributions in the scope of the journal. Purely theoretical, technological, or lacking methodological-and-generality papers are not suitable for this special section. The submissions must include clear evaluations of the proposed solutions (based on simulation and/or implementation results) and comparison to state-of-the-art solutions. Papers under review elsewhere are not acceptable for submission. Extended versions of published conference papers (to be included as part of the submission together with a summary of differences) are welcome but there must have at least 40% of new impacting technical/scientific material in the submitted journal version, and there should be less than 50% verbatim similarity level as reported by a tool (such as CrossRef). Guidelines concerning the submission process, LaTeX, and Word templates can be found on the Author Information page. While submitting through ScholarOne, please select this special-section option. As per TETC policies, only full-length papers (10-16 pages with technical material, double column – papers beyond 12 pages will be subject to MOPC, as per CS policies -) can be submitted to special sections. The bibliography should not exceed 45 items and each author’s bio should not exceed 150 words.
+
+Questions?
+Contact the guest editors at ftsmltetcss@gmail.com.
+
+Guest editors:
+Shanshan Liu, Northeastern University, USA (IEEE Member)
+Pedro Reviriego, Universidad Carlos III de Madrid, Spain (IEEE Senior Member)
+Fabrizio Lombardi, Northeastern University, USA (IEEE Fellow)
+
+Corresponding TETC editor:
+Patrick Girard, LIRMM, France (IEEE Fellow)
+

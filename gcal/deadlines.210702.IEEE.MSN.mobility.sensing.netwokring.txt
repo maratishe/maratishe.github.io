@@ -1,0 +1,65 @@
+
+MSN 2021 provides a forum for academic researchers and industry
+practitioners to present research progresses, exchange new ideas, and
+identify future directions in the field of Mobility, Sensing and
+Networking. MSN 2021 is technically sponsored by IEEE.
+https://ieee-msn.org/2021
+
+Scope and Objectives
+
+Mobility, sensing and networking are the key areas of enabling
+technologies for the next-generation networks, Internet of Things and
+Cyber-Physical Systems. Recent years have witnessed the increasing
+convergence of algorithms, protocols, and applications for mobility,
+sensing and networking in a range of applications including connected
+vehicles, smart cities, industries, and smart health. Building on the
+past 16 years of success, the 17th International Conference on
+Mobility, Sensing and Networking (MSN 2021) provides a forum for
+academic researchers and industry practitioners to exchange new
+research ideas, present their progress, and identify future directions
+in the field of mobility, sensing and networking.
+
+The conference solicits submissions from all research areas related to
+mobility, sensing and networking, as well as their corresponding
+systems and applications. Topics of interests are covered by the
+following tracks:
+
+❏       Algorithms, Theory, and Protocols
+❏       Systems, Tools, Experiments & Applications
+❏       Mobile & Wireless Sensing and Networking
+❏       Edge Computing and IoT
+❏       Network Security, Privacy, Trust, and Blockchain
+❏       Big Data and AI in Networking
+
+Best Paper Awards and Journal Special Issues
+Three accepted papers will be selected for best paper awards. Selected
+papers will be recommended to IEEE Transactions on Network Science and
+Engineering (TNSE, IF: 5.213), and Elsevier Computer Communications
+for potential fast-track publications.
+
+Important Dates
+
+Paper Submission Due: July 2, 2021
+Author Notification: September 15, 2021
+Camera-ready Due: October 20, 2021
+Conference Date: December 13-15, 2021
+
+Submission Procedures
+
+Submitted manuscripts must be prepared according to IEEE Computer
+Society Proceedings Format (double column, 10pt font, letter paper)
+and submitted in the PDF format. The manuscript submitted for review
+should be no longer than 8 pages. After the manuscript is accepted,
+the camera-ready paper may have up to 10 pages, subject to an
+additional fee per extra page. Manuscripts should be submitted to one
+of the research tracks. Submitted manuscripts must not contain
+previously published material or be under consideration for
+publication in another conference or journal at the time of
+submission. Accepted papers will be included in the conference
+proceedings and published in the IEEE Xplore digital library (indexed
+by EI). Please follow the submission link on
+https://easychair.org/my/conference?conf=msn2021 to submit your paper.
+
+
+
+
