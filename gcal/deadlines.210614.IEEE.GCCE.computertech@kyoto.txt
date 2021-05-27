@@ -1,0 +1,61 @@
+
+CALL FOR PAPERS
+
+IEEE GCCE (Global Conference on Consumer Electronics) 2021
+Organized Session: 2D/3D Video Data Distribution and Processing
+October 12-15 (some sessions), 2021, Kyoto, Japan
+http://www.ieee-gcce.org/2021/organized.html#os-vdp
+
+Important Dates:
+Paper Entry: June 7, 2021
+2-pages Short Paper Submission: June 14, 2021
+https://edas.info/newPaper.php?c=27401&track=102206
+Notification of Acceptance: July 26, 2021
+Final Paper Submission: August 10, 2021
+--------------------------------------------------------------------------------
+Session Title:
+2D/3D Video Data Distribution and Processing (OS-VDP)
+
+Session Abstract:
+The tremendous advances in audio and video streaming technologies have
+created a large consumer electronics field for video distribution and processing.
+Extending traditional 2D video technologies, 3D video is recently very attractive
+in the field. In order to accelerate this field, further progresses of the researches
+on 2D/3D video data distribution and processing are necessary. The aim
+of this organized session is to bring together practitioners and researchers
+from both academia and industry in order to have a forum for discussion
+and technical presentations on this hot field.
+
+Session Topics
+- video data distribution
+- video data processing
+- 3D data
+- stream data
+- video on demand
+
+Submission
+Please prepare your short paper referring the instruction below
+(click "Click here to view the information").
+http://www.ieee-gcce.org/2021/instructions.html
+and submit it via EDAS.
+(will be soon available on https://www.ieee-gcce.org/2021/index.html)
+Please select OS-VDP if you submit your short paper via IEEE GCCE main submission page.
+
+Organizing Committee:
+Chair: Tomoki Yoshihisa, Osaka University
+Co-Chair: Yuuichi Teranishi, NICT
+Program Committee Members:
+Ei Khaing Win, Myanmar Institute of Information Technology
+Fatos Xhafa, Technical University of Cataloniau
+Ikuko Shimizu, Tokyo University of Agriculture and Technology
+Jui-Hung Hsieh, National Kaohsiung University Science and Technology
+Lei Shu, University of Lincoln
+Prakash Bhattarai, Charles Darwin University
+Satoru Matsumoto, Osaka University
+Tomoya Kawakami, Fukui University
+Yoshia Saito, Iwate Prefectural University
+Yusuke Gotoh, Okayama University
+
+
+
+

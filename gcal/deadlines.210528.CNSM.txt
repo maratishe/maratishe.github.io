@@ -1,11 +1,8 @@
 
-**********************************************************************
+
 Call for Papers
 
-IFIP/IEEE/In-cooperation with ACM SIGCOMM
-
 17th International Conference on Network and Service Management
-
 CNSM 2021
 October 25-29, 2021
 Izmir, Turkey
@@ -13,6 +10,9 @@ Izmir, Turkey
 http://www.cnsm-conf.org/2021/
 
 **********************************************************************
+Technically co-Sponsored by IFIG WG6.6 and IEEE ComSoc
+In-Cooperation Status with ACM SIGCOMM
+
 
 The 17th  International Conference  on Network and  Service Management
 (CNSM) is  inviting authors  to submit  original contributions  in the
@@ -121,12 +121,16 @@ to 9  pages including references (full papers)  or  5  pages including
 references (short papers). They have to be submitted electronically in
 PDF format through EDAS at https://www.edas.info/newPaper.php?c=28015
 
-Papers    exceeding   page    limits,   multiple    submissions,   and
-self-plagiarized papers  will be rejected without  further review. All
-other papers will get a thorough single-blind review process, followed
-by a rebuttal phase.
+Papers  exceeding  page  limits,  multiple   submissions,   and  self-
+plagiarized papers  will be rejected without further review. All other
+papers will get a thorough single-blind  review process, followed by a
+rebuttal phase.
 
 For more information, please check http://www.cnsm-conf.org/2021/.
+
+Papers accepted  and presented at CNSM 2021 will be  published as open
+access on the conference website and IFIP Digital Library, and will be
+submitted to IEEE Xplore Digital Library.
 
 
 *** Important Dates ***
@@ -146,6 +150,5 @@ Stuart Clayman, University College London, UK
 *************************
 Prosper Chemouil, Cnam, France
 Mehmet Ulema, Manhattan College, USA
-
 
 

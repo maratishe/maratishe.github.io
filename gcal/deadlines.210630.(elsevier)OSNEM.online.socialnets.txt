@@ -1,0 +1,62 @@
+
+CALL FOR PAPERS
+
+Elsevier Online Social Networks and Media Journal (OSNEM)
+
+Special issue on
+Online Social Networks and Media: human behaviour under big data microscopes
+
+Submission Deadline: June 30th, 2021
+https://www.journals.elsevier.com/online-social-networks-and-media
+------------------------------------------------------------------------------
+
+Online Social Networks and Media are a fundamental component of the cyber-physical convergences, representing one of the main bridges between the human behaviour across the physical and virtual worlds. Therefore, the “trails” users leave behind while using OSNEM can be mined, via big data analytics and AI, to characterize individual and social human behaviours at an unprecedented scale. Moreover, the speed at which events can be detected via OSNEM data analysis makes OSNEM a prime way to monitor the evolution of human behaviours and nowcast their development and consequences in both the physical and virtual worlds. For example, OSNEM can be used to shed light, through big data analysis, on the diffusion of COVID-19 in the real world.
+
+This special issue seeks contributions pushing the state of the art in all facets of the use of OSNEM as big data microscopes to investigate complex human individual and social behaviours. We solicit manuscripts presenting quantitative analysis and modelling based on BigData collected from OSNEM.
+
+Within this framework, topics include, but are not limited to:
+- Analysis of social structures via OSNEM
+- Analysis and modelling of information and opinion dynamics in OSNEM
+- Early detection of critical phenomena in the cyber and physical worlds
+- Prediction of (near-)future events based on OSNEM data analysis
+- OSNEM monitoring and analysis for the protection of users and critical infrastructures
+- Mobility characterization and modelling
+- Characterisation of users’ behaviour in smart cities
+- OSNEM data-driven approaches to study COVID-19 related phenomena
+- Pandemic tracking and control via OSNEM big data analysis
+- Models of individual and social behaviour through OSNEM big data during the pandemic
+- OSNEM users’ characterization for mass customization of products and services
+- Analysis of large social phenomena (e.g., political movements) via OSNEM big data
+- Privacy-preserving big data analytics for human behaviour characterisation
+- Efficient methodologies for large-scale OSNEM data collection and analysis
+
+Online Social Networks and Media is a multidisciplinary journal for the wide community of computer and network scientists working on developing OSNEM platforms and services and using OSNEM as a big data source to mine, learn and model the (online) human behaviour.
+Manuscripts only based on questionnaires, even focused on the reported use of social media, are outside the scope of the journal. On the other hand, the journal welcomes papers which present analyses based on big data mined from social networks/media.
+
+-----------------------------------------------------------------------------
+Schedule
+Manuscript submission deadline: June 30th, 2021
+First notification: August 31th, 2021
+Expected publication: Q4, 2021
+
+Guest Editors
+Marco Conti, IIT-CNR, Italy
+Andrea Passarella, IIT-CNR, Italy
+------------------------------------------------------------------------------
+
+Instructions for submission
+
+Manuscripts must not have been previously published nor currently under review
+by other journals or conferences. Papers previously published in conference proceedings are eligible for submission if the submitted manuscript is a substantial revision and extension of the conference version. In this case, authors should indicate the previous publication(s) in the cover letter and are also required to submit their published conference article(s) and a summary document explaining the enhancements made in the journal version. The submission website for this journal is located at
+https://www.editorialmanager.com/osnem/default.aspx.
+
+Please select ''VSI:big data microscope'' when you reach the ''Article Type'' step in the submission process.
+To ensure that all manuscripts are correctly identified, for consideration by the special issue, the authors should indicate in the cover letter that the manuscript has been submitted for the special issue on ''big data microscope''.
+
+Manuscripts can be submitted continuously until the deadline. Once a paper is submitted, the review process will start immediately. Accepted papers will be published continuously in the journal (in the first issue available as soon as the paper is accepted). All accepted papers will be listed together in an online virtual special issue published in the journal website.
+
+For further information, please contact the guest editors at
+osnem at iit.cnr.it
+
+
+

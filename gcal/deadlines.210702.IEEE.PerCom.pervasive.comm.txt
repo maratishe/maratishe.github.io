@@ -1,0 +1,112 @@
+
+*** Please accept our apologies if you receive multiple copies of this CFP ***
+Call for Workshop Proposals -- IEEE PerCom 2022
+
+* Important Dates *
+
+- Workshop proposal submission deadline: July 2nd, 2021
+- Notification: July 26th, 2021
+
+IEEE PerCom is the premier annual scholarly venue in pervasive computing and
+communications. Pervasive computing has not only been a vivid research area,
+but also found its way into many commercial and consumer systems and
+applications due to tremendous advances in a broad spectrum of technologies
+and topics such as wireless networking, mobile and distributed computing,
+sensor and actuator systems, ambient intelligence, and smart mobile and
+embedded devices. Due to the pervasiveness of such systems, users become
+central in the development and realization of innovative pervasive systems.
+Advances in all these fields have led to innovative platforms,
+protocols, systems, and applications but still a lot can be done to improve their
+quality, sustainability and acceptance.
+
+In 2022, PerCom will be held in Pisa, which is known for its precious gothic
+and renaissance-style buildings including the world-famous leaning tower as
+well as art and culture in general. Currently, PerCom 2022 is planned as a
+hybrid event, partly in presence, partly virtual, with the option to adapt
+to the dynamic pandemic situation.
+
+The PerCom 2022 Organizing Committee invites proposals for one-day or
+half-day workshops, to be held prior to or immediately after the main
+conference. The purpose of the workshops is to stimulate discussions on
+state-of-the-art, emerging, visionary, and also controversial topics.
+Workshops should be organized to promote lively interaction, and plans to
+promote interaction and discussion must be clearly addressed in the written
+workshop proposals. The organizers of accepted workshops are required to
+publicize the workshop through disseminating the call for papers, solicit
+submissions, conduct the reviewing process, and decide upon the final
+workshop program. At least one organizer must be physically present at the
+workshop. We are aware that the possibility to visit Pisa depends on the
+future pandemic situation and of course only applies under the assumption
+that PerCom can take place as a hybrid event (at least partially in presence).
+So organizers should plan on a best-effort basis, possibly including
+organizers from different locations, for instance, to limit the risk of
+travel restrictions.
+
+Workshop proposals are solicited in all areas and topics pertaining to
+research and applications in pervasive computing and communications. Workshops
+addressing new emerging research directions in pervasive computing and
+communication are especially welcome. Further, workshops with novel formats,
+e.g., focused on a specific topic in a tutorial-style fashion, are strongly
+encouraged. Workshop papers will be included and indexed in the IEEE digital
+library (Xplore). The page limit for accepted regular workshop papers is 6
+pages, including all figures, tables, and references.
+
+* Workshop Proposal Submission Instructions *
+
+Workshop proposals should be submitted (in PDF format) no later than
+
+July 2nd, 2021
+
+by e-mail to
+
+percom2022-workshops@iit.cnr.it
+
+with "PerCom 2022 Workshop Proposal" in the subject.
+
+Each workshop proposal must include:
+
+1. The workshop title and acronym.
+
+2. The name, address, and a short bio of up to 200 words for each of the
+workshop organizers; workshops may have up to three organizers. It is strongly
+recommended that organizers belong to at least two different institutions.
+
+3. A brief description (up to 2 pages) of
+
+a) the technical issues that the workshop will address,
+b) the reasons the workshop is of interest to the PerCom community,
+c) a description of the communities/groups the workshop aims to attract,
+d) a short discussion of related workshops and conferences and an outline
+of why the proposed workshop is unique.
+
+4. The planned format of the workshop (e.g., keynotes, paper presentations,
+posters, demos) and duration (e.g., one-day, half-day). You must also provide
+a well-defined strategy to facilitate lively and interactive discussions. In
+your plan, please also consider the hybrid or (depending on the situation)
+fully virtual format and outline, how you could support an engaging workshop.
+You can also take advantage of the infrastructure provide by PerCom (Zoom,
+GatherTown, Slack, etc.)
+
+5. A description of past editions of the workshop (if the workshop had
+already been held before), including the number of submitted and accepted
+papers and number of attendees. Please also address any differences
+between the proposed edition of the workshop and the previous edition(s).
+OR, if the workshop is new, an estimate of the expected number of submitted
+and accepted papers, and of the expected number of attendees.
+
+6. A description of the publicity plan.
+
+7. The names of potential program committee members.
+
+8. The workshop website address.
+
+Tentative dates for workshop paper submission and notification
+(*not* to be confused with the earlier dates for submitting workshop
+proposals!):
+
+- Paper submission deadline: November 14, 2021
+- Paper notification: January 5, 2022
+
+
+
+

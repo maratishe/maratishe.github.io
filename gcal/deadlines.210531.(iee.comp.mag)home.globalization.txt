@@ -1,0 +1,108 @@
+
+Please let us know if you are considering to submit a paper.
+
+=======================
+IEEE Security & Privacy
+=======================
+
+Call for Papers: Special Issue on Security and Privacy Issues of Home
+Globalization
+
+In recent years, people have been reshaping their homes into smart homes
+by using a wide array of home-based Internet of Things (IoT) devices,
+including inter-connected lights, locks, sensors, actuators, wearables,
+and appliances accessible through the Internet and controlled locally
+(e.g., via voice) or remotely (e.g., via mobile phone). These smart home
+devices are complemented by laptops, mobile phones, game consoles,
+electronical health equipment, and many other consumer IoT nodes, which
+are constantly used at home for work, pleasure, health, and
+entertainment, just to mention the most common purposes. The emerging
+pervasiveness of IoT technologies is transforming homes into globalized
+homes in which devices supporting everyday activities can be accessed
+from anywhere. Although home globalization has its benefits, it also
+covertly renders homes more insecure and less private places where
+individuals are exposed to more and more varying threats from the
+outside world.
+
+Despite the benefits, home globalization and the used technologies have
+led to many security threats and privacy breaches. In fact, home-based
+IoT technologies at the basis of globalized homes are becoming prone to
+abuses including adaptations of well-known cyber-attacks leveraging the
+variety of data and devices populating modern apartments and houses. In
+addition, both home-based and consumer IoT frameworks collect and manage
+information that is tightly coupled with the everyday life of
+individuals and can thus be considered a source of sensitive data that
+is of interest for profiling or reconnaissance attempts. Therefore, the
+resulting home globalization requires us to face new threats and risks
+leading to different challenges. In fact, modern homes are
+technologically balkanized with services provided via different
+technologies (IEEE 802.15.4, home/consumer IoT, voice-based assistants)
+and by multiple vendors (device and software) often by using a cloud- or
+fog-based scheme. Additional challenges stem from the relatively covert
+introduction of new risks during home globalization, as people tend to
+put more focus on functionalities of new smart devices than the security
+and privacy implications of their use. In this perspective, enforcing
+security and privacy in such a scenario requires rethinking and
+developing new defenses and solutions, as well as addressing new social
+challenges for law enforcement agencies, policy makers, and forensics
+professionals.
+
+This special issue aims at collecting the most relevant ongoing research
+efforts in the security and privacy field concerning home globalization.
+Topics include, but are not limited to:
+
+- Security management of home-based and consumer IoT
+- Network security of globalized homes
+- Adoption of cybersecurity measures in globalized homes, including
+child safety
+- Surveillance, interception, blocking, and sovereignty in home-based
+IoT environments
+- De-anonymization, AI-based social inference, integrity, and privacy leaks
+- Stealth communication, information hiding threats, and their detection
+in home-based IoT environments
+- Cybercrime investigation, law, jurisdiction, and ethics in home-based
+IoT environments
+
+=======================
+Important Dates
+
+Submissions due: 31 May 2021
+First review complete: 30 June 2021
+Acceptance notification: 25 September 2021
+Camera-ready version: 15 October 2021
+Publication: January/February 2022
+Submission Guidelines
+=======================
+
+Original and high-quality contributions that have not yet been published
+and are not currently under review by other journals or peer-reviewed
+conferences are sought. The submitted papers should be formatted
+according to the journal style. For more detailed information concerning
+the requirements for submission, please refer to the journal’s Author
+Information webpage:
+
+https://www.computer.org/csdl/magazine/sp/write-for-us/14680?title=Author%20Information&periodical=IEEE%20Security%20%26%20Privacy
+
+All manuscripts and any supplementary material should be submitted
+through the online submission system. During the submission process,
+authors should select the special-issue option “Security and Privacy
+Issues of Home Globalization.” All papers will be rigorously reviewed
+based on their originality, high scientific quality, organization,
+clarity of writing, conclusions, and relevance to this special issue.
+The manuscripts will be accepted or rejected in line with the usual
+standards of the journal.
+Guest Editors
+
+Contact the guest editors at sp1-22@computer.org.
+
+- Luca Caviglione, IMATI, National Research Council of Italy, Italy
+- Steffen Wendzel, Worms University of Applied Sciences & Fraunhofer
+FKIE, Germany
+- Simon Vrhovec, University of Maribor, Slovenia
+- Aleksandra Mileva, University Goce Delcev, Republic of N. Macedonia
+--
+Simon Vrhovec
+EICC Steering Committee
+https://simvrh.wordpress.com/
+
+
