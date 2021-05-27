@@ -1,0 +1,231 @@
+
+The 7th IEEE International Smart Cities Conference (IEEE ISC2 2021) September 7-10, 2021 (Virtual Conference) https://attend.ieee.org/isc2-2021/
+
+
+
+Sponsored by
+
+-------------
+
+IEEE Smart Cities, IEEE, IEEE Communications Society IEEE Control Systems Society, IEEE Industry Applications Society IEEE Power & Energy Society, IEEE Systems, Man, and Cybernetics Society Council on Electronic Automation Design
+
+
+
+IMPORTANT DATES
+
+---------------
+
+Paper Submission Deadline: May 31, 2021
+
+Acceptance Notification: July 15, 2021
+
+Camera-ready Deadline: July 31, 2021
+
+
+
+------------------------------------------------------------
+
+Submission link: https://www.edas.info/newPaper.php?c=28313
+
+------------------------------------------------------------
+
+
+
+Please note that one AUTHOR Conference Registration covers up to TWO accepted papers.
+
+
+
+The 7th IEEE International Smart Cities Conference (ISC2 2021) will be held as a virtual conference, during September 7-10, 2021.
+
+The worldwide governmental restrictions on travel, gatherings, and meetings, imposed to limit and slow down the spread of the novel coronavirus, making it impossible to organize the conference in the traditional format. However, we are confident that the changes induced by the virus to our everyday lives, and the responses given to these new challenges by smart city researchers and practitioners, city policymakers and administrators, critical infrastructure operators and industry representatives, economists and sociologists will generate exciting and edifying presentations and discussions, both as part of our keynote addresses,  panel debates, workshops or research talks. After all, one of the main reasons for making cities smarter and better should be to safely and efficiently  support us, citizens, in such difficult times. Thus, the theme of the conference this year will be: Smart Cities — Post-pandemic vision and challenges.
+
+
+
+IEEE ISC2 is the flagship conference sponsored by the IEEE Smart Cities Technical Community, a coalition of six IEEE technical societies and organizations. Besides contributions addressing the conference theme, authors are welcome to submit their original research results in traditional topics across broad application and functional domains, within the context of smart urban infrastructure systems.
+
+
+
+The technical areas include, but are not limited to:
+
+
+
+• Smart city theory, modeling and simulation • Intelligent infrastructure • Sensors and actuators • Open data and big data analytics • AI powered smart cities services • Safety and security systems • Smart healthcare • Smart emergency management • IoT and Smart X services • Data security and privacy • Connected Vehicle (CV) technologies • Unmanned Aerial Vehicles (UAVs) • Smart mobility and transportation • Smart energy systems • Smart buildings and Smart grid • Digital city and smart growth • Smart traffic system operations • Environmental monitoring technologies
+
+
+
+The IEEE International Smart Cities Conference 2021 program will be split into the following tracks:
+
+
+
+- Track 1: Smart Transportation
+
+- Track 2: Smart Health and Wellbeing
+
+- Track 3: Smart Energy Systems
+
+- Track 4: IoT and Smart X Services
+
+- Track 5: AI and Big Data
+
+- Track 6: Security and Privacy
+
+- Track 7: General Track
+
+
+
+
+
+Submission Instructions:
+
+------------------------
+
+Prospective authors are invited to submit high quality original Full or Short papers via the EDAS submission site (https://www.edas.info/newPaper.php?c=28313).
+
+Full papers should describe novel research contributions with evaluation results and are limited to 7 pages.
+
+Short papers, limited in length to four (4) pages, should be more visionary in nature and are meant to discuss new challenges and visions, highlight early research results, and explore novel research directions.
+
+
+
+All submitted papers must be unpublished and not considered elsewhere for publication should be written in English and formatted according to IEEE Template.
+
+Each submitted paper will pass through the standard IEEE peer-review process and, if accepted and presented at the Conference, will appear in the conference proceedings and will be submitted for inclusion in the IEEE Xplore digital library. Paper contests will include a Conference Best Paper Award and a Best Student Paper Award.
+
+
+
+Organizing Committee
+
+--------------------
+
+
+
+General Chairs
+
+Soufiene Djahel, Manchester Metropolitan University, UK Yinhai Wang, University of Washington, USA
+
+
+
+Technical Program Chairs
+
+Celimuge Wu, The University of Electro-Communications, Japan Guohui Zhang, University of Hawaii at Manoa, USA
+
+Ramona Trestian, Middlesex University, UK
+
+
+
+Workshop Chairs
+
+Rosaldo Rossetti, University of Porto, Portugal Nadjia Kara, Ecole de Technologies Superieure, Canada
+
+
+
+Tutorial Chairs
+
+Victor Larios, University of Guadalajara, Mexico Yassine Hadjadj-Aoul, University of Rennes 1, France
+
+
+
+Panel Chairs
+
+Delia Dimitriu, Connected Places Catapult, UK Alexey Vinel, Halmstad University, Sweden
+
+
+
+Keynote Chairs
+
+Yacine GHAMRI-DOUDANE, University of La Rochelle, France Zonghua Zhang, Huawei France Research Center, France
+
+
+
+Publications Chairs
+
+Chun Sing Lai, Brunel University London, UK
+
+Avishek Nag, University College Dublin, Ireland
+
+Ruimin Ke, University of Washington, USA
+
+
+
+Publicity Chairs
+
+Larissa Paredes Muse, Brazilian Network for Smart & Human Cities, USA (Americas) Sara Paiva, Polytechnic Institute of Viana do Castelo, Portugal (Europe) Intesab Hussain, QUEST, Pakistan (Asia-Pacific) Omar Mawloud, University of Gustave Eiffel, France (Africa and the Middle East)
+
+
+
+Finance Chair
+
+Emily Kean, ComEd, USA
+
+
+
+Web Chair
+
+Nelio Cacho, Federal University of Rio Grande do Notre, Brazil
+
+
+
+Web Masters
+
+Stefano Loss, Federal University of Rio Grande do Norte, Brazil
+
+Jack Hodgkiss, Manchester Metropolitan University, UK
+
+
+
+Technical Tracks
+
+
+
+Track 1: Smart Transportation
+
+Sidi-Mohammed Senouci, University of Burgundy, France Shen Wang, University College Dublin, Ireland Lei Zhong, Toyota Motor Corporation, Japan Hrishikesh Venkataraman, Indian Institute of Information Technology, India
+
+
+
+Track 2: Smart Health and Wellbeing
+
+Agusti Solanas, Universitat Rovira i Virgili, Spain
+
+Giandomenico Nollo, University of Trento, Italy Saadi Boudjit, University of Paris Sorbonne, France Saraju Mohanty, University of North Texas, USA
+
+
+
+Track 3: Smart Energy Systems
+
+Miadreza Shafie-khah, University of Vaasa, Finland Youwei Jia, Southern University of Science and Technology, China Wang Dongxiao, Australia Energy Market Operator, Australia
+
+
+
+Track 4:  IoT and Smart X services
+
+Yu Chen, Binghamton University, USA
+
+Lexi Xu, China Unicom, China
+
+Enrico Natalizio, The University of Lorraine, France
+
+
+
+Track 5: AI and big data
+
+Keeley Crockett, Manchester Metropolitan University, UK Xianfu Chen, VTT Technical Research Centre of Finland, Finland Kamal Singh, Telecom Saint Etienne, France
+
+
+
+Track 6: Security and privacy
+
+Burak Kantarci, University of Ottawa, Canada Prosanta Gope, University of Sheffield, UK
+
+Madhusanka Liyanage, University College Dublin, Ireland
+
+
+
+Track 7: General Track
+
+Wei Fang, Jiangnan University, China
+
+Giovanni Masala, Manchester Metropolitan University, UK
+
+
+

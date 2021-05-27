@@ -213,16 +213,14 @@
 2021-05-27 <strong>成蹊大学・理工学部情報科学科</strong> #jobhunt due:2021-05-18
 2021-05-27 <strike>福岡県工業技術センター✘lowsalary・goodref</strike> #jobhunt due:2021-05-21
 2021-05-27 <strong>山口大学大学院創成科学研究科工学系学域知能情報工学分野</strong> #jobhunt due:2021-05-21
-2021-05-27 IEEE.cloud.bigdata.infra #deadlines due:2021-05-22
-2021-05-27 ACM.socialgood #deadlines due:2021-05-23
-2021-05-27 (ACM)MSWiM.modeling.anal.wnets #deadlines due:2021-05-25
-2021-05-27 ACM.MSWiM.modeling.simulation.wireless #deadlines due:2021-05-25
 2021-05-27 classes ① johokiso (blockchain, eval), ② netchino (schedule) #current due:2021-05-27
 2021-05-27 kindle #current due:2021-05-27
 2021-05-27 purchases ① sdcards, ② 2 raspberries, ③ magnet plugs #current due:2021-05-27
 2021-05-27 wifi dongle @ home #current due:2021-05-27
 2021-05-27 <strike>名古屋市立大学・インタラクションデザイン</strike> #jobhunt due:2021-05-28
 2021-05-27 <strike>電気通信大学・准教授または助教の公募（電子工学分野）</strike> #jobhunt due:2021-05-28
+2021-05-27 IEEE.DCOSS #deadlines due:2021-05-28
+2021-05-27 IEEE.GlobalComm.Conference #deadlines due:2021-05-28
 2021-05-27 IEEE.globalcommconf #deadlines due:2021-05-28
 2021-05-27 IEEE.selected.aread.in.comm.socialnets #deadlines due:2021-05-28
 2021-05-27 ●m東京農工大学（コンピュータシステムおよび関連分野） #jobhunt due:2021-05-28
@@ -244,6 +242,7 @@
 2021-05-27 <strike>金城学院大学・生活環境学部生活マネジメント学科（情報学）</strike> #jobhunt due:2021-05-31
 2021-05-27 <strike>電気通信大学・セキュリティ情報学分野</strike> #jobhunt due:2021-05-31
 2021-05-27 CNSM #deadlines due:2021-05-31
+2021-05-27 IEEE.ICS2.smartcities #deadlines due:2021-05-31
 2021-05-27 ●m株式会社ヒューマノーム研究所(5jobs) #jobhunt due:2021-05-31
 2021-05-27 中央大学・理工学部・ビジネスデータサイエンス学科 #jobhunt due:2021-05-31
 2021-05-27 技術教育科（情報学・教育工学） #jobhunt due:2021-05-31
@@ -253,10 +252,12 @@
 2021-05-27 (J)MDPIelectronics.SDN.futureinternet #deadlines due:2021-06-01
 2021-05-27 (cambridgepress)book.proposal #deadlines due:2021-06-01
 2021-05-27 (J)Elsevier.FACE.security.privacy #deadlines due:2021-06-02
+2021-05-27 (elsevier)security.and.privacy #deadlines due:2021-06-02
 2021-05-27 (3) docomocycle data collect #regulars due:2021-06-03
 2021-05-27 ① money (weekly) #regulars due:2021-06-03
 2021-05-27 ② jobhunt, fundhunt, cfp (weekly) #regulars due:2021-06-03
 2021-05-27 (J)frontiers.in.comms.and.networks #deadlines due:2021-06-06
+2021-05-27 ACM.SocialGood #deadlines due:2021-06-06
 2021-05-27 audio automation for open campus #midterm due:2021-06-06
 2021-05-27 kgu zemi faces #midterm due:2021-06-06
 2021-05-27 samsung redo cygwin #midterm due:2021-06-06
@@ -288,6 +289,7 @@
 2021-05-27 (mdpi)AI.for.edge #deadlines due:2021-06-30
 2021-05-27 (mdpi)business.management.data.processing.software #deadlines due:2021-06-30
 2021-05-27 (mdpi)cloud-based-IoT-apps.smartcities #deadlines due:2021-06-30
+2021-05-27 (mdpi)sensor.and.actuator.networks #deadlines due:2021-06-30
 2021-05-27 (springer)AI.for.our.lives #deadlines due:2021-06-30
 2021-05-27 ⒿMDPI.HPC.math #deadlines due:2021-06-30
 2021-05-27 トヨタ自動車株式会社・スマートシティプラットフォームの開発 #jobhunt due:2021-06-30
@@ -317,6 +319,7 @@
 2021-05-27 能美防災株式会社・センサシステムに関するソフトウェアの製品開発業務 #jobhunt due:2021-07-18
 2021-05-27 能美防災株式会社・センサ応用製品に関する研究開発業務 #jobhunt due:2021-07-19
 2021-05-27 (IEEE.VTmag)AI.for.autonomous.vnets #deadlines due:2021-07-29
+2021-05-27 IEEE.IoTaIS.IoT.intelsystems #deadlines due:2021-07-30
 2021-05-27 (J)BigDataJournal.perfmanagment.large.clusters #deadlines due:2021-07-31
 2021-05-27 (J)IEEE.iri.IoV #deadlines due:2021-07-31
 2021-05-27 (J)federated.learning.IoV #deadlines due:2021-07-31
@@ -324,6 +327,7 @@
 2021-05-27 株式会社iMedTechnologies・リードAIエンジニア #jobhunt due:2021-07-31
 2021-05-27 ACM.utility.cloudcomp #deadlines due:2021-08-15
 2021-05-27 (~J)springer.emerging.smart.nets #deadlines due:2021-08-30
+2021-05-27 (elsevier)distributed.AI.for.edgenets #deadlines due:2021-08-31
 2021-05-27 ★株式会社アラヤ・リサーチャー (強化学習) #jobhunt due:2021-08-31
 2021-05-27 ★株式会社アラヤ・計算論的神経科学者・情報理論学者 #jobhunt due:2021-08-31
 2021-05-27 鳥取大学工学部教員公募（制御システム，機械制御，ロボティクスなどに関連する分野） #jobhunt due:2021-08-31

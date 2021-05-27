@@ -1,0 +1,132 @@
+
+CALL FOR PAPERS
+The 2021 IEEE Conference on Internet of Things and Intelligence Systems (IoTaIS'2021)
+
+Bali - Indonesia, January 27-28, 2021
+http://iotais.org/
+=====================================
+Papers Submission: July 30, 2021
+https://edas.info/N28582
+=====================================
+
+It is our great pleasure to welcome you to The 2021 IEEE Conference on Internet of Things and Intelligence Systems (IoTaIS'2021) . The conference will be held on November 23-24, 2021 as Virtual Event. This conference is organized and sponsored by the IEEE Indonesia  Communication Society Chapter and supported by Telkom University, IEEE IoT Initiative and IPv6 Forum.
+
+Recent developments of Internet of Things (IoT) and Intelligence Systems are numerous and very interesting, covering a wide range of areas, such as: transportation, healthcare, agriculture, manufacturing, smart city and many more. Many new ideas and research results in these fields continues to emerge from time to time. Unfortunately, there only exist a few events in the region with suitable places to present the ideas as well as to exhibit the recent research results of IoT and Intelligence Systems. International Conference on IoT and Intelligence Systems (IoTaIS) intends to provide solutions to the problems above, by providing a forum for meetings of industry players, researchers and academicians, to showcase the latest research results, to collaborate and to share ideas for the advancement of IoT and Intelligence Systems.
+
+This conference will provide an international forum for researchers, academicians, professionals, and students from various engineering fields and with cross-disciplinary interests in IoT and Intelligence Systems to interact and disseminate information on the latest developments. The conference will include technical sessions, tutorials and technology and business panels. You are invited to submit your papers to the conference. After peer review process, accepted papers will be published in the IoTaIS'2021 Conference Proceedings and presented papers will be submitted to IEEE Xplore after each paper is thoroughly reviewed and (if any) satisfactorily modified according to the reviewer comments.
+
+
+
+==============
+RELATED TOPICS
+
+IoTaIS'2021 invites papers, original & unpublished work from individuals active in the broad theme of the conference. Potential topics include, but are not limited to:
+
+#Track 1: Vertical Oriented IoT Applications
+Smart Transportation
+Connected Car, Automotive
+Intelligent Transportation
+Highway, Rail Systems
+Emergency vehicle notification systems
+Automatic road enforcement
+Smart Traffic Light
+Smart Collision Avoidance
+Smart Tele-healthcare
+Healthcare, e-Health, Assisted Living
+Smart Telecardiolgy and Telenursing
+Telerehabilitation and Teletrauma
+Smart Agriculture
+Environmental Monitoring
+Smart Manufacturing
+Utilities Management and Operation
+Logistics and Supply Chain Optimization
+Production Flow Monitoring
+Health of Machinery
+Industrial IoT
+Smart Cities
+Smart Home, Building Management and Operation Automation
+Smart Grid and Energy Management
+
+#Track 2: Computer and Devices Technologies for IoT
+Embedded Computer and Systems
+Sensors and Actuators
+Interfaces
+Software for IoT
+Storage and Data Management for IoT
+Computing for IoT
+Cloud and Fog Computing
+Edge and Mobile Computing
+Platform Based Computing
+
+#Track 3: Connectivity for IoT
+Legacy Networks
+5G Networks
+IPv6, 6LoWPAN, RPL, 6TiSCH, W3C
+Network Coding
+D2d and M2M Communications
+High Band, Narrow Band Networks
+Software Defined Networks
+Sensor Network
+Massive IoT
+
+#Track 4: Application and Services
+Platforms and Framework
+Cyber-physical systems
+Big data and IoT Data Analytics
+Semantic Technologies, Collective Intelligence
+Horizontal application development for IoT
+Service Experiences and Analysis
+Green IoT: Sustainable Design and Technologies
+IoT Experimental Results and Deployment Scenarios
+Security and Privacy for Internet of Things
+Identification and authentication issues
+Intrusion and Attacks in IoT
+Cryptography, key management and authorization for IoT
+
+#Track 5: Intelligence Systems
+Deep Learning
+Neural Networks
+Fuzzy Logic
+Expert Systems
+Computational Intelligence
+Natural Language Processing
+Data Mining
+Support Vector Machines
+Biometrics
+Sentiment Analysis
+Machine Vision
+Human Computer Interaction
+Pattern Recognition
+Image/Video Processing
+Intrusion Detection
+Geographic Information Systems
+Signal Processing
+Medical Diagnosis
+Segmentation Techniques
+Augmented Reality
+Virtual Reality
+Ambient Intelligence
+Agents and Multi-agent Systems
+Context-aware pervasive systems
+
+
+================
+IMPORTANT DATES
+
+Full Papers Submission :
+July 30, 2021
+
+Acceptance Notification :
+September 30, 2021
+
+Authors Registration Deadline :
+October  30, 2021
+
+Final Manuscript Deadline :
+October 30, 2021
+
+Conference Date : November 23-24, 2021
+
+
+
+

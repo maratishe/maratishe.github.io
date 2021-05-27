@@ -1,5 +1,704 @@
 
 
+
+---deadline--- 210730 IEEE.IoTaIS.IoT.intelsystems
+
+CALL FOR PAPERS
+The 2021 IEEE Conference on Internet of Things and Intelligence Systems (IoTaIS'2021) 
+ 
+Bali - Indonesia, January 27-28, 2021
+http://iotais.org/
+=====================================
+Papers Submission: July 30, 2021
+https://edas.info/N28582
+=====================================
+ 
+It is our great pleasure to welcome you to The 2021 IEEE Conference on Internet of Things and Intelligence Systems (IoTaIS'2021) . The conference will be held on November 23-24, 2021 as Virtual Event. This conference is organized and sponsored by the IEEE Indonesia  Communication Society Chapter and supported by Telkom University, IEEE IoT Initiative and IPv6 Forum. 
+ 
+Recent developments of Internet of Things (IoT) and Intelligence Systems are numerous and very interesting, covering a wide range of areas, such as: transportation, healthcare, agriculture, manufacturing, smart city and many more. Many new ideas and research results in these fields continues to emerge from time to time. Unfortunately, there only exist a few events in the region with suitable places to present the ideas as well as to exhibit the recent research results of IoT and Intelligence Systems. International Conference on IoT and Intelligence Systems (IoTaIS) intends to provide solutions to the problems above, by providing a forum for meetings of industry players, researchers and academicians, to showcase the latest research results, to collaborate and to share ideas for the advancement of IoT and Intelligence Systems.
+ 
+This conference will provide an international forum for researchers, academicians, professionals, and students from various engineering fields and with cross-disciplinary interests in IoT and Intelligence Systems to interact and disseminate information on the latest developments. The conference will include technical sessions, tutorials and technology and business panels. You are invited to submit your papers to the conference. After peer review process, accepted papers will be published in the IoTaIS'2021 Conference Proceedings and presented papers will be submitted to IEEE Xplore after each paper is thoroughly reviewed and (if any) satisfactorily modified according to the reviewer comments.
+ 
+ 
+ 
+==============
+RELATED TOPICS
+ 
+IoTaIS'2021 invites papers, original & unpublished work from individuals active in the broad theme of the conference. Potential topics include, but are not limited to:
+ 
+#Track 1: Vertical Oriented IoT Applications
+Smart Transportation
+Connected Car, Automotive
+Intelligent Transportation 
+Highway, Rail Systems
+Emergency vehicle notification systems
+Automatic road enforcement
+Smart Traffic Light 
+Smart Collision Avoidance
+Smart Tele-healthcare
+Healthcare, e-Health, Assisted Living
+Smart Telecardiolgy and Telenursing
+Telerehabilitation and Teletrauma
+Smart Agriculture 
+Environmental Monitoring
+Smart Manufacturing
+Utilities Management and Operation 
+Logistics and Supply Chain Optimization
+Production Flow Monitoring
+Health of Machinery
+Industrial IoT
+Smart Cities
+Smart Home, Building Management and Operation Automation
+Smart Grid and Energy Management
+ 
+#Track 2: Computer and Devices Technologies for IoT
+Embedded Computer and Systems
+Sensors and Actuators
+Interfaces 
+Software for IoT 
+Storage and Data Management for IoT
+Computing for IoT
+Cloud and Fog Computing
+Edge and Mobile Computing
+Platform Based Computing
+ 
+#Track 3: Connectivity for IoT
+Legacy Networks
+5G Networks
+IPv6, 6LoWPAN, RPL, 6TiSCH, W3C
+Network Coding
+D2d and M2M Communications
+High Band, Narrow Band Networks
+Software Defined Networks
+Sensor Network
+Massive IoT
+ 
+#Track 4: Application and Services
+Platforms and Framework
+Cyber-physical systems
+Big data and IoT Data Analytics
+Semantic Technologies, Collective Intelligence
+Horizontal application development for IoT
+Service Experiences and Analysis 
+Green IoT: Sustainable Design and Technologies 
+IoT Experimental Results and Deployment Scenarios 
+Security and Privacy for Internet of Things
+Identification and authentication issues
+Intrusion and Attacks in IoT
+Cryptography, key management and authorization for IoT
+ 
+#Track 5: Intelligence Systems
+Deep Learning
+Neural Networks
+Fuzzy Logic
+Expert Systems
+Computational Intelligence
+Natural Language Processing
+Data Mining
+Support Vector Machines
+Biometrics
+Sentiment Analysis
+Machine Vision
+Human Computer Interaction
+Pattern Recognition
+Image/Video Processing
+Intrusion Detection
+Geographic Information Systems
+Signal Processing
+Medical Diagnosis
+Segmentation Techniques
+Augmented Reality
+Virtual Reality
+Ambient Intelligence
+Agents and Multi-agent Systems
+Context-aware pervasive systems
+ 
+ 
+================
+IMPORTANT DATES
+ 
+Full Papers Submission :
+July 30, 2021
+
+Acceptance Notification :
+September 30, 2021
+
+Authors Registration Deadline :
+October  30, 2021
+
+Final Manuscript Deadline :
+October 30, 2021
+
+Conference Date : November 23-24, 2021
+
+
+
+
+---deadline--- 210528 IEEE.GlobalComm.Conference
+
+IEEE Global Communications Conference
+7-11 December 2021
+Madrid, Spain
+
+Selected Areas in Communication Symposium: Social Networks Track
+
+SCOPE AND MOTIVATION
+Recently, social network research has advanced rapidly with the prevalence of online social applications and
+mobile social communications systems. Moreover, the ongoing pandemic via contact social networks has
+caused tremendous human life and economic loss around the world, and infodemic is one of the major social
+impacts that make people difficult to discriminate trustworthy sources, from false and manipulative information
+sources. Therefore, researchers are increasingly interested in addressing a wide spectrum of challenges in
+social networks, such as developing social-aware algorithms for communications systems, identifying the
+topological common structures and information/influence flows, analyzing the social media and evolutions of
+social graphs, and exploiting location-based and contextual information embedded in mobile social networks to
+create innovative applications. Due to the interdisciplinary nature, social networks have also attracted intensive
+research interests across multiple disciplines, including artificial intelligence, blockchain, big data analytics,
+information security and privacy protection, psychology, and marketing. In light of the above crucial needs,
+Selected Areas in Communication Symposium in Social Networks will serve as a forum for researchers and
+technologists to discuss the state-of-the-art, present their contributions, and set future directions in social
+networks.
+
+TOPICS OF INTEREST
+- Infrastructure, platform, protocol design, and optimization for mobile social networks, mobile social clouds, and social Internet-of-Things with Artificial Intelligence
+- Social-aware network solutions and social network influence on (wireless) communications systems
+- Cross-layer design for social networks and the underlying communications and network platforms, and subsequent new design paradigm for future (wireless) communications
+- Network graph modeling, measurements, simulations, and experiments
+- Analysis of dynamics and control of belief, influence, and rumor propagations in the evolutions of social networks
+- Data mining, machine learning, information retrieval, signal processing, and artificial intelligence in social media and social contexts
+- Trusted networking, privacy and security, user behaviors and dynamics, and digital right management, for big data in social networks
+- Innovative social network applications and services to mobile Internet, multimedia networks, mobilecommerce, cyber-physical systems, and their potential social, economic, and cultural impacts
+- Multidisciplinary and interdisciplinary research on social networks
+
+IMPORTANT DATES
+- Deadline for paper submission: 28 May 2021 (FIRM)
+- Date for notification: 25 July 2021
+- Deadline for final paper submission: 1 September 2021
+
+
+
+---deadline--- 210831 (elsevier)distributed.AI.for.edgenets
+
+DISTRIBUTED INTELLIGENCE AT THE EDGE FOR THE FUTURE INTERNET OF THINGS  -
+
+JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING
+
+WEBSITE:
+https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future
+
+
+IMPOTRANT DATES:
+
+Submission deadline: 31-AUGUST-2021 (EXTENDED)
+Acceptance deadline: 31-JANUARY-2022 (EXTENDED)
+Publication: EARLY 2022
+
+SCOPE:
+Currently and even more in the future, business, industry, finance and retail, healthcare, media, entertainment and many others, are and will be completely managed, coordinated, and controlled using huge amounts of data. These operations are performed by the Internet of Things (IoT) system of connected computing, digital, and mechanical devices, all of them named using unique identifiers (UIDs) and able to transfer data over a network without human intervention.
+
+To extract value from such massive data volumes, processing power offered by cloud computing is still utilized. However, streaming data to the cloud exposes some limitations related to the increased communication and data transfer, which introduces delays and consumes network bandwidth. Another limitation that cloud-based computing for IoT poses is limited network connectivity. Therefore, the adoption of cloud computing to process data generated by IoT devices may not be applicable at all to classes of applications such as those needed for real-time, low latency, and mobile applications. Therefore, it is beyond imagination to use cloud computing to collect data, store, and work out results. Therefore, there has been a move towards mobile communication and edge computing. Billions of devices have been connected to the Internet and created zettabytes of data items. The problem remains on how to extract information from collected data best.
+
+The use of Artificial Intelligence, machine learning, neural network, and data analytic techniques in edge processing resulted in a new inter-disciplinary field that enables distributed intelligence with edge devices and is known as distributed edge AI or edge intelligence. However, research on edge AI and distributed edge AI is still relatively new, and thus models, techniques, and protocols supporting intelligent management, querying and mining of large-scale amounts of data produced at the edge are required. A lot of challenges related to providing edge intelligence include training edge devices, so they can become smarter and smarter. There is also a need of the presentation of the most recent outcome of research of distributed intelligence. This need could be illustrated by a smart city that contains for instance: garages, parkings, car washing systems, traffic unloading centrals etc. – usually belonging to different companies and running different protocols. A most likely scenario is that these devices could use different AI systems to support their activities. However, all of them are parts of one interconnected smart city; different AI systems must cooperate for common goal(s). Thus, we need distributed intelligence. Examples and different AI systems working for different edges could be multiplied; they support a variety of edges. All want to make money, kick competitors from the market out, and grab their systems. Furthermore, there is an emphasis on creating better software and algorithms that can run efficiently on resource-constrained devices. Moreover, purpose-built hardware at the edge is becoming increasingly important in the field of machine learning because companies can run software much more efficiently if they use specialized chips. Another key challenge of distributed edge AI will be the continued improvement of user interfaces that are used to communicate with other humans, including text, voice, vision, and different forms of body language.
+
+These only are some of the challenges of edge intelligence. This field is expected to arise in the upcoming years and become an essential part of the next generation of the Internet of Things that expands its reach into almost every domain. Therefore, this Special Issue seeks to identify and provide high-quality research on recent advances on edge AI and distributed edge AI. We are interested in all aspects pertaining to this multidisciplinary paradigm.
+
+
+TOPICS OF INTEREST
+Topics of interest include, but are not limited to, the following:
+
+· Distributed Intelligence at the Edge
+· Modeling and Development of IoT applications using Edge AI
+· Distributed AI with/for Secure Edge Networking
+· Machine-Learning Algorithms for IoT Applications
+· Optimization, Control, And Automation in Edge Computing for IoT
+· Secure Intelligent IoT-Edge Systems
+· Secure Intelligent Coordination and Networking Between IoT, Edge, and Cloud
+· AI-Based Resource Allocation in IoT-Edge Systems
+· Trust and Privacy Management in Intelligent IoT-Edge Systems
+· Quality of Service and Energy Efficiency for Intelligent IoT-Edge Systems
+· Data Mining and Big Data Analytics for Security and Resource Management in IoT-Edge Systems
+· Distributed Ledger Technologies and Blockchain in IoT Environments
+
+SUBMISSION GUIDELINES
+Original, high-quality contributions that are not yet published or that are not currently under review by other journals or peer-reviewed conferences are sought. Papers will be peer-reviewed by independent reviewers and selected based on originality, scientific quality, and relevance to this Special Issue. The Guest Editors will make final decisions about the acceptance of the papers.
+Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the Journal of Parallel and Distributed Computing.
+
+
+GUEST EDITORS
+
+Andrzej Goscinski
+Deakin University, Australia
+andrzej.goscinski@deakin.edu.au
+
+Flavia C. Delicato
+Fluminense Federal University, Brazil
+fdelicato@gmail.com or fdelicato@ic.uff.br 
+
+Anna Kobusińska
+Poznań University of Technology, Poland
+Anna.kobusinka@cs.put.poznan.pl
+
+Gautam Srivastava
+Brandon University, Canada
+srivastavag@brandonu.ca
+
+Giancarlo Fortino
+University of Calabria, Italy
+g.fortino@unical.it
+
+
+
+---deadline--- 210531 IEEE.ICS2.smartcities
+
+The 7th IEEE International Smart Cities Conference (IEEE ISC2 2021) September 7-10, 2021 (Virtual Conference) https://attend.ieee.org/isc2-2021/
+
+ 
+
+Sponsored by
+
+-------------
+
+IEEE Smart Cities, IEEE, IEEE Communications Society IEEE Control Systems Society, IEEE Industry Applications Society IEEE Power & Energy Society, IEEE Systems, Man, and Cybernetics Society Council on Electronic Automation Design
+
+ 
+
+IMPORTANT DATES
+
+---------------
+
+Paper Submission Deadline: May 31, 2021
+
+Acceptance Notification: July 15, 2021
+
+Camera-ready Deadline: July 31, 2021
+
+ 
+
+------------------------------------------------------------
+
+Submission link: https://www.edas.info/newPaper.php?c=28313
+
+------------------------------------------------------------
+
+ 
+
+Please note that one AUTHOR Conference Registration covers up to TWO accepted papers.
+
+ 
+
+The 7th IEEE International Smart Cities Conference (ISC2 2021) will be held as a virtual conference, during September 7-10, 2021.
+
+The worldwide governmental restrictions on travel, gatherings, and meetings, imposed to limit and slow down the spread of the novel coronavirus, making it impossible to organize the conference in the traditional format. However, we are confident that the changes induced by the virus to our everyday lives, and the responses given to these new challenges by smart city researchers and practitioners, city policymakers and administrators, critical infrastructure operators and industry representatives, economists and sociologists will generate exciting and edifying presentations and discussions, both as part of our keynote addresses,  panel debates, workshops or research talks. After all, one of the main reasons for making cities smarter and better should be to safely and efficiently  support us, citizens, in such difficult times. Thus, the theme of the conference this year will be: Smart Cities — Post-pandemic vision and challenges.
+
+ 
+
+IEEE ISC2 is the flagship conference sponsored by the IEEE Smart Cities Technical Community, a coalition of six IEEE technical societies and organizations. Besides contributions addressing the conference theme, authors are welcome to submit their original research results in traditional topics across broad application and functional domains, within the context of smart urban infrastructure systems.
+
+ 
+
+The technical areas include, but are not limited to:
+
+ 
+
+• Smart city theory, modeling and simulation • Intelligent infrastructure • Sensors and actuators • Open data and big data analytics • AI powered smart cities services • Safety and security systems • Smart healthcare • Smart emergency management • IoT and Smart X services • Data security and privacy • Connected Vehicle (CV) technologies • Unmanned Aerial Vehicles (UAVs) • Smart mobility and transportation • Smart energy systems • Smart buildings and Smart grid • Digital city and smart growth • Smart traffic system operations • Environmental monitoring technologies
+
+ 
+
+The IEEE International Smart Cities Conference 2021 program will be split into the following tracks:
+
+ 
+
+- Track 1: Smart Transportation
+
+- Track 2: Smart Health and Wellbeing
+
+- Track 3: Smart Energy Systems
+
+- Track 4: IoT and Smart X Services
+
+- Track 5: AI and Big Data
+
+- Track 6: Security and Privacy
+
+- Track 7: General Track
+
+ 
+
+ 
+
+Submission Instructions:
+
+------------------------
+
+Prospective authors are invited to submit high quality original Full or Short papers via the EDAS submission site (https://www.edas.info/newPaper.php?c=28313).
+
+Full papers should describe novel research contributions with evaluation results and are limited to 7 pages.
+
+Short papers, limited in length to four (4) pages, should be more visionary in nature and are meant to discuss new challenges and visions, highlight early research results, and explore novel research directions.
+
+ 
+
+All submitted papers must be unpublished and not considered elsewhere for publication should be written in English and formatted according to IEEE Template.
+
+Each submitted paper will pass through the standard IEEE peer-review process and, if accepted and presented at the Conference, will appear in the conference proceedings and will be submitted for inclusion in the IEEE Xplore digital library. Paper contests will include a Conference Best Paper Award and a Best Student Paper Award.
+
+ 
+
+Organizing Committee
+
+--------------------
+
+ 
+
+General Chairs
+
+Soufiene Djahel, Manchester Metropolitan University, UK Yinhai Wang, University of Washington, USA 
+
+ 
+
+Technical Program Chairs
+
+Celimuge Wu, The University of Electro-Communications, Japan Guohui Zhang, University of Hawaii at Manoa, USA 
+
+Ramona Trestian, Middlesex University, UK  
+
+ 
+
+Workshop Chairs
+
+Rosaldo Rossetti, University of Porto, Portugal Nadjia Kara, Ecole de Technologies Superieure, Canada
+
+ 
+
+Tutorial Chairs
+
+Victor Larios, University of Guadalajara, Mexico Yassine Hadjadj-Aoul, University of Rennes 1, France
+
+ 
+
+Panel Chairs
+
+Delia Dimitriu, Connected Places Catapult, UK Alexey Vinel, Halmstad University, Sweden
+
+ 
+
+Keynote Chairs
+
+Yacine GHAMRI-DOUDANE, University of La Rochelle, France Zonghua Zhang, Huawei France Research Center, France
+
+ 
+
+Publications Chairs
+
+Chun Sing Lai, Brunel University London, UK 
+
+Avishek Nag, University College Dublin, Ireland  
+
+Ruimin Ke, University of Washington, USA 
+
+ 
+
+Publicity Chairs
+
+Larissa Paredes Muse, Brazilian Network for Smart & Human Cities, USA (Americas) Sara Paiva, Polytechnic Institute of Viana do Castelo, Portugal (Europe) Intesab Hussain, QUEST, Pakistan (Asia-Pacific) Omar Mawloud, University of Gustave Eiffel, France (Africa and the Middle East)
+
+ 
+
+Finance Chair
+
+Emily Kean, ComEd, USA
+
+ 
+
+Web Chair
+
+Nelio Cacho, Federal University of Rio Grande do Notre, Brazil
+
+ 
+
+Web Masters
+
+Stefano Loss, Federal University of Rio Grande do Norte, Brazil                                                                  
+
+Jack Hodgkiss, Manchester Metropolitan University, UK
+
+ 
+
+Technical Tracks
+
+ 
+
+Track 1: Smart Transportation
+
+Sidi-Mohammed Senouci, University of Burgundy, France Shen Wang, University College Dublin, Ireland Lei Zhong, Toyota Motor Corporation, Japan Hrishikesh Venkataraman, Indian Institute of Information Technology, India 
+
+ 
+
+Track 2: Smart Health and Wellbeing
+
+Agusti Solanas, Universitat Rovira i Virgili, Spain  
+
+Giandomenico Nollo, University of Trento, Italy Saadi Boudjit, University of Paris Sorbonne, France Saraju Mohanty, University of North Texas, USA 
+
+ 
+
+Track 3: Smart Energy Systems
+
+Miadreza Shafie-khah, University of Vaasa, Finland Youwei Jia, Southern University of Science and Technology, China Wang Dongxiao, Australia Energy Market Operator, Australia
+
+ 
+
+Track 4:  IoT and Smart X services
+
+Yu Chen, Binghamton University, USA 
+
+Lexi Xu, China Unicom, China  
+
+Enrico Natalizio, The University of Lorraine, France 
+
+ 
+
+Track 5: AI and big data
+
+Keeley Crockett, Manchester Metropolitan University, UK Xianfu Chen, VTT Technical Research Centre of Finland, Finland Kamal Singh, Telecom Saint Etienne, France
+
+ 
+
+Track 6: Security and privacy
+
+Burak Kantarci, University of Ottawa, Canada Prosanta Gope, University of Sheffield, UK
+
+Madhusanka Liyanage, University College Dublin, Ireland  
+
+ 
+
+Track 7: General Track
+
+Wei Fang, Jiangnan University, China
+
+Giovanni Masala, Manchester Metropolitan University, UK
+
+
+
+---deadline--- 210528 IEEE.DCOSS
+
+3rd International Workshop on Wireless Sensors and Drones in Internet of Things
+co-located with DCOSS 2021  
+July 14–16, 2021 – Virtual Event
+
+*** Reduced registration fee for all authors: $190 ***
+
+Important dates
+- Paper Submission: May 28, 2021 (firm)
+- Acceptance Notification: June 11, 2021
+- Final manuscript, camera ready: June 18, 2021  
+
+Website: https://widroit2021.github.io
+
+Submission link: https://easychair.org/conferences/?conf=widroit2021
+
+Due to the evolution of the health pandemic, the event will be held fully on-line. This will not impact the publication of the DCOSS 2021 proceedings and accepted papers will be included in the IEEE Xplore Proceedings. The virtual program will include live sessions of invited speakers and author presentations, possibly supplemented by online material such as the papers, presentation slides and videos.
+
+
+Aims and Scope
+
+Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), also known as drones, has highlighted a plethora of emergent applications such as infrastructure inspection and surveillance, smart agriculture, seek and rescue, parcel delivery, communications, and post-disaster recovery. In all these applications, UAVs may coexist with ground Internet of Things (IoT) devices. For example, UAVs autonomously perform remote sensing relaying the collected data by the sensors. Moreover, single or multiple UAVs can cooperatively collaborate providing services that require efficient protocols where multiple objectives and constraints should be accounted for.
+
+
+For this workshop, we seek papers that combine the design of algorithms and testbed implementations to develop the theoretical foundations for UAVs as well as the synergies with IoT devices. The numerous emergent applications raised by IoT may require an interdisciplinary approach, involving techniques from algorithm foundations and different areas, such as computer networks, artificial intelligence, concurrent, parallel and distributed computing, security, digital signal, image and sound processing.
+
+
+Topics of Interest
+
+- Autonomous sensing via UAVs
+- Topology monitoring with UAVs
+- Remote sensing networks via UAVs
+- Communication protocols of UAVs over IoT
+- Modeling and analysis of UAVs over IoT
+- Precision agriculture and UAVs
+- Crops monitoring in agriculture
+- Bugs monitoring in agriculture
+- UAVs for environmental monitoring
+- Autopilot and UAS autonomy
+- UAVs path planning and scheduling
+- Parcel delivery using UAVs
+- Cellular networks and UAVs
+- Constrained and multi-objectives problems
+- Sensors localization with UAVs
+- UAVs tracking techniques
+- Cooperative control of multiple UAVs
+- Cyber-security communications and UAVs
+- Optimal UAV deployment strategies
+- Test-beds and experimental results for UAVs
+- Single UAV applications
+- Multi-UAV applications
+- Energy-efficient UAV communications
+- Machine learning for UAV communications
+
+
+Submission
+
+Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to Wi-DroIT topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available on the link below: http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+
+All submissions should be written in English and submitted as a full paper. Full papers should have a maximum of eight (8) printed pages including figures and references. Full papers are expected to describe fully developed ideas with a thorough evaluation. Note that Wi-DroIT does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.  
+
+--
+Francesco Betti Sorbelli
+
+
+
+---deadline--- 210606 ACM.SocialGood
+
+CFP: ACM International Conference on Information Technology for Social
+Good (GoodIT 2021)
+
+
+GoodIT 2021: ACM International Conference on Information Technology for
+Social Good
+
+http://www.grc.upv.es/goodit2021/
+
+9-11 September 2021, Rome, Italy
+
+## SPECIAL ISSUES
+All accepted papers will be included in the ACM Digital Library.
+Selected papers will be invited to submit an extended version to the
+following special issues:
++ MDPI "Sensors", Special Issue on: "Application of Information
+Technology (IT) to Social Good"
+  - 3 papers free of charge and 2 more with a 50% discount.
++ Springer "Multimedia Tools and Applications", Special Issue on
+"Information Technology for Social Good [1223]"
+
+## MOTIVATION AND RATIONALE
+The conference will focus on the application of IT technologies to
+social good. Social good is typically defined as an action that provides
+some sort of benefit to the general public. In this case, Internet
+connection, education, and healthcare are all good examples of social
+goods. However, new media innovations and the explosion of online
+communities have added new meaning to the term. Social good is now about
+global citizens uniting to unlock the potential of individuals,
+technology, and collaboration to create positive societal impact.
+
+## TOPICS
+* IT for education
+* Data Science
+* Digital solutions for Cultural Heritage
+* Data sensing, processing, and persistency
+* Game, entertainment, and multimedia applications
+* Health and social care
+* IT for development
+* Privacy and trust issues and solutions
+* Sustainable cities and transportation
+* Smart governance and e-administration
+* IT for smart living
+* Technology addressing the digital divide
+* IT for automotive
+* Frugal solutions for IT
+* Ethical computing
+* Decentralized approaches to IT
+* Citizen science
+* Socially responsible IT solutions
+* Sustainable IT
+* Social informatics
+* Civic intelligence
+
+
+
+## IMPORTANT DATES
+* Submission deadline: June 6, 2021 (extended - FIRM)
+* Notification of acceptance: June 22, 2021
+* Camera Ready: July 10, 2021
+
+
+
+
+---deadline--- 210630 (mdpi)sensor.and.actuator.networks
+
+Dear Colleagues,
+
+
+I hope this email finds you well. As a member of the Editorial Board for JSAN, I am writing to notify you about our latest Special Issue, “State-of-the-Art in Sensor and Actuator Networks: Current Status and Future Possibilities”, created by myself and four other editors. We would like to invite you to collaborate with us by promoting this project.
+
+
+This Special Issue of JSAN is intended to solicit novel research papers on the current state-of-the-art and future directions of WSAN, aiming to provide a comprehensive view of this field of research. For this Special Issue, we will only accept high-quality submissions from our EB members or high-profile researchers recommended by them. All authors will benefit from low publication fees (0%-30% of full charge). We would like to invite you to recommend three or more high-profile researchers or colleagues to submit high-quality survey or research papers to JSAN for this Special Issue.
+
+
+The submission deadline is 30 June 2021. More detailed information can be found at
+
+JSAN | Special Issue : State-of-the-Art in Sensor and Actuator Networks: Current Status and Future Possibilities
+Dear Colleagues, In the age of digitalization, we have seen wide deployment of wireless sensor and actuator networks (WSAN) in many applications in smart cities, smart manufacturing, autonomous vehicles, farming, horticulture, health and medical systems, wildlife monitoring, etc.
+www.mdpi.com
+
+
+
+---deadline--- 210531 (springerbook)green.smart.cities
+
+We are editing a Springer Book entitled “Computational Intelligence Techniques for Green Smart Cities”. The Book will be indexed by Scopus and ISI.
+
+I cordially invite you to contribute a chapter. The full chapter is due later this year but for now, I will just need the following:
+
+- Author List
+- Chapter Title
+- Abstract (between 2 and 6 sentences)
+
+The last deadline to submit your short abstract directly at lahby@ieee.org is  May, 31th, 2021
+
+NB: There are no submission or acceptance fees for manuscripts submitted to this book for publication
+
+The tentative structure of the book (but are not limited to the following chapters) is mentioned below:
+
+PART 1: Green Smart Education
+Chapter 1. Machine learning for green smart education
+Chapter 2. Deep learning for green smart education
+Chapter 3. Evolutionary algorithms for green smart education
+Chapter 4. Green Smart learning solutions for  combating Covid-19
+ 
+PART 2: Green Smart Health
+Chapter 5. Machine learning for green smart health
+Chapter 6. Deep learning for green smart health
+Chapter 7. Evolutionary algorithms for green smart health
+Chapter 8. Green Smart health solutions for  combating Covid-19
+ 
+PART 3: Green Smart transportation
+Chapter 9. Machine learning for green smart transportation
+Chapter 10. Deep learning for green smart transportation
+Chapter 11. Evolutionary algorithms for green smart transportation
+Chapter 12. Green Smart transportation solutions for  combating Covid-19
+ 
+PART 4: Green Smart Environment
+Chapter 13. Machine learning for green smart environment
+Chapter 14. Deep learning for green smart environment
+Chapter 15. Evolutionary algorithms for green smart environment
+Chapter 16. Green Smart environment solutions for  combating Covid-19
+
+PART 5: Green Smart Home
+Chapter 17. Machine learning for green smart home
+Chapter 18. Deep learning for green smart home
+Chapter 19. Evolutionary algorithms for green smart home
+Chapter 20. Green Smart home solutions for  combating Covid-19
+
+Looking forward to hearing from you soon. Feel free to share with your network as well
+
+
+
+
+---deadline--- 210602 (elsevier)security.and.privacy
+
+Dear Colleagues,
+***  Papers are due by June 2, 2021.
+The special issue on Intelligent Approaches in Security and Privacy Computing is now accepting paper proposals for the Computers and Electrical Engineering - An International Journal (Elsevier, IF: 2.663).
+The full CFP is available at https://www.journals.elsevier.com/computers-and-electrical-engineering/call-for-papers/intelligent-approaches-in-security-and-privacy-computing-vsi
+Cheers,
+ 
+Atilla Elci, Ph.D.
+IEEE Senior Member
+Let's retard the coronavirus: stay home, remain safe! 
+Haydi taçlı virüsü geriletelim: evde kal, güvende ol!
+My books on Amazon: https://www.amazon.com/s?k=Atilla+ELCI
+https://scholar.google.com/citations?user=wpQvtlQAAAAJ&hl=en
+
+
+
 ---deadline--- 210702 IEEE.PerCom.pervasive.comm
 
 *** Please accept our apologies if you receive multiple copies of this CFP ***
@@ -1322,3 +2021,5 @@ Camera Ready due:        August 1, 2021
    Mehmet Ulema, Manhattan College, USA
 
 
+
+   

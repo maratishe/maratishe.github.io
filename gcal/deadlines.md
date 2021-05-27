@@ -4,561 +4,78 @@
 
 this file is generated automatically, do not make manual changes to it!
 
-2021-05-22 [IEEE.cloud.bigdata.infra](#c53ed14f0f)  
-2021-05-23 [ACM.socialgood](#bf56501443)  
-2021-05-25 [ACM.MSWiM.modeling.simulation.wireless](#d89ca901a2)  
-2021-05-25 [(ACM)MSWiM.modeling.anal.wnets](#b92f3438ae)  
 2021-05-28 [IEEE.selected.aread.in.comm.socialnets](#f252c3615e)  
+2021-05-28 [IEEE.GlobalComm.Conference](#b889daff29)  
 2021-05-28 [IEEE.globalcommconf](#48a1977c24)  
+2021-05-28 [IEEE.DCOSS](#2415a4fa8e)  
 2021-05-30 [NetSys(workshops)cyberforensics](#430832f039)  
 2021-05-30 [ACM.dist.realtime.apps](#638dda0fb7)  
 2021-05-30 [ACM.realtimeapps.distsim](#cad22596c5)  
-2021-05-31 [(J)Elsevier.edge.future.IoT](#27e0cf2c69)  
-2021-05-31 [(J)wiley.SPE.highperfcomp.apps](#50b0d1de01)  
-2021-05-31 [(elsevier)distributed.AI.for.future.IoT.nets](#03ba770380)  
-2021-05-31 [(iee.comp.mag)home.globalization](#09426f8149)  
 2021-05-31 [(mdpi)IoV](#1b0148efd3)  
-2021-05-31 [(springerbook)GreenSmartCities](#c77441c432)  
+2021-05-31 [CNSM](#dba06b76f8)  
 2021-05-31 [(J)MDPI.IoV](#8f6f661b67)  
 2021-05-31 [(J)Elsevier.intelligent.for.fog.paralell.distributed](#263a77bcdc)  
+2021-05-31 [(J)wiley.SPE.highperfcomp.apps](#50b0d1de01)  
+2021-05-31 [(J)Elsevier.edge.future.IoT](#27e0cf2c69)  
+2021-05-31 [IEEE.ICS2.smartcities](#7273a42852)  
+2021-05-31 [(springerbook)GreenSmartCities](#c77441c432)  
 2021-05-31 [(springerbook)GreenSmartCiteis](#1db799b88f)  
-2021-05-31 [CNSM](#dba06b76f8)  
+2021-05-31 [(elsevier)distributed.AI.for.future.IoT.nets](#03ba770380)  
+2021-05-31 [(iee.comp.mag)home.globalization](#09426f8149)  
 2021-06-01 [(cambridgepress)book.proposal](#5c68420187)  
-2021-06-01 [(J)MDPI.cloud.based.iot.smartcities](#e87196a1bc)  
 2021-06-01 [(J)MDPIelectronics.SDN.futureinternet](#b0ea6efb1b)  
+2021-06-01 [(J)MDPI.cloud.based.iot.smartcities](#e87196a1bc)  
 2021-06-02 [(J)Elsevier.FACE.security.privacy](#8d755e17a7)  
+2021-06-02 [(elsevier)security.and.privacy](#6bebdc9e70)  
+2021-06-06 [ACM.SocialGood](#c28881ecbc)  
 2021-06-06 [(J)frontiers.in.comms.and.networks](#493f4781a2)  
 2021-06-14 [IEEE.GCCE.computertech@kyoto](#c9ba9eec04)  
 2021-06-15 [(IEEEtranGreeCom)sustainable.smart.envs](#ad2d11d725)  
-2021-06-15 [ACM.PEWASUN.wireless.perf](#5fe733029e)  
 2021-06-15 [(mdpi)security.for.vnets](#fc33cbd96e)  
-2021-06-18 [(hindawi)learning4security](#8db1e35ca4)  
+2021-06-15 [ACM.PEWASUN.wireless.perf](#5fe733029e)  
 2021-06-18 [IEEE.EDOC.IoT](#7891061f7a)  
-2021-06-20 [Mobiqutous@Beppu](#3b851a742e)  
-2021-06-20 [Mobiquitous](#05747d2a0b)  
+2021-06-18 [(hindawi)learning4security](#8db1e35ca4)  
 2021-06-20 [Springer.Mobiqutous](#1c5f4d6d5b)  
+2021-06-20 [Mobiquitous](#05747d2a0b)  
+2021-06-20 [Mobiqutous@Beppu](#3b851a742e)  
+2021-06-30 [(mdpi)AI.for.edge](#865fba6179)  
+2021-06-30 [(elsevier)OSNEM.online.socialnets](#76c886ad16)  
 2021-06-30 [(J)MDPIsensors.80211.wirelessnets](#f799b3bff6)  
 2021-06-30 [(MDPI)edge.optimization.AI](#da47a77624)  
-2021-06-30 [(elsevier)OSNEM.online.socialnets](#76c886ad16)  
-2021-06-30 [(mdpi)AI.for.edge](#865fba6179)  
 2021-06-30 [ⒿMDPI.HPC.math](#bd08655f42)  
 2021-06-30 [(mdpi)business.management.data.processing.software](#3c2250898c)  
+2021-06-30 [(mdpi)sensor.and.actuator.networks](#6e09998571)  
 2021-06-30 [(mdpi)cloud-based-IoT-apps.smartcities](#2ade8657e5)  
 2021-06-30 [(springer)AI.for.our.lives](#fda7b3f552)  
-2021-07-01 [springerlink.ruSMART.smart.spaces@peter](#e598d96eae)  
 2021-07-01 [(mdpi)IETS.IoTtech](#cd7cd52d96)  
-2021-07-01 [(inderscience)wearable.devices.expert.systems](#73a0524954)  
 2021-07-01 [(J)TSIE.AI.for.industrial.apps](#97677a4722)  
+2021-07-01 [springerlink.ruSMART.smart.spaces@peter](#e598d96eae)  
 2021-07-01 [EAI.smartcity.smartgovernence](#54c1a151e6)  
-2021-07-01 [(J)MDPI.energy.in.networks](#0ae5575491)  
 2021-07-01 [EAI+J.smartgov.sustain.smartcities](#52640d5502)  
+2021-07-01 [(J)MDPI.energy.in.networks](#0ae5575491)  
+2021-07-01 [(inderscience)wearable.devices.expert.systems](#73a0524954)  
 2021-07-02 [IEEE.PerCom.pervasive.comm](#6b6ccb331d)  
 2021-07-02 [IEEE.MSN.mobility.sensing.netwokring](#3bb4bbfb5f)  
-2021-07-05 [ACM.mobility.management.waccess](#8ccfd93ecf)  
 2021-07-05 [ACM.mobiwac.mobility.management.access](#37b63212eb)  
+2021-07-05 [ACM.mobility.management.waccess](#8ccfd93ecf)  
 2021-07-15 [(mdpi)vehicularcomm](#23527482b2)  
 2021-07-16 [(hindawi)JournalOfAdvancedTransport.learning.optimization](#b2eab84a7d)  
 2021-07-29 [(IEEE.VTmag)AI.for.autonomous.vnets](#4b2d71c18c)  
-2021-07-31 [(J)IEEE.iri.IoV](#788b583c52)  
-2021-07-31 [(J)BigDataJournal.perfmanagment.large.clusters](#ccdc6966e6)  
-2021-07-31 [(mdpi)Telecom.Journal](#0b01b78164)  
+2021-07-30 [IEEE.IoTaIS.IoT.intelsystems](#961850bb34)  
 2021-07-31 [(J)federated.learning.IoV](#445c89cb69)  
+2021-07-31 [(mdpi)Telecom.Journal](#0b01b78164)  
+2021-07-31 [(J)BigDataJournal.perfmanagment.large.clusters](#ccdc6966e6)  
+2021-07-31 [(J)IEEE.iri.IoV](#788b583c52)  
 2021-08-15 [ACM.utility.cloudcomp](#a829bad6fc)  
 2021-08-30 [(~J)springer.emerging.smart.nets](#be48c0a736)  
+2021-08-31 [(elsevier)distributed.AI.for.edgenets](#88b83d3bb6)  
 2021-09-02 [(~J)complex.networks](#2699947a8d)  
 2021-09-02 [(+J)ComplexNetworks](#05d1988f63)  
 2021-10-15 [(J)IEEE.TETC.safe.in.era.of.AI](#16111fac86)  
 2021-10-25 [(~J)IEEE.IoT.enterprise.architecture](#14cbd8e659)  
-2021-10-30 [(J)Inderscience.wearable.expert.systems](#19c479c5b5)  
 2021-10-30 [(J)MDPIsensors.datadriven.security](#e429aaeb18)  
+2021-10-30 [(J)Inderscience.wearable.expert.systems](#19c479c5b5)  
 2021-11-30 [(J)IEEEAccess.deeplearning.IoT](#6b0275c726)  
-
-
-## IEEE.cloud.bigdata.infra  (2021-05-22) <span id="c53ed14f0f"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Dear Researchers and Friends,  
-
-
-In behalf of IEEE International Congress on Intelligent and Services-Oriented System Engineering (IEEE CISOSE2011), we like to invite you to submit your research papers to the following IEEE international conferences and workshops (Global Virtual Conferences).  
-[http://ieee-cisose-congress/org/](http://ieee-cisose-congress/org/)  
-
-
-The paper submission deadline: 5/22/2021.  
-Conference dates: 8/23-8/26/2021  
-Paper submission websites/URLs can be found below.  
-All conference proceedings will be published by IEEE Computer Society and IEEE eXplore Digital Library.  
-
-
-IEEE Fifteenth IEEE International Conference On Service-Oriented System Engineering 2021 (IEEESOSE2021)  
-[http://www.ieeesose.net/](http://www.ieeesose.net/)  
-
-
-IEEE JCC2021  
-THE 12TH IEEE INTERNATIONAL CONFERENCE ON JOINTCLOUD COMPUTING  
-[https://jointcloud.cloud/](https://jointcloud.cloud/)  
-
-
-The IEEE Third International Conference On Artificial Intelligence Testing  
-IEEE AITest 2021  
-[http://www.ieeeaitests.com/](http://www.ieeeaitests.com/)  
-
-
-The 7th IEEE International Conference on Big Data Computing Service and Machine Learning Applications  
-IEEE BigDataService 2021  
-[http://www.big-dataservice.net/](http://www.big-dataservice.net/)  
-
-
-The 9th IEEE International Conference on Mobile Cloud Computing, services, and engineering  
-IEEE MobileCloud 2021  
-[http://www.big-dataservice.net/](http://www.big-dataservice.net/)  
-
-
-The 3rd IEEE International Conference on Decentralized Applications and Infrastructures  
-
-
-IEEE DAPPS2021  
-[https://ieeedapps.net/](https://ieeedapps.net/)  
-
-
-In addition, there will be two other conjunction events, including IEEE Future Technology Summit 2021 and IEEE AV Test Challenge 2021.  
-
-
-[http://ieee-futuretechnology.com/index.html](http://ieee-futuretechnology.com/index.html)  
-[http://av-test-challenge.org/](http://av-test-challenge.org/)  
-
-
-Best wishes,  
-
-
-Jerry Gao  
-
-
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## ACM.socialgood  (2021-05-23) <span id="bf56501443"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-CFP: ACM International Conference on Information Technology for Social  
-Good (GoodIT 2021)  
-
-
-
-
-GoodIT 2021: ACM International Conference on Information Technology for  
-Social Good  
-
-
-[http://www.grc.upv.es/goodit2021/](http://www.grc.upv.es/goodit2021/)  
-
-
-9-11 September 2021, Rome, Italy  
-
-
-## SPECIAL ISSUES  
-All accepted papers will be included in the ACM Digital Library.  
-Selected papers will be invited to submit an extended version to the  
-following special issues:  
-+ MDPI "Sensors", Special Issue on: "Application of Information  
-Technology (IT) to Social Good"  
-- 3 papers free of charge and 2 more with a 50% discount.  
-+ Springer "Multimedia Tools and Applications", Special Issue on  
-"Information Technology for Social Good [1223]"  
-
-
-## MOTIVATION AND RATIONALE  
-The conference will focus on the application of IT technologies to  
-social good. Social good is typically defined as an action that provides  
-some sort of benefit to the general public. In this case, Internet  
-connection, education, and healthcare are all good examples of social  
-goods. However, new media innovations and the explosion of online  
-communities have added new meaning to the term. Social good is now about  
-global citizens uniting to unlock the potential of individuals,  
-technology, and collaboration to create positive societal impact.  
-
-
-## TOPICS  
-* IT for education  
-* Data Science  
-* Digital solutions for Cultural Heritage  
-* Data sensing, processing, and persistency  
-* Game, entertainment, and multimedia applications  
-* Health and social care  
-* IT for development  
-* Privacy and trust issues and solutions  
-* Sustainable cities and transportation  
-* Smart governance and e-administration  
-* IT for smart living  
-* Technology addressing the digital divide  
-* IT for automotive  
-* Frugal solutions for IT  
-* Ethical computing  
-* Decentralized approaches to IT  
-* Citizen science  
-* Socially responsible IT solutions  
-* Sustainable IT  
-* Social informatics  
-* Civic intelligence  
-
-
-
-
-
-
-## IMPORTANT DATES  
-* Submission deadline: May 23, 2021 (extended)  
-* Notification of acceptance: June 22, 2021  
-* Camera Ready: July 10, 2021  
-
-
----------------------------------  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## ACM.MSWiM.modeling.simulation.wireless  (2021-05-25) <span id="d89ca901a2"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Call for Papers - MSWiM 2021  
-24th ACM International Conference on  
-Modeling, Analysis and Simulation of Wireless and Mobile Systems  
-(MSWiM' 21)  
-[http://www.mswimconf.com](http://www.mswimconf.com)  
-November 22-26, 2021, Alicante, Spain  
-
-
-(*Pending) Sponsored by ACM  
----------------------------------------------------------------------------------------  
-Important: Paper submission deadline: May 25th, 2021  
----------------------------------------------------------------------------------------  
-
-
-ACM MSWiM 2021 is the 24th Annual International Conference on Modeling, Analysis  
-and Simulation of Wireless and Mobile Systems. MSWiM is an international forum  
-dedicated to in-depth discussion of Wireless and Mobile systems, networks, algorithms  
-and applications, with an emphasis on rigorous performance evaluation. MSWiM is a highly  
-selective conference with a long track record of publishing innovative ideas and  
-breakthroughs. MSWiM 2021 will be held in Alicante, Spain.  
-
-
-
-
-*** Call for Papers ***  
-
-
-Authors are encouraged to submit full papers presenting new research related to the  
-theory or practice of all aspects of modeling, analysis and simulation of mobile and  
-wireless systems. Submitted papers must not have been published elsewhere nor currently  
-be under review by another conference or journal.  
-
-
-
-
-Papers related to wireless and mobile network modeling, analysis, design, and simulation  
-are solicited on, but not limited to, the following topics in mobile and wireless systems:  
-
-
-* Performance evaluation and modeling  
-* Analytical Models  
-* Simulation languages and tools for wireless systems  
-* Wireless measurements tools and experiences  
-* Formal methods for analysis of wireless systems  
-* Correctness, survivability and reliability evaluation  
-* Mobility modeling and management  
-* Models and protocols for cognitive radio networks  
-* Models and protocols for autonomic, or self-* networks  
-* Capacity, coverage and connectivity modeling and analysis  
-* Wireless network algorithms and protocols  
-* Software Defined Network  
-* Services for Smart City  
-* Wireless PANs, LANs  
-* Ad hoc and MESH networks  
-* Vehicular Ad-hoc Networks (VANET)  
-* Sensor and actuator networks  
-* Delay Tolerant Networks  
-* Integration of wired and wireless systems  
-* Pervasive computing and emerging models  
-* Wireless multimedia systems  
-* QoS provisioning in wireless and mobile networks  
-* Security and privacy of mobile/wireless systems  
-* Algorithms and protocols for energy efficient operation and power control  
-* Mobile applications, system software and algorithms  
-* RF channel modeling and analysis  
-* Design methodologies  
-* Tools, prototypes and testbeds  
-* Parallel and distributed simulation of wireless systems  
-* Wireless Communication and Mobile Networking  
-* Operating systems for mobile computations  
-* Programming language support for mobility  
-* Resource management techniques  
-* Management of mobile object systems  
-* Mobile cloud/edge/fog computing  
-* Mobile crowd-sourcing  
-* Mobile computing and application  
-
-
-
-
-*** Important Dates ***  
-
-
-Paper Submission Deadline: May 25th, 2021  
-Notification of Acceptance: July 25th, 2021  
-Camera Ready version due: TBA  
-Conference dates: November 22-26, 2021  
-
-
-
-
-*** Submission ***  
-
-
-High-quality original papers are solicited. Papers must be unpublished and must not be  
-submitted for publication elsewhere. All papers will be reviewed by Technical Program  
-Committee members and other experts active in the field to ensure high quality and  
-relevance to the conference. Short papers will be included in the technical program to  
-complement mature results and foster discussion and exchange of novel ideas at an early  
-stage. More detailed instructions for paper submission will be provided soon. Accepted  
-papers will appear in the conference proceedings to be published by ACM Press.  
-
-
-Submission link EDAS: [https://edas.info/N28160](https://edas.info/N28160)  
-
-
-IMPORTANT: ATTENDANCE BY AT LEAST ONE AUTHOR IS MANDATORY  
-
-
-
-
-*** ORGANIZING COMMITTEE***  
-
-
-General Chair:  
-- Monica Aguilar Igartua, Universitat Politecnica de Catalunya, Spain  
-
-
-
-
-Program Co-Chairs:  
-- Carlo Giannelli, University of Ferrara, Italy  
-- Jun Zheng, Southeast University, China  
-
-
-
-
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (ACM)MSWiM.modeling.anal.wnets  (2021-05-25) <span id="b92f3438ae"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Please accept our apologies if you have received multiple copies.  
----------------------------------------------------------------------------------------  
-Call for Papers - MSWiM 2021  
-24th ACM International Conference on  
-Modeling, Analysis and Simulation of Wireless and Mobile Systems  
-(MSWiM' 21)  
-[http://www.mswimconf.com](http://www.mswimconf.com)  
-November 22-26, 2021, Alicante, Spain  
-
-
-(*Pending) Sponsored by ACM  
----------------------------------------------------------------------------------------  
-Important: Paper submission deadline: May 25th, 2021  
----------------------------------------------------------------------------------------  
-
-
-ACM MSWiM 2021 is the 24th Annual International Conference on Modeling, Analysis  
-and Simulation of Wireless and Mobile Systems. MSWiM is an international forum  
-dedicated to in-depth discussion of Wireless and Mobile systems, networks, algorithms  
-and applications, with an emphasis on rigorous performance evaluation. MSWiM is a highly  
-selective conference with a long track record of publishing innovative ideas and  
-breakthroughs. MSWiM 2021 will be held in Alicante, Spain.  
-
-
-
-
-*** Call for Papers ***  
-
-
-Authors are encouraged to submit full papers presenting new research related to the  
-theory or practice of all aspects of modeling, analysis and simulation of mobile and  
-wireless systems. Submitted papers must not have been published elsewhere nor currently  
-be under review by another conference or journal.  
-
-
-
-
-Papers related to wireless and mobile network modeling, analysis, design, and simulation  
-are solicited on, but not limited to, the following topics in mobile and wireless systems:  
-
-
-* Performance evaluation and modeling  
-* Analytical Models  
-* Simulation languages and tools for wireless systems  
-* Wireless measurements tools and experiences  
-* Formal methods for analysis of wireless systems  
-* Correctness, survivability and reliability evaluation  
-* Mobility modeling and management  
-* Models and protocols for cognitive radio networks  
-* Models and protocols for autonomic, or self-* networks  
-* Capacity, coverage and connectivity modeling and analysis  
-* Wireless network algorithms and protocols  
-* Software Defined Network  
-* Services for Smart City  
-* Wireless PANs, LANs  
-* Ad hoc and MESH networks  
-* Vehicular Ad-hoc Networks (VANET)  
-* Sensor and actuator networks  
-* Delay Tolerant Networks  
-* Integration of wired and wireless systems  
-* Pervasive computing and emerging models  
-* Wireless multimedia systems  
-* QoS provisioning in wireless and mobile networks  
-* Security and privacy of mobile/wireless systems  
-* Algorithms and protocols for energy efficient operation and power control  
-* Mobile applications, system software and algorithms  
-* RF channel modeling and analysis  
-* Design methodologies  
-* Tools, prototypes and testbeds  
-* Parallel and distributed simulation of wireless systems  
-* Wireless Communication and Mobile Networking  
-* Operating systems for mobile computations  
-* Programming language support for mobility  
-* Resource management techniques  
-* Management of mobile object systems  
-* Mobile cloud/edge/fog computing  
-* Mobile crowd-sourcing  
-* Mobile computing and application  
-
-
-
-
-*** Important Dates ***  
-
-
-Paper Submission Deadline: May 25th, 2021  
-Notification of Acceptance: July 25th, 2021  
-Camera Ready version due: TBA  
-Conference dates: November 22-26, 2021  
-
-
-
-
-*** Submission ***  
-
-
-High-quality original papers are solicited. Papers must be unpublished and must not be  
-submitted for publication elsewhere. All papers will be reviewed by Technical Program  
-Committee members and other experts active in the field to ensure high quality and  
-relevance to the conference. Short papers will be included in the technical program to  
-complement mature results and foster discussion and exchange of novel ideas at an early  
-stage. More detailed instructions for paper submission will be provided soon. Accepted  
-papers will appear in the conference proceedings to be published by ACM Press.  
-
-
-Submission link EDAS: [https://edas.info/N28160](https://edas.info/N28160)  
-
-
-IMPORTANT: ATTENDANCE BY AT LEAST ONE AUTHOR IS MANDATORY  
-
-
-
-
-*** ORGANIZING COMMITTEE***  
-
-
-General Chair:  
-- Monica Aguilar Igartua, Universitat Politecnica de Catalunya, Spain  
-
-
-
-
-Program Co-Chairs:  
-- Carlo Giannelli, University of Ferrara, Italy  
-- Jun Zheng, Southeast University, China  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------  
-
-
-Eirini Eleni Tsiropoulou  
-
-
-Assistant Professor  
-
-
-
-
-
-
-Department of Electrical and Computer Engineering  
-
-
-University of New Mexico Albuquerque, NM, 87131  
-
-
-Office: 326B  
-
-
-Tel.: (505)-277-5501  
-
-
-Email: eirini@unm.edu  
-
-
-Website: PROTON Lab  
-
-
-PROTON Lab’s News: @Tsiropoulou_EE  
-
-
-
-
-
-
-“Those who know, do. Those that understand, teach.” ~ Aristotle  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
 
 
 ## IEEE.selected.aread.in.comm.socialnets  (2021-05-28) <span id="f252c3615e"></span> <span style="color:#666;">[→top](#top)</span>
@@ -598,6 +115,60 @@ Deadline for final paper submission: 1 September 2021
 SUBMISSION INSTRUCTIONS  
 All papers for technical symposia should be submitted via EDAS through the following link.  
 [https://edas.info/newPaper.php?c=27498&track=102700](https://edas.info/newPaper.php?c=27498&track=102700)  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## IEEE.GlobalComm.Conference  (2021-05-28) <span id="b889daff29"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+IEEE Global Communications Conference  
+7-11 December 2021  
+Madrid, Spain  
+
+
+Selected Areas in Communication Symposium: Social Networks Track  
+
+
+SCOPE AND MOTIVATION  
+Recently, social network research has advanced rapidly with the prevalence of online social applications and  
+mobile social communications systems. Moreover, the ongoing pandemic via contact social networks has  
+caused tremendous human life and economic loss around the world, and infodemic is one of the major social  
+impacts that make people difficult to discriminate trustworthy sources, from false and manipulative information  
+sources. Therefore, researchers are increasingly interested in addressing a wide spectrum of challenges in  
+social networks, such as developing social-aware algorithms for communications systems, identifying the  
+topological common structures and information/influence flows, analyzing the social media and evolutions of  
+social graphs, and exploiting location-based and contextual information embedded in mobile social networks to  
+create innovative applications. Due to the interdisciplinary nature, social networks have also attracted intensive  
+research interests across multiple disciplines, including artificial intelligence, blockchain, big data analytics,  
+information security and privacy protection, psychology, and marketing. In light of the above crucial needs,  
+Selected Areas in Communication Symposium in Social Networks will serve as a forum for researchers and  
+technologists to discuss the state-of-the-art, present their contributions, and set future directions in social  
+networks.  
+
+
+TOPICS OF INTEREST  
+- Infrastructure, platform, protocol design, and optimization for mobile social networks, mobile social clouds, and social Internet-of-Things with Artificial Intelligence  
+- Social-aware network solutions and social network influence on (wireless) communications systems  
+- Cross-layer design for social networks and the underlying communications and network platforms, and subsequent new design paradigm for future (wireless) communications  
+- Network graph modeling, measurements, simulations, and experiments  
+- Analysis of dynamics and control of belief, influence, and rumor propagations in the evolutions of social networks  
+- Data mining, machine learning, information retrieval, signal processing, and artificial intelligence in social media and social contexts  
+- Trusted networking, privacy and security, user behaviors and dynamics, and digital right management, for big data in social networks  
+- Innovative social network applications and services to mobile Internet, multimedia networks, mobilecommerce, cyber-physical systems, and their potential social, economic, and cultural impacts  
+- Multidisciplinary and interdisciplinary research on social networks  
+
+
+IMPORTANT DATES  
+- Deadline for paper submission: 28 May 2021 (FIRM)  
+- Date for notification: 25 July 2021  
+- Deadline for final paper submission: 1 September 2021  
 
 
 
@@ -657,6 +228,99 @@ IMPORTANT DATES
 SUBMISSION INSTRUCTIONS  
 All papers for technical symposia should be submitted via EDAS through the following link  
 [https://edas.info/newPaper.php?c=27498&track=102700](https://edas.info/newPaper.php?c=27498&track=102700)  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## IEEE.DCOSS  (2021-05-28) <span id="2415a4fa8e"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+3rd International Workshop on Wireless Sensors and Drones in Internet of Things  
+co-located with DCOSS 2021  
+July 14–16, 2021 – Virtual Event  
+
+
+*** Reduced registration fee for all authors: $190 ***  
+
+
+Important dates  
+- Paper Submission: May 28, 2021 (firm)  
+- Acceptance Notification: June 11, 2021  
+- Final manuscript, camera ready: June 18, 2021  
+
+
+Website: [https://widroit2021.github.io](https://widroit2021.github.io)  
+
+
+Submission link: [https://easychair.org/conferences/?conf=widroit2021](https://easychair.org/conferences/?conf=widroit2021)  
+
+
+Due to the evolution of the health pandemic, the event will be held fully on-line. This will not impact the publication of the DCOSS 2021 proceedings and accepted papers will be included in the IEEE Xplore Proceedings. The virtual program will include live sessions of invited speakers and author presentations, possibly supplemented by online material such as the papers, presentation slides and videos.  
+
+
+
+
+Aims and Scope  
+
+
+Recently, the rapid development of Unmanned Autonomous Vehicles (UAVs), also known as drones, has highlighted a plethora of emergent applications such as infrastructure inspection and surveillance, smart agriculture, seek and rescue, parcel delivery, communications, and post-disaster recovery. In all these applications, UAVs may coexist with ground Internet of Things (IoT) devices. For example, UAVs autonomously perform remote sensing relaying the collected data by the sensors. Moreover, single or multiple UAVs can cooperatively collaborate providing services that require efficient protocols where multiple objectives and constraints should be accounted for.  
+
+
+
+
+For this workshop, we seek papers that combine the design of algorithms and testbed implementations to develop the theoretical foundations for UAVs as well as the synergies with IoT devices. The numerous emergent applications raised by IoT may require an interdisciplinary approach, involving techniques from algorithm foundations and different areas, such as computer networks, artificial intelligence, concurrent, parallel and distributed computing, security, digital signal, image and sound processing.  
+
+
+
+
+Topics of Interest  
+
+
+- Autonomous sensing via UAVs  
+- Topology monitoring with UAVs  
+- Remote sensing networks via UAVs  
+- Communication protocols of UAVs over IoT  
+- Modeling and analysis of UAVs over IoT  
+- Precision agriculture and UAVs  
+- Crops monitoring in agriculture  
+- Bugs monitoring in agriculture  
+- UAVs for environmental monitoring  
+- Autopilot and UAS autonomy  
+- UAVs path planning and scheduling  
+- Parcel delivery using UAVs  
+- Cellular networks and UAVs  
+- Constrained and multi-objectives problems  
+- Sensors localization with UAVs  
+- UAVs tracking techniques  
+- Cooperative control of multiple UAVs  
+- Cyber-security communications and UAVs  
+- Optimal UAV deployment strategies  
+- Test-beds and experimental results for UAVs  
+- Single UAV applications  
+- Multi-UAV applications  
+- Energy-efficient UAV communications  
+- Machine learning for UAV communications  
+
+
+
+
+Submission  
+
+
+Authors are invited to submit original unpublished manuscripts that demonstrate current research on distributed sensor systems related to Wi-DroIT topics of interest. Please use the US letter size (8.5 x 11 in) standard IEEE conference LaTeX format or Microsoft Word template available on the link below: [http://www.ieee.org/conferences_events/conferences/publishing/templates.html](http://www.ieee.org/conferences_events/conferences/publishing/templates.html)  
+
+
+All submissions should be written in English and submitted as a full paper. Full papers should have a maximum of eight (8) printed pages including figures and references. Full papers are expected to describe fully developed ideas with a thorough evaluation. Note that Wi-DroIT does not follow the double-blind review policy. The names and affiliations of all the authors must be present in the submitted manuscript.  
+
+
+--  
+Francesco Betti Sorbelli  
 
 
 
@@ -1278,976 +942,7 @@ Juan Carlos Cano, Universitat Politècnica de València , Spain
  <span style="color:#666;">[→top](#top)</span>
 
 
-## (J)Elsevier.edge.future.IoT  (2021-05-31) <span id="27e0cf2c69"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-CALL FOR PAPERS  
-
-
-Special Issue on  
-
-
-DISTRIBUTED INTELLIGENCE AT THE EDGE FOR THE FUTURE INTERNET OF THINGS -  
-
-
-JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING  
-
-
-WEBSITE:  
-[https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future)  
-
-
-
-
-IMPOTRANT DATES:  
-
-
-Submission deadline: 31-May-2021  
-Acceptance deadline: 31-Oct-2021  
-Publication: late 2021  
-
-
-SCOPE:  
-Currently and even more in the future, business, industry, finance and retail, healthcare, media, entertainment and many others, are and will be completely managed, coordinated, and controlled using huge amounts of data. These operations are performed by the Internet of Things (IoT) system of connected computing, digital, and mechanical devices, all of them named using unique identifiers (UIDs) and able to transfer data over a network without human intervention.  
-
-
-To extract value from such massive data volumes, processing power offered by cloud computing is still utilized. However, streaming data to the cloud exposes some limitations related to the increased communication and data transfer, which introduces delays and consumes network bandwidth. Another limitation that cloud-based computing for IoT poses is limited network connectivity. Therefore, the adoption of cloud computing to process data generated by IoT devices may not be applicable at all to classes of applications such as those needed for real-time, low latency, and mobile applications. Therefore, it is beyond imagination to use cloud computing to collect data, store, and work out results. Therefore, there has been a move towards mobile communication and edge computing. Billions of devices have been connected to the Internet and created zettabytes of data items. The problem remains on how to extract information from collected data best.  
-
-
-The use of Artificial Intelligence, machine learning, neural network, and data analytic techniques in edge processing resulted in a new inter-disciplinary field that enables distributed intelligence with edge devices and is known as distributed edge AI or edge intelligence. However, research on edge AI and distributed edge AI is still relatively new, and thus models, techniques, and protocols supporting intelligent management, querying and mining of large-scale amounts of data produced at the edge are required. A lot of challenges related to providing edge intelligence include training edge devices, so they can become smarter and smarter. There is also a need of the presentation of the most recent outcome of research of distributed intelligence. This need could be illustrated by a smart city that contains for instance: garages, parkings, car washing systems, traffic unloading centrals etc. – usually belonging to different companies and running different protocols. A most likely scenario is that these devices could use different AI systems to support their activities. However, all of them are parts of one interconnected smart city; different AI systems must cooperate for common goal(s). Thus, we need distributed intelligence. Examples and different AI systems working for different edges could be multiplied; they support a variety of edges. All want to make money, kick competitors from the market out, and grab their systems. Furthermore, there is an emphasis on creating better software and algorithms that can run efficiently on resource-constrained devices. Moreover, purpose-built hardware at the edge is becoming increasingly important in the field of machine learning because companies can run software much more efficiently if they use specialized chips. Another key challenge of distributed edge AI will be the continued improvement of user interfaces that are used to communicate with other humans, including text, voice, vision, and different forms of body language.  
-
-
-These only are some of the challenges of edge intelligence. This field is expected to arise in the upcoming years and become an essential part of the next generation of the Internet of Things that expands its reach into almost every domain. Therefore, this Special Issue seeks to identify and provide high-quality research on recent advances on edge AI and distributed edge AI. We are interested in all aspects pertaining to this multidisciplinary paradigm.  
-
-
-
-
-TOPICS OF INTEREST  
-Topics of interest include, but are not limited to, the following:  
-
-
-· Distributed Intelligence at the Edge  
-· Modeling and Development of IoT applications using Edge AI  
-· Distributed AI with/for Secure Edge Networking  
-· Machine-Learning Algorithms for IoT Applications  
-· Optimization, Control, And Automation in Edge Computing for IoT  
-· Secure Intelligent IoT-Edge Systems  
-· Secure Intelligent Coordination and Networking Between IoT, Edge, and Cloud  
-· AI-Based Resource Allocation in IoT-Edge Systems  
-· Trust and Privacy Management in Intelligent IoT-Edge Systems  
-· Quality of Service and Energy Efficiency for Intelligent IoT-Edge Systems  
-· Data Mining and Big Data Analytics for Security and Resource Management in IoT-Edge Systems  
-· Distributed Ledger Technologies and Blockchain in IoT Environments  
-
-
-SUBMISSION GUIDELINES  
-Original, high-quality contributions that are not yet published or that are not currently under review by other journals or peer-reviewed conferences are sought. Papers will be peer-reviewed by independent reviewers and selected based on originality, scientific quality, and relevance to this Special Issue. The Guest Editors will make final decisions about the acceptance of the papers.  
-Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the Journal of Parallel and Distributed Computing.  
-
-
-
-
-GUEST EDITORS  
-
-
-Andrzej Goscinski  
-Deakin University, Australia  
-andrzej.goscinski@deakin.edu.au  
-
-
-Flavia C. Delicato  
-Fluminense Federal University, Brazil  
-fdelicato@gmail.com or fdelicato@ic.uff.br  
-
-
-Anna Kobusińska  
-Poznań University of Technology, Poland  
-Anna.kobusinka@cs.put.poznan.pl  
-
-
-Gautam Srivastava  
-Brandon University, Canada  
-srivastavag@brandonu.ca  
-
-
-Giancarlo Fortino  
-University of Calabria, Italy  
-g.fortino@unical.it  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (J)wiley.SPE.highperfcomp.apps  (2021-05-31) <span id="50b0d1de01"></span> <span style="color:#666;">[→top](#top)</span>
-
-Special Issue on:  
-New Trends in High Performance Computing: Software Systems and  
-Applications  
-Software: Practice and Experience (Wiley Press)  
-
-
-[https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf](https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf)  
-
-
-Submission due: May 31, 2021  
-
-
-High performance computing (HPC) offers the computing power to  
-continuously support  
-the world’s most important discoveries in various scientific and  
-business domains such  
-as chemistry, physics, biology, material science, drug discovery and  
-financial  
-investment risk analysis. The exascale computing era is soon coming. A  
-number of  
-exaflops-capable supercomputers are scheduled to be fully operational in  
-the time  
-frame of 2021 and 2022. Researchers from across the HPC community are  
-developing  
-software systems, tools, libraries, frameworks, application packages,  
-and methods that  
-can fully exploit these extremely powerful computing resources.  
-
-
-Extreme-scale computing will enable the solution of vastly more accurate  
-predictive  
-models and the analysis of massive quantities of data, producing quantum  
-advances in  
-areas of science and technology that are essential to the scientific  
-community. New  
-computational approaches such as machine learning/deep learning have  
-also been  
-heavily explored in recent years and shown promising evidence for many  
-problems that  
-cannot be resolved by traditional computational simulation and  
-engineering. Training  
-deep neural networks with massive data is an extremely computing  
-intensive task that  
-heavily relies on the HPC power. The upcoming exascale computing era  
-will be the  
-essential basis for supporting new innovations in machine learning/deep  
-learning based  
-exploration and lead to new sciences in directions such as smart  
-manufacturing,  
-laboratory-automation, and automatic programming.  
-
-
-While the hardware architecture can generate extreme computing power,  
-renovation in  
-software stack plays the essential role for effective performance  
-delivery. The exascale  
-and pre-exascale systems such as Aurora, Frontier, El Capitan and LUMI  
-continue to  
-move into the heterogeneous space, while the current fastest ARM-based  
-system,  
-Fugaku and the many core Sunway Taihulight type of systems are marching  
-towards  
-the heterogeneous space. With systems equipped with GPUs, ARM SVEs and many  
-cores, there is a dire need for innovative software frameworks that can  
-seamlessly  
-migrate scientific code to these systems equipped with rich compute  
-resources. We  
-need innovation at different levels including compiler tools and  
-techniques, performance  
-analysis tools, novel abstractions at the programming model, redesign of  
-application-level  
-algorithms and so on. Furthermore, co-design of applications and  
-low-level software  
-frameworks can lead to more efficient use of the opportunities of  
-exascale in many contexts.  
-
-
-Topics of interests include but are not limited to:  
-
-
-+ HPC for AI and AI for HPC  
-- AI/ML/DL performance optimizations at applications or system frameworks  
-levels on HPC systems  
-- Innovations of system, compiler, language, debugging and profiling tools  
-for parallel AI/ML/DL  
-- Performance modeling for AI/ML/DL applications  
-- Visualization for parallel AI/ML/DL  
-- AI/ML/DL driven approaches for scientific computing and performance  
-optimization at scale  
-
-
-+ Programming Challenges in HPC  
-- Exposing parallelism at different levels including application,  
-architecture,  
-system and algorithmic level  
-- Enabling combinations of multi physics models and capabilities  
-- Adopting novel algorithmic/mathematical approaches  
-- Developing portable applications yet preserving performance  
-- Exploring programming extensions and auto-vectorization capabilities  
-- Exploration of application and system software co-design for addressing  
-performance challenges  
-- Programming language and compilation techniques for reducing energy  
-and data movement  
-
-
-+ HPC Systems Software and Middleware  
-- System software support for data management  
-- Scalable data analytics  
-- System software for resource management  
-- Fault tolerance techniques and implementations  
-- Synchronization and concurrency control  
-
-
-+ HPC Performance Measurement and Modeling  
-- Scalable tools and instrumentation infrastructure for measurement,  
-monitoring, and/or visualization of performance  
-- Workload characterization and benchmarking techniques  
-- Novel and broadly applicable performance optimization techniques  
-
-
-+ HPC Applications  
-- Computational science and scalable methods  
-- Using HPC for scalable multi-scale, multi-physics, and high-fidelity  
-computational science  
-- Structured and unstructured meshes using extreme scale computing  
-- Computational biology, earth sciences, cosmology, fluid dynamics, plasma  
-modeling among others  
-
-
-Important Dates  
-- Submission: May 31, 2021  
-- Notification: July 31, 2021  
-- Revision due: Aug 20, 2021  
-- Notification of final acceptance: Sept 20, 2021  
-- Final revised paper due: October 15, 2021  
-
-
-Special Issue Paper Submission  
-Submission site:  
-[https://mc.manuscriptcentral.com/spe](https://mc.manuscriptcentral.com/spe)  
-Please see detailed guidance at the online Call For Paper:  
-[https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf](https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf)  
-
-
-
-
-Guest Editors  
-Sunita Chandrasekaran  
-University of Delaware, USA  
-Email: schandra@udel.edu  
-
-
-Min Si  
-Argonne National Laboratory, USA  
-Email: msi@anl.gov  
-
-
-Jidong Zhai  
-Tsinghua University, China  
-Email: zhaijidong@tsinghua.edu.cn  
-
-
-Lena Oden  
-University of Hagen, Germany  
-Email: lena.oden@fernuni-hagen.de  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (elsevier)distributed.AI.for.future.IoT.nets  (2021-05-31) <span id="03ba770380"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-DISTRIBUTED INTELLIGENCE AT THE EDGE FOR THE FUTURE INTERNET OF THINGS -  
-
-
-JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING  
-
-
-WEBSITE:  
-[https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future)  
-
-
-
-
-IMPOTRANT DATES:  
-
-
-Submission deadline: 31-May-2021  
-Acceptance deadline: 31-Oct-2021  
-Publication: late 2021  
-
-
-SCOPE:  
-Currently and even more in the future, business, industry, finance and retail, healthcare, media, entertainment and many others, are and will be completely managed, coordinated, and controlled using huge amounts of data. These operations are performed by the Internet of Things (IoT) system of connected computing, digital, and mechanical devices, all of them named using unique identifiers (UIDs) and able to transfer data over a network without human intervention.  
-
-
-To extract value from such massive data volumes, processing power offered by cloud computing is still utilized. However, streaming data to the cloud exposes some limitations related to the increased communication and data transfer, which introduces delays and consumes network bandwidth. Another limitation that cloud-based computing for IoT poses is limited network connectivity. Therefore, the adoption of cloud computing to process data generated by IoT devices may not be applicable at all to classes of applications such as those needed for real-time, low latency, and mobile applications. Therefore, it is beyond imagination to use cloud computing to collect data, store, and work out results. Therefore, there has been a move towards mobile communication and edge computing. Billions of devices have been connected to the Internet and created zettabytes of data items. The problem remains on how to extract information from collected data best.  
-
-
-The use of Artificial Intelligence, machine learning, neural network, and data analytic techniques in edge processing resulted in a new inter-disciplinary field that enables distributed intelligence with edge devices and is known as distributed edge AI or edge intelligence. However, research on edge AI and distributed edge AI is still relatively new, and thus models, techniques, and protocols supporting intelligent management, querying and mining of large-scale amounts of data produced at the edge are required. A lot of challenges related to providing edge intelligence include training edge devices, so they can become smarter and smarter. There is also a need of the presentation of the most recent outcome of research of distributed intelligence. This need could be illustrated by a smart city that contains for instance: garages, parkings, car washing systems, traffic unloading centrals etc. – usually belonging to different companies and running different protocols. A most likely scenario is that these devices could use different AI systems to support their activities. However, all of them are parts of one interconnected smart city; different AI systems must cooperate for common goal(s). Thus, we need distributed intelligence. Examples and different AI systems working for different edges could be multiplied; they support a variety of edges. All want to make money, kick competitors from the market out, and grab their systems. Furthermore, there is an emphasis on creating better software and algorithms that can run efficiently on resource-constrained devices. Moreover, purpose-built hardware at the edge is becoming increasingly important in the field of machine learning because companies can run software much more efficiently if they use specialized chips. Another key challenge of distributed edge AI will be the continued improvement of user interfaces that are used to communicate with other humans, including text, voice, vision, and different forms of body language.  
-
-
-These only are some of the challenges of edge intelligence. This field is expected to arise in the upcoming years and become an essential part of the next generation of the Internet of Things that expands its reach into almost every domain. Therefore, this Special Issue seeks to identify and provide high-quality research on recent advances on edge AI and distributed edge AI. We are interested in all aspects pertaining to this multidisciplinary paradigm.  
-
-
-
-
-TOPICS OF INTEREST  
-Topics of interest include, but are not limited to, the following:  
-
-
-· Distributed Intelligence at the Edge  
-· Modeling and Development of IoT applications using Edge AI  
-· Distributed AI with/for Secure Edge Networking  
-· Machine-Learning Algorithms for IoT Applications  
-· Optimization, Control, And Automation in Edge Computing for IoT  
-· Secure Intelligent IoT-Edge Systems  
-· Secure Intelligent Coordination and Networking Between IoT, Edge, and Cloud  
-· AI-Based Resource Allocation in IoT-Edge Systems  
-· Trust and Privacy Management in Intelligent IoT-Edge Systems  
-· Quality of Service and Energy Efficiency for Intelligent IoT-Edge Systems  
-· Data Mining and Big Data Analytics for Security and Resource Management in IoT-Edge Systems  
-· Distributed Ledger Technologies and Blockchain in IoT Environments  
-
-
-SUBMISSION GUIDELINES  
-Original, high-quality contributions that are not yet published or that are not currently under review by other journals or peer-reviewed conferences are sought. Papers will be peer-reviewed by independent reviewers and selected based on originality, scientific quality, and relevance to this Special Issue. The Guest Editors will make final decisions about the acceptance of the papers.  
-Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the Journal of Parallel and Distributed Computing.  
-
-
-
-
-GUEST EDITORS  
-
-
-Andrzej Goscinski  
-Deakin University, Australia  
-andrzej.goscinski@deakin.edu.au  
-
-
-Flavia C. Delicato  
-Fluminense Federal University, Brazil  
-fdelicato@gmail.com or fdelicato@ic.uff.br  
-
-
-Anna Kobusińska  
-Poznań University of Technology, Poland  
-Anna.kobusinka@cs.put.poznan.pl  
-
-
-Gautam Srivastava  
-Brandon University, Canada  
-srivastavag@brandonu.ca  
-
-
-Giancarlo Fortino  
-University of Calabria, Italy  
-g.fortino@unical.it  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (iee.comp.mag)home.globalization  (2021-05-31) <span id="09426f8149"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Please let us know if you are considering to submit a paper.  
-
-
-=======================  
-IEEE Security & Privacy  
-=======================  
-
-
-Call for Papers: Special Issue on Security and Privacy Issues of Home  
-Globalization  
-
-
-In recent years, people have been reshaping their homes into smart homes  
-by using a wide array of home-based Internet of Things (IoT) devices,  
-including inter-connected lights, locks, sensors, actuators, wearables,  
-and appliances accessible through the Internet and controlled locally  
-(e.g., via voice) or remotely (e.g., via mobile phone). These smart home  
-devices are complemented by laptops, mobile phones, game consoles,  
-electronical health equipment, and many other consumer IoT nodes, which  
-are constantly used at home for work, pleasure, health, and  
-entertainment, just to mention the most common purposes. The emerging  
-pervasiveness of IoT technologies is transforming homes into globalized  
-homes in which devices supporting everyday activities can be accessed  
-from anywhere. Although home globalization has its benefits, it also  
-covertly renders homes more insecure and less private places where  
-individuals are exposed to more and more varying threats from the  
-outside world.  
-
-
-Despite the benefits, home globalization and the used technologies have  
-led to many security threats and privacy breaches. In fact, home-based  
-IoT technologies at the basis of globalized homes are becoming prone to  
-abuses including adaptations of well-known cyber-attacks leveraging the  
-variety of data and devices populating modern apartments and houses. In  
-addition, both home-based and consumer IoT frameworks collect and manage  
-information that is tightly coupled with the everyday life of  
-individuals and can thus be considered a source of sensitive data that  
-is of interest for profiling or reconnaissance attempts. Therefore, the  
-resulting home globalization requires us to face new threats and risks  
-leading to different challenges. In fact, modern homes are  
-technologically balkanized with services provided via different  
-technologies (IEEE 802.15.4, home/consumer IoT, voice-based assistants)  
-and by multiple vendors (device and software) often by using a cloud- or  
-fog-based scheme. Additional challenges stem from the relatively covert  
-introduction of new risks during home globalization, as people tend to  
-put more focus on functionalities of new smart devices than the security  
-and privacy implications of their use. In this perspective, enforcing  
-security and privacy in such a scenario requires rethinking and  
-developing new defenses and solutions, as well as addressing new social  
-challenges for law enforcement agencies, policy makers, and forensics  
-professionals.  
-
-
-This special issue aims at collecting the most relevant ongoing research  
-efforts in the security and privacy field concerning home globalization.  
-Topics include, but are not limited to:  
-
-
-- Security management of home-based and consumer IoT  
-- Network security of globalized homes  
-- Adoption of cybersecurity measures in globalized homes, including  
-child safety  
-- Surveillance, interception, blocking, and sovereignty in home-based  
-IoT environments  
-- De-anonymization, AI-based social inference, integrity, and privacy leaks  
-- Stealth communication, information hiding threats, and their detection  
-in home-based IoT environments  
-- Cybercrime investigation, law, jurisdiction, and ethics in home-based  
-IoT environments  
-
-
-=======================  
-Important Dates  
-
-
-Submissions due: 31 May 2021  
-First review complete: 30 June 2021  
-Acceptance notification: 25 September 2021  
-Camera-ready version: 15 October 2021  
-Publication: January/February 2022  
-Submission Guidelines  
-=======================  
-
-
-Original and high-quality contributions that have not yet been published  
-and are not currently under review by other journals or peer-reviewed  
-conferences are sought. The submitted papers should be formatted  
-according to the journal style. For more detailed information concerning  
-the requirements for submission, please refer to the journal’s Author  
-Information webpage:  
-
-
-[https://www.computer.org/csdl/magazine/sp/write-for-us/14680?title=Author%20Information&periodical=IEEE%20Security%20%26%20Privacy](https://www.computer.org/csdl/magazine/sp/write-for-us/14680?title=Author%20Information&periodical=IEEE%20Security%20%26%20Privacy)  
-
-
-All manuscripts and any supplementary material should be submitted  
-through the online submission system. During the submission process,  
-authors should select the special-issue option “Security and Privacy  
-Issues of Home Globalization.” All papers will be rigorously reviewed  
-based on their originality, high scientific quality, organization,  
-clarity of writing, conclusions, and relevance to this special issue.  
-The manuscripts will be accepted or rejected in line with the usual  
-standards of the journal.  
-Guest Editors  
-
-
-Contact the guest editors at sp1-22@computer.org.  
-
-
-- Luca Caviglione, IMATI, National Research Council of Italy, Italy  
-- Steffen Wendzel, Worms University of Applied Sciences & Fraunhofer  
-FKIE, Germany  
-- Simon Vrhovec, University of Maribor, Slovenia  
-- Aleksandra Mileva, University Goce Delcev, Republic of N. Macedonia  
---  
-Simon Vrhovec  
-EICC Steering Committee  
-[https://simvrh.wordpress.com/](https://simvrh.wordpress.com/)  
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## (mdpi)IoV  (2021-05-31) <span id="1b0148efd3"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-=====================  
-
-
-MDPI-Special Issue on Advances in Vehicular Communications,  
-
-
-Networking and Systems  
-
-
-
-
-
-
-Professor Alexey Vinel from Halmstad University in Sweden, a pioneer in vehicular networking, and Dr Glenford Mapp from Middlesex University in London, United Kingdom, have been asked to be Guest Editors of a Special Issue of the MDPI Future Internet journal on Advances in Vehicular Communications, Networking, and Systems. Topics of interest include, but are not limited to, the following:  
-
-
-
-
-
-
-Vehicular Communication Technologies:  
-
-
-5G and 802.11p; Cloud-RAN and SDRAN; heterogeneous communication systems; propagation models; backhaul systems; future technologies for vehicular systems, including 6G, 802.11bd, Li-Fi, UAV platforms, and low-orbiting satellite systems.  
-
-
-
-
-
-
-Vehicular Networking:  
-
-
-Vehicle networking architectures, network programming paradigms, network slicing, new network and transport protocols, AI and machine learning algorithms, internet of vehicles, analytical models, and testbeds for vehicular systems.  
-
-
-
-
-
-
-Vehicular Systems:  
-
-
-Vehicular edge clouds, orchestration, mobile services, end-to-end quality-of-service guarantees, security and privacy issues, trust and reputation models, service management and application frameworks, digital twin technologies, smart transport, social internet of vehicles, new types of CAVs, applications, and services, and business and economic transportation models.  
-
-
-
-
-
-
-Details at [https://www.mdpi.com/journal/futureinternet/special_issues/A_VCN_S.](https://www.mdpi.com/journal/futureinternet/special_issues/A_VCN_S.)  
-
-
-
-
-
-
-As you can see, we are inviting submissions from several research areas. If you have research that you think can be published in this Special Issue, we would welcome your participation.  
-
-
-
-
-
-
-The deadline for manuscript submissions is 20 July 2021.  
-
-
-
-
-
-
-Alexey Vinel and Glenford Mapp  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (springerbook)GreenSmartCities  (2021-05-31) <span id="c77441c432"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Dear colleague,  
-
-
-We are editing a Springer Book entitled “Computational Intelligence Techniques for Green Smart Cities”. The Book will be indexed by Scopus and ISI.  
-
-
-I cordially invite you to contribute a chapter. The full chapter is due later this year but for now, I will just need the following:  
-
-
-- Author List  
-- Chapter Title  
-- Abstract (between 2 and 6 sentences)  
-
-
-The last deadline to submit your short abstract directly at lahby@ieee.org is May, 31th, 2021  
-
-
-The tentative structure of the book is mentioned below:  
-
-
-PART 1: Green Smart Education  
-
-
-Chapter 1. Machine learning for green smart education  
-
-
-Chapter 2. Deep learning for green smart education  
-
-
-Chapter 3. Evolutionary algorithms for green smart education  
-
-
-Chapter 4. Green Smart learning solutions for combating Covid-19  
-
-
-
-
-
-
-PART 2: Green Smart Health  
-
-
-Chapter 5. Machine learning for green smart health  
-
-
-Chapter 6. Deep learning for green smart health  
-
-
-Chapter 7. Evolutionary algorithms for green smart health  
-
-
-Chapter 8. Green Smart health solutions for combating Covid-19  
-
-
-
-
-
-
-PART 3: Green Smart transportation  
-
-
-Chapter 9. Machine learning for green smart transportation  
-
-
-Chapter 10. Deep learning for green smart transportation  
-
-
-Chapter 11. Evolutionary algorithms for green smart transportation  
-
-
-Chapter 12. Green Smart transportation solutions for combating Covid-19  
-
-
-
-
-
-
-PART 4: Green Smart Environment  
-
-
-Chapter 13. Machine learning for green smart environment  
-
-
-Chapter 14. Deep learning for green smart environment  
-
-
-Chapter 15. Evolutionary algorithms for green smart environment  
-
-
-Chapter 16. Green Smart environment solutions for combating Covid-19  
-
-
-
-
-
-
-Looking forward to hearing from you soon. Feel free to share with your network as well.  
-
-
-Regards  
-
-
-
-
---  
-
-
-
-
-
-
-Dr. M.Lahby  
-
-
-Laboratory of Mathematics and Applications, University Hassan II, Ecole Normale Supérieure (ENS) Casablanca, Morocco  
-
-
-mlahby@gmail.com  
-
-
-GSM : +212 6 65 29 23 76  
-In the world of Linux, who needs Windows and Gates  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (J)MDPI.IoV  (2021-05-31) <span id="8f6f661b67"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Apologies if you received multiple cross-postings of this CFP  
--------------------------------------------------------------------------------  
-
-
-
-
-
-
-****************************************************************************  
-
-
-
-
-
-
-Call for Papers - MDPI's Electronics (Impact Factor: 2.412)  
-
-
-
-
-
-
-"Special Issue on Recent Advances in Internet of Vehicles"  
-
-
-Deadline: May 31, 2021  
-
-
-[https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles](https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles)  
-
-
-
-
-****************************************************************************  
-
-
-
-
-
-
-Summary  
-
-
-
-
-
-
-Recent considerable advancements in the emerging yet promising paradigm of the Internet of Things (IoT) and its convergence with the state-of-the-art wireless communication technologies has led to the evolution of conventional vehicular ad hoc networks into the Internet of Vehicles (IoV). IoV is primarily an amalgamation of a variety of network entities, i.e., vehicles, vulnerable pedestrians, and supporting roadside infrastructure, and act as a dynamic communication system for facilitating real-time efficient information sharing among these entities in order to guarantee safer navigation and intelligent traffic management. This not only entails vehicle-to-vehicle communication but also takes into consideration vehicle-to-human, vehicle-to-road, and vehicle-to-sensor interactions. Hence, recently, the notion of IoV is being explored by researchers and scientists from both academia and industry, nevertheless, significant developments from a wide variety of technological facets still need to be materialized so as to unleash the true potential of IoV in the realm of intelligent transportation system which itself is integral to the evolution of futuristic smart and connected cities.  
-
-
-
-
-This special issue, accordingly, welcome original contributions so as to bring forth the state-of-the-art advancements in the IoV landscape. Both high-quality survey and technical contributions are welcome for this special issue.  
-
-
-
-
-
-
-Topics include but are not limited to:  
-
-
-
-
-
-
-Promising architectures and protocols for IoV  
-Emerging communication technologies for IoV (DSRC, mmWave, Terahertz, etc.)  
-Security and privacy issues in IoV  
-Machine learning-based techniques/algorithms for IoV  
-Software-defined approaches in IoV  
-Blockchain-enabled IoV  
-Trust and reputation management in IoV  
-Leveraging fog and edge computing in IoV  
-Intelligent resource management in IoV  
-Quality-of-service and quality-of-experience in IoV  
-Social IoV  
-Big data analytics in IoV  
-Autonomic service delivery in IoV  
-Testbed and simulation tools for IoV  
-
-
-
-
-Keywords  
-
-
-
-
-
-
-Internet of Vehicles, Heterogeneous Wireless Networks, Software-defined Networking, Intelligent Resource Management, Big Data Analytics, Security & Privacy, and Quality-of-Service.  
-
-
-
-
-Submission Instructions  
-
-
-For detailed submission instructions, please visit [https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles.](https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles.)  
-
-
-In case of any questions, please feel free to contact the Guest Editors.  
-
-
-Best Regards,  
-Prof. Dr. Michael Sheng*, Assoc. Prof. Dr. Jian Yu**, and Adnan Mahmood* (Guest Editors)  
-*Department of Computing, Macquarie University, Sydney, NSW 2109, Australia.  
-**Department of Computer Science, Auckland University of Technology, Auckland, 1010, New Zealand.  
-
-
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (J)Elsevier.intelligent.for.fog.paralell.distributed  (2021-05-31) <span id="263a77bcdc"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-CALL FOR PAPERS  
-
-
-Special Issue on  
-
-
-DISTRIBUTED INTELLIGENCE AT THE EDGE FOR THE FUTURE INTERNET OF THINGS -  
-
-
-JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING  
-
-
-WEBSITE:  
-[https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future)  
-
-
-
-
-IMPOTRANT DATES:  
-
-
-Submission open: 28-Feb-2021  
-Submission deadline: 31-May-2021  
-Acceptance deadline: 31-Oct-2021  
-Publication: late 2021  
-
-
-SCOPE:  
-Currently and even more in the future, business, industry, finance and retail, healthcare, media, entertainment and many others, are and will be completely managed, coordinated, and controlled using huge amounts of data. These operations are performed by the Internet of Things (IoT) system of connected computing, digital, and mechanical devices, all of them named using unique identifiers (UIDs) and able to transfer data over a network without human intervention.  
-
-
-To extract value from such massive data volumes, processing power offered by cloud computing is still utilized. However, streaming data to the cloud exposes some limitations related to the increased communication and data transfer, which introduces delays and consumes network bandwidth. Another limitation that cloud-based computing for IoT poses is limited network connectivity. Therefore, the adoption of cloud computing to process data generated by IoT devices may not be applicable at all to classes of applications such as those needed for real-time, low latency, and mobile applications. Therefore, it is beyond imagination to use cloud computing to collect data, store, and work out results. Therefore, there has been a move towards mobile communication and edge computing. Billions of devices have been connected to the Internet and created zettabytes of data items. The problem remains on how to extract information from collected data best.  
-
-
-The use of Artificial Intelligence, machine learning, neural network, and data analytic techniques in edge processing resulted in a new inter-disciplinary field that enables distributed intelligence with edge devices and is known as distributed edge AI or edge intelligence. However, research on edge AI and distributed edge AI is still relatively new, and thus models, techniques, and protocols supporting intelligent management, querying and mining of large-scale amounts of data produced at the edge are required. A lot of challenges related to providing edge intelligence include training edge devices, so they can become smarter and smarter. There is also a need of the presentation of the most recent outcome of research of distributed intelligence. This need could be illustrated by a smart city that contains for instance: garages, parkings, car washing systems, traffic unloading centrals etc. – usually belonging to different companies and running different protocols. A most likely scenario is that these devices could use different AI systems to support their activities. However, all of them are parts of one interconnected smart city; different AI systems must cooperate for common goal(s). Thus, we need distributed intelligence. Examples and different AI systems working for different edges could be multiplied; they support a variety of edges. All want to make money, kick competitors from the market out, and grab their systems. Furthermore, there is an emphasis on creating better software and algorithms that can run efficiently on resource-constrained devices. Moreover, purpose-built hardware at the edge is becoming increasingly important in the field of machine learning because companies can run software much more efficiently if they use specialized chips. Another key challenge of distributed edge AI will be the continued improvement of user interfaces that are used to communicate with other humans, including text, voice, vision, and different forms of body language.  
-
-
-These only are some of the challenges of edge intelligence. This field is expected to arise in the upcoming years and become an essential part of the next generation of the Internet of Things that expands its reach into almost every domain. Therefore, this Special Issue seeks to identify and provide high-quality research on recent advances on edge AI and distributed edge AI. We are interested in all aspects pertaining to this multidisciplinary paradigm.  
-
-
-
-
-TOPICS OF INTEREST  
-Topics of interest include, but are not limited to, the following:  
-
-
-· Distributed Intelligence at the Edge  
-· Modeling and Development of IoT applications using Edge AI  
-· Distributed AI with/for Secure Edge Networking  
-· Machine-Learning Algorithms for IoT Applications  
-· Optimization, Control, And Automation in Edge Computing for IoT  
-· Secure Intelligent IoT-Edge Systems  
-· Secure Intelligent Coordination and Networking Between IoT, Edge, and Cloud  
-· AI-Based Resource Allocation in IoT-Edge Systems  
-· Trust and Privacy Management in Intelligent IoT-Edge Systems  
-· Quality of Service and Energy Efficiency for Intelligent IoT-Edge Systems  
-· Data Mining and Big Data Analytics for Security and Resource Management in IoT-Edge Systems  
-· Distributed Ledger Technologies and Blockchain in IoT Environments  
-
-
-SUBMISSION GUIDELINES  
-Original, high-quality contributions that are not yet published or that are not currently under review by other journals or peer-reviewed conferences are sought. Papers will be peer-reviewed by independent reviewers and selected based on originality, scientific quality, and relevance to this Special Issue. The Guest Editors will make final decisions about the acceptance of the papers.  
-Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the Journal of Parallel and Distributed Computing.  
-
-
-
-
-GUEST EDITORS  
-
-
-Andrzej Goscinski  
-Deakin University, Australia  
-andrzej.goscinski@deakin.edu.au  
-
-
-Flavia C. Delicato  
-Fluminense Federal University, Brazil  
-fdelicato@gmail.com or fdelicato@ic.uff.br  
-
-
-Anna Kobusińska  
-Poznań University of Technology, Poland  
-Anna.kobusinka@cs.put.poznan.pl  
-
-
-Gautam Srivastava  
-Brandon University, Canada  
-srivastavag@brandonu.ca  
-
-
-Giancarlo Fortino  
-University of Calabria, Italy  
-g.fortino@unical.it  
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (springerbook)GreenSmartCiteis  (2021-05-31) <span id="1db799b88f"></span> <span style="color:#666;">[→top](#top)</span>
 
 
 
@@ -2528,6 +1223,1365 @@ Mehmet Ulema, Manhattan College, USA
 
 
 
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (J)MDPI.IoV  (2021-05-31) <span id="8f6f661b67"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+Apologies if you received multiple cross-postings of this CFP  
+-------------------------------------------------------------------------------  
+
+
+
+
+
+
+****************************************************************************  
+
+
+
+
+
+
+Call for Papers - MDPI's Electronics (Impact Factor: 2.412)  
+
+
+
+
+
+
+"Special Issue on Recent Advances in Internet of Vehicles"  
+
+
+Deadline: May 31, 2021  
+
+
+[https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles](https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles)  
+
+
+
+
+****************************************************************************  
+
+
+
+
+
+
+Summary  
+
+
+
+
+
+
+Recent considerable advancements in the emerging yet promising paradigm of the Internet of Things (IoT) and its convergence with the state-of-the-art wireless communication technologies has led to the evolution of conventional vehicular ad hoc networks into the Internet of Vehicles (IoV). IoV is primarily an amalgamation of a variety of network entities, i.e., vehicles, vulnerable pedestrians, and supporting roadside infrastructure, and act as a dynamic communication system for facilitating real-time efficient information sharing among these entities in order to guarantee safer navigation and intelligent traffic management. This not only entails vehicle-to-vehicle communication but also takes into consideration vehicle-to-human, vehicle-to-road, and vehicle-to-sensor interactions. Hence, recently, the notion of IoV is being explored by researchers and scientists from both academia and industry, nevertheless, significant developments from a wide variety of technological facets still need to be materialized so as to unleash the true potential of IoV in the realm of intelligent transportation system which itself is integral to the evolution of futuristic smart and connected cities.  
+
+
+
+
+This special issue, accordingly, welcome original contributions so as to bring forth the state-of-the-art advancements in the IoV landscape. Both high-quality survey and technical contributions are welcome for this special issue.  
+
+
+
+
+
+
+Topics include but are not limited to:  
+
+
+
+
+
+
+Promising architectures and protocols for IoV  
+Emerging communication technologies for IoV (DSRC, mmWave, Terahertz, etc.)  
+Security and privacy issues in IoV  
+Machine learning-based techniques/algorithms for IoV  
+Software-defined approaches in IoV  
+Blockchain-enabled IoV  
+Trust and reputation management in IoV  
+Leveraging fog and edge computing in IoV  
+Intelligent resource management in IoV  
+Quality-of-service and quality-of-experience in IoV  
+Social IoV  
+Big data analytics in IoV  
+Autonomic service delivery in IoV  
+Testbed and simulation tools for IoV  
+
+
+
+
+Keywords  
+
+
+
+
+
+
+Internet of Vehicles, Heterogeneous Wireless Networks, Software-defined Networking, Intelligent Resource Management, Big Data Analytics, Security & Privacy, and Quality-of-Service.  
+
+
+
+
+Submission Instructions  
+
+
+For detailed submission instructions, please visit [https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles.](https://www.mdpi.com/journal/electronics/special_issues/Internet_of_Vehicles.)  
+
+
+In case of any questions, please feel free to contact the Guest Editors.  
+
+
+Best Regards,  
+Prof. Dr. Michael Sheng*, Assoc. Prof. Dr. Jian Yu**, and Adnan Mahmood* (Guest Editors)  
+*Department of Computing, Macquarie University, Sydney, NSW 2109, Australia.  
+**Department of Computer Science, Auckland University of Technology, Auckland, 1010, New Zealand.  
+
+
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (J)Elsevier.intelligent.for.fog.paralell.distributed  (2021-05-31) <span id="263a77bcdc"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+CALL FOR PAPERS  
+
+
+Special Issue on  
+
+
+DISTRIBUTED INTELLIGENCE AT THE EDGE FOR THE FUTURE INTERNET OF THINGS -  
+
+
+JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING  
+
+
+WEBSITE:  
+[https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future)  
+
+
+
+
+IMPOTRANT DATES:  
+
+
+Submission open: 28-Feb-2021  
+Submission deadline: 31-May-2021  
+Acceptance deadline: 31-Oct-2021  
+Publication: late 2021  
+
+
+SCOPE:  
+Currently and even more in the future, business, industry, finance and retail, healthcare, media, entertainment and many others, are and will be completely managed, coordinated, and controlled using huge amounts of data. These operations are performed by the Internet of Things (IoT) system of connected computing, digital, and mechanical devices, all of them named using unique identifiers (UIDs) and able to transfer data over a network without human intervention.  
+
+
+To extract value from such massive data volumes, processing power offered by cloud computing is still utilized. However, streaming data to the cloud exposes some limitations related to the increased communication and data transfer, which introduces delays and consumes network bandwidth. Another limitation that cloud-based computing for IoT poses is limited network connectivity. Therefore, the adoption of cloud computing to process data generated by IoT devices may not be applicable at all to classes of applications such as those needed for real-time, low latency, and mobile applications. Therefore, it is beyond imagination to use cloud computing to collect data, store, and work out results. Therefore, there has been a move towards mobile communication and edge computing. Billions of devices have been connected to the Internet and created zettabytes of data items. The problem remains on how to extract information from collected data best.  
+
+
+The use of Artificial Intelligence, machine learning, neural network, and data analytic techniques in edge processing resulted in a new inter-disciplinary field that enables distributed intelligence with edge devices and is known as distributed edge AI or edge intelligence. However, research on edge AI and distributed edge AI is still relatively new, and thus models, techniques, and protocols supporting intelligent management, querying and mining of large-scale amounts of data produced at the edge are required. A lot of challenges related to providing edge intelligence include training edge devices, so they can become smarter and smarter. There is also a need of the presentation of the most recent outcome of research of distributed intelligence. This need could be illustrated by a smart city that contains for instance: garages, parkings, car washing systems, traffic unloading centrals etc. – usually belonging to different companies and running different protocols. A most likely scenario is that these devices could use different AI systems to support their activities. However, all of them are parts of one interconnected smart city; different AI systems must cooperate for common goal(s). Thus, we need distributed intelligence. Examples and different AI systems working for different edges could be multiplied; they support a variety of edges. All want to make money, kick competitors from the market out, and grab their systems. Furthermore, there is an emphasis on creating better software and algorithms that can run efficiently on resource-constrained devices. Moreover, purpose-built hardware at the edge is becoming increasingly important in the field of machine learning because companies can run software much more efficiently if they use specialized chips. Another key challenge of distributed edge AI will be the continued improvement of user interfaces that are used to communicate with other humans, including text, voice, vision, and different forms of body language.  
+
+
+These only are some of the challenges of edge intelligence. This field is expected to arise in the upcoming years and become an essential part of the next generation of the Internet of Things that expands its reach into almost every domain. Therefore, this Special Issue seeks to identify and provide high-quality research on recent advances on edge AI and distributed edge AI. We are interested in all aspects pertaining to this multidisciplinary paradigm.  
+
+
+
+
+TOPICS OF INTEREST  
+Topics of interest include, but are not limited to, the following:  
+
+
+· Distributed Intelligence at the Edge  
+· Modeling and Development of IoT applications using Edge AI  
+· Distributed AI with/for Secure Edge Networking  
+· Machine-Learning Algorithms for IoT Applications  
+· Optimization, Control, And Automation in Edge Computing for IoT  
+· Secure Intelligent IoT-Edge Systems  
+· Secure Intelligent Coordination and Networking Between IoT, Edge, and Cloud  
+· AI-Based Resource Allocation in IoT-Edge Systems  
+· Trust and Privacy Management in Intelligent IoT-Edge Systems  
+· Quality of Service and Energy Efficiency for Intelligent IoT-Edge Systems  
+· Data Mining and Big Data Analytics for Security and Resource Management in IoT-Edge Systems  
+· Distributed Ledger Technologies and Blockchain in IoT Environments  
+
+
+SUBMISSION GUIDELINES  
+Original, high-quality contributions that are not yet published or that are not currently under review by other journals or peer-reviewed conferences are sought. Papers will be peer-reviewed by independent reviewers and selected based on originality, scientific quality, and relevance to this Special Issue. The Guest Editors will make final decisions about the acceptance of the papers.  
+Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the Journal of Parallel and Distributed Computing.  
+
+
+
+
+GUEST EDITORS  
+
+
+Andrzej Goscinski  
+Deakin University, Australia  
+andrzej.goscinski@deakin.edu.au  
+
+
+Flavia C. Delicato  
+Fluminense Federal University, Brazil  
+fdelicato@gmail.com or fdelicato@ic.uff.br  
+
+
+Anna Kobusińska  
+Poznań University of Technology, Poland  
+Anna.kobusinka@cs.put.poznan.pl  
+
+
+Gautam Srivastava  
+Brandon University, Canada  
+srivastavag@brandonu.ca  
+
+
+Giancarlo Fortino  
+University of Calabria, Italy  
+g.fortino@unical.it  
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (J)wiley.SPE.highperfcomp.apps  (2021-05-31) <span id="50b0d1de01"></span> <span style="color:#666;">[→top](#top)</span>
+
+Special Issue on:  
+New Trends in High Performance Computing: Software Systems and  
+Applications  
+Software: Practice and Experience (Wiley Press)  
+
+
+[https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf](https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf)  
+
+
+Submission due: May 31, 2021  
+
+
+High performance computing (HPC) offers the computing power to  
+continuously support  
+the world’s most important discoveries in various scientific and  
+business domains such  
+as chemistry, physics, biology, material science, drug discovery and  
+financial  
+investment risk analysis. The exascale computing era is soon coming. A  
+number of  
+exaflops-capable supercomputers are scheduled to be fully operational in  
+the time  
+frame of 2021 and 2022. Researchers from across the HPC community are  
+developing  
+software systems, tools, libraries, frameworks, application packages,  
+and methods that  
+can fully exploit these extremely powerful computing resources.  
+
+
+Extreme-scale computing will enable the solution of vastly more accurate  
+predictive  
+models and the analysis of massive quantities of data, producing quantum  
+advances in  
+areas of science and technology that are essential to the scientific  
+community. New  
+computational approaches such as machine learning/deep learning have  
+also been  
+heavily explored in recent years and shown promising evidence for many  
+problems that  
+cannot be resolved by traditional computational simulation and  
+engineering. Training  
+deep neural networks with massive data is an extremely computing  
+intensive task that  
+heavily relies on the HPC power. The upcoming exascale computing era  
+will be the  
+essential basis for supporting new innovations in machine learning/deep  
+learning based  
+exploration and lead to new sciences in directions such as smart  
+manufacturing,  
+laboratory-automation, and automatic programming.  
+
+
+While the hardware architecture can generate extreme computing power,  
+renovation in  
+software stack plays the essential role for effective performance  
+delivery. The exascale  
+and pre-exascale systems such as Aurora, Frontier, El Capitan and LUMI  
+continue to  
+move into the heterogeneous space, while the current fastest ARM-based  
+system,  
+Fugaku and the many core Sunway Taihulight type of systems are marching  
+towards  
+the heterogeneous space. With systems equipped with GPUs, ARM SVEs and many  
+cores, there is a dire need for innovative software frameworks that can  
+seamlessly  
+migrate scientific code to these systems equipped with rich compute  
+resources. We  
+need innovation at different levels including compiler tools and  
+techniques, performance  
+analysis tools, novel abstractions at the programming model, redesign of  
+application-level  
+algorithms and so on. Furthermore, co-design of applications and  
+low-level software  
+frameworks can lead to more efficient use of the opportunities of  
+exascale in many contexts.  
+
+
+Topics of interests include but are not limited to:  
+
+
++ HPC for AI and AI for HPC  
+- AI/ML/DL performance optimizations at applications or system frameworks  
+levels on HPC systems  
+- Innovations of system, compiler, language, debugging and profiling tools  
+for parallel AI/ML/DL  
+- Performance modeling for AI/ML/DL applications  
+- Visualization for parallel AI/ML/DL  
+- AI/ML/DL driven approaches for scientific computing and performance  
+optimization at scale  
+
+
++ Programming Challenges in HPC  
+- Exposing parallelism at different levels including application,  
+architecture,  
+system and algorithmic level  
+- Enabling combinations of multi physics models and capabilities  
+- Adopting novel algorithmic/mathematical approaches  
+- Developing portable applications yet preserving performance  
+- Exploring programming extensions and auto-vectorization capabilities  
+- Exploration of application and system software co-design for addressing  
+performance challenges  
+- Programming language and compilation techniques for reducing energy  
+and data movement  
+
+
++ HPC Systems Software and Middleware  
+- System software support for data management  
+- Scalable data analytics  
+- System software for resource management  
+- Fault tolerance techniques and implementations  
+- Synchronization and concurrency control  
+
+
++ HPC Performance Measurement and Modeling  
+- Scalable tools and instrumentation infrastructure for measurement,  
+monitoring, and/or visualization of performance  
+- Workload characterization and benchmarking techniques  
+- Novel and broadly applicable performance optimization techniques  
+
+
++ HPC Applications  
+- Computational science and scalable methods  
+- Using HPC for scalable multi-scale, multi-physics, and high-fidelity  
+computational science  
+- Structured and unstructured meshes using extreme scale computing  
+- Computational biology, earth sciences, cosmology, fluid dynamics, plasma  
+modeling among others  
+
+
+Important Dates  
+- Submission: May 31, 2021  
+- Notification: July 31, 2021  
+- Revision due: Aug 20, 2021  
+- Notification of final acceptance: Sept 20, 2021  
+- Final revised paper due: October 15, 2021  
+
+
+Special Issue Paper Submission  
+Submission site:  
+[https://mc.manuscriptcentral.com/spe](https://mc.manuscriptcentral.com/spe)  
+Please see detailed guidance at the online Call For Paper:  
+[https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf](https://onlinelibrary.wiley.com/pb-assets/assets/page/journal/1097024x/SPE-SI-HPC-1607014410373.pdf)  
+
+
+
+
+Guest Editors  
+Sunita Chandrasekaran  
+University of Delaware, USA  
+Email: schandra@udel.edu  
+
+
+Min Si  
+Argonne National Laboratory, USA  
+Email: msi@anl.gov  
+
+
+Jidong Zhai  
+Tsinghua University, China  
+Email: zhaijidong@tsinghua.edu.cn  
+
+
+Lena Oden  
+University of Hagen, Germany  
+Email: lena.oden@fernuni-hagen.de  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (J)Elsevier.edge.future.IoT  (2021-05-31) <span id="27e0cf2c69"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+CALL FOR PAPERS  
+
+
+Special Issue on  
+
+
+DISTRIBUTED INTELLIGENCE AT THE EDGE FOR THE FUTURE INTERNET OF THINGS -  
+
+
+JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING  
+
+
+WEBSITE:  
+[https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future)  
+
+
+
+
+IMPOTRANT DATES:  
+
+
+Submission deadline: 31-May-2021  
+Acceptance deadline: 31-Oct-2021  
+Publication: late 2021  
+
+
+SCOPE:  
+Currently and even more in the future, business, industry, finance and retail, healthcare, media, entertainment and many others, are and will be completely managed, coordinated, and controlled using huge amounts of data. These operations are performed by the Internet of Things (IoT) system of connected computing, digital, and mechanical devices, all of them named using unique identifiers (UIDs) and able to transfer data over a network without human intervention.  
+
+
+To extract value from such massive data volumes, processing power offered by cloud computing is still utilized. However, streaming data to the cloud exposes some limitations related to the increased communication and data transfer, which introduces delays and consumes network bandwidth. Another limitation that cloud-based computing for IoT poses is limited network connectivity. Therefore, the adoption of cloud computing to process data generated by IoT devices may not be applicable at all to classes of applications such as those needed for real-time, low latency, and mobile applications. Therefore, it is beyond imagination to use cloud computing to collect data, store, and work out results. Therefore, there has been a move towards mobile communication and edge computing. Billions of devices have been connected to the Internet and created zettabytes of data items. The problem remains on how to extract information from collected data best.  
+
+
+The use of Artificial Intelligence, machine learning, neural network, and data analytic techniques in edge processing resulted in a new inter-disciplinary field that enables distributed intelligence with edge devices and is known as distributed edge AI or edge intelligence. However, research on edge AI and distributed edge AI is still relatively new, and thus models, techniques, and protocols supporting intelligent management, querying and mining of large-scale amounts of data produced at the edge are required. A lot of challenges related to providing edge intelligence include training edge devices, so they can become smarter and smarter. There is also a need of the presentation of the most recent outcome of research of distributed intelligence. This need could be illustrated by a smart city that contains for instance: garages, parkings, car washing systems, traffic unloading centrals etc. – usually belonging to different companies and running different protocols. A most likely scenario is that these devices could use different AI systems to support their activities. However, all of them are parts of one interconnected smart city; different AI systems must cooperate for common goal(s). Thus, we need distributed intelligence. Examples and different AI systems working for different edges could be multiplied; they support a variety of edges. All want to make money, kick competitors from the market out, and grab their systems. Furthermore, there is an emphasis on creating better software and algorithms that can run efficiently on resource-constrained devices. Moreover, purpose-built hardware at the edge is becoming increasingly important in the field of machine learning because companies can run software much more efficiently if they use specialized chips. Another key challenge of distributed edge AI will be the continued improvement of user interfaces that are used to communicate with other humans, including text, voice, vision, and different forms of body language.  
+
+
+These only are some of the challenges of edge intelligence. This field is expected to arise in the upcoming years and become an essential part of the next generation of the Internet of Things that expands its reach into almost every domain. Therefore, this Special Issue seeks to identify and provide high-quality research on recent advances on edge AI and distributed edge AI. We are interested in all aspects pertaining to this multidisciplinary paradigm.  
+
+
+
+
+TOPICS OF INTEREST  
+Topics of interest include, but are not limited to, the following:  
+
+
+· Distributed Intelligence at the Edge  
+· Modeling and Development of IoT applications using Edge AI  
+· Distributed AI with/for Secure Edge Networking  
+· Machine-Learning Algorithms for IoT Applications  
+· Optimization, Control, And Automation in Edge Computing for IoT  
+· Secure Intelligent IoT-Edge Systems  
+· Secure Intelligent Coordination and Networking Between IoT, Edge, and Cloud  
+· AI-Based Resource Allocation in IoT-Edge Systems  
+· Trust and Privacy Management in Intelligent IoT-Edge Systems  
+· Quality of Service and Energy Efficiency for Intelligent IoT-Edge Systems  
+· Data Mining and Big Data Analytics for Security and Resource Management in IoT-Edge Systems  
+· Distributed Ledger Technologies and Blockchain in IoT Environments  
+
+
+SUBMISSION GUIDELINES  
+Original, high-quality contributions that are not yet published or that are not currently under review by other journals or peer-reviewed conferences are sought. Papers will be peer-reviewed by independent reviewers and selected based on originality, scientific quality, and relevance to this Special Issue. The Guest Editors will make final decisions about the acceptance of the papers.  
+Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the Journal of Parallel and Distributed Computing.  
+
+
+
+
+GUEST EDITORS  
+
+
+Andrzej Goscinski  
+Deakin University, Australia  
+andrzej.goscinski@deakin.edu.au  
+
+
+Flavia C. Delicato  
+Fluminense Federal University, Brazil  
+fdelicato@gmail.com or fdelicato@ic.uff.br  
+
+
+Anna Kobusińska  
+Poznań University of Technology, Poland  
+Anna.kobusinka@cs.put.poznan.pl  
+
+
+Gautam Srivastava  
+Brandon University, Canada  
+srivastavag@brandonu.ca  
+
+
+Giancarlo Fortino  
+University of Calabria, Italy  
+g.fortino@unical.it  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## IEEE.ICS2.smartcities  (2021-05-31) <span id="7273a42852"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+The 7th IEEE International Smart Cities Conference (IEEE ISC2 2021) September 7-10, 2021 (Virtual Conference) [https://attend.ieee.org/isc2-2021/](https://attend.ieee.org/isc2-2021/)  
+
+
+
+
+
+
+Sponsored by  
+
+
+-------------  
+
+
+IEEE Smart Cities, IEEE, IEEE Communications Society IEEE Control Systems Society, IEEE Industry Applications Society IEEE Power & Energy Society, IEEE Systems, Man, and Cybernetics Society Council on Electronic Automation Design  
+
+
+
+
+
+
+IMPORTANT DATES  
+
+
+---------------  
+
+
+Paper Submission Deadline: May 31, 2021  
+
+
+Acceptance Notification: July 15, 2021  
+
+
+Camera-ready Deadline: July 31, 2021  
+
+
+
+
+
+
+------------------------------------------------------------  
+
+
+Submission link: [https://www.edas.info/newPaper.php?c=28313](https://www.edas.info/newPaper.php?c=28313)  
+
+
+------------------------------------------------------------  
+
+
+
+
+
+
+Please note that one AUTHOR Conference Registration covers up to TWO accepted papers.  
+
+
+
+
+
+
+The 7th IEEE International Smart Cities Conference (ISC2 2021) will be held as a virtual conference, during September 7-10, 2021.  
+
+
+The worldwide governmental restrictions on travel, gatherings, and meetings, imposed to limit and slow down the spread of the novel coronavirus, making it impossible to organize the conference in the traditional format. However, we are confident that the changes induced by the virus to our everyday lives, and the responses given to these new challenges by smart city researchers and practitioners, city policymakers and administrators, critical infrastructure operators and industry representatives, economists and sociologists will generate exciting and edifying presentations and discussions, both as part of our keynote addresses, panel debates, workshops or research talks. After all, one of the main reasons for making cities smarter and better should be to safely and efficiently support us, citizens, in such difficult times. Thus, the theme of the conference this year will be: Smart Cities — Post-pandemic vision and challenges.  
+
+
+
+
+
+
+IEEE ISC2 is the flagship conference sponsored by the IEEE Smart Cities Technical Community, a coalition of six IEEE technical societies and organizations. Besides contributions addressing the conference theme, authors are welcome to submit their original research results in traditional topics across broad application and functional domains, within the context of smart urban infrastructure systems.  
+
+
+
+
+
+
+The technical areas include, but are not limited to:  
+
+
+
+
+
+
+• Smart city theory, modeling and simulation • Intelligent infrastructure • Sensors and actuators • Open data and big data analytics • AI powered smart cities services • Safety and security systems • Smart healthcare • Smart emergency management • IoT and Smart X services • Data security and privacy • Connected Vehicle (CV) technologies • Unmanned Aerial Vehicles (UAVs) • Smart mobility and transportation • Smart energy systems • Smart buildings and Smart grid • Digital city and smart growth • Smart traffic system operations • Environmental monitoring technologies  
+
+
+
+
+
+
+The IEEE International Smart Cities Conference 2021 program will be split into the following tracks:  
+
+
+
+
+
+
+- Track 1: Smart Transportation  
+
+
+- Track 2: Smart Health and Wellbeing  
+
+
+- Track 3: Smart Energy Systems  
+
+
+- Track 4: IoT and Smart X Services  
+
+
+- Track 5: AI and Big Data  
+
+
+- Track 6: Security and Privacy  
+
+
+- Track 7: General Track  
+
+
+
+
+
+
+
+
+
+
+Submission Instructions:  
+
+
+------------------------  
+
+
+Prospective authors are invited to submit high quality original Full or Short papers via the EDAS submission site (https://www.edas.info/newPaper.php?c=28313).  
+
+
+Full papers should describe novel research contributions with evaluation results and are limited to 7 pages.  
+
+
+Short papers, limited in length to four (4) pages, should be more visionary in nature and are meant to discuss new challenges and visions, highlight early research results, and explore novel research directions.  
+
+
+
+
+
+
+All submitted papers must be unpublished and not considered elsewhere for publication should be written in English and formatted according to IEEE Template.  
+
+
+Each submitted paper will pass through the standard IEEE peer-review process and, if accepted and presented at the Conference, will appear in the conference proceedings and will be submitted for inclusion in the IEEE Xplore digital library. Paper contests will include a Conference Best Paper Award and a Best Student Paper Award.  
+
+
+
+
+
+
+Organizing Committee  
+
+
+--------------------  
+
+
+
+
+
+
+General Chairs  
+
+
+Soufiene Djahel, Manchester Metropolitan University, UK Yinhai Wang, University of Washington, USA  
+
+
+
+
+
+
+Technical Program Chairs  
+
+
+Celimuge Wu, The University of Electro-Communications, Japan Guohui Zhang, University of Hawaii at Manoa, USA  
+
+
+Ramona Trestian, Middlesex University, UK  
+
+
+
+
+
+
+Workshop Chairs  
+
+
+Rosaldo Rossetti, University of Porto, Portugal Nadjia Kara, Ecole de Technologies Superieure, Canada  
+
+
+
+
+
+
+Tutorial Chairs  
+
+
+Victor Larios, University of Guadalajara, Mexico Yassine Hadjadj-Aoul, University of Rennes 1, France  
+
+
+
+
+
+
+Panel Chairs  
+
+
+Delia Dimitriu, Connected Places Catapult, UK Alexey Vinel, Halmstad University, Sweden  
+
+
+
+
+
+
+Keynote Chairs  
+
+
+Yacine GHAMRI-DOUDANE, University of La Rochelle, France Zonghua Zhang, Huawei France Research Center, France  
+
+
+
+
+
+
+Publications Chairs  
+
+
+Chun Sing Lai, Brunel University London, UK  
+
+
+Avishek Nag, University College Dublin, Ireland  
+
+
+Ruimin Ke, University of Washington, USA  
+
+
+
+
+
+
+Publicity Chairs  
+
+
+Larissa Paredes Muse, Brazilian Network for Smart & Human Cities, USA (Americas) Sara Paiva, Polytechnic Institute of Viana do Castelo, Portugal (Europe) Intesab Hussain, QUEST, Pakistan (Asia-Pacific) Omar Mawloud, University of Gustave Eiffel, France (Africa and the Middle East)  
+
+
+
+
+
+
+Finance Chair  
+
+
+Emily Kean, ComEd, USA  
+
+
+
+
+
+
+Web Chair  
+
+
+Nelio Cacho, Federal University of Rio Grande do Notre, Brazil  
+
+
+
+
+
+
+Web Masters  
+
+
+Stefano Loss, Federal University of Rio Grande do Norte, Brazil  
+
+
+Jack Hodgkiss, Manchester Metropolitan University, UK  
+
+
+
+
+
+
+Technical Tracks  
+
+
+
+
+
+
+Track 1: Smart Transportation  
+
+
+Sidi-Mohammed Senouci, University of Burgundy, France Shen Wang, University College Dublin, Ireland Lei Zhong, Toyota Motor Corporation, Japan Hrishikesh Venkataraman, Indian Institute of Information Technology, India  
+
+
+
+
+
+
+Track 2: Smart Health and Wellbeing  
+
+
+Agusti Solanas, Universitat Rovira i Virgili, Spain  
+
+
+Giandomenico Nollo, University of Trento, Italy Saadi Boudjit, University of Paris Sorbonne, France Saraju Mohanty, University of North Texas, USA  
+
+
+
+
+
+
+Track 3: Smart Energy Systems  
+
+
+Miadreza Shafie-khah, University of Vaasa, Finland Youwei Jia, Southern University of Science and Technology, China Wang Dongxiao, Australia Energy Market Operator, Australia  
+
+
+
+
+
+
+Track 4: IoT and Smart X services  
+
+
+Yu Chen, Binghamton University, USA  
+
+
+Lexi Xu, China Unicom, China  
+
+
+Enrico Natalizio, The University of Lorraine, France  
+
+
+
+
+
+
+Track 5: AI and big data  
+
+
+Keeley Crockett, Manchester Metropolitan University, UK Xianfu Chen, VTT Technical Research Centre of Finland, Finland Kamal Singh, Telecom Saint Etienne, France  
+
+
+
+
+
+
+Track 6: Security and privacy  
+
+
+Burak Kantarci, University of Ottawa, Canada Prosanta Gope, University of Sheffield, UK  
+
+
+Madhusanka Liyanage, University College Dublin, Ireland  
+
+
+
+
+
+
+Track 7: General Track  
+
+
+Wei Fang, Jiangnan University, China  
+
+
+Giovanni Masala, Manchester Metropolitan University, UK  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (springerbook)GreenSmartCities  (2021-05-31) <span id="c77441c432"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+Dear colleague,  
+
+
+We are editing a Springer Book entitled “Computational Intelligence Techniques for Green Smart Cities”. The Book will be indexed by Scopus and ISI.  
+
+
+I cordially invite you to contribute a chapter. The full chapter is due later this year but for now, I will just need the following:  
+
+
+- Author List  
+- Chapter Title  
+- Abstract (between 2 and 6 sentences)  
+
+
+The last deadline to submit your short abstract directly at lahby@ieee.org is May, 31th, 2021  
+
+
+The tentative structure of the book is mentioned below:  
+
+
+PART 1: Green Smart Education  
+
+
+Chapter 1. Machine learning for green smart education  
+
+
+Chapter 2. Deep learning for green smart education  
+
+
+Chapter 3. Evolutionary algorithms for green smart education  
+
+
+Chapter 4. Green Smart learning solutions for combating Covid-19  
+
+
+
+
+
+
+PART 2: Green Smart Health  
+
+
+Chapter 5. Machine learning for green smart health  
+
+
+Chapter 6. Deep learning for green smart health  
+
+
+Chapter 7. Evolutionary algorithms for green smart health  
+
+
+Chapter 8. Green Smart health solutions for combating Covid-19  
+
+
+
+
+
+
+PART 3: Green Smart transportation  
+
+
+Chapter 9. Machine learning for green smart transportation  
+
+
+Chapter 10. Deep learning for green smart transportation  
+
+
+Chapter 11. Evolutionary algorithms for green smart transportation  
+
+
+Chapter 12. Green Smart transportation solutions for combating Covid-19  
+
+
+
+
+
+
+PART 4: Green Smart Environment  
+
+
+Chapter 13. Machine learning for green smart environment  
+
+
+Chapter 14. Deep learning for green smart environment  
+
+
+Chapter 15. Evolutionary algorithms for green smart environment  
+
+
+Chapter 16. Green Smart environment solutions for combating Covid-19  
+
+
+
+
+
+
+Looking forward to hearing from you soon. Feel free to share with your network as well.  
+
+
+Regards  
+
+
+
+
+--  
+
+
+
+
+
+
+Dr. M.Lahby  
+
+
+Laboratory of Mathematics and Applications, University Hassan II, Ecole Normale Supérieure (ENS) Casablanca, Morocco  
+
+
+mlahby@gmail.com  
+
+
+GSM : +212 6 65 29 23 76  
+In the world of Linux, who needs Windows and Gates  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (springerbook)GreenSmartCiteis  (2021-05-31) <span id="1db799b88f"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+=====================  
+
+
+MDPI-Special Issue on Advances in Vehicular Communications,  
+
+
+Networking and Systems  
+
+
+
+
+
+
+Professor Alexey Vinel from Halmstad University in Sweden, a pioneer in vehicular networking, and Dr Glenford Mapp from Middlesex University in London, United Kingdom, have been asked to be Guest Editors of a Special Issue of the MDPI Future Internet journal on Advances in Vehicular Communications, Networking, and Systems. Topics of interest include, but are not limited to, the following:  
+
+
+
+
+
+
+Vehicular Communication Technologies:  
+
+
+5G and 802.11p; Cloud-RAN and SDRAN; heterogeneous communication systems; propagation models; backhaul systems; future technologies for vehicular systems, including 6G, 802.11bd, Li-Fi, UAV platforms, and low-orbiting satellite systems.  
+
+
+
+
+
+
+Vehicular Networking:  
+
+
+Vehicle networking architectures, network programming paradigms, network slicing, new network and transport protocols, AI and machine learning algorithms, internet of vehicles, analytical models, and testbeds for vehicular systems.  
+
+
+
+
+
+
+Vehicular Systems:  
+
+
+Vehicular edge clouds, orchestration, mobile services, end-to-end quality-of-service guarantees, security and privacy issues, trust and reputation models, service management and application frameworks, digital twin technologies, smart transport, social internet of vehicles, new types of CAVs, applications, and services, and business and economic transportation models.  
+
+
+
+
+
+
+Details at [https://www.mdpi.com/journal/futureinternet/special_issues/A_VCN_S.](https://www.mdpi.com/journal/futureinternet/special_issues/A_VCN_S.)  
+
+
+
+
+
+
+As you can see, we are inviting submissions from several research areas. If you have research that you think can be published in this Special Issue, we would welcome your participation.  
+
+
+
+
+
+
+The deadline for manuscript submissions is 20 July 2021.  
+
+
+
+
+
+
+Alexey Vinel and Glenford Mapp  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (elsevier)distributed.AI.for.future.IoT.nets  (2021-05-31) <span id="03ba770380"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+DISTRIBUTED INTELLIGENCE AT THE EDGE FOR THE FUTURE INTERNET OF THINGS -  
+
+
+JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING  
+
+
+WEBSITE:  
+[https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future)  
+
+
+
+
+IMPOTRANT DATES:  
+
+
+Submission deadline: 31-May-2021  
+Acceptance deadline: 31-Oct-2021  
+Publication: late 2021  
+
+
+SCOPE:  
+Currently and even more in the future, business, industry, finance and retail, healthcare, media, entertainment and many others, are and will be completely managed, coordinated, and controlled using huge amounts of data. These operations are performed by the Internet of Things (IoT) system of connected computing, digital, and mechanical devices, all of them named using unique identifiers (UIDs) and able to transfer data over a network without human intervention.  
+
+
+To extract value from such massive data volumes, processing power offered by cloud computing is still utilized. However, streaming data to the cloud exposes some limitations related to the increased communication and data transfer, which introduces delays and consumes network bandwidth. Another limitation that cloud-based computing for IoT poses is limited network connectivity. Therefore, the adoption of cloud computing to process data generated by IoT devices may not be applicable at all to classes of applications such as those needed for real-time, low latency, and mobile applications. Therefore, it is beyond imagination to use cloud computing to collect data, store, and work out results. Therefore, there has been a move towards mobile communication and edge computing. Billions of devices have been connected to the Internet and created zettabytes of data items. The problem remains on how to extract information from collected data best.  
+
+
+The use of Artificial Intelligence, machine learning, neural network, and data analytic techniques in edge processing resulted in a new inter-disciplinary field that enables distributed intelligence with edge devices and is known as distributed edge AI or edge intelligence. However, research on edge AI and distributed edge AI is still relatively new, and thus models, techniques, and protocols supporting intelligent management, querying and mining of large-scale amounts of data produced at the edge are required. A lot of challenges related to providing edge intelligence include training edge devices, so they can become smarter and smarter. There is also a need of the presentation of the most recent outcome of research of distributed intelligence. This need could be illustrated by a smart city that contains for instance: garages, parkings, car washing systems, traffic unloading centrals etc. – usually belonging to different companies and running different protocols. A most likely scenario is that these devices could use different AI systems to support their activities. However, all of them are parts of one interconnected smart city; different AI systems must cooperate for common goal(s). Thus, we need distributed intelligence. Examples and different AI systems working for different edges could be multiplied; they support a variety of edges. All want to make money, kick competitors from the market out, and grab their systems. Furthermore, there is an emphasis on creating better software and algorithms that can run efficiently on resource-constrained devices. Moreover, purpose-built hardware at the edge is becoming increasingly important in the field of machine learning because companies can run software much more efficiently if they use specialized chips. Another key challenge of distributed edge AI will be the continued improvement of user interfaces that are used to communicate with other humans, including text, voice, vision, and different forms of body language.  
+
+
+These only are some of the challenges of edge intelligence. This field is expected to arise in the upcoming years and become an essential part of the next generation of the Internet of Things that expands its reach into almost every domain. Therefore, this Special Issue seeks to identify and provide high-quality research on recent advances on edge AI and distributed edge AI. We are interested in all aspects pertaining to this multidisciplinary paradigm.  
+
+
+
+
+TOPICS OF INTEREST  
+Topics of interest include, but are not limited to, the following:  
+
+
+· Distributed Intelligence at the Edge  
+· Modeling and Development of IoT applications using Edge AI  
+· Distributed AI with/for Secure Edge Networking  
+· Machine-Learning Algorithms for IoT Applications  
+· Optimization, Control, And Automation in Edge Computing for IoT  
+· Secure Intelligent IoT-Edge Systems  
+· Secure Intelligent Coordination and Networking Between IoT, Edge, and Cloud  
+· AI-Based Resource Allocation in IoT-Edge Systems  
+· Trust and Privacy Management in Intelligent IoT-Edge Systems  
+· Quality of Service and Energy Efficiency for Intelligent IoT-Edge Systems  
+· Data Mining and Big Data Analytics for Security and Resource Management in IoT-Edge Systems  
+· Distributed Ledger Technologies and Blockchain in IoT Environments  
+
+
+SUBMISSION GUIDELINES  
+Original, high-quality contributions that are not yet published or that are not currently under review by other journals or peer-reviewed conferences are sought. Papers will be peer-reviewed by independent reviewers and selected based on originality, scientific quality, and relevance to this Special Issue. The Guest Editors will make final decisions about the acceptance of the papers.  
+Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the Journal of Parallel and Distributed Computing.  
+
+
+
+
+GUEST EDITORS  
+
+
+Andrzej Goscinski  
+Deakin University, Australia  
+andrzej.goscinski@deakin.edu.au  
+
+
+Flavia C. Delicato  
+Fluminense Federal University, Brazil  
+fdelicato@gmail.com or fdelicato@ic.uff.br  
+
+
+Anna Kobusińska  
+Poznań University of Technology, Poland  
+Anna.kobusinka@cs.put.poznan.pl  
+
+
+Gautam Srivastava  
+Brandon University, Canada  
+srivastavag@brandonu.ca  
+
+
+Giancarlo Fortino  
+University of Calabria, Italy  
+g.fortino@unical.it  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (iee.comp.mag)home.globalization  (2021-05-31) <span id="09426f8149"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+Please let us know if you are considering to submit a paper.  
+
+
+=======================  
+IEEE Security & Privacy  
+=======================  
+
+
+Call for Papers: Special Issue on Security and Privacy Issues of Home  
+Globalization  
+
+
+In recent years, people have been reshaping their homes into smart homes  
+by using a wide array of home-based Internet of Things (IoT) devices,  
+including inter-connected lights, locks, sensors, actuators, wearables,  
+and appliances accessible through the Internet and controlled locally  
+(e.g., via voice) or remotely (e.g., via mobile phone). These smart home  
+devices are complemented by laptops, mobile phones, game consoles,  
+electronical health equipment, and many other consumer IoT nodes, which  
+are constantly used at home for work, pleasure, health, and  
+entertainment, just to mention the most common purposes. The emerging  
+pervasiveness of IoT technologies is transforming homes into globalized  
+homes in which devices supporting everyday activities can be accessed  
+from anywhere. Although home globalization has its benefits, it also  
+covertly renders homes more insecure and less private places where  
+individuals are exposed to more and more varying threats from the  
+outside world.  
+
+
+Despite the benefits, home globalization and the used technologies have  
+led to many security threats and privacy breaches. In fact, home-based  
+IoT technologies at the basis of globalized homes are becoming prone to  
+abuses including adaptations of well-known cyber-attacks leveraging the  
+variety of data and devices populating modern apartments and houses. In  
+addition, both home-based and consumer IoT frameworks collect and manage  
+information that is tightly coupled with the everyday life of  
+individuals and can thus be considered a source of sensitive data that  
+is of interest for profiling or reconnaissance attempts. Therefore, the  
+resulting home globalization requires us to face new threats and risks  
+leading to different challenges. In fact, modern homes are  
+technologically balkanized with services provided via different  
+technologies (IEEE 802.15.4, home/consumer IoT, voice-based assistants)  
+and by multiple vendors (device and software) often by using a cloud- or  
+fog-based scheme. Additional challenges stem from the relatively covert  
+introduction of new risks during home globalization, as people tend to  
+put more focus on functionalities of new smart devices than the security  
+and privacy implications of their use. In this perspective, enforcing  
+security and privacy in such a scenario requires rethinking and  
+developing new defenses and solutions, as well as addressing new social  
+challenges for law enforcement agencies, policy makers, and forensics  
+professionals.  
+
+
+This special issue aims at collecting the most relevant ongoing research  
+efforts in the security and privacy field concerning home globalization.  
+Topics include, but are not limited to:  
+
+
+- Security management of home-based and consumer IoT  
+- Network security of globalized homes  
+- Adoption of cybersecurity measures in globalized homes, including  
+child safety  
+- Surveillance, interception, blocking, and sovereignty in home-based  
+IoT environments  
+- De-anonymization, AI-based social inference, integrity, and privacy leaks  
+- Stealth communication, information hiding threats, and their detection  
+in home-based IoT environments  
+- Cybercrime investigation, law, jurisdiction, and ethics in home-based  
+IoT environments  
+
+
+=======================  
+Important Dates  
+
+
+Submissions due: 31 May 2021  
+First review complete: 30 June 2021  
+Acceptance notification: 25 September 2021  
+Camera-ready version: 15 October 2021  
+Publication: January/February 2022  
+Submission Guidelines  
+=======================  
+
+
+Original and high-quality contributions that have not yet been published  
+and are not currently under review by other journals or peer-reviewed  
+conferences are sought. The submitted papers should be formatted  
+according to the journal style. For more detailed information concerning  
+the requirements for submission, please refer to the journal’s Author  
+Information webpage:  
+
+
+[https://www.computer.org/csdl/magazine/sp/write-for-us/14680?title=Author%20Information&periodical=IEEE%20Security%20%26%20Privacy](https://www.computer.org/csdl/magazine/sp/write-for-us/14680?title=Author%20Information&periodical=IEEE%20Security%20%26%20Privacy)  
+
+
+All manuscripts and any supplementary material should be submitted  
+through the online submission system. During the submission process,  
+authors should select the special-issue option “Security and Privacy  
+Issues of Home Globalization.” All papers will be rigorously reviewed  
+based on their originality, high scientific quality, organization,  
+clarity of writing, conclusions, and relevance to this special issue.  
+The manuscripts will be accepted or rejected in line with the usual  
+standards of the journal.  
+Guest Editors  
+
+
+Contact the guest editors at sp1-22@computer.org.  
+
+
+- Luca Caviglione, IMATI, National Research Council of Italy, Italy  
+- Steffen Wendzel, Worms University of Applied Sciences & Fraunhofer  
+FKIE, Germany  
+- Simon Vrhovec, University of Maribor, Slovenia  
+- Aleksandra Mileva, University Goce Delcev, Republic of N. Macedonia  
+--  
+Simon Vrhovec  
+EICC Steering Committee  
+[https://simvrh.wordpress.com/](https://simvrh.wordpress.com/)  
+
+
+
+
  <span style="color:#666;">[→top](#top)</span>
 
 
@@ -2595,67 +2649,6 @@ Click here to Unsubscribe
 
 
 
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (J)MDPI.cloud.based.iot.smartcities  (2021-06-01) <span id="e87196a1bc"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-As Guest Editors, we cordially invite you to submit a manuscript for consideration and possible publication in a Special Issue "Cloud-Based IoT Applications for Smart Cities" to be published in the journal Smart Cities (ISSN 2624-6511) (https://www.mdpi.com/journal/smartcities/).  
-
-
-The idea of the smart city connects many IT systems that improve and automate various aspects of everyday life. The effect of implementing the smart city idea is the popularization of access to information about the city, plans for further development, improving the work of offices and municipal institutions, better investment conditions, improved communication, improving the functioning of municipal services, improving the conditions of the environment, increasing safety, increasing the number of cultural and sports activities and opportunities to spend free time, as well as the active participation of residents in development and improvement.  
-Thanks to Internet of Things devices, it is possible to automate tedious processes related to measurement and data transfer, and it is also possible to control the mechanisms remotely. In a smart city, there are many different types of sensors that collect information about the environment and send it to the central office. The question is: What to do with such a huge amount of data? Where to store it and how to manage it effectively? This is where cloud computing comes in handy.  
-The main goal of this Special Issue is to analyze the possibilities that arise from the use of Internet of Things and cloud computing in the idea of the smart city, both for technical and utility reasons, as well as for the development of ICT.  
-The manuscript submission deadline is 31 January 2022. We will process your paper in time once we receive your submission. For more details please visit the Special Issue website:  
-
-
-[https://www.mdpi.com/journal/smartcities/special_issues/Cloud_Based_IoT_Applications_Smart_Cities](https://www.mdpi.com/journal/smartcities/special_issues/Cloud_Based_IoT_Applications_Smart_Cities)  
-
-
-The topics include but are not limited to:  
-
-
-smart energy  
-smart buildings  
-smart technology  
-IoT-based applications  
-cloud storage and processing for smart cities  
-data science for smart cities  
-security for smart cities  
-
-
-
-
-Please share this invitation with your team members and colleagues; co-authors are most welcome. Please let us know as soon as possible if you are interested in submitting a manuscript for this Special Issue with tentative title and abstract. Your contribution would be most welcome.  
-
-
-We are looking forward to hearing from you.  
-
-
-With kind regards,  
-
-
-Guest Editors  
-
-
-Aneta Poniszewska-Maranda  
-
-
-Witold Maranda  
-
-
-
-
-
-
-Lodz University of Technology  
-90-924 Lodz, Poland  
 
 
 
@@ -2770,6 +2763,67 @@ OR
  <span style="color:#666;">[→top](#top)</span>
 
 
+## (J)MDPI.cloud.based.iot.smartcities  (2021-06-01) <span id="e87196a1bc"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+As Guest Editors, we cordially invite you to submit a manuscript for consideration and possible publication in a Special Issue "Cloud-Based IoT Applications for Smart Cities" to be published in the journal Smart Cities (ISSN 2624-6511) (https://www.mdpi.com/journal/smartcities/).  
+
+
+The idea of the smart city connects many IT systems that improve and automate various aspects of everyday life. The effect of implementing the smart city idea is the popularization of access to information about the city, plans for further development, improving the work of offices and municipal institutions, better investment conditions, improved communication, improving the functioning of municipal services, improving the conditions of the environment, increasing safety, increasing the number of cultural and sports activities and opportunities to spend free time, as well as the active participation of residents in development and improvement.  
+Thanks to Internet of Things devices, it is possible to automate tedious processes related to measurement and data transfer, and it is also possible to control the mechanisms remotely. In a smart city, there are many different types of sensors that collect information about the environment and send it to the central office. The question is: What to do with such a huge amount of data? Where to store it and how to manage it effectively? This is where cloud computing comes in handy.  
+The main goal of this Special Issue is to analyze the possibilities that arise from the use of Internet of Things and cloud computing in the idea of the smart city, both for technical and utility reasons, as well as for the development of ICT.  
+The manuscript submission deadline is 31 January 2022. We will process your paper in time once we receive your submission. For more details please visit the Special Issue website:  
+
+
+[https://www.mdpi.com/journal/smartcities/special_issues/Cloud_Based_IoT_Applications_Smart_Cities](https://www.mdpi.com/journal/smartcities/special_issues/Cloud_Based_IoT_Applications_Smart_Cities)  
+
+
+The topics include but are not limited to:  
+
+
+smart energy  
+smart buildings  
+smart technology  
+IoT-based applications  
+cloud storage and processing for smart cities  
+data science for smart cities  
+security for smart cities  
+
+
+
+
+Please share this invitation with your team members and colleagues; co-authors are most welcome. Please let us know as soon as possible if you are interested in submitting a manuscript for this Special Issue with tentative title and abstract. Your contribution would be most welcome.  
+
+
+We are looking forward to hearing from you.  
+
+
+With kind regards,  
+
+
+Guest Editors  
+
+
+Aneta Poniszewska-Maranda  
+
+
+Witold Maranda  
+
+
+
+
+
+
+Lodz University of Technology  
+90-924 Lodz, Poland  
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## (J)Elsevier.FACE.security.privacy  (2021-06-02) <span id="8d755e17a7"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -2790,6 +2844,117 @@ Let's retard the coronavirus: stay home, remain safe!
 Haydi taçlı virüsü geriletelim: evde kal, güvende ol!  
 My books on Amazon: [https://www.amazon.com/s?k=Atilla+ELCI](https://www.amazon.com/s?k=Atilla+ELCI)  
 [https://scholar.google.com/citations?user=wpQvtlQAAAAJ&hl=en](https://scholar.google.com/citations?user=wpQvtlQAAAAJ&hl=en)  
+
+
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (elsevier)security.and.privacy  (2021-06-02) <span id="6bebdc9e70"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+Dear Colleagues,  
+*** Papers are due by June 2, 2021.  
+The special issue on Intelligent Approaches in Security and Privacy Computing is now accepting paper proposals for the Computers and Electrical Engineering - An International Journal (Elsevier, IF: 2.663).  
+The full CFP is available at [https://www.journals.elsevier.com/computers-and-electrical-engineering/call-for-papers/intelligent-approaches-in-security-and-privacy-computing-vsi](https://www.journals.elsevier.com/computers-and-electrical-engineering/call-for-papers/intelligent-approaches-in-security-and-privacy-computing-vsi)  
+Cheers,  
+
+
+Atilla Elci, Ph.D.  
+IEEE Senior Member  
+Let's retard the coronavirus: stay home, remain safe!  
+Haydi taçlı virüsü geriletelim: evde kal, güvende ol!  
+My books on Amazon: [https://www.amazon.com/s?k=Atilla+ELCI](https://www.amazon.com/s?k=Atilla+ELCI)  
+[https://scholar.google.com/citations?user=wpQvtlQAAAAJ&hl=en](https://scholar.google.com/citations?user=wpQvtlQAAAAJ&hl=en)  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## ACM.SocialGood  (2021-06-06) <span id="c28881ecbc"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+CFP: ACM International Conference on Information Technology for Social  
+Good (GoodIT 2021)  
+
+
+
+
+GoodIT 2021: ACM International Conference on Information Technology for  
+Social Good  
+
+
+[http://www.grc.upv.es/goodit2021/](http://www.grc.upv.es/goodit2021/)  
+
+
+9-11 September 2021, Rome, Italy  
+
+
+## SPECIAL ISSUES  
+All accepted papers will be included in the ACM Digital Library.  
+Selected papers will be invited to submit an extended version to the  
+following special issues:  
++ MDPI "Sensors", Special Issue on: "Application of Information  
+Technology (IT) to Social Good"  
+- 3 papers free of charge and 2 more with a 50% discount.  
++ Springer "Multimedia Tools and Applications", Special Issue on  
+"Information Technology for Social Good [1223]"  
+
+
+## MOTIVATION AND RATIONALE  
+The conference will focus on the application of IT technologies to  
+social good. Social good is typically defined as an action that provides  
+some sort of benefit to the general public. In this case, Internet  
+connection, education, and healthcare are all good examples of social  
+goods. However, new media innovations and the explosion of online  
+communities have added new meaning to the term. Social good is now about  
+global citizens uniting to unlock the potential of individuals,  
+technology, and collaboration to create positive societal impact.  
+
+
+## TOPICS  
+* IT for education  
+* Data Science  
+* Digital solutions for Cultural Heritage  
+* Data sensing, processing, and persistency  
+* Game, entertainment, and multimedia applications  
+* Health and social care  
+* IT for development  
+* Privacy and trust issues and solutions  
+* Sustainable cities and transportation  
+* Smart governance and e-administration  
+* IT for smart living  
+* Technology addressing the digital divide  
+* IT for automotive  
+* Frugal solutions for IT  
+* Ethical computing  
+* Decentralized approaches to IT  
+* Citizen science  
+* Socially responsible IT solutions  
+* Sustainable IT  
+* Social informatics  
+* Civic intelligence  
+
+
+
+
+
+
+## IMPORTANT DATES  
+* Submission deadline: June 6, 2021 (extended - FIRM)  
+* Notification of acceptance: June 22, 2021  
+* Camera Ready: July 10, 2021  
 
 
 
@@ -3181,6 +3346,70 @@ OR
  <span style="color:#666;">[→top](#top)</span>
 
 
+## (mdpi)security.for.vnets  (2021-06-15) <span id="fc33cbd96e"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+Dear Colleagues,  
+As Guest Editor, I cordially invite you to submit a manuscript for consideration and possible publication in a Special Issue "Security Measures in Vehicular Ad-Hoc Networks" to be published in the journal Electronics (IF 2.412) (ISSN 2079-9292) (https://www.mdpi.com/journal/electronics/).  
+
+
+The Vehicular Ad-Hoc Network (VANET) is a self-organised ad-hoc network that can be formed by connecting vehicles with other vehicles on the road and with static infrastructure such as crossroads or parking lots. VANET allows its users to share their information and knowledge about road conditions, events, and traffic. Analysing data from this type of network allows road safety to be increased efficiently by controlling crises on the road and supports traffic management thanks to Internet access for drivers and software developers.  
+However, just like any network, VANET is exposed to attacks and attempts to gain access to data that are generated and transferred between network elements.  
+Therefore, it has become necessary to design, develop, and extend the appropriate security methods, mechanisms and tools for VANET to protect and secure data exchanged between the network nodes, and, consequently, to secure its users and protect them against incorrect information, misinformation, and delays in information sending.  
+This Special Issue aims to present a collection of papers that address problems in the methods, mechanisms, and tools for securing the VANETs and their users by exploring aspects such as security design, architectures, deployment, routing, and protocols.  
+Topics of interest include but not are limited to security methods and mechanics for vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication environments, protective methods against any form of security attack (e.g., DoS attack, timing attack, man-in-the-middle attack, Bogus, Sybil, Black, Worm and Gray Hole attack), the security of routing protocols, security and privacy methods for availability, confidentiality, data integration, authentication, and access control.  
+
+
+The manuscript submission deadline is 31 August 2021. We will process your paper in time once we receive your submission. For more details please visit the Special Issue website:  
+
+
+[https://www.mdpi.com/journal/electronics/special_issues/security_measures](https://www.mdpi.com/journal/electronics/special_issues/security_measures)  
+
+
+The topics include but are not limited to:  
+
+
+Security and privacy methods and mechanics  
+Authentication and access control  
+Security of routing protocols  
+Data availability  
+Confidentiality and integration  
+Cryptography  
+Vanet architecture for security  
+V2v and v2i communication security  
+
+
+
+
+Please share this invitation with your team members and colleagues; co-authors are most welcome. Please let me know as soon as possible if you are interested in submitting a manuscript for this Special Issue with tentative title and abstract. Your contribution would be most welcome.  
+
+
+We are looking forward to hearing from you.  
+
+
+With kind regards,  
+
+
+Guest Editors  
+
+
+Prof. Dr. Aneta Poniszewska-Maranda  
+
+
+Institute of Information Technology,  
+
+
+Lodz University of Technology, 90-924 Lodz, Poland  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## ACM.PEWASUN.wireless.perf  (2021-06-15) <span id="5fe733029e"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -3428,137 +3657,6 @@ We hope to see you in Alicante.
  <span style="color:#666;">[→top](#top)</span>
 
 
-## (mdpi)security.for.vnets  (2021-06-15) <span id="fc33cbd96e"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Dear Colleagues,  
-As Guest Editor, I cordially invite you to submit a manuscript for consideration and possible publication in a Special Issue "Security Measures in Vehicular Ad-Hoc Networks" to be published in the journal Electronics (IF 2.412) (ISSN 2079-9292) (https://www.mdpi.com/journal/electronics/).  
-
-
-The Vehicular Ad-Hoc Network (VANET) is a self-organised ad-hoc network that can be formed by connecting vehicles with other vehicles on the road and with static infrastructure such as crossroads or parking lots. VANET allows its users to share their information and knowledge about road conditions, events, and traffic. Analysing data from this type of network allows road safety to be increased efficiently by controlling crises on the road and supports traffic management thanks to Internet access for drivers and software developers.  
-However, just like any network, VANET is exposed to attacks and attempts to gain access to data that are generated and transferred between network elements.  
-Therefore, it has become necessary to design, develop, and extend the appropriate security methods, mechanisms and tools for VANET to protect and secure data exchanged between the network nodes, and, consequently, to secure its users and protect them against incorrect information, misinformation, and delays in information sending.  
-This Special Issue aims to present a collection of papers that address problems in the methods, mechanisms, and tools for securing the VANETs and their users by exploring aspects such as security design, architectures, deployment, routing, and protocols.  
-Topics of interest include but not are limited to security methods and mechanics for vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication environments, protective methods against any form of security attack (e.g., DoS attack, timing attack, man-in-the-middle attack, Bogus, Sybil, Black, Worm and Gray Hole attack), the security of routing protocols, security and privacy methods for availability, confidentiality, data integration, authentication, and access control.  
-
-
-The manuscript submission deadline is 31 August 2021. We will process your paper in time once we receive your submission. For more details please visit the Special Issue website:  
-
-
-[https://www.mdpi.com/journal/electronics/special_issues/security_measures](https://www.mdpi.com/journal/electronics/special_issues/security_measures)  
-
-
-The topics include but are not limited to:  
-
-
-Security and privacy methods and mechanics  
-Authentication and access control  
-Security of routing protocols  
-Data availability  
-Confidentiality and integration  
-Cryptography  
-Vanet architecture for security  
-V2v and v2i communication security  
-
-
-
-
-Please share this invitation with your team members and colleagues; co-authors are most welcome. Please let me know as soon as possible if you are interested in submitting a manuscript for this Special Issue with tentative title and abstract. Your contribution would be most welcome.  
-
-
-We are looking forward to hearing from you.  
-
-
-With kind regards,  
-
-
-Guest Editors  
-
-
-Prof. Dr. Aneta Poniszewska-Maranda  
-
-
-Institute of Information Technology,  
-
-
-Lodz University of Technology, 90-924 Lodz, Poland  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (hindawi)learning4security  (2021-06-18) <span id="8db1e35ca4"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Machine Learning for Security and Communication Networks  
-Submission deadline  
-18 Jun 2021  
-
-
-Submission link  
-[https://review.hindawi.com/submit?specialIssue=589396](https://review.hindawi.com/submit?specialIssue=589396)  
-
-
-Call for papers  
-This Issue is now open for submissions.  
-
-
-Papers are published upon acceptance, regardless of the Special Issue publication date.  
-
-
-Description  
-In recent years, supervised machine learning methods (e.g. k nearest neighbours, Bayes' theorem, decision tree, support vector machine, random forest, neural network, convolutional neural network, recurrent neural network, long short-term memory network, gated recurrent unit network), unsupervised machine learning methods (e.g. association rules, k-means, density-based spatial clustering of applications with noise, hierarchical clustering, deep belief networks, deep Boltzmann machine, auto-encoder, de-noising auto-encoder, etc.), reinforcement learning methods (e.g. generative adversarial network, deep Q network, trust region policy optimization, etc.), and federated learning methods have been applied to security and communication networks. For instance, machine learning methods have been used to analyze the behaviours of the data stream in networks and extract the patterns of malicious activities (packet dropping, worm propagation, jammer attacks, etc.) for generating rules in intrusion detection systems. Furthermore, time-series methods (e.g. local outlier factor, cumulative sum, adaptive online thresholding, etc.) have been proposed to retrieve the time-series features of anomalous behaviours for preventing cyber-attacks and malfunctions.  
-
-
-While the area of machine learning methods for security and communication networks is a rapidly expanding field of scientific research, several open research questions still need to be discussed and studied. For instance, using and improving machine learning methods for malicious activity detection, attack detection, mobile endpoint analyses, repetitive security task automation, zero-day vulnerability prevention, and other security applications are important issues in computing and communications.  
-
-
-This Special Issue will solicit papers across various disciplines of security and communication networks in computing and communications. Original research and review articles are welcome.  
-
-
-Potential topics include but are not limited to the following:  
-
-
-New supervised machine learning methods for security and communication networks  
-New unsupervised machine learning methods for security and communication networks  
-New reinforcement learning methods for security and communication networks  
-New federated learning methods for security and communication networks  
-New optimization methods for security and communication networks  
-
-
-Lead Editor  
-Chin-Ling Chen1  
-Guest Editors  
-Chi-Hua Chen2 | Lingjuan Lyu3 | Feng-Jang Hwang4  
-1  
-Chaoyang University of Technology, Taichung, Taiwan  
-
-
-2  
-Fuzhou University, Fuzhou, China  
-
-
-3  
-National University of Singapore, Singapore  
-
-
-4  
-University of Technology Sydney, Sydney, Australia  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## IEEE.EDOC.IoT  (2021-06-18) <span id="7891061f7a"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -3713,53 +3811,204 @@ due course.
  <span style="color:#666;">[→top](#top)</span>
 
 
-## Mobiqutous@Beppu  (2021-06-20) <span id="3b851a742e"></span> <span style="color:#666;">[→top](#top)</span>
+## (hindawi)learning4security  (2021-06-18) <span id="8db1e35ca4"></span> <span style="color:#666;">[→top](#top)</span>
 
 
 
-EAI MobiQuitous 2021  
-Beppu, Japan  
-November 8 - 11, 2021 | Original Location: Beppu, Japan  
-Full Paper Submission Deadline: June 20, 2021  
-Workshop Proposals Due: May 11, 2021  
-Poster/Demo Submission Deadline: August 24, 2021  
+Machine Learning for Security and Communication Networks  
+Submission deadline  
+18 Jun 2021  
 
 
-Submit your Workshop proposals to become a member of the organizing committee or take part in the Posters and Demo track - learn more below.  
+Submission link  
+[https://review.hindawi.com/submit?specialIssue=589396](https://review.hindawi.com/submit?specialIssue=589396)  
 
 
-EAI MobiQuitous 2021 will be held as a fully-fledged online conference (with an on-site possibility). Participate online and join the conference from wherever you are located!  
+Call for papers  
+This Issue is now open for submissions.  
 
 
-Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
+Papers are published upon acceptance, regardless of the Special Issue publication date.  
 
 
-Find out what EAI conference live streams look like and discover unique benefits that online participation brings you - learn more.  
+Description  
+In recent years, supervised machine learning methods (e.g. k nearest neighbours, Bayes' theorem, decision tree, support vector machine, random forest, neural network, convolutional neural network, recurrent neural network, long short-term memory network, gated recurrent unit network), unsupervised machine learning methods (e.g. association rules, k-means, density-based spatial clustering of applications with noise, hierarchical clustering, deep belief networks, deep Boltzmann machine, auto-encoder, de-noising auto-encoder, etc.), reinforcement learning methods (e.g. generative adversarial network, deep Q network, trust region policy optimization, etc.), and federated learning methods have been applied to security and communication networks. For instance, machine learning methods have been used to analyze the behaviours of the data stream in networks and extract the patterns of malicious activities (packet dropping, worm propagation, jammer attacks, etc.) for generating rules in intrusion detection systems. Furthermore, time-series methods (e.g. local outlier factor, cumulative sum, adaptive online thresholding, etc.) have been proposed to retrieve the time-series features of anomalous behaviours for preventing cyber-attacks and malfunctions.  
 
 
-If the local situation allows it, the event will take place in its original location with an option for all authors to present remotely. In any case, all matters related to publication and indexing will remain unchanged.  
+While the area of machine learning methods for security and communication networks is a rapidly expanding field of scientific research, several open research questions still need to be discussed and studied. For instance, using and improving machine learning methods for malicious activity detection, attack detection, mobile endpoint analyses, repetitive security task automation, zero-day vulnerability prevention, and other security applications are important issues in computing and communications.  
+
+
+This Special Issue will solicit papers across various disciplines of security and communication networks in computing and communications. Original research and review articles are welcome.  
+
+
+Potential topics include but are not limited to the following:  
+
+
+New supervised machine learning methods for security and communication networks  
+New unsupervised machine learning methods for security and communication networks  
+New reinforcement learning methods for security and communication networks  
+New federated learning methods for security and communication networks  
+New optimization methods for security and communication networks  
+
+
+Lead Editor  
+Chin-Ling Chen1  
+Guest Editors  
+Chi-Hua Chen2 | Lingjuan Lyu3 | Feng-Jang Hwang4  
+1  
+Chaoyang University of Technology, Taichung, Taiwan  
+
+
+2  
+Fuzhou University, Fuzhou, China  
+
+
+3  
+National University of Singapore, Singapore  
+
+
+4  
+University of Technology Sydney, Sydney, Australia  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## Springer.Mobiqutous  (2021-06-20) <span id="1c5f4d6d5b"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+===================CALL FOR PAPERS===================  
+18th International Conference on Mobile and Ubiquitous  
+Systems: Computing, Networking and Services (MobiQuitous 2021)  
+8-11 November 2021  
+Beppu Convention Center, Beppu, Japan in a hybrid format  
+[https://mobiquitous.eai-conferences.org/2021/](https://mobiquitous.eai-conferences.org/2021/)  
+=====================================================  
 
 
 SCOPE  
+
+
 The goal of the eighteenth annual International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2021) is to provide a forum for presenting and discussing high-quality research in the field, involving international practitioners and researchers from diverse backgrounds. MobiQuitous 2021 will thus foster research collaboration through focused discussions, interaction and exchange of experiences that will designate future research efforts and directions.  
 
 
-We are pleased to invite you to submit your paper to EAI MobiQuitous 2021. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
+We are pleased to invite you to submit your paper to EAI MobiQuitous 2021. Submissions should be in English, following the Springer formatting guidelines. See the submission page:  
+[https://mobiquitous.eai-conferences.org/2021/call-for-papers/](https://mobiquitous.eai-conferences.org/2021/call-for-papers/)  
 
 
-Submit Paper  
-Read more: Call for Papers  
 
 
-EAI MobiQuitous is a top ranked conference venue for researchers  
-with a CORE conference ranking: A. MobiQuitous authors have enjoyed  
-over 9000+ citations, with average 8,91 citations per paper and h-index 38 (Scopus).  
+TOPICS  
 
 
-Watch the full recording of the EAI MobiQuitous 2020 livestream  
-(Keynote: Lin Wang, VU Amsterdam) and get involved in this edition!  
+We solicit technical papers describing original, previously unpublished research, not currently under review by another conference or journal, pertaining to the Internet of Things, mobile and ubiquitous systems. Submissions should clearly identify how they relate to issues on mobile and ubiquitous systems. Contributions describing an overall working system and reporting real world deployment experiences are particularly of interest. Topics include, but are not limited to:  
 
 
+-Mobile User Experience  
+-Security and Privacy  
+-User Behaviour Analysis and Modelling  
+-Crowdsourcing - Platforms and Applications  
+-Internet of Things - Systems, Data Analytics, and Applications  
+-Urban/mobile Crowd-sensing  
+-Participatory Sensing  
+-Wireless Access Technologies  
+-Performance Analysis, Modelling and Measurement of Mobile Networks  
+-Wearable Computing  
+-Body Area Networks  
+-Mobile Data Analysis and Mobile Platforms  
+-Mobile Multimedia  
+-Mobile User Interfaces and Interaction Technologies  
+-Toolkit and Languages for Mobile Computing  
+-Networked Sensing and Applications  
+-Mobile Device Architectures  
+-Mobile Systems and Applications  
+-Mobile Data Management and Analytics  
+-Energy Aware Mobile Computing  
+-Pervasive Sensing  
+-Localization and Tracking  
+-Activity Recognition  
+-Social Network Applications to Mobile Computing  
+-Context and Location-based Applications and Services  
+-AI and Machine Learning Algorithms and Application for Mobile Computing  
+-Mobile Augmented Reality/Mixed Reality  
+-Mobile Cloud Computing  
+
+
+
+
+IMPORTANT DATES  
+
+
+FULL PAPER SUBMISSION DEADLINE: JUNE 20, 2021  
+NOTIFICATION DEADLINE: AUGUST 22, 2021  
+CAMERA-READY DEADLINE: SEPTEMBER 7, 2021  
+CONFERENCE DATES: NOVEMBER 8 - 11, 2021  
+
+
+
+
+ORGANIZING COMMITTEE  
+
+
+General Chairs  
+Takahiro Hara - Osaka University, Japan  
+Hirozumi Yamaguchi - Osaka University, Japan  
+
+
+Technical Program Committee Chairs  
+Takuya Maekawa - Osaka University, Japan  
+Stephan Sigg - Aalto University, Finland  
+Vaskar Raychoudhury - Miami University, United States  
+
+
+Web Chair  
+Tatsuya Amano - Osaka University, Japan  
+
+
+Publicity and Social Media Chair  
+Keiichi Yasumoto - NAIST, Japan  
+Stephan Haller - Bern University of Applied Sciences, Switzerland  
+
+
+Workshops Chair  
+Takuya Yoshihiro Wakayama University, Japan  
+Janick Edinger - University of Mannheim, Germany  
+Md Osman Gani - Miami University, USA  
+
+
+Sponsorship & Exhibits Chair  
+Susumu Ishihara - Shizuoka University, Japan  
+
+
+Publications Chair  
+Akira Uchiyama - Osaka University, Japan  
+
+
+Poster/Demos Chair  
+Yutaka Arakawa - Kyushu University, Japan  
+JeongGil Ko - Yonsei University, Korea  
+
+
+Local Chairs  
+Shigemi Ishida - Kyushu University, Japan  
+Tetsuya Shigeyasu - Prefectural University of Hiroshima, Japan  
+
+
+Financial Chair  
+Akimitsu Kanzaki - Shimane University, Japan  
+
+
+Award Committee Chair  
+Hiroshi Shigeno - Keio University, Japan  
+
+
+Student Volunteer Chair  
+Teruhiro Mizumoto - Osaka University, Japan  
 
 
 
@@ -3974,137 +4223,186 @@ Publication: December 2021 (tentative)
  <span style="color:#666;">[→top](#top)</span>
 
 
-## Springer.Mobiqutous  (2021-06-20) <span id="1c5f4d6d5b"></span> <span style="color:#666;">[→top](#top)</span>
+## Mobiqutous@Beppu  (2021-06-20) <span id="3b851a742e"></span> <span style="color:#666;">[→top](#top)</span>
 
 
 
-===================CALL FOR PAPERS===================  
-18th International Conference on Mobile and Ubiquitous  
-Systems: Computing, Networking and Services (MobiQuitous 2021)  
-8-11 November 2021  
-Beppu Convention Center, Beppu, Japan in a hybrid format  
-[https://mobiquitous.eai-conferences.org/2021/](https://mobiquitous.eai-conferences.org/2021/)  
-=====================================================  
+EAI MobiQuitous 2021  
+Beppu, Japan  
+November 8 - 11, 2021 | Original Location: Beppu, Japan  
+Full Paper Submission Deadline: June 20, 2021  
+Workshop Proposals Due: May 11, 2021  
+Poster/Demo Submission Deadline: August 24, 2021  
+
+
+Submit your Workshop proposals to become a member of the organizing committee or take part in the Posters and Demo track - learn more below.  
+
+
+EAI MobiQuitous 2021 will be held as a fully-fledged online conference (with an on-site possibility). Participate online and join the conference from wherever you are located!  
+
+
+Get the same full publication and indexing, enjoy EAI’s fair evaluation and recognition, present your paper to a global audience, and experience virtual meetings live as well as on-demand from the safety and comfort of your home.  
+
+
+Find out what EAI conference live streams look like and discover unique benefits that online participation brings you - learn more.  
+
+
+If the local situation allows it, the event will take place in its original location with an option for all authors to present remotely. In any case, all matters related to publication and indexing will remain unchanged.  
 
 
 SCOPE  
-
-
 The goal of the eighteenth annual International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2021) is to provide a forum for presenting and discussing high-quality research in the field, involving international practitioners and researchers from diverse backgrounds. MobiQuitous 2021 will thus foster research collaboration through focused discussions, interaction and exchange of experiences that will designate future research efforts and directions.  
 
 
-We are pleased to invite you to submit your paper to EAI MobiQuitous 2021. Submissions should be in English, following the Springer formatting guidelines. See the submission page:  
-[https://mobiquitous.eai-conferences.org/2021/call-for-papers/](https://mobiquitous.eai-conferences.org/2021/call-for-papers/)  
+We are pleased to invite you to submit your paper to EAI MobiQuitous 2021. Submissions should be in English, following the Springer formatting guidelines (see Submission).  
+
+
+Submit Paper  
+Read more: Call for Papers  
+
+
+EAI MobiQuitous is a top ranked conference venue for researchers  
+with a CORE conference ranking: A. MobiQuitous authors have enjoyed  
+over 9000+ citations, with average 8,91 citations per paper and h-index 38 (Scopus).  
+
+
+Watch the full recording of the EAI MobiQuitous 2020 livestream  
+(Keynote: Lin Wang, VU Amsterdam) and get involved in this edition!  
 
 
 
 
-TOPICS  
 
 
-We solicit technical papers describing original, previously unpublished research, not currently under review by another conference or journal, pertaining to the Internet of Things, mobile and ubiquitous systems. Submissions should clearly identify how they relate to issues on mobile and ubiquitous systems. Contributions describing an overall working system and reporting real world deployment experiences are particularly of interest. Topics include, but are not limited to:  
+ <span style="color:#666;">[→top](#top)</span>
 
 
--Mobile User Experience  
--Security and Privacy  
--User Behaviour Analysis and Modelling  
--Crowdsourcing - Platforms and Applications  
--Internet of Things - Systems, Data Analytics, and Applications  
--Urban/mobile Crowd-sensing  
--Participatory Sensing  
--Wireless Access Technologies  
--Performance Analysis, Modelling and Measurement of Mobile Networks  
--Wearable Computing  
--Body Area Networks  
--Mobile Data Analysis and Mobile Platforms  
--Mobile Multimedia  
--Mobile User Interfaces and Interaction Technologies  
--Toolkit and Languages for Mobile Computing  
--Networked Sensing and Applications  
--Mobile Device Architectures  
--Mobile Systems and Applications  
--Mobile Data Management and Analytics  
--Energy Aware Mobile Computing  
--Pervasive Sensing  
--Localization and Tracking  
--Activity Recognition  
--Social Network Applications to Mobile Computing  
--Context and Location-based Applications and Services  
--AI and Machine Learning Algorithms and Application for Mobile Computing  
--Mobile Augmented Reality/Mixed Reality  
--Mobile Cloud Computing  
+## (mdpi)AI.for.edge  (2021-06-30) <span id="865fba6179"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+Special Issue on "Special Issue on Edge Computing Optimization Using Artificial Intelligence Methods"  
+
+
+MDPI IoT Journal  
 
 
 
 
-IMPORTANT DATES  
 
 
-FULL PAPER SUBMISSION DEADLINE: JUNE 20, 2021  
-NOTIFICATION DEADLINE: AUGUST 22, 2021  
-CAMERA-READY DEADLINE: SEPTEMBER 7, 2021  
-CONFERENCE DATES: NOVEMBER 8 - 11, 2021  
+Dear Colleagues,  
+
+
+The growing importance of the Internet of Things (IoT) and the ubiquitous high capacity provided by 5G technologies have brought the specter of massive quantities of data being generated and/or consumed by sensors, actuators, and smart devices. Such massive amounts of data require considerable processing power, which is available in the cloud. However, cloud-based computation and data delivery models do not allow the stringent quality of service (QoS) guarantees to be efficiently harnessed. The latter is due to the number of hops of wired networks between the data endpoints and the cloud, which leads to a significant increase in latency, which may dramatically affect real-time control and other critical systems. Moreover, forwarding all the data generated by such devices directly to the cloud may devour the network bandwidth, leading to congestion. Therefore, it is necessary that critical processing to be hosted closer to the endpoint devices, i.e., closer to the sources and sinks of the data so that data can be processed and filtered out by the time it reaches the cloud. This can be achieved through Edge Computing (EC).  
+
+
+Efficient, scalable, and QoS-aware placement of IoT data processing jobs in EC resources is a complex optimization problem and, currently, an active research topic. As new jobs are created, they have to be assigned computational resources dynamically, matching job requirements with the cost, reliability, location (and mobility), besides the current availability of the resources. Less critical or demanding communication jobs may be offloaded to the cloud. The use of Artificial Intelligence (AI) methods to jointly tackle the problem of job placement optimization, including jobs belonging to AI-based data analytics software, constitute currently active research topics addressed by this Special Issue.  
+
+
+For this Special Issue, original scientific articles are welcome on the following as well as closely related topics:  
+- AI-based algorithms to optimize job placement in EC  
+- AI software architectures favoring distributed computing job placement in EC resources (e.g., Distributed Deep Neural Network architectures)  
+- AI-based mechanisms supporting open EC markets leveraging the participation of third-party computing resources opportunistically (e.g., parked autonomous vehicles)  
+- AI-based methods to optimize mobile EC resources' placement (e.g., EC capable drones)  
+
+
+Special Issue Website: [https://www.mdpi.com/journal/IoT/special_issues/edge_computing_AI](https://www.mdpi.com/journal/IoT/special_issues/edge_computing_AI)  
+
+
+This special issue is now open for submission, until 30 June 2021.  
+
+
+Guest Editors:  
+- Dr. António M.R.C. Grilo  
+- Dr. Paulo Rogerio Pereira  
 
 
 
 
-ORGANIZING COMMITTEE  
 
 
-General Chairs  
-Takahiro Hara - Osaka University, Japan  
-Hirozumi Yamaguchi - Osaka University, Japan  
+ <span style="color:#666;">[→top](#top)</span>
 
 
-Technical Program Committee Chairs  
-Takuya Maekawa - Osaka University, Japan  
-Stephan Sigg - Aalto University, Finland  
-Vaskar Raychoudhury - Miami University, United States  
+## (elsevier)OSNEM.online.socialnets  (2021-06-30) <span id="76c886ad16"></span> <span style="color:#666;">[→top](#top)</span>
 
 
-Web Chair  
-Tatsuya Amano - Osaka University, Japan  
+
+CALL FOR PAPERS  
 
 
-Publicity and Social Media Chair  
-Keiichi Yasumoto - NAIST, Japan  
-Stephan Haller - Bern University of Applied Sciences, Switzerland  
+Elsevier Online Social Networks and Media Journal (OSNEM)  
 
 
-Workshops Chair  
-Takuya Yoshihiro Wakayama University, Japan  
-Janick Edinger - University of Mannheim, Germany  
-Md Osman Gani - Miami University, USA  
+Special issue on  
+Online Social Networks and Media: human behaviour under big data microscopes  
 
 
-Sponsorship & Exhibits Chair  
-Susumu Ishihara - Shizuoka University, Japan  
+Submission Deadline: June 30th, 2021  
+[https://www.journals.elsevier.com/online-social-networks-and-media](https://www.journals.elsevier.com/online-social-networks-and-media)  
+------------------------------------------------------------------------------  
 
 
-Publications Chair  
-Akira Uchiyama - Osaka University, Japan  
+Online Social Networks and Media are a fundamental component of the cyber-physical convergences, representing one of the main bridges between the human behaviour across the physical and virtual worlds. Therefore, the “trails” users leave behind while using OSNEM can be mined, via big data analytics and AI, to characterize individual and social human behaviours at an unprecedented scale. Moreover, the speed at which events can be detected via OSNEM data analysis makes OSNEM a prime way to monitor the evolution of human behaviours and nowcast their development and consequences in both the physical and virtual worlds. For example, OSNEM can be used to shed light, through big data analysis, on the diffusion of COVID-19 in the real world.  
 
 
-Poster/Demos Chair  
-Yutaka Arakawa - Kyushu University, Japan  
-JeongGil Ko - Yonsei University, Korea  
+This special issue seeks contributions pushing the state of the art in all facets of the use of OSNEM as big data microscopes to investigate complex human individual and social behaviours. We solicit manuscripts presenting quantitative analysis and modelling based on BigData collected from OSNEM.  
 
 
-Local Chairs  
-Shigemi Ishida - Kyushu University, Japan  
-Tetsuya Shigeyasu - Prefectural University of Hiroshima, Japan  
+Within this framework, topics include, but are not limited to:  
+- Analysis of social structures via OSNEM  
+- Analysis and modelling of information and opinion dynamics in OSNEM  
+- Early detection of critical phenomena in the cyber and physical worlds  
+- Prediction of (near-)future events based on OSNEM data analysis  
+- OSNEM monitoring and analysis for the protection of users and critical infrastructures  
+- Mobility characterization and modelling  
+- Characterisation of users’ behaviour in smart cities  
+- OSNEM data-driven approaches to study COVID-19 related phenomena  
+- Pandemic tracking and control via OSNEM big data analysis  
+- Models of individual and social behaviour through OSNEM big data during the pandemic  
+- OSNEM users’ characterization for mass customization of products and services  
+- Analysis of large social phenomena (e.g., political movements) via OSNEM big data  
+- Privacy-preserving big data analytics for human behaviour characterisation  
+- Efficient methodologies for large-scale OSNEM data collection and analysis  
 
 
-Financial Chair  
-Akimitsu Kanzaki - Shimane University, Japan  
+Online Social Networks and Media is a multidisciplinary journal for the wide community of computer and network scientists working on developing OSNEM platforms and services and using OSNEM as a big data source to mine, learn and model the (online) human behaviour.  
+Manuscripts only based on questionnaires, even focused on the reported use of social media, are outside the scope of the journal. On the other hand, the journal welcomes papers which present analyses based on big data mined from social networks/media.  
 
 
-Award Committee Chair  
-Hiroshi Shigeno - Keio University, Japan  
+-----------------------------------------------------------------------------  
+Schedule  
+Manuscript submission deadline: June 30th, 2021  
+First notification: August 31th, 2021  
+Expected publication: Q4, 2021  
 
 
-Student Volunteer Chair  
-Teruhiro Mizumoto - Osaka University, Japan  
+Guest Editors  
+Marco Conti, IIT-CNR, Italy  
+Andrea Passarella, IIT-CNR, Italy  
+------------------------------------------------------------------------------  
+
+
+Instructions for submission  
+
+
+Manuscripts must not have been previously published nor currently under review  
+by other journals or conferences. Papers previously published in conference proceedings are eligible for submission if the submitted manuscript is a substantial revision and extension of the conference version. In this case, authors should indicate the previous publication(s) in the cover letter and are also required to submit their published conference article(s) and a summary document explaining the enhancements made in the journal version. The submission website for this journal is located at  
+[https://www.editorialmanager.com/osnem/default.aspx.](https://www.editorialmanager.com/osnem/default.aspx.)  
+
+
+Please select ''VSI:big data microscope'' when you reach the ''Article Type'' step in the submission process.  
+To ensure that all manuscripts are correctly identified, for consideration by the special issue, the authors should indicate in the cover letter that the manuscript has been submitted for the special issue on ''big data microscope''.  
+
+
+Manuscripts can be submitted continuously until the deadline. Once a paper is submitted, the review process will start immediately. Accepted papers will be published continuously in the journal (in the first issue available as soon as the paper is accepted). All accepted papers will be listed together in an online virtual special issue published in the journal website.  
+
+
+For further information, please contact the guest editors at  
+osnem at iit.cnr.it  
+
+
 
 
 
@@ -4214,139 +4512,6 @@ Guest Editors:
 - Dr. António M.R.C. Grilo  
 - Dr. Paulo Rogerio Pereira  
 - Dr. Naercio Magaia  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (elsevier)OSNEM.online.socialnets  (2021-06-30) <span id="76c886ad16"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-CALL FOR PAPERS  
-
-
-Elsevier Online Social Networks and Media Journal (OSNEM)  
-
-
-Special issue on  
-Online Social Networks and Media: human behaviour under big data microscopes  
-
-
-Submission Deadline: June 30th, 2021  
-[https://www.journals.elsevier.com/online-social-networks-and-media](https://www.journals.elsevier.com/online-social-networks-and-media)  
-------------------------------------------------------------------------------  
-
-
-Online Social Networks and Media are a fundamental component of the cyber-physical convergences, representing one of the main bridges between the human behaviour across the physical and virtual worlds. Therefore, the “trails” users leave behind while using OSNEM can be mined, via big data analytics and AI, to characterize individual and social human behaviours at an unprecedented scale. Moreover, the speed at which events can be detected via OSNEM data analysis makes OSNEM a prime way to monitor the evolution of human behaviours and nowcast their development and consequences in both the physical and virtual worlds. For example, OSNEM can be used to shed light, through big data analysis, on the diffusion of COVID-19 in the real world.  
-
-
-This special issue seeks contributions pushing the state of the art in all facets of the use of OSNEM as big data microscopes to investigate complex human individual and social behaviours. We solicit manuscripts presenting quantitative analysis and modelling based on BigData collected from OSNEM.  
-
-
-Within this framework, topics include, but are not limited to:  
-- Analysis of social structures via OSNEM  
-- Analysis and modelling of information and opinion dynamics in OSNEM  
-- Early detection of critical phenomena in the cyber and physical worlds  
-- Prediction of (near-)future events based on OSNEM data analysis  
-- OSNEM monitoring and analysis for the protection of users and critical infrastructures  
-- Mobility characterization and modelling  
-- Characterisation of users’ behaviour in smart cities  
-- OSNEM data-driven approaches to study COVID-19 related phenomena  
-- Pandemic tracking and control via OSNEM big data analysis  
-- Models of individual and social behaviour through OSNEM big data during the pandemic  
-- OSNEM users’ characterization for mass customization of products and services  
-- Analysis of large social phenomena (e.g., political movements) via OSNEM big data  
-- Privacy-preserving big data analytics for human behaviour characterisation  
-- Efficient methodologies for large-scale OSNEM data collection and analysis  
-
-
-Online Social Networks and Media is a multidisciplinary journal for the wide community of computer and network scientists working on developing OSNEM platforms and services and using OSNEM as a big data source to mine, learn and model the (online) human behaviour.  
-Manuscripts only based on questionnaires, even focused on the reported use of social media, are outside the scope of the journal. On the other hand, the journal welcomes papers which present analyses based on big data mined from social networks/media.  
-
-
------------------------------------------------------------------------------  
-Schedule  
-Manuscript submission deadline: June 30th, 2021  
-First notification: August 31th, 2021  
-Expected publication: Q4, 2021  
-
-
-Guest Editors  
-Marco Conti, IIT-CNR, Italy  
-Andrea Passarella, IIT-CNR, Italy  
-------------------------------------------------------------------------------  
-
-
-Instructions for submission  
-
-
-Manuscripts must not have been previously published nor currently under review  
-by other journals or conferences. Papers previously published in conference proceedings are eligible for submission if the submitted manuscript is a substantial revision and extension of the conference version. In this case, authors should indicate the previous publication(s) in the cover letter and are also required to submit their published conference article(s) and a summary document explaining the enhancements made in the journal version. The submission website for this journal is located at  
-[https://www.editorialmanager.com/osnem/default.aspx.](https://www.editorialmanager.com/osnem/default.aspx.)  
-
-
-Please select ''VSI:big data microscope'' when you reach the ''Article Type'' step in the submission process.  
-To ensure that all manuscripts are correctly identified, for consideration by the special issue, the authors should indicate in the cover letter that the manuscript has been submitted for the special issue on ''big data microscope''.  
-
-
-Manuscripts can be submitted continuously until the deadline. Once a paper is submitted, the review process will start immediately. Accepted papers will be published continuously in the journal (in the first issue available as soon as the paper is accepted). All accepted papers will be listed together in an online virtual special issue published in the journal website.  
-
-
-For further information, please contact the guest editors at  
-osnem at iit.cnr.it  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (mdpi)AI.for.edge  (2021-06-30) <span id="865fba6179"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Special Issue on "Special Issue on Edge Computing Optimization Using Artificial Intelligence Methods"  
-
-
-MDPI IoT Journal  
-
-
-
-
-
-
-Dear Colleagues,  
-
-
-The growing importance of the Internet of Things (IoT) and the ubiquitous high capacity provided by 5G technologies have brought the specter of massive quantities of data being generated and/or consumed by sensors, actuators, and smart devices. Such massive amounts of data require considerable processing power, which is available in the cloud. However, cloud-based computation and data delivery models do not allow the stringent quality of service (QoS) guarantees to be efficiently harnessed. The latter is due to the number of hops of wired networks between the data endpoints and the cloud, which leads to a significant increase in latency, which may dramatically affect real-time control and other critical systems. Moreover, forwarding all the data generated by such devices directly to the cloud may devour the network bandwidth, leading to congestion. Therefore, it is necessary that critical processing to be hosted closer to the endpoint devices, i.e., closer to the sources and sinks of the data so that data can be processed and filtered out by the time it reaches the cloud. This can be achieved through Edge Computing (EC).  
-
-
-Efficient, scalable, and QoS-aware placement of IoT data processing jobs in EC resources is a complex optimization problem and, currently, an active research topic. As new jobs are created, they have to be assigned computational resources dynamically, matching job requirements with the cost, reliability, location (and mobility), besides the current availability of the resources. Less critical or demanding communication jobs may be offloaded to the cloud. The use of Artificial Intelligence (AI) methods to jointly tackle the problem of job placement optimization, including jobs belonging to AI-based data analytics software, constitute currently active research topics addressed by this Special Issue.  
-
-
-For this Special Issue, original scientific articles are welcome on the following as well as closely related topics:  
-- AI-based algorithms to optimize job placement in EC  
-- AI software architectures favoring distributed computing job placement in EC resources (e.g., Distributed Deep Neural Network architectures)  
-- AI-based mechanisms supporting open EC markets leveraging the participation of third-party computing resources opportunistically (e.g., parked autonomous vehicles)  
-- AI-based methods to optimize mobile EC resources' placement (e.g., EC capable drones)  
-
-
-Special Issue Website: [https://www.mdpi.com/journal/IoT/special_issues/edge_computing_AI](https://www.mdpi.com/journal/IoT/special_issues/edge_computing_AI)  
-
-
-This special issue is now open for submission, until 30 June 2021.  
-
-
-Guest Editors:  
-- Dr. António M.R.C. Grilo  
-- Dr. Paulo Rogerio Pereira  
 
 
 
@@ -4468,6 +4633,40 @@ Institute of Information Technology,
 
 
 Lodz University of Technology, 90-924 Lodz, Poland  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (mdpi)sensor.and.actuator.networks  (2021-06-30) <span id="6e09998571"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+Dear Colleagues,  
+
+
+
+
+I hope this email finds you well. As a member of the Editorial Board for JSAN, I am writing to notify you about our latest Special Issue, “State-of-the-Art in Sensor and Actuator Networks: Current Status and Future Possibilities”, created by myself and four other editors. We would like to invite you to collaborate with us by promoting this project.  
+
+
+
+
+This Special Issue of JSAN is intended to solicit novel research papers on the current state-of-the-art and future directions of WSAN, aiming to provide a comprehensive view of this field of research. For this Special Issue, we will only accept high-quality submissions from our EB members or high-profile researchers recommended by them. All authors will benefit from low publication fees (0%-30% of full charge). We would like to invite you to recommend three or more high-profile researchers or colleagues to submit high-quality survey or research papers to JSAN for this Special Issue.  
+
+
+
+
+The submission deadline is 30 June 2021. More detailed information can be found at  
+
+
+JSAN | Special Issue : State-of-the-Art in Sensor and Actuator Networks: Current Status and Future Possibilities  
+Dear Colleagues, In the age of digitalization, we have seen wide deployment of wireless sensor and actuator networks (WSAN) in many applications in smart cities, smart manufacturing, autonomous vehicles, farming, horticulture, health and medical systems, wildlife monitoring, etc.  
+www.mdpi.com  
 
 
 
@@ -4674,6 +4873,147 @@ Meng-Hsun Tsai National Cheng Kung University, Taiwan
  <span style="color:#666;">[→top](#top)</span>
 
 
+## (mdpi)IETS.IoTtech  (2021-07-01) <span id="cd7cd52d96"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+=====================  
+
+
+MDPI-Special Issue on Advances in Vehicular Communications,  
+
+
+Networking and Systems  
+
+
+
+
+
+
+Professor Alexey Vinel from Halmstad University in Sweden, a pioneer in vehicular networking, and Dr Glenford Mapp from Middlesex University in London, United Kingdom, have been asked to be Guest Editors of a Special Issue of the MDPI Future Internet journal on Advances in Vehicular Communications, Networking, and Systems. Topics of interest include, but are not limited to, the following:  
+
+
+
+
+
+
+Vehicular Communication Technologies:  
+
+
+5G and 802.11p; Cloud-RAN and SDRAN; heterogeneous communication systems; propagation models; backhaul systems; future technologies for vehicular systems, including 6G, 802.11bd, Li-Fi, UAV platforms, and low-orbiting satellite systems.  
+
+
+
+
+
+
+Vehicular Networking:  
+
+
+Vehicle networking architectures, network programming paradigms, network slicing, new network and transport protocols, AI and machine learning algorithms, internet of vehicles, analytical models, and testbeds for vehicular systems.  
+
+
+
+
+
+
+Vehicular Systems:  
+
+
+Vehicular edge clouds, orchestration, mobile services, end-to-end quality-of-service guarantees, security and privacy issues, trust and reputation models, service management and application frameworks, digital twin technologies, smart transport, social internet of vehicles, new types of CAVs, applications, and services, and business and economic transportation models.  
+
+
+
+
+
+
+Details at [https://www.mdpi.com/journal/futureinternet/special_issues/A_VCN_S.](https://www.mdpi.com/journal/futureinternet/special_issues/A_VCN_S.)  
+
+
+
+
+
+
+As you can see, we are inviting submissions from several research areas. If you have research that you think can be published in this Special Issue, we would welcome your participation.  
+
+
+
+
+
+
+The deadline for manuscript submissions is 20 July 2021.  
+
+
+
+
+
+
+Alexey Vinel and Glenford Mapp  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (J)TSIE.AI.for.industrial.apps  (2021-07-01) <span id="97677a4722"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+Call For Papers  
+Special Issue: Artificial Intelligence in Industrial Applications  
+JOURNAL OF THE CHINESE INSTITUTE OF ENGINEERS  
+
+
+As AI technology has grown significantly to solve many human challenges, the industrial sector would be the crucial part that needs to be first addressed in demand for solutions, so as to improve facilities and quality production enriching human lives and improving the environment. The Journal of Chinese Institute of Engineers (JCIE) has therefore called a special issue for research articles that use AI technologies to solve or provide solutions to the wide variety of industrial challenges. The submitted papers should deal with applying state-of-the-art AI technologies to all aspects of the industrial challenges, but are not limited to the following: 1. Automated Optical Inspection (AOI) 2. Smart Manufacturing / Automated Production 4. Process Control / Heuristics / Scheduling / Optimization / Automation 5. The Applications of AI in Industry 6. Defect Detection / Quality Control 8. Integrated Solutions / Performance Evaluation 9. Explainable AI 10. Raw Material Transport 11. Big Data Analytics in Engineering (Methods and Applications) 12. Industrial Applications of Fuzzy Set Theory / Data-driven Decision-making and Many More ... The Journal is published in English and is indexed in the Science Citation Index (SCI), the Engineering Index (EI), SciSearch, Research Alert, and SciCurrent Contents. Prospective authors should follow the JCIE manuscript format described in the Information for Authors found in any issue of JCIE. Submission Notice 1. Authors have to use the online submission at “Online Submission” to submit their manuscripts for the “Special Issue for AI” section for consideration as publications in this special issue of JCIE. 2. For details of online submission to JCIE, please refer to [https://jcie.ntust.edu.tw/](https://jcie.ntust.edu.tw/) or [https://mc.manuscriptcentral.com/tcie.](https://mc.manuscriptcentral.com/tcie.)  
+
+
+Publication Schedule:  
+Manuscript Submission Due: July 1, 2021  
+Acceptance Notification: Aug. 15, 2021  
+Final Manuscript Due: Sep. 30, 2021  
+
+
+Guest Editors:  
+Professor Shyan-Ming Yuan (smyuan@cs.nctu.edu.tw) Department of Computer Science, National Yang Ming Chiao Tung University, Hsinchu, Taiwan  
+Associate Professor Ruey-Kai Sheu (rickysheu@thu.edu.tw) Department of Computer Science, Tunghai University, Taichung, Taiwan  
+Associate Professor Zheng-Yun Zhuang (wayne@nkust.edu.tw) Department of Civil Engineering, National Kaohsiung University of Science and Technology, Kaohsiung, Taiwa  
+袁賢銘 Shyan-Ming Yuan, Ph.D.  
+Director, Library, National Yang Ming Chiao Tung University  
+Professor, Computer Science Department  
+[https://scholar.google.com.tw/citations?user=X9nPxF4AAAAJ&hl=zh-TW](https://scholar.google.com.tw/citations?user=X9nPxF4AAAAJ&hl=zh-TW)  
+[https://orcid.org/0000-0002-3621-9528](https://orcid.org/0000-0002-3621-9528)  
+
+
+
+
+-------------------------------------------------------  
+We love you. We are sorry. Please forgive us. Thank you.  
+_______________________________________________  
+Mycolleagues mailing list  
+Mycolleagues@mailman.ufsc.br  
+[https://mailman.ufsc.br/mailman/listinfo/mycolleagues](https://mailman.ufsc.br/mailman/listinfo/mycolleagues)  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## springerlink.ruSMART.smart.spaces@peter  (2021-07-01) <span id="e598d96eae"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -4871,226 +5211,6 @@ OR
  <span style="color:#666;">[→top](#top)</span>
 
 
-## (mdpi)IETS.IoTtech  (2021-07-01) <span id="cd7cd52d96"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-=====================  
-
-
-MDPI-Special Issue on Advances in Vehicular Communications,  
-
-
-Networking and Systems  
-
-
-
-
-
-
-Professor Alexey Vinel from Halmstad University in Sweden, a pioneer in vehicular networking, and Dr Glenford Mapp from Middlesex University in London, United Kingdom, have been asked to be Guest Editors of a Special Issue of the MDPI Future Internet journal on Advances in Vehicular Communications, Networking, and Systems. Topics of interest include, but are not limited to, the following:  
-
-
-
-
-
-
-Vehicular Communication Technologies:  
-
-
-5G and 802.11p; Cloud-RAN and SDRAN; heterogeneous communication systems; propagation models; backhaul systems; future technologies for vehicular systems, including 6G, 802.11bd, Li-Fi, UAV platforms, and low-orbiting satellite systems.  
-
-
-
-
-
-
-Vehicular Networking:  
-
-
-Vehicle networking architectures, network programming paradigms, network slicing, new network and transport protocols, AI and machine learning algorithms, internet of vehicles, analytical models, and testbeds for vehicular systems.  
-
-
-
-
-
-
-Vehicular Systems:  
-
-
-Vehicular edge clouds, orchestration, mobile services, end-to-end quality-of-service guarantees, security and privacy issues, trust and reputation models, service management and application frameworks, digital twin technologies, smart transport, social internet of vehicles, new types of CAVs, applications, and services, and business and economic transportation models.  
-
-
-
-
-
-
-Details at [https://www.mdpi.com/journal/futureinternet/special_issues/A_VCN_S.](https://www.mdpi.com/journal/futureinternet/special_issues/A_VCN_S.)  
-
-
-
-
-
-
-As you can see, we are inviting submissions from several research areas. If you have research that you think can be published in this Special Issue, we would welcome your participation.  
-
-
-
-
-
-
-The deadline for manuscript submissions is 20 July 2021.  
-
-
-
-
-
-
-Alexey Vinel and Glenford Mapp  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (inderscience)wearable.devices.expert.systems  (2021-07-01) <span id="73a0524954"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-International Journal of Ad Hoc and Ubiquitous Computing  
-
-
-Special Issue on: "Recent Advances in Wearable Devices for Emerging Expert Systems"  
-
-
-Guest Editors:  
-Dr. Maheswar Rajagopal, VIT Bhopal University, India  
-Dr. Jaime Lloret, Universidad Politecnica de Valencia, Spain  
-
-
-
-
-Wearable devices are electronic devices worn by consumers ubiquitously and continually to capture or track biometric information related to health or fitness. Wearable devices range from smartwatches and fitness trackers to virtual reality (VR) headsets, physiological and real-time health monitoring, navigation systems, advanced textiles, military personnel wear and so on.  
-
-
-Research into wearable devices a hot area, specifically for researchers working in personal and ubiquitous computing. Several challenges with wearable devices exist due to limited display area, battery life, renewable battery power, miniaturisation and integration, safety, security and privacy. Further important issues include reliability, software bugs and failure modes. But advancements in electronic product design, fabrication techniques, artificial intelligence, machine learning, deep learning and signal processing techniques facilitate the overcoming of the aforementioned challenging issues. Numerous research projects are in progress to provide solutions for limited memory, battery size, device shapes, data reliability, security concerns, and communication and networking protocols.  
-
-
-This special issue is primarily focused on wearable devices in terms of different sensing mechanisms, materials for sensing (including energy harvesting) and how artificial intelligence, machine learning, deep learning and signal processing can be employed for ubiquitous computing in wearable devices.  
-
-
-Subject Coverage  
-Suitable topics include, but are not limited, to the following:  
-o Physical layer design in wearable devices  
-o Interfacing circuits for wearable devices  
-o Antennas for wearable devices  
-o Networking algorithms and protocols for wearable devices  
-o Device to device (D2D) communication protocols for wearable devices  
-o Cross-layer design issues in wearable devices  
-o Mobility effects in wearable devices  
-o Channel interference issues in wearable device networks  
-o RFID technology in wearable devices  
-o Integration of wearable and medical sensors with network infrastructures  
-o Energy harvesting and optimisation in wearable devices  
-o Security and privacy issues in wearable devices  
-o Reliability issues in wearable devices  
-o Intelligent and expert systems for wearable devices  
-o Information fusion for wearable devices  
-o Health data privacy in wearable devices  
-o Modelling and simulation of wearable device network  
-
-
-
-
-Notes for Prospective Authors  
-Submitted papers should not have been previously published nor be currently under consideration for publication elsewhere. (N.B. Conference papers may only be submitted if the paper has been completely re- written and if appropriate written permissions have been obtained from any copyright holders of the original paper).  
-
-
-All papers are refereed through a peer review process.  
-
-
-All papers must be submitted online. To submit a paper, please read the Submitting articles page:  
-[https://www.inderscience.com/info/inauthors/author_submit.php](https://www.inderscience.com/info/inauthors/author_submit.php)  
-
-
-Important Dates  
-Manuscripts due by: 30 October, 2021  
-Notification to authors: 15 January, 2022  
-Final versions due by: 15 March, 2022  
-
-
--------------------------------------------------------  
-We love you. We are sorry. Please forgive us. Thank you.  
-_______________________________________________  
-Mycolleagues mailing list  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (J)TSIE.AI.for.industrial.apps  (2021-07-01) <span id="97677a4722"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-Call For Papers  
-Special Issue: Artificial Intelligence in Industrial Applications  
-JOURNAL OF THE CHINESE INSTITUTE OF ENGINEERS  
-
-
-As AI technology has grown significantly to solve many human challenges, the industrial sector would be the crucial part that needs to be first addressed in demand for solutions, so as to improve facilities and quality production enriching human lives and improving the environment. The Journal of Chinese Institute of Engineers (JCIE) has therefore called a special issue for research articles that use AI technologies to solve or provide solutions to the wide variety of industrial challenges. The submitted papers should deal with applying state-of-the-art AI technologies to all aspects of the industrial challenges, but are not limited to the following: 1. Automated Optical Inspection (AOI) 2. Smart Manufacturing / Automated Production 4. Process Control / Heuristics / Scheduling / Optimization / Automation 5. The Applications of AI in Industry 6. Defect Detection / Quality Control 8. Integrated Solutions / Performance Evaluation 9. Explainable AI 10. Raw Material Transport 11. Big Data Analytics in Engineering (Methods and Applications) 12. Industrial Applications of Fuzzy Set Theory / Data-driven Decision-making and Many More ... The Journal is published in English and is indexed in the Science Citation Index (SCI), the Engineering Index (EI), SciSearch, Research Alert, and SciCurrent Contents. Prospective authors should follow the JCIE manuscript format described in the Information for Authors found in any issue of JCIE. Submission Notice 1. Authors have to use the online submission at “Online Submission” to submit their manuscripts for the “Special Issue for AI” section for consideration as publications in this special issue of JCIE. 2. For details of online submission to JCIE, please refer to [https://jcie.ntust.edu.tw/](https://jcie.ntust.edu.tw/) or [https://mc.manuscriptcentral.com/tcie.](https://mc.manuscriptcentral.com/tcie.)  
-
-
-Publication Schedule:  
-Manuscript Submission Due: July 1, 2021  
-Acceptance Notification: Aug. 15, 2021  
-Final Manuscript Due: Sep. 30, 2021  
-
-
-Guest Editors:  
-Professor Shyan-Ming Yuan (smyuan@cs.nctu.edu.tw) Department of Computer Science, National Yang Ming Chiao Tung University, Hsinchu, Taiwan  
-Associate Professor Ruey-Kai Sheu (rickysheu@thu.edu.tw) Department of Computer Science, Tunghai University, Taichung, Taiwan  
-Associate Professor Zheng-Yun Zhuang (wayne@nkust.edu.tw) Department of Civil Engineering, National Kaohsiung University of Science and Technology, Kaohsiung, Taiwa  
-袁賢銘 Shyan-Ming Yuan, Ph.D.  
-Director, Library, National Yang Ming Chiao Tung University  
-Professor, Computer Science Department  
-[https://scholar.google.com.tw/citations?user=X9nPxF4AAAAJ&hl=zh-TW](https://scholar.google.com.tw/citations?user=X9nPxF4AAAAJ&hl=zh-TW)  
-[https://orcid.org/0000-0002-3621-9528](https://orcid.org/0000-0002-3621-9528)  
-
-
-
-
--------------------------------------------------------  
-We love you. We are sorry. Please forgive us. Thank you.  
-_______________________________________________  
-Mycolleagues mailing list  
-Mycolleagues@mailman.ufsc.br  
-[https://mailman.ufsc.br/mailman/listinfo/mycolleagues](https://mailman.ufsc.br/mailman/listinfo/mycolleagues)  
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## EAI.smartcity.smartgovernence  (2021-07-01) <span id="54c1a151e6"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -5266,73 +5386,6 @@ Howard University, USA
  <span style="color:#666;">[→top](#top)</span>
 
 
-## (J)MDPI.energy.in.networks  (2021-07-01) <span id="0ae5575491"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-######################################################################  
-
-
-Call For Papers for Special Issue on  
-
-
-“Energy in networks”  
-
-
-[https://www.mdpi.com/journal/energies/special_issues/energy_networks](https://www.mdpi.com/journal/energies/special_issues/energy_networks)  
-
-
-MDPI Energies (ISSN 1996-1073; CODEN: ENERGA)  
-
-
-Impact Factor : 2.702  
-
-
-**Manuscripts can be submitted until the deadline: 20 September 2021**  
-
-
-######################################################################  
-
-
-
-
-
-
-The Internet, and more generally networks, are today almost mandatory in each application context. They are one of the most important key enablers for applications to be considered as smart, like those used in smart agriculture or smart industry. Since the number of users and connected devices in networks keep growing, more computational and consequently more energy resources are required. This has a big impact on the environment, specifically in pollution driven by electronical components and by the carbon footprint. Over many decades, researchers have started to tackle that problem and to propose sustainable solutions like recycling and exploiting renewable energies. Still, challenges are growing as technologies, infrastructures, architectures, and applications are always evolving, requiring more and more energy. It is worth noticing that the issue is not only a matter of reducing energy consumption but also of more efficiently managing available resources and specifically energy. The smart grid, with new services like storage, can be a key enabler to efficiently manage the energy demand for networks.  
-
-
-This Special Issue calls for original proposals from academia and industry on improving energy efficiency in networks targeting, but not limited to, algorithms, protocols, and architectures.  
-
-
-Topics of interest include but are not limited to the following:  
-
-
-Energy-efficient networking;  
-IA energy issues in networks;  
-Smart grid management/storage service for networks;  
-Energy-efficient secure networks;  
-6G energy issues;  
-Centric-user approaches;  
-Energy consumption models for physical and virtual network components;  
-Autonomous vehicles and UAV energy-efficient systems;  
-Energy-efficient IoT and industrial IoT networks.  
-
-
-
-
-Dr. Moez Esseghir  
-Guest Editor  
-
-
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
 ## EAI+J.smartgov.sustain.smartcities  (2021-07-01) <span id="52640d5502"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -5495,6 +5548,152 @@ Linwei Niu, Howard University, USA
 =======================================  
 
 
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (J)MDPI.energy.in.networks  (2021-07-01) <span id="0ae5575491"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+######################################################################  
+
+
+Call For Papers for Special Issue on  
+
+
+“Energy in networks”  
+
+
+[https://www.mdpi.com/journal/energies/special_issues/energy_networks](https://www.mdpi.com/journal/energies/special_issues/energy_networks)  
+
+
+MDPI Energies (ISSN 1996-1073; CODEN: ENERGA)  
+
+
+Impact Factor : 2.702  
+
+
+**Manuscripts can be submitted until the deadline: 20 September 2021**  
+
+
+######################################################################  
+
+
+
+
+
+
+The Internet, and more generally networks, are today almost mandatory in each application context. They are one of the most important key enablers for applications to be considered as smart, like those used in smart agriculture or smart industry. Since the number of users and connected devices in networks keep growing, more computational and consequently more energy resources are required. This has a big impact on the environment, specifically in pollution driven by electronical components and by the carbon footprint. Over many decades, researchers have started to tackle that problem and to propose sustainable solutions like recycling and exploiting renewable energies. Still, challenges are growing as technologies, infrastructures, architectures, and applications are always evolving, requiring more and more energy. It is worth noticing that the issue is not only a matter of reducing energy consumption but also of more efficiently managing available resources and specifically energy. The smart grid, with new services like storage, can be a key enabler to efficiently manage the energy demand for networks.  
+
+
+This Special Issue calls for original proposals from academia and industry on improving energy efficiency in networks targeting, but not limited to, algorithms, protocols, and architectures.  
+
+
+Topics of interest include but are not limited to the following:  
+
+
+Energy-efficient networking;  
+IA energy issues in networks;  
+Smart grid management/storage service for networks;  
+Energy-efficient secure networks;  
+6G energy issues;  
+Centric-user approaches;  
+Energy consumption models for physical and virtual network components;  
+Autonomous vehicles and UAV energy-efficient systems;  
+Energy-efficient IoT and industrial IoT networks.  
+
+
+
+
+Dr. Moez Esseghir  
+Guest Editor  
+
+
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (inderscience)wearable.devices.expert.systems  (2021-07-01) <span id="73a0524954"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+International Journal of Ad Hoc and Ubiquitous Computing  
+
+
+Special Issue on: "Recent Advances in Wearable Devices for Emerging Expert Systems"  
+
+
+Guest Editors:  
+Dr. Maheswar Rajagopal, VIT Bhopal University, India  
+Dr. Jaime Lloret, Universidad Politecnica de Valencia, Spain  
+
+
+
+
+Wearable devices are electronic devices worn by consumers ubiquitously and continually to capture or track biometric information related to health or fitness. Wearable devices range from smartwatches and fitness trackers to virtual reality (VR) headsets, physiological and real-time health monitoring, navigation systems, advanced textiles, military personnel wear and so on.  
+
+
+Research into wearable devices a hot area, specifically for researchers working in personal and ubiquitous computing. Several challenges with wearable devices exist due to limited display area, battery life, renewable battery power, miniaturisation and integration, safety, security and privacy. Further important issues include reliability, software bugs and failure modes. But advancements in electronic product design, fabrication techniques, artificial intelligence, machine learning, deep learning and signal processing techniques facilitate the overcoming of the aforementioned challenging issues. Numerous research projects are in progress to provide solutions for limited memory, battery size, device shapes, data reliability, security concerns, and communication and networking protocols.  
+
+
+This special issue is primarily focused on wearable devices in terms of different sensing mechanisms, materials for sensing (including energy harvesting) and how artificial intelligence, machine learning, deep learning and signal processing can be employed for ubiquitous computing in wearable devices.  
+
+
+Subject Coverage  
+Suitable topics include, but are not limited, to the following:  
+o Physical layer design in wearable devices  
+o Interfacing circuits for wearable devices  
+o Antennas for wearable devices  
+o Networking algorithms and protocols for wearable devices  
+o Device to device (D2D) communication protocols for wearable devices  
+o Cross-layer design issues in wearable devices  
+o Mobility effects in wearable devices  
+o Channel interference issues in wearable device networks  
+o RFID technology in wearable devices  
+o Integration of wearable and medical sensors with network infrastructures  
+o Energy harvesting and optimisation in wearable devices  
+o Security and privacy issues in wearable devices  
+o Reliability issues in wearable devices  
+o Intelligent and expert systems for wearable devices  
+o Information fusion for wearable devices  
+o Health data privacy in wearable devices  
+o Modelling and simulation of wearable device network  
+
+
+
+
+Notes for Prospective Authors  
+Submitted papers should not have been previously published nor be currently under consideration for publication elsewhere. (N.B. Conference papers may only be submitted if the paper has been completely re- written and if appropriate written permissions have been obtained from any copyright holders of the original paper).  
+
+
+All papers are refereed through a peer review process.  
+
+
+All papers must be submitted online. To submit a paper, please read the Submitting articles page:  
+[https://www.inderscience.com/info/inauthors/author_submit.php](https://www.inderscience.com/info/inauthors/author_submit.php)  
+
+
+Important Dates  
+Manuscripts due by: 30 October, 2021  
+Notification to authors: 15 January, 2022  
+Final versions due by: 15 March, 2022  
+
+
+-------------------------------------------------------  
+We love you. We are sorry. Please forgive us. Thank you.  
+_______________________________________________  
+Mycolleagues mailing list  
 
 
 
@@ -5723,314 +5922,6 @@ submission. Accepted papers will be included in the conference
 proceedings and published in the IEEE Xplore digital library (indexed  
 by EI). Please follow the submission link on  
 [https://easychair.org/my/conference?conf=msn2021](https://easychair.org/my/conference?conf=msn2021) to submit your paper.  
-
-
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## ACM.mobility.management.waccess  (2021-07-05) <span id="8ccfd93ecf"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-ALL FOR PAPERS  
-
-
-The 19th ACM* International Symposium on Mobility Management and Wireless  
-
-
-Access (ACM MobiWac 2021)  
-
-
-
-
-
-
-November 22 - 26, 2021 - Alicante, Spain  
-
-
-[http://mobiwac-symposium.org/](http://mobiwac-symposium.org/)  
-
-
-
-
-
-
-(*Pending) Sponsored by ACM  
-
-
-
-
-
-
----------------------------------------------------------------------------------------  
-
-
-IMPORTANT: Paper submission deadline: July 5th, 2021  
-
-
----------------------------------------------------------------------------------------  
-
-
-
-
-
-
-The MobiWac series of events are intended to provide an international  
-
-
-forum for the discussion and presentation of original ideas, recent  
-
-
-results and achievements by researchers, students, and systems  
-
-
-developers on issues and challenges related to mobility management and  
-
-
-wireless access protocols. Authors are encouraged to submit both  
-
-
-theoretical and practical results of significance on all aspects of  
-
-
-wireless and mobile access technologies, with an emphasis on mobility  
-
-
-management and wireless access. Authors are invited to submit full  
-
-
-papers describing original research. Submitted papers must neither have  
-
-
-been published elsewhere nor currently be under review by another  
-
-
-conference or journal.  
-
-
-
-
-
-
-Topics of interest include, but are not limited to:  
-
-
-
-
-
-
-* 5G/6G  
-
-
-* AI-based mobility management  
-
-
-* AI-enabled wireless networks  
-
-
-* Analysis/simulation of wireless mobile systems  
-
-
-* Big data analytics for mobile and wireless networks  
-
-
-* Channels and resource allocation algorithms  
-
-
-* Context-aware protocols, services, architecture and applications  
-
-
-* Cyber-Physical Systems and Cyber-Physical Social Systems  
-
-
-* Energy and power management algorithms  
-
-
-* Fault tolerance solutions  
-
-
-* Localization and tracking  
-
-
-* Mobile and wireless entertainment and multimedia applications  
-
-
-* Mobile broadband wireless access  
-
-
-* Mobile cloud/fog/edge computing  
-
-
-* Mobile/vehicular environment access  
-
-
-* Mobility models, control and management  
-
-
-* Multi-Channel Multi-Radio MAC/network layer management  
-
-
-* Multi-Homing and vertical handoff  
-
-
-* Multi-technology switching using Software Defined Radios  
-
-
-* Next generation wireless systems  
-
-
-* Pervasive communication and computing  
-
-
-* Pervasive, mobile and wearable computing systems and services  
-
-
-* QoS management  
-
-
-* Reconfigurable Intelligent Surfaces and Mobility Management  
-
-
-* SDN solutions in mobile and wireless networks  
-
-
-* Security, trust management and privacy issues  
-
-
-* Social mobile networks and applications  
-
-
-* Testbeds for experimental and simulation analysis  
-
-
-* Ubiquitous and mobile access  
-
-
-* Wireless ad hoc and sensor networks  
-
-
-* Wireless applications and testbeds  
-
-
-* Wireless Internet and All-IP integration  
-
-
-* Wireless systems' design  
-
-
-* Wireless/mobile access protocols and web access  
-
-
-
-
-
-
-============================================================================  
-
-
-
-
-
-
-Submission Guidelines:  
-
-
-
-
-
-
-High-quality original papers are solicited. Papers must be unpublished  
-
-
-and must not be submitted for publication elsewhere. All papers will be  
-
-
-reviewed by Technical Program Committee members and other experts active  
-
-
-in the field to ensure high quality and relevance to the Symposium. The  
-
-
-symposium will have a single track for regular papers and in addition, a  
-
-
-separate interwoven track with short papers / posters. Paper length must  
-
-
-be no more than 10 pages, double column, ACM style including tables and  
-
-
-figures. Note that the regular paper size will be 8 pages, with the  
-
-
-possibility to obtain up to 2 additional pages (total 10 pages) by  
-
-
-paying a publication fee. Only PDF format is accepted. All accepted  
-
-
-papers will appear in the Symposium proceedings published by ACM press.  
-
-
-
-
-
-
-Papers are submitted via the EDAS system: [https://edas.info/N28242](https://edas.info/N28242)  
-
-
-
-
-
-
-For any question or problems related to MobiWac 2021 submissions, please  
-
-
-contact the PC Chairs.  
-
-
-
-
-
-
-============================================================================  
-
-
-
-
-
-
-Important Dates:  
-
-
-
-
-
-
-Submission Deadline: July 5th, 2021  
-
-
-Notification of Acceptance: August 15th, 2021  
-
-
-Camera Ready version due: TBA  
-
-
-Author Registration deadline: TBA  
-
-
-Submission link: [https://edas.info/N28242](https://edas.info/N28242)  
-
-
-============================================================================  
-
-
 
 
 
@@ -6406,6 +6297,314 @@ Mirela. A. M. Notare, Technology University on Fly Transportation, Brazil
  <span style="color:#666;">[→top](#top)</span>
 
 
+## ACM.mobility.management.waccess  (2021-07-05) <span id="8ccfd93ecf"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+ALL FOR PAPERS  
+
+
+The 19th ACM* International Symposium on Mobility Management and Wireless  
+
+
+Access (ACM MobiWac 2021)  
+
+
+
+
+
+
+November 22 - 26, 2021 - Alicante, Spain  
+
+
+[http://mobiwac-symposium.org/](http://mobiwac-symposium.org/)  
+
+
+
+
+
+
+(*Pending) Sponsored by ACM  
+
+
+
+
+
+
+---------------------------------------------------------------------------------------  
+
+
+IMPORTANT: Paper submission deadline: July 5th, 2021  
+
+
+---------------------------------------------------------------------------------------  
+
+
+
+
+
+
+The MobiWac series of events are intended to provide an international  
+
+
+forum for the discussion and presentation of original ideas, recent  
+
+
+results and achievements by researchers, students, and systems  
+
+
+developers on issues and challenges related to mobility management and  
+
+
+wireless access protocols. Authors are encouraged to submit both  
+
+
+theoretical and practical results of significance on all aspects of  
+
+
+wireless and mobile access technologies, with an emphasis on mobility  
+
+
+management and wireless access. Authors are invited to submit full  
+
+
+papers describing original research. Submitted papers must neither have  
+
+
+been published elsewhere nor currently be under review by another  
+
+
+conference or journal.  
+
+
+
+
+
+
+Topics of interest include, but are not limited to:  
+
+
+
+
+
+
+* 5G/6G  
+
+
+* AI-based mobility management  
+
+
+* AI-enabled wireless networks  
+
+
+* Analysis/simulation of wireless mobile systems  
+
+
+* Big data analytics for mobile and wireless networks  
+
+
+* Channels and resource allocation algorithms  
+
+
+* Context-aware protocols, services, architecture and applications  
+
+
+* Cyber-Physical Systems and Cyber-Physical Social Systems  
+
+
+* Energy and power management algorithms  
+
+
+* Fault tolerance solutions  
+
+
+* Localization and tracking  
+
+
+* Mobile and wireless entertainment and multimedia applications  
+
+
+* Mobile broadband wireless access  
+
+
+* Mobile cloud/fog/edge computing  
+
+
+* Mobile/vehicular environment access  
+
+
+* Mobility models, control and management  
+
+
+* Multi-Channel Multi-Radio MAC/network layer management  
+
+
+* Multi-Homing and vertical handoff  
+
+
+* Multi-technology switching using Software Defined Radios  
+
+
+* Next generation wireless systems  
+
+
+* Pervasive communication and computing  
+
+
+* Pervasive, mobile and wearable computing systems and services  
+
+
+* QoS management  
+
+
+* Reconfigurable Intelligent Surfaces and Mobility Management  
+
+
+* SDN solutions in mobile and wireless networks  
+
+
+* Security, trust management and privacy issues  
+
+
+* Social mobile networks and applications  
+
+
+* Testbeds for experimental and simulation analysis  
+
+
+* Ubiquitous and mobile access  
+
+
+* Wireless ad hoc and sensor networks  
+
+
+* Wireless applications and testbeds  
+
+
+* Wireless Internet and All-IP integration  
+
+
+* Wireless systems' design  
+
+
+* Wireless/mobile access protocols and web access  
+
+
+
+
+
+
+============================================================================  
+
+
+
+
+
+
+Submission Guidelines:  
+
+
+
+
+
+
+High-quality original papers are solicited. Papers must be unpublished  
+
+
+and must not be submitted for publication elsewhere. All papers will be  
+
+
+reviewed by Technical Program Committee members and other experts active  
+
+
+in the field to ensure high quality and relevance to the Symposium. The  
+
+
+symposium will have a single track for regular papers and in addition, a  
+
+
+separate interwoven track with short papers / posters. Paper length must  
+
+
+be no more than 10 pages, double column, ACM style including tables and  
+
+
+figures. Note that the regular paper size will be 8 pages, with the  
+
+
+possibility to obtain up to 2 additional pages (total 10 pages) by  
+
+
+paying a publication fee. Only PDF format is accepted. All accepted  
+
+
+papers will appear in the Symposium proceedings published by ACM press.  
+
+
+
+
+
+
+Papers are submitted via the EDAS system: [https://edas.info/N28242](https://edas.info/N28242)  
+
+
+
+
+
+
+For any question or problems related to MobiWac 2021 submissions, please  
+
+
+contact the PC Chairs.  
+
+
+
+
+
+
+============================================================================  
+
+
+
+
+
+
+Important Dates:  
+
+
+
+
+
+
+Submission Deadline: July 5th, 2021  
+
+
+Notification of Acceptance: August 15th, 2021  
+
+
+Camera Ready version due: TBA  
+
+
+Author Registration deadline: TBA  
+
+
+Submission link: [https://edas.info/N28242](https://edas.info/N28242)  
+
+
+============================================================================  
+
+
+
+
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## (mdpi)vehicularcomm  (2021-07-15) <span id="23527482b2"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -6617,17 +6816,191 @@ Guest Editors
  <span style="color:#666;">[→top](#top)</span>
 
 
-## (J)IEEE.iri.IoV  (2021-07-31) <span id="788b583c52"></span> <span style="color:#666;">[→top](#top)</span>
+## IEEE.IoTaIS.IoT.intelsystems  (2021-07-30) <span id="961850bb34"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+CALL FOR PAPERS  
+The 2021 IEEE Conference on Internet of Things and Intelligence Systems (IoTaIS'2021)  
+
+
+Bali - Indonesia, January 27-28, 2021  
+[http://iotais.org/](http://iotais.org/)  
+=====================================  
+Papers Submission: July 30, 2021  
+[https://edas.info/N28582](https://edas.info/N28582)  
+=====================================  
+
+
+It is our great pleasure to welcome you to The 2021 IEEE Conference on Internet of Things and Intelligence Systems (IoTaIS'2021) . The conference will be held on November 23-24, 2021 as Virtual Event. This conference is organized and sponsored by the IEEE Indonesia Communication Society Chapter and supported by Telkom University, IEEE IoT Initiative and IPv6 Forum.  
+
+
+Recent developments of Internet of Things (IoT) and Intelligence Systems are numerous and very interesting, covering a wide range of areas, such as: transportation, healthcare, agriculture, manufacturing, smart city and many more. Many new ideas and research results in these fields continues to emerge from time to time. Unfortunately, there only exist a few events in the region with suitable places to present the ideas as well as to exhibit the recent research results of IoT and Intelligence Systems. International Conference on IoT and Intelligence Systems (IoTaIS) intends to provide solutions to the problems above, by providing a forum for meetings of industry players, researchers and academicians, to showcase the latest research results, to collaborate and to share ideas for the advancement of IoT and Intelligence Systems.  
+
+
+This conference will provide an international forum for researchers, academicians, professionals, and students from various engineering fields and with cross-disciplinary interests in IoT and Intelligence Systems to interact and disseminate information on the latest developments. The conference will include technical sessions, tutorials and technology and business panels. You are invited to submit your papers to the conference. After peer review process, accepted papers will be published in the IoTaIS'2021 Conference Proceedings and presented papers will be submitted to IEEE Xplore after each paper is thoroughly reviewed and (if any) satisfactorily modified according to the reviewer comments.  
+
+
+
+
+
+
+==============  
+RELATED TOPICS  
+
+
+IoTaIS'2021 invites papers, original & unpublished work from individuals active in the broad theme of the conference. Potential topics include, but are not limited to:  
+
+
+#Track 1: Vertical Oriented IoT Applications  
+Smart Transportation  
+Connected Car, Automotive  
+Intelligent Transportation  
+Highway, Rail Systems  
+Emergency vehicle notification systems  
+Automatic road enforcement  
+Smart Traffic Light  
+Smart Collision Avoidance  
+Smart Tele-healthcare  
+Healthcare, e-Health, Assisted Living  
+Smart Telecardiolgy and Telenursing  
+Telerehabilitation and Teletrauma  
+Smart Agriculture  
+Environmental Monitoring  
+Smart Manufacturing  
+Utilities Management and Operation  
+Logistics and Supply Chain Optimization  
+Production Flow Monitoring  
+Health of Machinery  
+Industrial IoT  
+Smart Cities  
+Smart Home, Building Management and Operation Automation  
+Smart Grid and Energy Management  
+
+
+#Track 2: Computer and Devices Technologies for IoT  
+Embedded Computer and Systems  
+Sensors and Actuators  
+Interfaces  
+Software for IoT  
+Storage and Data Management for IoT  
+Computing for IoT  
+Cloud and Fog Computing  
+Edge and Mobile Computing  
+Platform Based Computing  
+
+
+#Track 3: Connectivity for IoT  
+Legacy Networks  
+5G Networks  
+IPv6, 6LoWPAN, RPL, 6TiSCH, W3C  
+Network Coding  
+D2d and M2M Communications  
+High Band, Narrow Band Networks  
+Software Defined Networks  
+Sensor Network  
+Massive IoT  
+
+
+#Track 4: Application and Services  
+Platforms and Framework  
+Cyber-physical systems  
+Big data and IoT Data Analytics  
+Semantic Technologies, Collective Intelligence  
+Horizontal application development for IoT  
+Service Experiences and Analysis  
+Green IoT: Sustainable Design and Technologies  
+IoT Experimental Results and Deployment Scenarios  
+Security and Privacy for Internet of Things  
+Identification and authentication issues  
+Intrusion and Attacks in IoT  
+Cryptography, key management and authorization for IoT  
+
+
+#Track 5: Intelligence Systems  
+Deep Learning  
+Neural Networks  
+Fuzzy Logic  
+Expert Systems  
+Computational Intelligence  
+Natural Language Processing  
+Data Mining  
+Support Vector Machines  
+Biometrics  
+Sentiment Analysis  
+Machine Vision  
+Human Computer Interaction  
+Pattern Recognition  
+Image/Video Processing  
+Intrusion Detection  
+Geographic Information Systems  
+Signal Processing  
+Medical Diagnosis  
+Segmentation Techniques  
+Augmented Reality  
+Virtual Reality  
+Ambient Intelligence  
+Agents and Multi-agent Systems  
+Context-aware pervasive systems  
+
+
+
+
+================  
+IMPORTANT DATES  
+
+
+Full Papers Submission :  
+July 30, 2021  
+
+
+Acceptance Notification :  
+September 30, 2021  
+
+
+Authors Registration Deadline :  
+October 30, 2021  
+
+
+Final Manuscript Deadline :  
+October 30, 2021  
+
+
+Conference Date : November 23-24, 2021  
+
+
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (J)federated.learning.IoV  (2021-07-31) <span id="445c89cb69"></span> <span style="color:#666;">[→top](#top)</span>
 
 
 
 Special Issue on Federated Deep Learning-Empowered Internet of Vehicles  
 
 
+
+
+
+
 Internet of Vehicles (IoV) is designed to seamlessly connect smart vehicles, road infrastructures, communication facilities and users. The goal is to provide a comprehensive environment overview, improve transportation efficiency and reduce road accidents. Artificial intelligence (AI) technology, especially deep learning, is essential for the progress of intelligent IoV. However, with the growing complexity of on-board sensors, the big raw data sets available for deep learning can give rise to concerns over data security and privacy, as well as huge communication overheads.  
 
 
+
+
+
+
 Distributed machine learning among smart vehicles and edge-cloud entities based on federated deep learning (FDL) is helping to address these challenges. FDL allows a central server to cooperate with multiple clients to jointly train a machine learning model. Clients upload parameters of the trained model to the central server and keep their training data locally, thus significantly reducing the communication costs and the data privacy risks. Although FDL has great potential for intelligent IoV, further research is required in some areas. For example, the trade-off optimisation between Quality of Service (QoS) and energy consumption in intelligent IoV, the efficient design of learning models in FDL for different intelligent IoV problems, communication efficiency for heterogeneous IoV technologies, and the security and privacy issues related to FDL under the dynamic IoV environment.  
+
+
+
+
 
 
 The objective of this special issue is to assemble high-quality research papers on emerging theories, frameworks, architectures and algorithms for solving the challenging problems related to FDL- empowered intelligent IoV. It will also offer an open platform for scholars and engineers to exchange their recent novel ideas and explore the potential convergence of existing intelligent IoV systems and advanced FDL technologies.  
@@ -6673,78 +7046,21 @@ Peng Liu, Hangzhou Dianzi University, China.
 
 
 
+-------------------------------------------------------  
+We love you. We are sorry. Please forgive us. Thank you.  
+_______________________________________________  
+Mycolleagues mailing list  
+Mycolleagues@mailman.ufsc.br  
+[https://mailman.ufsc.br/mailman/listinfo/mycolleagues](https://mailman.ufsc.br/mailman/listinfo/mycolleagues)  
 
 
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (J)BigDataJournal.perfmanagment.large.clusters  (2021-07-31) <span id="ccdc6966e6"></span> <span style="color:#666;">[→top](#top)</span>
-
-CALL FOR PARTICIPATION  
-======================  
-Article Collection "Automatic Performance Management and Optimization on Large-scale Heterogeneous Clusters"  
-Frontiers in Big Data Journal  
-[https://fro.ntiers.in/Umfs](https://fro.ntiers.in/Umfs)  
-
-
-
-
-Introduction  
-------------  
-Modern industrial, government, and academic organizations are collecting massive amounts of data at an unprecedented scale and pace, which are then analysed on large compute clusters in order to extract value and deep insights. These insights can drive automated processes for advertisement placement, improve customer relationship management, and lead to major scientific breakthroughs. Ensuring good and robust system performance at such a scale is the foundation for successfully performing timely and cost-effective analytics. However, as the new systems have grown in scale and complexity, the administration and management of system resources have become very expensive with the human factor dominating the total cost of ownership. To make matters worse, computing clusters are increasingly becoming heterogeneous in nature, both in the compute and the storage tier. Heterogeneity, if not addressed appropriately, is shown to have detrimental effects on the overall system performance.  
-
-
-As organizations often own multiple generations of hardware and data centres are starting to use virtualization to consolidate servers, heterogeneous environments are becoming common in practice. Computing-wise, nodes can have CPUs with different capacities and number of cores, making performance-based resource allocation and workload scheduling extremely important and challenging. In addition, the presence of GPUs and FPGAs on modern clusters has inspired their use by various big data frameworks. On the storage front, cluster nodes can have multiple hard drives, SSDs, and large memory, all of different sizes, while emerging storage technologies (e.g., NVMe, SCM) are becoming more popular. At the same time, applications exhibit a variety of I/O patterns: batch-processing applications care about raw sequential throughput, interactive query processing benefits from lower latency storage media, whereas other applications display random I/O patterns. Hence, it is desirable to have a variety of storage types and let each application choose the one that best fits its performance or cost requirements. Administrators and systems will need mechanisms to manage the fair distribution of scarce storage resources across all users, ideally in an automated manner. The goal of this article collection is to report recent advances in automating (fully or partially) any aspects of resource management and performance optimization in the presence of heterogeneous cluster environments.  
+- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.  
+OR  
+- Easy unsubscribe: [https://mailman.ufsc.br/mailman/options/mycolleagues](https://mailman.ufsc.br/mailman/options/mycolleagues)  
 
 
 
 
-Topics of Interest  
-------------------  
-The topics of the Article Collection include, but are not limited to, the following:  
-• Automated resource allocation in heterogeneous clusters  
-• Workload and task scheduling in heterogeneous environments  
-• Performance optimization and tuning of data-parallel applications  
-• Automated data management in heterogeneous and emerging storage systems  
-• Automatic parameter tuning in big data processing systems  
-• Automatic big data systems tuning that is robust to workload and resource uncertainty  
-• Query processing, indexing, and optimization in heterogeneous clusters  
-• Data stream processing in heterogeneous environments  
-• Automated provisioning of heterogeneous cluster resources  
-• System administration and manageability  
-
-
-
-
-Important Information  
----------------------  
-You are cordially invited to submit a manuscript for consideration and possible publication. Papers can be original research, reviews, or perspectives, among other article types. For more information visit: [https://fro.ntiers.in/Umfs](https://fro.ntiers.in/Umfs)  
-
-
-If you decide to submit a manuscript within our collection, your contribution will be peer-reviewed and judged based on its originality, interest, clarity, relevance, correctness, language, and presentation (inter alia) by our editorial board members. Immediately upon publication, your paper will be free to read online, increasing its visibility and citations.  
-
-
-As an Open Access publisher, we charge a small Article Processing Charge for accepted papers (USD 1150 for long articles; USD 450 for shorter ones). Information on the publishing fees and financial support for authors can be found here: [https://www.frontiersin.org/about/publishing-fees.](https://www.frontiersin.org/about/publishing-fees.)  
-
-
-We encourage authors to submit Abstracts ahead of the full manuscript submission.  
-
-
-The deadline for manuscript submission is 31 July 2021 (manuscripts are reviewed as soon as they are submitted and published as soon as they are accepted).  
-
-
-We look forward to working with you.  
-
-
-
-
-Kind Regards,  
-
-
-The topic editors:  
-Herodotos Herodotou, Cyprus University of Technology  
-Manos Athanassoulis, Boston University  
-Eduardo Cunha De Almeida, Federal University of Paraná  
 
 
 
@@ -6900,29 +7216,91 @@ Prof. Dr. Carlos Tavares Calafate (Technical University of Valencia, SPAIN)
  <span style="color:#666;">[→top](#top)</span>
 
 
-## (J)federated.learning.IoV  (2021-07-31) <span id="445c89cb69"></span> <span style="color:#666;">[→top](#top)</span>
+## (J)BigDataJournal.perfmanagment.large.clusters  (2021-07-31) <span id="ccdc6966e6"></span> <span style="color:#666;">[→top](#top)</span>
+
+CALL FOR PARTICIPATION  
+======================  
+Article Collection "Automatic Performance Management and Optimization on Large-scale Heterogeneous Clusters"  
+Frontiers in Big Data Journal  
+[https://fro.ntiers.in/Umfs](https://fro.ntiers.in/Umfs)  
+
+
+
+
+Introduction  
+------------  
+Modern industrial, government, and academic organizations are collecting massive amounts of data at an unprecedented scale and pace, which are then analysed on large compute clusters in order to extract value and deep insights. These insights can drive automated processes for advertisement placement, improve customer relationship management, and lead to major scientific breakthroughs. Ensuring good and robust system performance at such a scale is the foundation for successfully performing timely and cost-effective analytics. However, as the new systems have grown in scale and complexity, the administration and management of system resources have become very expensive with the human factor dominating the total cost of ownership. To make matters worse, computing clusters are increasingly becoming heterogeneous in nature, both in the compute and the storage tier. Heterogeneity, if not addressed appropriately, is shown to have detrimental effects on the overall system performance.  
+
+
+As organizations often own multiple generations of hardware and data centres are starting to use virtualization to consolidate servers, heterogeneous environments are becoming common in practice. Computing-wise, nodes can have CPUs with different capacities and number of cores, making performance-based resource allocation and workload scheduling extremely important and challenging. In addition, the presence of GPUs and FPGAs on modern clusters has inspired their use by various big data frameworks. On the storage front, cluster nodes can have multiple hard drives, SSDs, and large memory, all of different sizes, while emerging storage technologies (e.g., NVMe, SCM) are becoming more popular. At the same time, applications exhibit a variety of I/O patterns: batch-processing applications care about raw sequential throughput, interactive query processing benefits from lower latency storage media, whereas other applications display random I/O patterns. Hence, it is desirable to have a variety of storage types and let each application choose the one that best fits its performance or cost requirements. Administrators and systems will need mechanisms to manage the fair distribution of scarce storage resources across all users, ideally in an automated manner. The goal of this article collection is to report recent advances in automating (fully or partially) any aspects of resource management and performance optimization in the presence of heterogeneous cluster environments.  
+
+
+
+
+Topics of Interest  
+------------------  
+The topics of the Article Collection include, but are not limited to, the following:  
+• Automated resource allocation in heterogeneous clusters  
+• Workload and task scheduling in heterogeneous environments  
+• Performance optimization and tuning of data-parallel applications  
+• Automated data management in heterogeneous and emerging storage systems  
+• Automatic parameter tuning in big data processing systems  
+• Automatic big data systems tuning that is robust to workload and resource uncertainty  
+• Query processing, indexing, and optimization in heterogeneous clusters  
+• Data stream processing in heterogeneous environments  
+• Automated provisioning of heterogeneous cluster resources  
+• System administration and manageability  
+
+
+
+
+Important Information  
+---------------------  
+You are cordially invited to submit a manuscript for consideration and possible publication. Papers can be original research, reviews, or perspectives, among other article types. For more information visit: [https://fro.ntiers.in/Umfs](https://fro.ntiers.in/Umfs)  
+
+
+If you decide to submit a manuscript within our collection, your contribution will be peer-reviewed and judged based on its originality, interest, clarity, relevance, correctness, language, and presentation (inter alia) by our editorial board members. Immediately upon publication, your paper will be free to read online, increasing its visibility and citations.  
+
+
+As an Open Access publisher, we charge a small Article Processing Charge for accepted papers (USD 1150 for long articles; USD 450 for shorter ones). Information on the publishing fees and financial support for authors can be found here: [https://www.frontiersin.org/about/publishing-fees.](https://www.frontiersin.org/about/publishing-fees.)  
+
+
+We encourage authors to submit Abstracts ahead of the full manuscript submission.  
+
+
+The deadline for manuscript submission is 31 July 2021 (manuscripts are reviewed as soon as they are submitted and published as soon as they are accepted).  
+
+
+We look forward to working with you.  
+
+
+
+
+Kind Regards,  
+
+
+The topic editors:  
+Herodotos Herodotou, Cyprus University of Technology  
+Manos Athanassoulis, Boston University  
+Eduardo Cunha De Almeida, Federal University of Paraná  
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (J)IEEE.iri.IoV  (2021-07-31) <span id="788b583c52"></span> <span style="color:#666;">[→top](#top)</span>
 
 
 
 Special Issue on Federated Deep Learning-Empowered Internet of Vehicles  
 
 
-
-
-
-
 Internet of Vehicles (IoV) is designed to seamlessly connect smart vehicles, road infrastructures, communication facilities and users. The goal is to provide a comprehensive environment overview, improve transportation efficiency and reduce road accidents. Artificial intelligence (AI) technology, especially deep learning, is essential for the progress of intelligent IoV. However, with the growing complexity of on-board sensors, the big raw data sets available for deep learning can give rise to concerns over data security and privacy, as well as huge communication overheads.  
 
 
-
-
-
-
 Distributed machine learning among smart vehicles and edge-cloud entities based on federated deep learning (FDL) is helping to address these challenges. FDL allows a central server to cooperate with multiple clients to jointly train a machine learning model. Clients upload parameters of the trained model to the central server and keep their training data locally, thus significantly reducing the communication costs and the data privacy risks. Although FDL has great potential for intelligent IoV, further research is required in some areas. For example, the trade-off optimisation between Quality of Service (QoS) and energy consumption in intelligent IoV, the efficient design of learning models in FDL for different intelligent IoV problems, communication efficiency for heterogeneous IoV technologies, and the security and privacy issues related to FDL under the dynamic IoV environment.  
-
-
-
-
 
 
 The objective of this special issue is to assemble high-quality research papers on emerging theories, frameworks, architectures and algorithms for solving the challenging problems related to FDL- empowered intelligent IoV. It will also offer an open platform for scholars and engineers to exchange their recent novel ideas and explore the potential convergence of existing intelligent IoV systems and advanced FDL technologies.  
@@ -6962,23 +7340,6 @@ Jia Hu, University of Exeter, UK. (Managing Guest Editor)
 Hamid Sharif, University of Nebraska, USA.  
 Tony Q.S. Quek, Singapore University of Technology and Design, Singapore.  
 Peng Liu, Hangzhou Dianzi University, China.  
-
-
-
-
-
-
--------------------------------------------------------  
-We love you. We are sorry. Please forgive us. Thank you.  
-_______________________________________________  
-Mycolleagues mailing list  
-Mycolleagues@mailman.ufsc.br  
-[https://mailman.ufsc.br/mailman/listinfo/mycolleagues](https://mailman.ufsc.br/mailman/listinfo/mycolleagues)  
-
-
-- Through this links above you can "subscribe", "unsubscribe", or change your settings in the list.  
-OR  
-- Easy unsubscribe: [https://mailman.ufsc.br/mailman/options/mycolleagues](https://mailman.ufsc.br/mailman/options/mycolleagues)  
 
 
 
@@ -7554,6 +7915,105 @@ Emna Ben Salem, University of Carthage, Tunisia
 
 
 
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
+## (elsevier)distributed.AI.for.edgenets  (2021-08-31) <span id="88b83d3bb6"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+DISTRIBUTED INTELLIGENCE AT THE EDGE FOR THE FUTURE INTERNET OF THINGS -  
+
+
+JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING  
+
+
+WEBSITE:  
+[https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-intelligence-at-the-edge-for-the-future)  
+
+
+
+
+IMPOTRANT DATES:  
+
+
+Submission deadline: 31-AUGUST-2021 (EXTENDED)  
+Acceptance deadline: 31-JANUARY-2022 (EXTENDED)  
+Publication: EARLY 2022  
+
+
+SCOPE:  
+Currently and even more in the future, business, industry, finance and retail, healthcare, media, entertainment and many others, are and will be completely managed, coordinated, and controlled using huge amounts of data. These operations are performed by the Internet of Things (IoT) system of connected computing, digital, and mechanical devices, all of them named using unique identifiers (UIDs) and able to transfer data over a network without human intervention.  
+
+
+To extract value from such massive data volumes, processing power offered by cloud computing is still utilized. However, streaming data to the cloud exposes some limitations related to the increased communication and data transfer, which introduces delays and consumes network bandwidth. Another limitation that cloud-based computing for IoT poses is limited network connectivity. Therefore, the adoption of cloud computing to process data generated by IoT devices may not be applicable at all to classes of applications such as those needed for real-time, low latency, and mobile applications. Therefore, it is beyond imagination to use cloud computing to collect data, store, and work out results. Therefore, there has been a move towards mobile communication and edge computing. Billions of devices have been connected to the Internet and created zettabytes of data items. The problem remains on how to extract information from collected data best.  
+
+
+The use of Artificial Intelligence, machine learning, neural network, and data analytic techniques in edge processing resulted in a new inter-disciplinary field that enables distributed intelligence with edge devices and is known as distributed edge AI or edge intelligence. However, research on edge AI and distributed edge AI is still relatively new, and thus models, techniques, and protocols supporting intelligent management, querying and mining of large-scale amounts of data produced at the edge are required. A lot of challenges related to providing edge intelligence include training edge devices, so they can become smarter and smarter. There is also a need of the presentation of the most recent outcome of research of distributed intelligence. This need could be illustrated by a smart city that contains for instance: garages, parkings, car washing systems, traffic unloading centrals etc. – usually belonging to different companies and running different protocols. A most likely scenario is that these devices could use different AI systems to support their activities. However, all of them are parts of one interconnected smart city; different AI systems must cooperate for common goal(s). Thus, we need distributed intelligence. Examples and different AI systems working for different edges could be multiplied; they support a variety of edges. All want to make money, kick competitors from the market out, and grab their systems. Furthermore, there is an emphasis on creating better software and algorithms that can run efficiently on resource-constrained devices. Moreover, purpose-built hardware at the edge is becoming increasingly important in the field of machine learning because companies can run software much more efficiently if they use specialized chips. Another key challenge of distributed edge AI will be the continued improvement of user interfaces that are used to communicate with other humans, including text, voice, vision, and different forms of body language.  
+
+
+These only are some of the challenges of edge intelligence. This field is expected to arise in the upcoming years and become an essential part of the next generation of the Internet of Things that expands its reach into almost every domain. Therefore, this Special Issue seeks to identify and provide high-quality research on recent advances on edge AI and distributed edge AI. We are interested in all aspects pertaining to this multidisciplinary paradigm.  
+
+
+
+
+TOPICS OF INTEREST  
+Topics of interest include, but are not limited to, the following:  
+
+
+· Distributed Intelligence at the Edge  
+· Modeling and Development of IoT applications using Edge AI  
+· Distributed AI with/for Secure Edge Networking  
+· Machine-Learning Algorithms for IoT Applications  
+· Optimization, Control, And Automation in Edge Computing for IoT  
+· Secure Intelligent IoT-Edge Systems  
+· Secure Intelligent Coordination and Networking Between IoT, Edge, and Cloud  
+· AI-Based Resource Allocation in IoT-Edge Systems  
+· Trust and Privacy Management in Intelligent IoT-Edge Systems  
+· Quality of Service and Energy Efficiency for Intelligent IoT-Edge Systems  
+· Data Mining and Big Data Analytics for Security and Resource Management in IoT-Edge Systems  
+· Distributed Ledger Technologies and Blockchain in IoT Environments  
+
+
+SUBMISSION GUIDELINES  
+Original, high-quality contributions that are not yet published or that are not currently under review by other journals or peer-reviewed conferences are sought. Papers will be peer-reviewed by independent reviewers and selected based on originality, scientific quality, and relevance to this Special Issue. The Guest Editors will make final decisions about the acceptance of the papers.  
+Authors should prepare their manuscript according to the Guide for Authors available from the online submission page of the Journal of Parallel and Distributed Computing.  
+
+
+
+
+GUEST EDITORS  
+
+
+Andrzej Goscinski  
+Deakin University, Australia  
+andrzej.goscinski@deakin.edu.au  
+
+
+Flavia C. Delicato  
+Fluminense Federal University, Brazil  
+fdelicato@gmail.com or fdelicato@ic.uff.br  
+
+
+Anna Kobusińska  
+Poznań University of Technology, Poland  
+Anna.kobusinka@cs.put.poznan.pl  
+
+
+Gautam Srivastava  
+Brandon University, Canada  
+srivastavag@brandonu.ca  
+
+
+Giancarlo Fortino  
+University of Calabria, Italy  
+g.fortino@unical.it  
 
 
 
@@ -8498,6 +8958,59 @@ due course.
  <span style="color:#666;">[→top](#top)</span>
 
 
+## (J)MDPIsensors.datadriven.security  (2021-10-30) <span id="e429aaeb18"></span> <span style="color:#666;">[→top](#top)</span>
+
+
+
+CALL FOR PAPERS  
+MDPI Sensors, IF: 3.275 (ISSN 1424-8220)  
+Special Issue on  
+Data-Driven Cybersecurity and Safety for Critical Applications and Infrastructures  
+Submission deadline: October 30, 2021  
+
+
+[https://www.mdpi.com/si/57327](https://www.mdpi.com/si/57327)  
+==================================================================  
+
+
+Modern critical systems are pervasive and quite diversified in terms of scale, whether related to factories, utility infrastructures, vehicles or even UAVs. Nevertheless, regardless of their size or scope, such systems have one thing in common: a set of special requirements in terms of security and safety, which ultimately deem their classification as “critical”. This is due to the sensitive nature of the involved control processes and applications, whose malfunction, whether accidental or resulting of malicious intervention, may pose a significant risk to human lives, assets or essential services.  
+
+
+With the emergence of complex application scenarios, either new or evolved from existing ones, the distributed nature of such critical systems is quickly unfolding into a massive scale: smart grids have pushed infrastructure components such as smart meters and inverters up to the consumer’s doorstep; the creation of services for automated UAV airspace coordination, in the scope of collision avoidance frameworks; or even vehicular networks, whose emergence may help overcome many of today’s problems associated with sustainable and safe mobility, are just a few examples. Ensuring the reliable, secure and continuous operation of scenarios with such a scale will imply the adoption of data-driven approaches, capable of dealing with considerable amounts of information to support the dependable (semi)automated analysis and decision mechanisms such applications need to become unfeasible.  
+
+
+This Special Issue is aimed at representing the latest advances in data-driven and security and safety for critical applications, encompassing different application scenarios such as (but not limited to):  
+• Data-driven cyber-security for critical infrastructures and essential services;  
+• Vehicular networks and V2X scenarios;  
+• 5G-assisted security and safety mechanisms;  
+• UAV airspace coordination and navigation;  
+• Industrial IoT safety and security applications;  
+• Resiliency, stability and fast control algorithms for grids;  
+• Algorithms and techniques for data-driven anomaly detection, for safety and security;  
+
+
+** Deadline for manuscript submissions: 30 October 2021 **  
+
+
+Manuscript Preparation and Submission  
+Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Authors should follow the “Manuscript Submission Information” guidelines (https://www.mdpi.com/journal/sensors/special_issues/cybersecurity_safety#info).  
+
+
+Guest Editor(s)  
+Tiago Cruz, University of Coimbra, Portugal (tjcruz@dei.uc.pt)  
+Paulo Simões, University of Coimbra, Portugal (psimoes@dei.uc.pt)  
+
+
+Requests for additional information should be addressed to the guest editors.  
+
+
+
+
+
+
+ <span style="color:#666;">[→top](#top)</span>
+
+
 ## (J)Inderscience.wearable.expert.systems  (2021-10-30) <span id="19c479c5b5"></span> <span style="color:#666;">[→top](#top)</span>
 
 
@@ -8564,59 +9077,6 @@ Notification to authors: 15 January, 2022
 Final versions due by: 15 March, 2022  
 
 
-
-
-
-
-
-
- <span style="color:#666;">[→top](#top)</span>
-
-
-## (J)MDPIsensors.datadriven.security  (2021-10-30) <span id="e429aaeb18"></span> <span style="color:#666;">[→top](#top)</span>
-
-
-
-CALL FOR PAPERS  
-MDPI Sensors, IF: 3.275 (ISSN 1424-8220)  
-Special Issue on  
-Data-Driven Cybersecurity and Safety for Critical Applications and Infrastructures  
-Submission deadline: October 30, 2021  
-
-
-[https://www.mdpi.com/si/57327](https://www.mdpi.com/si/57327)  
-==================================================================  
-
-
-Modern critical systems are pervasive and quite diversified in terms of scale, whether related to factories, utility infrastructures, vehicles or even UAVs. Nevertheless, regardless of their size or scope, such systems have one thing in common: a set of special requirements in terms of security and safety, which ultimately deem their classification as “critical”. This is due to the sensitive nature of the involved control processes and applications, whose malfunction, whether accidental or resulting of malicious intervention, may pose a significant risk to human lives, assets or essential services.  
-
-
-With the emergence of complex application scenarios, either new or evolved from existing ones, the distributed nature of such critical systems is quickly unfolding into a massive scale: smart grids have pushed infrastructure components such as smart meters and inverters up to the consumer’s doorstep; the creation of services for automated UAV airspace coordination, in the scope of collision avoidance frameworks; or even vehicular networks, whose emergence may help overcome many of today’s problems associated with sustainable and safe mobility, are just a few examples. Ensuring the reliable, secure and continuous operation of scenarios with such a scale will imply the adoption of data-driven approaches, capable of dealing with considerable amounts of information to support the dependable (semi)automated analysis and decision mechanisms such applications need to become unfeasible.  
-
-
-This Special Issue is aimed at representing the latest advances in data-driven and security and safety for critical applications, encompassing different application scenarios such as (but not limited to):  
-• Data-driven cyber-security for critical infrastructures and essential services;  
-• Vehicular networks and V2X scenarios;  
-• 5G-assisted security and safety mechanisms;  
-• UAV airspace coordination and navigation;  
-• Industrial IoT safety and security applications;  
-• Resiliency, stability and fast control algorithms for grids;  
-• Algorithms and techniques for data-driven anomaly detection, for safety and security;  
-
-
-** Deadline for manuscript submissions: 30 October 2021 **  
-
-
-Manuscript Preparation and Submission  
-Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Authors should follow the “Manuscript Submission Information” guidelines (https://www.mdpi.com/journal/sensors/special_issues/cybersecurity_safety#info).  
-
-
-Guest Editor(s)  
-Tiago Cruz, University of Coimbra, Portugal (tjcruz@dei.uc.pt)  
-Paulo Simões, University of Coimbra, Portugal (psimoes@dei.uc.pt)  
-
-
-Requests for additional information should be addressed to the guest editors.  
 
 
 

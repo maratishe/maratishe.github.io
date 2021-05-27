@@ -1,0 +1,41 @@
+
+IEEE Global Communications Conference
+7-11 December 2021
+Madrid, Spain
+
+Selected Areas in Communication Symposium: Social Networks Track
+
+SCOPE AND MOTIVATION
+Recently, social network research has advanced rapidly with the prevalence of online social applications and
+mobile social communications systems. Moreover, the ongoing pandemic via contact social networks has
+caused tremendous human life and economic loss around the world, and infodemic is one of the major social
+impacts that make people difficult to discriminate trustworthy sources, from false and manipulative information
+sources. Therefore, researchers are increasingly interested in addressing a wide spectrum of challenges in
+social networks, such as developing social-aware algorithms for communications systems, identifying the
+topological common structures and information/influence flows, analyzing the social media and evolutions of
+social graphs, and exploiting location-based and contextual information embedded in mobile social networks to
+create innovative applications. Due to the interdisciplinary nature, social networks have also attracted intensive
+research interests across multiple disciplines, including artificial intelligence, blockchain, big data analytics,
+information security and privacy protection, psychology, and marketing. In light of the above crucial needs,
+Selected Areas in Communication Symposium in Social Networks will serve as a forum for researchers and
+technologists to discuss the state-of-the-art, present their contributions, and set future directions in social
+networks.
+
+TOPICS OF INTEREST
+- Infrastructure, platform, protocol design, and optimization for mobile social networks, mobile social clouds, and social Internet-of-Things with Artificial Intelligence
+- Social-aware network solutions and social network influence on (wireless) communications systems
+- Cross-layer design for social networks and the underlying communications and network platforms, and subsequent new design paradigm for future (wireless) communications
+- Network graph modeling, measurements, simulations, and experiments
+- Analysis of dynamics and control of belief, influence, and rumor propagations in the evolutions of social networks
+- Data mining, machine learning, information retrieval, signal processing, and artificial intelligence in social media and social contexts
+- Trusted networking, privacy and security, user behaviors and dynamics, and digital right management, for big data in social networks
+- Innovative social network applications and services to mobile Internet, multimedia networks, mobilecommerce, cyber-physical systems, and their potential social, economic, and cultural impacts
+- Multidisciplinary and interdisciplinary research on social networks
+
+IMPORTANT DATES
+- Deadline for paper submission: 28 May 2021 (FIRM)
+- Date for notification: 25 July 2021
+- Deadline for final paper submission: 1 September 2021
+
+
+
