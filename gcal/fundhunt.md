@@ -30,7 +30,7 @@ this file is generated automatically, do not make manual changes to it!
 限度額 999,999,999千円  
 採用予定数 -  
 申請期限 2020年07月22日 募集状況 募集中  
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## <strike>国土技術政策総合研究所・データ結合999.999.999千円</strike>  (2020-08-05) <span id="b45e39cd0b"></span> <span style="color:#666;">[→top](#top)</span>
@@ -64,7 +64,7 @@ this file is generated automatically, do not make manual changes to it!
 限度額 999,999,999千円  
 採用予定数 -  
 申請期限 2020年08月05日 募集状況 募集中  
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## 三谷産業フェア★金沢  (2020-09-01) <span id="79792e2a8d"></span> <span style="color:#666;">[→top](#top)</span>
@@ -123,7 +123,7 @@ NEWS
 「MITANIビジネスコンテスト2019」開催のお知らせ  
 2019.09.11  
 2018年 MITANI Business Contest 受賞者と図書館向け 「デジタル利用者カードシステム」を共同開発  
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## 本多記念賞200万・50万・30万.2items  (2020-09-11) <span id="7ac92177c4"></span> <span style="color:#666;">[→top](#top)</span>
@@ -180,7 +180,7 @@ NEWS
 限度額 ３０万円  
 採用予定数 毎年５件を予定  
 申請期限 2020年09月11日 募集状況 募集中  
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## airpf人工知能研究振興財団  (2020-09-30) <span id="70159d238b"></span> <span style="color:#666;">[→top](#top)</span>
@@ -210,6 +210,6 @@ NEWS
 限度額 100万円  
 採用予定数 -  
 申請期限 2020年09月30日 募集状況 募集中  
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 

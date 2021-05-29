@@ -116,7 +116,7 @@ All papers for technical symposia should be submitted via EDAS through the follo
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## IEEE.DCOSS  (2021-05-28) <span id="2415a4fa8e"></span> <span style="color:#666;">[→top](#top)</span>
@@ -209,7 +209,7 @@ Francesco Betti Sorbelli
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## NetSys(workshops)cyberforensics  (2021-05-30) <span id="430832f039"></span> <span style="color:#666;">[→top](#top)</span>
@@ -323,7 +323,7 @@ Camera Ready due: July 22, 2021
 Netsys 2021: September 13, 2021 – September 16, 2021  
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## ACM.dist.realtime.apps  (2021-05-30) <span id="638dda0fb7"></span> <span style="color:#666;">[→top](#top)</span>
@@ -520,7 +520,7 @@ Evaluation
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (elsevier)distributed.AI.for.future.IoT.nets  (2021-05-31) <span id="03ba770380"></span> <span style="color:#666;">[→top](#top)</span>
@@ -619,7 +619,7 @@ g.fortino@unical.it
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (springerbook)GreenSmartCities  (2021-05-31) <span id="c77441c432"></span> <span style="color:#666;">[→top](#top)</span>
@@ -754,7 +754,7 @@ In the world of Linux, who needs Windows and Gates
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (wiley).SPE.highperfcomp.apps  (2021-05-31) <span id="49d0572623"></span> <span style="color:#666;">[→top](#top)</span>
@@ -930,7 +930,7 @@ Email: lena.oden@fernuni-hagen.de
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (iee.comp.mag)home.globalization  (2021-05-31) <span id="09426f8149"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1059,7 +1059,7 @@ EICC Steering Committee
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)IoV  (2021-05-31) <span id="1b0148efd3"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1156,7 +1156,7 @@ Alexey Vinel and Glenford Mapp
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)Elsevier.intelligent.for.fog.paralell.distributed  (2021-05-31) <span id="263a77bcdc"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1260,7 +1260,7 @@ g.fortino@unical.it
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## IEEE.ICS2.smartcities  (2021-05-31) <span id="7273a42852"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1646,7 +1646,7 @@ Giovanni Masala, Manchester Metropolitan University, UK
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)Elsevier.edge.future.IoT  (2021-05-31) <span id="27e0cf2c69"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1751,7 +1751,7 @@ g.fortino@unical.it
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)MDPI.cloud.based.iot.smartcities  (2021-06-01) <span id="e87196a1bc"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1812,7 +1812,7 @@ Lodz University of Technology
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (cambridgepress)book.proposal  (2021-06-01) <span id="5c68420187"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1883,7 +1883,7 @@ Click here to Unsubscribe
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)MDPIelectronics.SDN.futureinternet  (2021-06-01) <span id="b0ea6efb1b"></span> <span style="color:#666;">[→top](#top)</span>
@@ -1990,7 +1990,7 @@ OR
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (elsevier)security.and.privacy  (2021-06-02) <span id="6bebdc9e70"></span> <span style="color:#666;">[→top](#top)</span>
@@ -2016,7 +2016,7 @@ My books on Amazon: [https://www.amazon.com/s?k=Atilla+ELCI](https://www.amazon.
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)Elsevier.FACE.security.privacy  (2021-06-02) <span id="8d755e17a7"></span> <span style="color:#666;">[→top](#top)</span>
@@ -2047,7 +2047,7 @@ My books on Amazon: [https://www.amazon.com/s?k=Atilla+ELCI](https://www.amazon.
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## ACM.SocialGood  (2021-06-06) <span id="c28881ecbc"></span> <span style="color:#666;">[→top](#top)</span>
@@ -2132,7 +2132,7 @@ technology, and collaboration to create positive societal impact.
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)frontiers.in.comms.and.networks  (2021-06-06) <span id="493f4781a2"></span> <span style="color:#666;">[→top](#top)</span>
@@ -2345,7 +2345,7 @@ Edward Oughton, George Mason University, Fairfax, United States
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## CNSM  (2021-06-07) <span id="dba06b76f8"></span> <span style="color:#666;">[→top](#top)</span>
@@ -2536,7 +2536,7 @@ Mehmet Ulema, Manhattan College, USA
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## IEEE.GCCE.computertech@kyoto  (2021-06-14) <span id="c9ba9eec04"></span> <span style="color:#666;">[→top](#top)</span>
@@ -2613,7 +2613,7 @@ Yusuke Gotoh, Okayama University
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (IEEEtranGreeCom)sustainable.smart.envs  (2021-06-15) <span id="ad2d11d725"></span> <span style="color:#666;">[→top](#top)</span>
@@ -2703,7 +2703,7 @@ OR
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## ACM.PEWASUN.wireless.perf  (2021-06-15) <span id="5fe733029e"></span> <span style="color:#666;">[→top](#top)</span>
@@ -2950,7 +2950,7 @@ For more information, please refer to the conference website: [http://pewasun.up
 
 
 We hope to see you in Alicante.  
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)security.for.vnets  (2021-06-15) <span id="fc33cbd96e"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3014,7 +3014,7 @@ Lodz University of Technology, 90-924 Lodz, Poland
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## IEEE.EDOC.IoT  (2021-06-18) <span id="7891061f7a"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3168,7 +3168,7 @@ due course.
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (hindawi)learning4security  (2021-06-18) <span id="8db1e35ca4"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3235,7 +3235,7 @@ University of Technology Sydney, Sydney, Australia
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## Mobiquitous  (2021-06-20) <span id="05747d2a0b"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3442,7 +3442,7 @@ Publication: December 2021 (tentative)
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## Mobiqutous@Beppu  (2021-06-20) <span id="3b851a742e"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3496,7 +3496,7 @@ Watch the full recording of the EAI MobiQuitous 2020 livestream
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## Springer.Mobiqutous  (2021-06-20) <span id="1c5f4d6d5b"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3634,7 +3634,7 @@ Teruhiro Mizumoto - Osaka University, Japan
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## ⒿMDPI.HPC.math  (2021-06-30) <span id="bd08655f42"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3702,7 +3702,7 @@ For further information, please contact gabriel.rodriguez@udc.es
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (elsevier)OSNEM.online.socialnets  (2021-06-30) <span id="76c886ad16"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3787,7 +3787,7 @@ osnem at iit.cnr.it
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (MDPI)edge.optimization.AI  (2021-06-30) <span id="da47a77624"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3839,7 +3839,7 @@ Guest Editors:
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)MDPIsensors.80211.wirelessnets  (2021-06-30) <span id="f799b3bff6"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3898,7 +3898,7 @@ For further details on the submission process, please see the instructions for a
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)AI.for.edge  (2021-06-30) <span id="865fba6179"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3946,7 +3946,7 @@ Guest Editors:
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)business.management.data.processing.software  (2021-06-30) <span id="3c2250898c"></span> <span style="color:#666;">[→top](#top)</span>
@@ -3999,7 +3999,7 @@ Lodz University of Technology, 90-924 Lodz, Poland
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)cloud-based-IoT-apps.smartcities  (2021-06-30) <span id="2ade8657e5"></span> <span style="color:#666;">[→top](#top)</span>
@@ -4045,7 +4045,7 @@ With kind regards,
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)sensor.and.actuator.networks  (2021-06-30) <span id="6e09998571"></span> <span style="color:#666;">[→top](#top)</span>
@@ -4079,7 +4079,7 @@ www.mdpi.com
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (springer)AI.for.our.lives  (2021-06-30) <span id="fda7b3f552"></span> <span style="color:#666;">[→top](#top)</span>
@@ -4230,7 +4230,7 @@ Meng-Hsun Tsai National Cheng Kung University, Taiwan
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)MDPI.energy.in.networks  (2021-07-01) <span id="0ae5575491"></span> <span style="color:#666;">[→top](#top)</span>
@@ -4297,7 +4297,7 @@ Guest Editor
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)IETS.IoTtech  (2021-07-01) <span id="cd7cd52d96"></span> <span style="color:#666;">[→top](#top)</span>
@@ -4392,7 +4392,7 @@ Alexey Vinel and Glenford Mapp
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## springerlink.ruSMART.smart.spaces@peter  (2021-07-01) <span id="e598d96eae"></span> <span style="color:#666;">[→top](#top)</span>
@@ -4589,7 +4589,7 @@ OR
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (inderscience)wearable.devices.expert.systems  (2021-07-01) <span id="73a0524954"></span> <span style="color:#666;">[→top](#top)</span>
@@ -4668,7 +4668,7 @@ Mycolleagues mailing list
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## EAI+J.smartgov.sustain.smartcities  (2021-07-01) <span id="52640d5502"></span> <span style="color:#666;">[→top](#top)</span>
@@ -4839,7 +4839,7 @@ Linwei Niu, Howard University, USA
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## EAI.smartcity.smartgovernence  (2021-07-01) <span id="54c1a151e6"></span> <span style="color:#666;">[→top](#top)</span>
@@ -5014,7 +5014,7 @@ Howard University, USA
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)TSIE.AI.for.industrial.apps  (2021-07-01) <span id="97677a4722"></span> <span style="color:#666;">[→top](#top)</span>
@@ -5060,7 +5060,7 @@ Mycolleagues@mailman.ufsc.br
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## IEEE.PerCom.pervasive.comm  (2021-07-02) <span id="6b6ccb331d"></span> <span style="color:#666;">[→top](#top)</span>
@@ -5206,7 +5206,7 @@ proposals!):
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## IEEE.MSN.mobility.sensing.netwokring  (2021-07-02) <span id="3bb4bbfb5f"></span> <span style="color:#666;">[→top](#top)</span>
@@ -5290,7 +5290,7 @@ by EI). Please follow the submission link on
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## ACM.mobiwac.mobility.management.access  (2021-07-05) <span id="37b63212eb"></span> <span style="color:#666;">[→top](#top)</span>
@@ -5654,7 +5654,7 @@ Mirela. A. M. Notare, Technology University on Fly Transportation, Brazil
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## ACM.mobility.management.waccess  (2021-07-05) <span id="8ccfd93ecf"></span> <span style="color:#666;">[→top](#top)</span>
@@ -5962,7 +5962,7 @@ Submission link: [https://edas.info/N28242](https://edas.info/N28242)
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)vehicularcomm  (2021-07-15) <span id="23527482b2"></span> <span style="color:#666;">[→top](#top)</span>
@@ -6061,7 +6061,7 @@ Alexey Vinel and Glenford Mapp
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (hindawi)JournalOfAdvancedTransport.learning.optimization  (2021-07-16) <span id="b2eab84a7d"></span> <span style="color:#666;">[→top](#top)</span>
@@ -6112,7 +6112,7 @@ Machine learning, deep learning, and optimization techniques for infrastructure 
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (IEEE.VTmag)AI.for.autonomous.vnets  (2021-07-29) <span id="4b2d71c18c"></span> <span style="color:#666;">[→top](#top)</span>
@@ -6173,7 +6173,7 @@ Guest Editors
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## IEEE.IoTaIS.IoT.intelsystems  (2021-07-30) <span id="961850bb34"></span> <span style="color:#666;">[→top](#top)</span>
@@ -6335,7 +6335,7 @@ Conference Date : November 23-24, 2021
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)IEEE.iri.IoV  (2021-07-31) <span id="788b583c52"></span> <span style="color:#666;">[→top](#top)</span>
@@ -6396,7 +6396,7 @@ Peng Liu, Hangzhou Dianzi University, China.
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)BigDataJournal.perfmanagment.large.clusters  (2021-07-31) <span id="ccdc6966e6"></span> <span style="color:#666;">[→top](#top)</span>
@@ -6470,7 +6470,7 @@ Eduardo Cunha De Almeida, Federal University of Paraná
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (mdpi)Telecom.Journal  (2021-07-31) <span id="0b01b78164"></span> <span style="color:#666;">[→top](#top)</span>
@@ -6618,7 +6618,7 @@ Prof. Dr. Carlos Tavares Calafate (Technical University of Valencia, SPAIN)
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)federated.learning.IoV  (2021-07-31) <span id="445c89cb69"></span> <span style="color:#666;">[→top](#top)</span>
@@ -6708,7 +6708,7 @@ OR
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## ACM.utility.cloudcomp  (2021-08-15) <span id="a829bad6fc"></span> <span style="color:#666;">[→top](#top)</span>
@@ -7073,7 +7073,7 @@ Program Committee Chairs:
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (~J)springer.emerging.smart.nets  (2021-08-30) <span id="be48c0a736"></span> <span style="color:#666;">[→top](#top)</span>
@@ -7281,7 +7281,7 @@ Emna Ben Salem, University of Carthage, Tunisia
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (elsevier)distributed.AI.for.edgenets  (2021-08-31) <span id="88b83d3bb6"></span> <span style="color:#666;">[→top](#top)</span>
@@ -7380,7 +7380,7 @@ g.fortino@unical.it
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (+J)ComplexNetworks  (2021-09-02) <span id="05d1988f63"></span> <span style="color:#666;">[→top](#top)</span>
@@ -7741,7 +7741,7 @@ Join us at COMPLEX NETWORKS 2021 Madrid Spain
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (~J)complex.networks  (2021-09-02) <span id="2699947a8d"></span> <span style="color:#666;">[→top](#top)</span>
@@ -8099,7 +8099,7 @@ Juan Carlos Losada Universidad Politecnica de Madrid, Spain
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)IEEE.TETC.safe.in.era.of.AI  (2021-10-15) <span id="16111fac86"></span> <span style="color:#666;">[→top](#top)</span>
@@ -8153,7 +8153,7 @@ Corresponding TETC editor:
 Patrick Girard, LIRMM, France (IEEE Fellow)  
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (~J)IEEE.IoT.enterprise.architecture  (2021-10-25) <span id="14cbd8e659"></span> <span style="color:#666;">[→top](#top)</span>
@@ -8315,7 +8315,7 @@ due course.
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)Inderscience.wearable.expert.systems  (2021-10-30) <span id="19c479c5b5"></span> <span style="color:#666;">[→top](#top)</span>
@@ -8390,7 +8390,7 @@ Final versions due by: 15 March, 2022
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)MDPIsensors.datadriven.security  (2021-10-30) <span id="e429aaeb18"></span> <span style="color:#666;">[→top](#top)</span>
@@ -8443,7 +8443,7 @@ Requests for additional information should be addressed to the guest editors.
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 
 ## (J)IEEEAccess.deeplearning.IoT  (2021-11-30) <span id="6b0275c726"></span> <span style="color:#666;">[→top](#top)</span>
@@ -8489,6 +8489,6 @@ Deep learning for IoT applications (smart home, smart agriculture, interactive a
 
 
 
- <span style="color:#666;">[→top](#top)</span>
+ <span style="color:#666;">[→top](#top)</span><br><br><br>
 
 

@@ -145,7 +145,7 @@ $CLASS = 'todotxt'; class todotxt { // USER code
 			echo "   $title     " . ltt( $files) . "\n"; //usleep( 200000);
 			foreach ( file( lshift( $files)) as $v) { $v = trim( $v); if ( ! $v) fwrite( $out, "\n\n"); if ( ! $v) continue; $L = ttl( $v, ' '); foreach ( $L as $i => $v2) if ( strpos( $v2, 'http') === 0) $L[ $i] = "[$v2]($v2)"; $v= ltt( $L, ' '); fwrite( $out, $v . '  ' . "\n"); }
 			fwrite( $out, " <span style=" . strdblquote( 'color:#666;') . ">[→top](#top)</span>");
-			fwrite( $out, "\n\n\n"); extract( tsburst( tsystem())); 
+			fwrite( $out, "<br><br><br>\n\n\n"); extract( tsburst( tsystem())); 
 			$A[ "due:" . lshift( ttl( $when, ' ')) . " $yyyy-$mm-$dd $title #$calendar"] = true; 
 		}
 		fclose( $out); `cat $calendar.md > $calendar.md.txt`; echo " OK\n"; 
