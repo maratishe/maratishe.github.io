@@ -1,0 +1,10 @@
+no : 16
+id : D121051132 
+update : 2021年05月28日
+univ : 福岡工業大学
+title : 福岡工業大学・情報メディアに関する分野　教員公募【情報メディアに関する分野】
+field : 情報学 - 高性能計算 -- 情報学 - マルチメディア・データベース -- 情報学 - 統計科学
+post : 教授相当 -- 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月27日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121051132&ln_jor=0&top_btn=1

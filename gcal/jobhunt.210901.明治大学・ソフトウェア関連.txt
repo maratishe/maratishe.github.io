@@ -1,0 +1,10 @@
+no : 23
+id : D121050862 
+update : 2021年05月25日
+univ : 明治大学・ソフトウェア関連
+title : 専任教授の公募 (ソフトウェア関連)
+field : 情報学 - プログラミング言語の設計や実装，機械学習や大規模データ処理などの応用分野を想定した高性能システムソフトウェアに関する研究．
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年09月01日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121050862&ln_jor=0&top_btn=1

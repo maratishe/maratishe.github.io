@@ -1,0 +1,10 @@
+no : 41
+id : D121060233 
+update : 2021年06月03日
+univ : [非公開]AI（画像認識・自然言語処理）アルゴリズム開発者IT・通信・インターネット
+title : 
+field : 環境学 - 全て
+post : 研究開発・技術者相当
+tenure : 常勤 (任期なし)
+deadline : 2022年03月31日
+url : [→アカリクAGENT] https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=10&id=D121060233&ln_jor=0&top_btn=1

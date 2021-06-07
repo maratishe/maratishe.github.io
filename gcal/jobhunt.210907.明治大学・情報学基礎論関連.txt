@@ -1,0 +1,10 @@
+no : 22
+id : D121050861 
+update : 2021年05月25日
+univ : 明治大学・情報学基礎論関連
+title : 専任准教授または専任講師の公募 (情報学基礎論関連)
+field : 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年09月07日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121050861&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 1
+id : D121040544 
+update : 2021年05月17日
+univ : 東京国際工科専門職大学・コンピュータ・通信分野
+title : 専任教員の公募（コンピュータ・通信分野）
+field : 情報学 - 全て -- 工学 - 電気電子工学
+post : 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年06月13日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121040544&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 26
+id : D121051134 
+update : 2021年05月26日
+univ : 地方独立行政法人鳥取県産業技術センター・情報工学
+title : 研究職員（情報工学）の募集
+field : 情報学 - 情報学基礎 -- 情報学 - 計算基盤 -- 工学 - 電気電子工学
+post : 研究員・ポスドク相当
+tenure : 常勤 (任期なし)
+deadline : 2021年07月06日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121051134&ln_jor=0&top_btn=1

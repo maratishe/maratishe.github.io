@@ -1,0 +1,10 @@
+no : 38
+id : D121051453 
+update : 2021年06月01日
+univ : 京都大学・先端電気システム論講座
+title : 准教授の公募（先端電気システム論講座）
+field : 工学 - 電気電子工学 -- 情報学 - 情報学フロンティア
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月23日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121051453&ln_jor=0&top_btn=1

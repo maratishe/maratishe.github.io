@@ -1,0 +1,10 @@
+no : 13
+id : D121050784 
+update : 2021年05月22日
+univ : Ｍ・Ｓ・Ｋ株式会社・GPS通信機器の設計開発技術者の応募
+title : GPS通信機器の設計開発技術者の応募
+field : 総合理工 - 全て -- 工学 - 全て -- 情報学 - 全て
+post : 研究員・ポスドク相当 -- 研究開発・技術者相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121050784&ln_jor=0&top_btn=1

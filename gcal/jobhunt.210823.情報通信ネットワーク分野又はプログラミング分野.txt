@@ -1,0 +1,10 @@
+no : 40
+id : D121060101 
+update : 2021年06月04日
+univ : 近畿大学
+title : 電子情報工学科　准教授または講師の公募（情報通信ネットワーク分野又はプログラミング分野）
+field : 工学 - 電気電子工学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月23日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121060101&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 20
+id : D121051226 
+update : 2021年05月26日
+univ : 公立はこだて未来大学・複雑系知能分野
+title : 公立はこだて未来大学教員募集(教授または准教授，専門分野 複雑系知能分野）
+field : 情報学 - 全て -- 複合領域 - 複雑系科学および知能システムに関連する分野
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年09月06日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121051226&ln_jor=0&top_btn=1

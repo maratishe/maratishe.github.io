@@ -1,0 +1,10 @@
+no : 28
+id : D121050829 
+update : 2021年05月21日
+univ : 文教大学・人工知能とビッグデータ解析分野
+title : 専任教員の公募について（情報社会学科）（教授・准教授・講師） （ 人工知能とビッグデータ解析分野 ）
+field : 情報学 - 全て -- 複合領域 - 社会・安全システム科学 -- 社会科学 - 社会学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年07月10日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121050829&ln_jor=0&top_btn=1
