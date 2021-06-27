@@ -1,6 +1,7 @@
 
 このページの[HTML版](./readme.html)は[Markdown版](./readme.md)から自動的に生成されている。
 
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
 <style>
 code { font-weight: bold; color:#f00;border:0px;}
 </style>
