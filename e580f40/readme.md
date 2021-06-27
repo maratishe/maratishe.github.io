@@ -13,7 +13,7 @@ code { font-weight: bold; color:#f00;border:0px;}
 <img style="float:right;width:20%;position:relative;display:block;border:0px;" src="photo.png"/>
 
 [Google Scholar](https://t.ly/SjJN)  ※現時点での**h-index:9** <br>
-[Slideshare](https://is.gd/WbkKZV) (基本的に発表資料とその動画記録など）<br>
+[Slideshare](https://www.slideshare.net/zhopasushami/presentations) (基本的に発表資料とその動画記録など）<br>
 [Github](https://github.com/maratishe)  ほとんど研究提案を実装して一般公開したもの<br>
 [Github pages](http://maratishe.github.io/) ※このページのホスティング<br>
           
