@@ -7,56 +7,57 @@ code { font-weight: bold; color:#f00;border:0px;}
 
 2021-06-27更新
 
-##  Marat Zhanikeev (<u>ザニケエフ・マラット</u>) (履歴書への補足資料）
+## Marat Zhanikeev (<u>ザニケエフ・マラット</u>) (履歴書への補足資料）
 
 <img style="float:right;width:20%;position:relative;display:block;border:0px;" src="photo.png"/>
 
-[Google Scholar](https://t.ly/SjJN)  ※現時点での**h-index:9**  
-[Slideshare](https://is.gd/WbkKZV) (基本的に発表資料とその動画記録など）  
-[Github](https://github.com/maratishe)  ほとんど研究提案を実装して一般公開したもの  
-[Github pages](http://maratishe.github.io/) ※このページのホスティング  
+[Google Scholar](https://t.ly/SjJN)  ※現時点での**h-index:9** <br>
+[Slideshare](https://is.gd/WbkKZV) (基本的に発表資料とその動画記録など）<br>
+[Github](https://github.com/maratishe)  ほとんど研究提案を実装して一般公開したもの<br>
+[Github pages](http://maratishe.github.io/) ※このページのホスティング<br>
           
-[これまでの研究の概要 (PDF)](./researchbefore.pdf)  
-[現在の研究活動 (PDF)](./researchafter.pdf)  
+[これまでの研究の概要 (PDF)](./researchbefore.pdf)<br>
+[現在の研究活動 (PDF)](./researchafter.pdf)<br>
+[CV (PDF・4ページ)](./cv.pdf) `※そのQRコードがこのページを指している`
 
 <div style="height:30px;"></div>
 
 ### これまでの大学＋企業の受託・共同研究の実績
 
- 1. 2006～2007 KDDI研共同研究, Y.Tanaka, <u>M.Zhanikeev</u>  (120万円)  
-**課題：** ネットワークにおけるユーザ行動のモデル化とトラヒック管理手法との連携に関する研究  
+ 1. 2006～2007 KDDI研共同研究, Y.Tanaka, <u>M.Zhanikeev</u>  (120万円)<br>
+**課題：** ネットワークにおけるユーザ行動のモデル化とトラヒック管理手法との連携に関する研究<br>
 **概要：** バックボーンで収集されたトラヒックを、one-to-manyとmany-to-manyというソーシャル的通信パターンを検出する目的を中心に、パケット・フロー層でのトラヒック分析。分析結果を可視化するような開発部分もあった。成果として、研究発表と、ソフトウェアで実施されたツールできた。
 
- 2. 2009～2010　早稲田大学特定課題, <u>M.Zhanikeev</u>  （40万円）  
-**課題：** Analysis of Throughput in Web Multimedia Applications  
+ 2. 2009～2010　早稲田大学特定課題, <u>M.Zhanikeev</u>  （40万円）<br>
+**課題：** Analysis of Throughput in Web Multimedia Applications<br>
 **概要：** HTML5のWebSocketsとWorkersを中心に、ブラウザ上での並列化と複数のデータストリームを集約する性能を測るための開発研究。成果でベンチマック系ソフトウェアが出た。 
 
- 3. 2009～2010　NTT受託研究, Y.Tanaka, <u>M.Zhanikeev</u> (400万円)  
-**課題：** ネットワークパフォーマンスにおけるアクティブ測定に関する研究・調査  
+ 3. 2009～2010　NTT受託研究, Y.Tanaka, <u>M.Zhanikeev</u> (400万円)<br>
+**課題：** ネットワークパフォーマンスにおけるアクティブ測定に関する研究・調査 <br>
 **概要：** 博士課程の研究の実装化として、いくつかの過去な提案を実装し、NTTネットワーク上で実施し、ネットワーク性能を測ると可視化するための研究活動。
 
- 4. 2010～2011　NTT受託研究, Y.Tanaka, <u>M.Zhanikeev</u> (400万円)  
-**課題：** 課金方法の多様化を想定したトラヒック測定・分析方式の運用方法に関する研究・調査  
+ 4. 2010～2011　NTT受託研究, Y.Tanaka, <u>M.Zhanikeev</u> (400万円) <br>
+**課題：** 課金方法の多様化を想定したトラヒック測定・分析方式の運用方法に関する研究・調査 <br>
 **概要：** 「正確な課金」の話題を中心に、サンプリングしたパケット・フローからトラヒック全体の量を推定するための方法をいくつか提案し、ソフトウェアまで実装した。
 
- 5. 2011～2012　NTT受託研究, Y.Tanaka, <u>M.Zhanikeev</u> （400万円）  
-**課題：** 課金方法の多様化を想定したトラヒック測定・分析方式の運用方法に関する研究・調査  
+ 5. 2011～2012　NTT受託研究, Y.Tanaka, <u>M.Zhanikeev</u> （400万円） <br>
+**課題：** 課金方法の多様化を想定したトラヒック測定・分析方式の運用方法に関する研究・調査 <br>
 **概要：** 2010年～2011年の続きで、開発されたソフトウェアの中で、いくつかのサンプリング過程と推定論理を、プラグインの形で入れ替え可能な形で完成した。また、ホットスポット分布の研究に関連する形で、トラヒックのホットスポットの分析・可視化も行った。
 
- 6. 2012～2013　NTT受託研究, Y.Tanaka, <u>M.Zhanikeev</u>  (400万円)  
-**課題：** ラインレートで動作するトラヒック分類・分析・フルキャプチャの提案と実装  
+ 6. 2012～2013　NTT受託研究, Y.Tanaka, <u>M.Zhanikeev</u> <br>(400万円) <br>
+**課題：** ラインレートで動作するトラヒック分類・分析・フルキャプチャの提案と実装 <br>
 **概要：** データを保存せず、実時間で処理するといった「データストリーミング」の観点からみて、超高速トラヒック分析方法を提案・実装。特徴として、NIC上のボトルネック回避とストリーム型アルゴリズムの効率化、2点でした。
 
- 7. 2018～2019：トランスコスモス株式会社・受託研究、<u>M.Zhanikeev</u>（30万円）  
-**課題：**  クラウドソーシングにおける業務ワークフローに対してホットスポット探索と可視化  
+ 7. 2018～2019：トランスコスモス株式会社・受託研究、<u>M.Zhanikeev</u>（30万円） <br>
+**課題：**  クラウドソーシングにおける業務ワークフローに対してホットスポット探索と可視化 <br>
 **概要：**  業務ワークフロー最適化の問題が良く知られているが、クラウドソーシング向けでワークフローの一部を取り出して外部委託に回すときのコスト最適化を目指す問題が比較的に珍しい。本プロジェクトでは、ワークフローの中で、コスト（時間・料金・エフォートなど）が集中する部分を「ホットスポット」と呼び、その探索と可視化の方法を提案し、実装した。多次元データのため、「次元呪い」の問題を上手く乗り越えることが出来たのは、本プロセクトの特徴の1つである。
 
- 8. 2019～2020：トランスコスモス株式会社・受託研究、<u>M.Zhanikeev</u>（50万円）  
-**課題：** 次世代チャットボットに向けてコンテキスト認識に基づいた知的ソフトウェア開発  
+ 8. 2019～2020：トランスコスモス株式会社・受託研究、<u>M.Zhanikeev</u>（50万円） <br>
+**課題：** 次世代チャットボットに向けてコンテキスト認識に基づいた知的ソフトウェア開発 <br>
 **概要：** 既存のチャットボットが固い「判定木」で動く。本プロジェクトでは、判定木を廃棄し、コンテキストを現る（知識）構造を用いて、より柔軟なチャットボットを提案し、実装した。本プロジェクトの別特徴として、大学生・院生をソフトウェア開発チームに加えて、PBL（Scrum型開発）形式でプロジェクトを実施したことで、学生側で得られた経験と今度の就職活動につながったことがあげられる。
 
- 9. 2020～2021 : 石川県IoT推進ラボとの共同研究、 <u>ザニケエフ・マラット</u>、B.P.ゴータム、野田祐輔 (50万円)  
-**課題：** ブロックチェーンで個人情報を守った「トレーサブル感染」方法・アプリ開発  
+ 9. 2020～2021 : 石川県IoT推進ラボとの共同研究、 <u>ザニケエフ・マラット</u>、B.P.ゴータム、野田祐輔 (50万円) <br>
+**課題：** ブロックチェーンで個人情報を守った「トレーサブル感染」方法・アプリ開発 <br>
 **概要：** インフルエンザ感染を監視する目的で2016年に米国で実施された「感染監視アプリ」を背景に、日本国内で開発された「コロナアプリCOCOA」をライバルにした、新型技術の提案とその実装・応用。絶対・相対位置推定をスマホから送受信した超音波で実装したうえ、データをブロックチェーンで匿名化した形で情報を取り扱うことにより、位置情報の高精度、セキュリティ強化、両方の特徴を持つ「コロナ感染監視」サービスを実現し、実際に提供する段階までに進んだ。
 
 
@@ -67,7 +68,8 @@ code { font-weight: bold; color:#f00;border:0px;}
 
 <div style="height:10px;"></div>
 
-**著書および編書 (すべて査読付・最新順)**  
+**著書および編書 (すべて査読付・最新順)** <br>
+
  1. <u>M.Zhanikeev</u>, "Converged Information-Centric Spaces based on Wireless Data Hubs", Pervasive Computing: Next Generation Platforms for Intelligent Information-Centric Spaces, ISBN 978-0-12-803663-1, Elsevier, p.195-230, April 2016.
  2. <u>M.Zhanikeev</u>, "Building IoT Ecosystems from Mobile Clouds at Network Edge", Internet of Things (IoT) in 5G Mobile Technologies, ISBN 978-3-319-30911-8, Springer, p.197-227, April 2016.
  3. <u>M.Zhanikeev</u>, "Vehicular Clouds based on GroupConnect and Self Organization", Cognitive Vehicular Networks, ISBN 978-1-4987-2192-9, CRC Press, p.169-198, February 2016.
@@ -81,7 +83,8 @@ code { font-weight: bold; color:#f00;border:0px;}
 
 <div style="height:10px;"></div>
 
-**学術論文 (すべて査読付・最新順)** ※ Springer LNCS掲載の業績は「国際会議」の中で明記する  
+**学術論文 (すべて査読付・最新順)** ※ Springer LNCS掲載の業績は「国際会議」の中で明記する
+
  1. <u>M.Zhanikeev</u>, "A Method for Secure Wireless Grouping at Network Edge", Wireless Personal Communications, (in print). `(IF:1.2)`
  2. <u>M.Zhanikeev</u>, "On a Formal Specification of Big Data Processing Suitable for Distributed Storage and Streaming", International Journal of Innovation Management (IJIM), vol.V8N1, p.43-46, June 2020. `(SJR:1.3)`
  3. <u>M.Zhanikeev</u>, "The Last Man Standing Technique for Proof-of-Location in IoT Infrastructures at Network Edge", Wireless Communications and Mobile Computing, article no.7317019, 12 pages, June 2019. `(IF:0.9)`
@@ -107,7 +110,8 @@ code { font-weight: bold; color:#f00;border:0px;}
 
 <div style="height:10px;"></div>
 
-**国際会議プロシーディングス (すべて査読付・最新順)**  
+**国際会議プロシーディングス (すべて査読付・最新順)**
+
  1. N.Kuge, <u>M.Zhanikeev</u>, "Educational Content Delivery in Mixed Online/Offline University Campuses", Future Technologies Conference (FTC) (accepted, in print), October 2021. 
  2. <u>M.Zhanikeev</u>, "Modeling Components for Cut-Through Performance Analysis of Network Switches", 16th IEEE International Conference on Network and Service Management (CNSM), November 2020. 
  3. <u>M.Zhanikeev</u>, "A jQuery-like Platform for Standardized Dataset Processing Logic", International Conference on Innovation and Management, Sapporo, Japan, February 2020. 
@@ -169,7 +173,8 @@ code { font-weight: bold; color:#f00;border:0px;}
 
 <div style="height:10px;"></div>
 
-**国内学会 (査読無し・最新順)**  
+**国内学会 (査読無し・最新順)**
+
  1. 匂阪優花, <u>ザニケエフ マラット</u>, "マイクロ支払いについて実データを用いたユーザ分類方法", 電子情報通信学会コミュニケーションクオリティ（CQ）研究会技術研究報告, vol. 118, no. 395, p.7-12, 2019年1月. 
  2. 久下奈美, <u>ザニケエフ マラット</u>, "タグを用いたファイル管理システムに向けて偽トレース生成方法", 電子情報通信学会コミュニケーションクオリティ（CQ）研究会技術研究報告, vol. 118, no. 395, p.1-6, 2019年1月. 
  3. <u>M.Zhanikeev</u>, "Dynamic Coding for Relative Positioning in Device Swarms using Sound", IEICE Technical Report on Sound Information Processing (SIP), vol.117, no.516, p.397-400, March 2018. 
@@ -281,7 +286,8 @@ code { font-weight: bold; color:#f00;border:0px;}
 
 <div style="height:10px;"></div>
 
-**招待講演、Tutorialsなど**  
+**招待講演、Tutorialsなど**
+
  1. <u>M.Zhanikeev</u>, "Population Management in Clouds is a Do-It-Yourself Technology", Invited Talk at IETF Network Management Research Group (IETF94/NMRG) Meetings on Future Standardization, November 2015.
  2. <u>M.Zhanikeev</u>, "Squeezing Out the Best of End-to-End Performance", Invited Talk at IEICE Technical Meeting on Communication Quality, November 2010.
  3. <u>M.Zhanikeev</u>, "Between Active and Passive Approaches to Network Performance Analysis", Tutorial at Network Operation and Management Symposium (NOMS), Osaka, Japan, April 2010.
@@ -290,14 +296,16 @@ code { font-weight: bold; color:#f00;border:0px;}
 
 <div style="height:10px;"></div>
 
-**特許**  
+**特許**
+
  1. Reachable Devices : 3G/LTE/4G/5G/WiFiによるインターネット接続とP2P WiFi同時接続を用いた多目的機器インタフェース化の方法と装置 
 (<u>M.Zhanikeev</u>のみ) 
  2. クラウド環境におけるローカルハードウェア認識を実現した方法と装置 (<u>M.Zhanikeev</u>のみ) 
 
 <div style="height:10px;"></div>
 
-**受賞歴（詳細）**  
+**受賞歴（詳細）**
+
  1. 2003年3月 電子情報通信学会 学術奨励賞
  2. 2004年3月 電子情報通信学会 テレコミュニケーションマネジメント功労賞
  3. 2005年3月 電子情報通信学会 英語セッション奨励賞受賞論文 （第2著者）
