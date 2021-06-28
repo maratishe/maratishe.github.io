@@ -1,0 +1,364 @@
+the [HTML version](./readme.html) of this page is generated automatically from the [Markdown version](./readme.md).
+
+<!-- -*- encoding: UTF8 -*- -->
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
+<style>
+code { font-weight: bold; color:#f00;border:0px;}
+</style>
+
+updated: 2021-06-27
+
+## Marat Zhanikeev (extra material to the CV)
+
+<img style="float:right;width:20%;position:relative;display:block;border:0px;" src="photo.png"/>
+
+[Google Scholar](https://t.ly/SjJN)  (current **h-index:9**) <br>
+[Slideshare](https://www.slideshare.net/zhopasushami/presentations) (mostly presenatations and their video recordings）<br>
+[Github](https://github.com/maratishe)  (mostly implementations of my proposals made public)<br>
+[Github pages](http://maratishe.github.io/)  (also the hosting root of this page)<br>
+          
+[statement on past and current research (PDF)](./research.pdf)<br>
+[CV (PDF)](./cv.pdf) `its QR code points to this page`
+
+<div style="height:30px;"></div>
+
+### External Funds Obtained via Collaboration with Industry
+
+ 1. 2006―2007　Waseda University + KDDI (joint research), Y.Tanaka, <u>M.Zhanikeev</u>  (～10K USD)<br>
+**Title:** Modeling User Behavior from Large Volumes of Aggregate Traffic<br>
+**Description:** Using backbone-level packet traffic aggregates, this research developed methods for online capture of one-to-many and many-to-many communication patterns.  On the practical side, these patterns are useful in network security when identifying both malicious attacks and benevolent high-impact artifacts (like DDoS). 
+
+ 2. 2009―2010　Waseda University Grant, <u>M.Zhanikeev</u>  （4K USD）<br>
+**Title:** Analysis of Throughput in Web Multimedia Applications<br>
+**Description:** Under HTML5, browsers gained substantial processing power. This project modeled and measured throughput in browser-side applications which use advanced HTML5 features such as WebSockets for streaming data, Workers for parallel multicore processing, handling binary data in Javascript, and others. 
+
+ 3. 2009―2010　NTT + Waseda University Joint Project, Y.Tanaka, <u>M.Zhanikeev</u> (～40K USD)<br>
+**Title:** Analysis of Network Performance with Large-Scale Active Probing<br>
+**Description:** This project gave practical implementations to several of the theoretical performance measurement methods proposed in my doctor thesis.  Specifically, probing network performance with packet trains, visualizations of traffic at data centers, etc., were implemented.  
+
+ 4. 2010―2011　 NTT + Waseda University Joint Project, Y.Tanaka, <u>M.Zhanikeev</u> (～40K USD)<br>
+**Title:** Efficient Billing Estimation in Large Aggregates of Packet Traffic<br>
+**Description:** With the practical target of “accurate billing” in mind, this project implemented and tested in practice several packet sampling methods.  Several methods were selected as better alternatives to the random sampling used in existing systems.  The concept of bursty traffic was also extensively studied. 
+
+ 5. 2011―2012　 NTT + Waseda University Joint Project, Y.Tanaka, <u>M.Zhanikeev</u> (～40K USD)<br>
+**Title:** Various Billing Applications of Packet Traffic Analysis<br>
+**Description:** With the need to sample flow at several locations in the network, this research looked into sampling methods which would better capture “trajectories” or packet flows as they traverse a given domain.  Based on previous outcomes in terms of effective sampling techniques, this project focused mostly on the distributed logic. 
+
+ 6. 2012―2013　 NTT + Waseda University Joint Project, Y.Tanaka, <u>M.Zhanikeev</u> (～40K USD)<br>
+**Title:** Packet Traffic Analysis at Sub-Flow Level at Line Rate<br>
+**Description:** The new research topic of “data streaming” was implemented in practice by capturing complex traffic patterns in realtime.  Aggregating traffic into origin-destination pairs, triangles, one-to-many patters, and others, were implemented and tested in real network settings. 
+
+ 7. 2018―2019：Tokyo Univ. of Science + Transcosmos Joint Project、<u>M.Zhanikeev</u>（～3K USD）<br>
+**Title:** Detection, Analysis and Visualization of Hotspots in Workflows of Large Companies<br>
+**Description:** Outsourcing a portion of one company’s workflow to a more efficient outside subconstractorhas become commonplace.  This project looked into practical methods for identifying and visualizing “hotspots” in large workflows, optimizing for, among many others, on the cost incurred when delegating a portion of the workflow to an outside company.  Given the high-dimensional data, the project paid special attention to dimension reduction techniques.
+
+ 8. 2019―2020：Tokyo Univ. of Science + Transcosmos Joint Project、<u>M.Zhanikeev</u>（～5K USD）<br>
+**Title:** Developing the Next Generation of Chatbots using Context and Flexible Decision Making<br>
+**Description:** Chatbots today are based on hard-coded decision trees and are therefore completely inflexible.  This project proposes and implements a notion of “context” which allows the bot to “short-jump” between the otherwise distant nodes in a large knowledge graph. 
+
+ 9. 2020―2021 : Ishikawa Prefecture IoT Platform Development Grant、 <u>M.Zhanikeev</u>, B.P.Gautam, Y.Noda (～5K USD)<br>
+**Title:** Developing Methods and Software Components for Blockchain-Based Infection Tracing Applications<br>
+**Description:** With COVID-19, there is an urgent demand for platforms which would record locations and interactions among people while protecting privacy.  This project decouples people’s identify and the underlying tracing data using blockchain.  Several practical methods for de-anonymizing data when necessary are also developed. The software is implemented in software and is currently used as the default “daily pass” applications by Kanazawa Gakuin University. 
+
+
+<div style="height:30px;"></div>
+
+### Publication List 
+(also available in [PDF](./publications.pdf) form)
+<div style="height:10px;"></div>
+
+**Books and Bookchapters (newest first, all peer-reviewed)** <br>
+
+ 1. <u>M.Zhanikeev</u>, "Converged Information-Centric Spaces based on Wireless Data Hubs", Pervasive Computing: Next Generation Platforms for Intelligent Information-Centric Spaces, ISBN 978-0-12-803663-1, Elsevier, p.195-230, April 2016.
+ 2. <u>M.Zhanikeev</u>, "Building IoT Ecosystems from Mobile Clouds at Network Edge", Internet of Things (IoT) in 5G Mobile Technologies, ISBN 978-3-319-30911-8, Springer, p.197-227, April 2016.
+ 3. <u>M.Zhanikeev</u>, "Vehicular Clouds based on GroupConnect and Self Organization", Cognitive Vehicular Networks, ISBN 978-1-4987-2192-9, CRC Press, p.169-198, February 2016.
+ 4. <u>M.Zhanikeev</u>, "Video Streaming overs Wireless Channels -- 4G and Beyond", Advances in Mobile Computing and Communications: 4G and Beyond, ISBN 978-1-4987-0113-6, CRC Press, p.319-282, February 2016.
+ 5. <u>M.Zhanikeev</u>, "Opportunistic Multiconnect with P2P WiFi and Cellular Providers", Advances in Mobile Computing and Communications: 4G and Beyond, ISBN 978-1-4987-0113-6, CRC Press, p.271-318, February 2016.
+ 6. <u>M.Zhanikeev</u>, "Circuit Emulation for Big Data Transfers in Clouds", Networking for Big Data, CRC, ISBN 978-1482263497, p.359-392, September 2015.
+ 7. <u>M.Zhanikeev</u>, "Streaming Algorithms for Big Data Processing on Multicore", Big Data: Algorithms, Analytics, and Applications, ISBN 978-1-4822-4055-9, CRC, p.215-240, February 2015.
+ 8. <u>M.Zhanikeev</u>, "Methods and Algorithms for Fast Hashing in Data Streaming", Cryptography: Algorithms and Implementations Using C++, ISBN 978-1-4822-2890-8, CRC, p.299-334, November 2014.
+ 9. <u>M.Zhanikeev</u>, "Multi-Source Stream Aggregation in the Cloud", Advanced Content Delivery, Streaming, and Cloud Services, ISBN 978-1-118-57521-5, Wiley, p.219-242, September 2014.
+ 10. Y.Tanaka, <u>M.Zhanikeev</u>, "Active Network Measurement: Theory, Methods, and Tools", ITU Association of Japan, ISBN 978-4916128072, Tokyo, June 2009.
+
+<div style="height:10px;"></div>
+
+**Journal Papers (newest first, all peer-reviewed)** 
+
+ 1. <u>M.Zhanikeev</u>, "A Method for Secure Wireless Grouping at Network Edge", Wireless Personal Communications, (in print). `(IF:1.2)`
+ 2. <u>M.Zhanikeev</u>, "On a Formal Specification of Big Data Processing Suitable for Distributed Storage and Streaming", International Journal of Innovation Management (IJIM), vol.V8N1, p.43-46, June 2020. `(SJR:1.3)`
+ 3. <u>M.Zhanikeev</u>, "The Last Man Standing Technique for Proof-of-Location in IoT Infrastructures at Network Edge", Wireless Communications and Mobile Computing, article no.7317019, 12 pages, June 2019. `(IF:0.9)`
+ 4. <u>M.Zhanikeev</u>, "Penalty Migration as a Performance Signaling Method in Energy-Efficient Clouds", Annals of Telecommunications, vol.72, p.1-13, May 2017. `(IF:0.722)`
+ 5. <u>M.Zhanikeev</u>, "Improving Performance in Dense Wireless Spaces by Controlling Bulk Traffic", Mobile Information Systems (MIS), vol.2017, article no.8013971, p.1-11, October 2016. `(IF:1.462)`
+ 6. <u>M.Zhanikeev</u>, "Fog Caching and a Trace-Based Analysis of its Offload Effect", International Journal of Information Technologies and Systems Approach (IJITSA), vol.10(2), p.1-19, July 2016. `(IF:0.39)`
+ 7. <u>M.Zhanikeev</u>, "Performance Management of Cloud Populations via Cloud Probing", IPSJ Journal of Information Processing, vol.24, no.1, p.99-108, January 2016. `(SJR:0.3)`
+ 8. <u>M.Zhanikeev</u>, "DiffHub: An Efficient Cloud Sync Technology based on Binary Diffs", IPSJ Journal of Information Processing, vol.23, no.5, p.683-692, November 2015. `(SJR:0.3)`
+ 9. <u>M.Zhanikeev</u>, "A Cloud Visitation Platform to Facilitate Cloud Federation and Fog Computing", IEEE Computer, vol.48, issue 5, p.80-83, May 2015. `(IF:1.438)`
+ 10. <u>M.Zhanikeev</u>, "How variable bitrate video formats can help P2P streaming boost its reliability and scale", Springer Journal of Electronic Commerce Research, vol.15(1), p.22-47, February 2015. `(IF:1.632)`
+ 11. <u>M.Zhanikeev</u>, "A holistic community-based architecture for measuring end-to-end QoS at data centres", Inderscience International Journal of Computational Science and Engineering (IJCSE), vol.10, no.3, p.315-324, January 2015. `(IF:0.59)`
+ 12. <u>M.Zhanikeev</u>, Y.Tanaka, "A Graphical Method for Detection of Flash Crowds in Traffic", Springer Telecommunication Systems Journal, vol.57, issue 1, p.91-105, September 2014. `(IF:0.705)`
+ 13. <u>M.Zhanikeev</u>, "A lock-free shared memory design for high-throughput multicore packet traffic capture", International Journal of Network Management (IJNM), vol.24, p.304-317, June 2014. `(IF:0.517)`
+ 14. <u>M.Zhanikeev</u>, "A Method for Reliable P2P Video Streaming using Variable Bitrate Video Formats", JSSST Journal of Computer Software, vol.31, p.234-245, May 2014.
+ 15. <u>M.Zhanikeev</u>, "Searching for the Most Cost Effective Method in Browser-Based Visualizations: Screen Size, Pinch to Scale, Search and Browse", The Journal of the Institute of Image Electronics Engineers of Japan (IIEEJ), vol.43, no.1, February 2014.
+ 16. <u>M.Zhanikeev</u>, "On How Smart Cities Can Improve Social Utility of Their Citizens' Commutes", IPSJ Journal of Information Processing, vol.22, no.2, p.253-262, April 2014. `(SJR:0.3)`
+ 17. <u>M.Zhanikeev</u>, "Optimizing Virtual Machine Migration for Energy-Efficient Clouds", IEICE Transactions on Communications, vol.E97-B, no.2, p.450-458, February 2014. `(IF:0.252)`
+ 18. <u>M.Zhanikeev</u>, "Experiments with application throughput in a browser with full HTML5 support", IEICE Communications Express, vol.2, no.5, p.167-172, May 2013. `(IF:0.320)`
+ 19. J.Hong, C.Hong, Y.Kiriha, <u>M.Zhanikeev</u>, "Managing Clouds, Smart Networks and Services: A Report on APNOMS 2011", Journal of Network and Systems Management, vol.20, issue 1, p.134-142, March 2013. `(IF:0.796)`
+ 20. <u>M.Zhanikeev</u>, Y.Tanaka, "Modelling Network Performance of End Hosts", IEICE Transactions on Information and Systems, vol.E95-D, no.7, p.1872-1881, July 2012. `(IF:0.245)`
+ 21. <u>M.Zhanikeev</u>, Y.Tanaka, "A Framework for Detection of Traffic Anomalies Based on IP Aggregation", IEICE Transactions on Information and Systems, vol.E92-D, no.1, p.16-23, January 2009. `(IF:0.39)`
+
+
+<div style="height:10px;"></div>
+
+**International Conference Proceedings (newest first, all peer-reviewed)** 
+
+ 1. N.Kuge, <u>M.Zhanikeev</u>, "Educational Content Delivery in Mixed Online/Offline University Campuses", Future Technologies Conference (FTC) (accepted, in print), October 2021. 
+ 2. <u>M.Zhanikeev</u>, "Modeling Components for Cut-Through Performance Analysis of Network Switches", 16th IEEE International Conference on Network and Service Management (CNSM), November 2020. 
+ 3. <u>M.Zhanikeev</u>, "A jQuery-like Platform for Standardized Dataset Processing Logic", International Conference on Innovation and Management, Sapporo, Japan, February 2020. 
+ 4. <u>M.Zhanikeev</u>, "Relative Wireless Positioning for Multiple Client Devices Using Delta Triangulation", 9th International Conference on Electronics, Communications, and Networks (CECNet) and Frontiers in Artificial Intelligence and Applications, vol.320, IOS Press, October 2019. 
+ 5. <u>M.Zhanikeev</u>, "A Method for Secure Wireless Grouping at Network Edge", 4th IEEE Cyber Science and Technology Congress (CyberSciTech), Fukuoka, Japan, August 2019. 
+ 6. <u>M.Zhanikeev</u>, "Subflow Cut-Through Optimization with Migration using N-by-M Circuit Switchboard", 7th IEEE International Conference on Cloud Networking (CloudNet), Tokyo, Japan, October 2018. 
+ 7. <u>M.Zhanikeev</u>, "Ultrasound Relative Positioning for IoT Devices in Dense Wireless Spaces", 24th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Hakodate, Japan, August 2018. 
+ 8. <u>M.Zhanikeev</u>, "Towards a Packet Traffic Genome Project as a Method for Realtime Sub-Flow Traffic Analysis", 42nd IEEE International Conference on Computers, Software, and Applications (COMPSAC), Tokyo, Japan, July 2018. 
+ 9. <u>M.Zhanikeev</u>, "What if We Atomize Student Data and Apps and Put Them on Docker Containers?", IBM Cloud Academy Conference, Tokyo, Japan, May 2018. 
+ 10. <u>M.Zhanikeev</u>, "Theory and Practice for Fog Infrastructure based on Standalone Cloudified IoT Boxes", IEEE TRON Symposium (TRONSHOW), December 2017. 
+ 11. <u>M.Zhanikeev</u>, "Large-Scale Crowdsourcing by Vehicular Data Packets in a Sparse Roadside Infrastructure", 10th IEEE Conference on Service-Oriented Computing and Applications (SOCA), Kanazawa, Japan, November 2017. 
+ 12. <u>M.Zhanikeev</u>, "The Switchboard Optimization Problem and Heuristics for Cut-Through Networking", The 23rd IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN), Osaka, Japan, June 2017. 
+ 13. <u>M.Zhanikeev</u>, "Optimization Strategies for the Crowdsourced Processing of Large Tasks in the Cloud", 1st EAI International Conference on Big Data and Cyber-Physical-Social Computing (BIGDATACPS), Nagasaki, Japan, November 2016. 
+ 14. <u>M.Zhanikeev</u>, "Volume and Irregularity Effects on Massively Multicore Packet Processors", Network Operations and Management Symposium (APNOMS), Kanazawa, Japan, October 2016. 
+ 15. <u>M.Zhanikeev</u>, "Fog Cloud Caching at Network Edge via Local Hardware Awareness Spaces", 36th IEEE International Conference on Distributed Computing Systems (ICDCS 2016), Hakodate, Japan, p.184-188, June 2016. 
+ 16. <u>M.Zhanikeev</u>, "How to Build Infrastructureless Information-Centric Wireless Spaces using Autonomous Hubs", 2nd International Conference on IoT in Urban Space (Urb-IoT), Tokyo, Japan, p.102-104, May 2016. 
+ 17. <u>M.Zhanikeev</u>, "Multidimentional Classification Automation with Human Interface based on Metromaps", 4th International Congress on Advanced Applied Infomatics, Okayama, Japan, p.534-539, July 2015. 
+ 18. <u>M.Zhanikeev</u>, "A New VNE Method for More Responsive Networking in Many-to-Many Groups", 7th International Conference on Ubiquitous and Future Networks (ICUFN), Sapporo, Japan, p.438-443, July 2015. 
+ 19. <u>M.Zhanikeev</u>, "A Cloud Visitation Platform for Federated Services at Network Edge", CISSE Online Conference, December 2014. 
+ 20. <u>M.Zhanikeev</u>, "On Context Management Using Metro Maps", 7th IEEE International Conference on Service Oriented Computing and Applications (SOCA), Matsue, Japan, p.309-313, November 2014. 
+ 21. <u>M.Zhanikeev</u>, "Replayable BigData for Multicore Processing and Statistically Rigid Sketching", Internet Conference, Hiroshima, Japan, November 2014. 
+ 22. <u>M.Zhanikeev</u>, "Coins in Cloud Drives Can Use OAuth for Micropayments and Resource Metering Alike", 9th International Conference on Future Internet Technologies (CFI), Tokyo, Japan, June 2014. 
+ 23. <u>M.Zhanikeev</u>, "A Software Design and Algorithms for Multicore Capture in Data Center Forensics", 9th ACM Symposium on Information, Computer, and Communication Security Workshops (ASIACCS/SFCS), Okayama, Japan, p.11-18, June 2014. 
+ 24. <u>M.Zhanikeev</u>, "A New Practical Design for Browsable Over-the-Network Indexing", International Conference on Information Science, Electronics and Electrical Engineering (ISEEE), Sapporo, Japan, p.1686-1690, April 2014. 
+ 25. <u>M.Zhanikeev</u>, "Virtual Wireless User: A Practical Design for Parallel MultiConnect Using WiFi Direct in Group Communication", 10th International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous), Springer LNICS vol.131, Tokyo, Japan, p.782-793, December 2013. `(SJR:0.2)`
+ 26. <u>M.Zhanikeev</u>, "A Method for Extremely Scalable and Low Demand Live P2P Streaming based on Variable Bitrate", 1st International Symposium on Computing and Networking (CANDAR, former ICNC), Matuyama, Japan, p.461-467, December 2013. 
+ 27. <u>M.Zhanikeev</u>, "End-to-End Network Performance Estimation Using Signal Complexity", International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), Okayama, Japan, p.73-78, November 2013. 
+ 28. <u>M.Zhanikeev</u>, H.Watanabe, "A Model and Simulation of EV Use in Environments with V2H and Battery Replacement Infrastructure", ITS World Congress, Tokyo, Japan, October 2013. 
+ 29. <u>M.Zhanikeev</u>, "Experiments with Practical On-Demand Multi-Core Packet Capture", 15th Asia-Pacific Network Operations and Management Symposium (APNOMS), Nagasaki, Japan, p.1-3, September 2013. 
+ 30. <u>M.Zhanikeev</u>, "A Home Gateway Box with Meter, Probe and L2 QoS Policy Edge", IEEE Conference on Computers, Software and Applications (COMPSAC), Kyoto, Japan, p.550-555, July 2013. 
+ 31. <u>M.Zhanikeev</u>, "A Practical Software Model for Content Aggregation in Browsers using Recent Advances in HTML5", IEEE Conference on Computers, Software and Applications (COMPSAC), Kyoto, Japan, p.151-156, July 2013. 
+ 32. <u>M.Zhanikeev</u>, R.Yamamoto, K.Yamori, Y.Tanaka, "A Method for Side Splitting of Packet Traces", 13th Asia-Pacific Network Operation and Management Symposium (APNOMS), Taipei, Taiwan, p.1-7, September 2011. 
+ 33. J.O.Song, <u>M.Zhanikeev</u>, O.Yoshie, Y.Tanaka, "An Efficient Model for Remote Display Service of Cloud Computing", International Workshop on Smart Info-Media Systems in Asia (SISA), Manila, Philippines, September 2010. 
+ 34. <u>M.Zhanikeev</u>, Y.Tanaka, "Application of Graph Theory to Clustering in Delay Space", 8th Asia-Pacific Symposium on Information and Telecommunication Technologies (APSITT), Paper No.B-7-2, Kuching, Malaysia, p.1-6, June 2010. 
+ 35. D.P.Van, <u>M.Zhanikeev</u>, Y.Tanaka, "Traffic Trace Engineering", Management Enabling the Future Internet for Changing Business and New Computing Services, Springer LNCS vol.5787, Jeju, Korea, p.1-10, September 2009. (SJR:0.3)
+ 36. <u>M.Zhanikeev</u>, Y.Tanaka, "Lightweight Traffic Monitoring and Analysis Using Video Compression Techniques", Management Enabling the Future Internet for Changing Business and New Computing Services, Springer LNCS vol.5787, Jeju, Korea, p.92-101, September 2009. `(SJR:0.3)`
+ 37. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "Estimating Throughput Reliability on Long End-to-End Paths", 12th Asia-Pacific Network Operations and Management Symposium (APNOMS), Paper No. I2-1, Jeju, Korea, September 2009. `(SJR:0.3)`
+ 38. M.Yap, <u>M.Zhanikeev</u>, Y.Tanaka, "A Validity Tester for Active Measurement Tools", 11th International Conference on Advanced Communication Technology (ICACT), Phoenix Park, Korea, p.305-310, February 2009. 
+ 39. D.Van, <u>M.Zhanikeev</u>, Y.Tanaka, "Effective High Speed Traffic Replay Based on IP Space", 11th International Conference on Advanced Communication Technology (ICACT), Phoenix Park, Korea, p.151-156, February 2009. 
+ 40. <u>M.Zhanikeev</u>, Y.Tanaka, T.Ogishi, "Probing Based Topology Inference for Large Scale Community Networks", Management of Convergence Networks and Services, Springer LNCS vol.5297, Seoul, Korea, p.92-101, February 2009. `(SJR:0.3)`
+ 41. E.Ishikawa, S.Xu, <u>M.Zhanikeev</u>, Y.Tanaka, "Selection of FDL Slot Length in Optical Packet Switching Networks with Fibre Delay Lines", 7th Asia-Pacific Symposium on Information and Telecommunication Technologies (APSITT), Bandos, Maldives, p.214-219, April 2008. 
+ 42. <u>M.Zhanikeev</u>, Y.Tanaka, "Modelling and Analysis of End-to-End Network Performance", 7th Asia-Pacific Symposium on Information and Telecommunication Technologies (APSITT), Bandos, Maldives, p.141-146, April 2008. 
+ 43. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Detection and Identification of Neptune Attacks and Flash Crowds", Management of Convergence Networks and Services, Springer LNCS vol.4773, Busan, Korea, p.571-574, September 2007. `(SJR:0.3)`
+ 44. M.Yap, <u>M.Zhanikeev</u>, Y.Tanaka, "Point of Reference in Perception of Network Performance by Active Probing", Management of Convergence Networks and Services, Springer LNCS vol.4773, Busan, Korea, p.205-214, September 2007. `(SJR:0.3)`
+ 45. <u>M.Zhanikeev</u>, Y.Tanaka, "Quantitative Analysis of Temporal Patterns in Loosely Coupled Active Measurement Results", Management of Convergence Networks and Services, Springer LNCS vol.4773, Busan, Korea, p.415-424, September 2007. `(SJR:0.3)`
+ 46. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Methods of Distinguishing Flash Crowds from Spoofed DoS Attacks", 3rd EuroNGI Conference on Next Generation Internet Networks (NGI), Trondheim, Norway, p.167-173, May 2007. 
+ 47. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Anomaly Identification Based on Flow Analysis", IEEE TENCON (Region 10 Conference), Hong Kong, China, Paper No.SC1.3, 4 pages, November 2006. 
+ 48. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "ABshoot: A Reliable and Efficient Scheme for End-to-End Available Bandwidth Measurement", IEEE TENCON (Region 10 Conference), Hong Kong, China, Paper No.DN3.3, 4 pages, November 2006. 
+ 49. <u>M.Zhanikeev</u>, Y.Tanaka, "Temporal Patterns in Size and Rate of Traffic Flows", 12th International Telecommunications Network Strategy and Planning Symposium (Networks), New Delhi, India, Technical Session 4, 6 pages, November 2006. 
+ 50. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "Rate-Based and Gap-Based Available Bandwidth Estimation Techniques in Cross-Traffic Context", Management of Convergence Networks and Services, Springer LNCS vol.4238, Busan, Korea, p.73-81, September 2006. `(SJR:0.3)`
+ 51. <u>M.Zhanikeev</u>, Y.Tanaka, "Temporal Patterns and Properties in Multiple-Flow Interactions", Management of Convergence Networks and Services, Springer LNCS vol.4238, Busan, Korea, p.92-101, September 2006. `(SJR:0.3)`
+ 52. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Detecting and Identifying Network Anomalies by Component Analysis", Management of Convergence Networks and Services, Springer LNCS vol.4238, Busan, Korea, p.501-504, September 2006. `(SJR:0.3)`
+ 53. <u>M.Zhanikeev</u>, S.Xu, Y.Tanaka, "Active Performance Measurement for IP over All-Optical Networks", 2nd IEEE and IFIP International Conference in Central Asia on Internet (ICI), Tashkent, Uzbekistan, Session 7, 5 pages, September 2006. 
+ 54. <u>M.Zhanikeev</u>, Y.Tanaka, "A Testbed for Agent-Based Multi-Purpose Extensible Active Measurement", 2nd International IEEE/Create-Net Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities (TridentCom), Barcelona, Spain, Track 2, Session 4, 9 pages, March 2006. 
+ 55. <u>M.Zhanikeev</u>, J.McKeown, Y.Tanaka, "Data Sources for Proactive Network Management", 8th Asia-Pacific Network Operations and Management Symposium (APNOMS), Okinawa, Japan, p.410-421, September 2005. 
+ 56. <u>M.Zhanikeev</u>, Y.Tanaka, "Towards the Improvement of Performance Anomaly Prediction", 1st IEEE and IFIP International Conference in Central Asia on Internet (ICI), Bishkek, Kyrgyz Republic, Session 7, 5 pages, September 2005. 
+ 57. <u>M.Zhanikeev</u>, Y.Tanaka, "Network Performance Optimization through Measurement", International Network Optimization Conference (INOC), Lisbon, Portugal, p.265-272, March 2005. 
+ 58. <u>M.Zhanikeev</u>, Y.Tanaka, "Network Management Using Active Probing", 12th International Conference on Telecommunication Systems, Modeling and Analysis (ICTSM), Monterey, USA, p.236-245, July 2004. 
+
+<div style="height:10px;"></div>
+
+**Local Conferences (newest first, no peer review)** 
+
+ 1. <u>M.Zhanikeev</u>, H.Koide, "Hardware and Software Design of a Mini Cloud for Experiments with Virtualization in Classes", 3th JSSST Conference, rePiT session, September 2013.
+ 2. <u>M.Zhanikeev</u>, Y.Tanaka, "VM Migration Avoidance based on Flow Workload Classification", IEICE Communications Society Conference, No.BS-1-50, p.S98-S99, March 2013.
+ 3. D.Wei, <u>M.Zhanikeev</u>, Y.Tanaka, "A New Optimization Method for Virtual Network Embedding", IEICE Communications Society Conference, No.BS-1-34, p.S66-S67, March 2013.
+ 4. <u>M.Zhanikeev</u>, "Cloud Weather System as a Futuristic Performance Model", IEICE Communications Society Conference, No.BS-1-25, p.S48-S49, March 2013.
+ 5. 川口誠矢, <u>ザニケエフ・マラット</u>, 渡邉　均, "複数コミュニティにおける使用パターンと内容の相関に関する検討", 電子情報通信学会通信ソサイエティ大会, 通信講演論文集2, No.B-7-20, p.99, 2012年9月.
+ 6. S.Ma, <u>M.Zhanikeev</u>, Y.Tanaka, "Accuracy of Streaming Media QoE Metrics", IEICE Communications Society Conference, No.BS-5-42, p.S108-S109, September 2012.
+ 7. <u>M.Zhanikeev</u>, Y.Tanaka, "Building a Media Player in Browser using HTML5 WebWorkers", IEICE Communications Society Conference, No.BS-5-9, p.S44-S45, September 2012.
+ 8. <u>M.Zhanikeev</u>, R.Yamamoto, Y.Tanaka, "On Why Distributed Monitoring Needs Distributed PASTA", IEICE Communications Society Conference, No.BS-4-5, p.S24-S26, September 2012.
+ 9. <u>M.Zhanikeev</u>, Y.Tanaka and R.Yamamoto, "Alternative Packet Sampling for Improved Fairness and Function", IEICE General Conference, No.BS-3-4, p.S7-S8, March 2012.
+ 10. <u>M.Zhanikeev</u>, R.Yamamoto and Y.Tanaka, "Capturing QoS Context by Alternative Flow Monitoring in Clouds", IEICE General Conference, No.BDS-1-2, p.S128-S129, March 2012.
+ 11. R.Leng, <u>M.Zhanikeev</u>, Y.Tanaka, "Disproportionality in Large-scale Distributed Services", 2011 IEICE Communications Society Conference, No.BS-6-14, p.S56-S57, September 2011.
+ 12. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "Influence of Probing Parameters on Terminal Equipment Performance", IEICE General Conference, No.BS-4-43, September 2010.
+ 13. H.Situmorang, <u>M.Zhanikeev</u>, Y.Tanaka, "QoS Call Setup for End-to-End QoS Provisioning: Top-Down Approach versus Bottom-Up Approach", IEICE Communications Society Conference, No.BS-7-39, p.S121-S122, September 2010.
+ 14. W.Xie, <u>M.Zhanikeev</u>, Y.Tanaka, "Processing Overhead in IP Traffic Analysis", IEICE Communications Society Conference, No.BS-7-36, p.S115-S116, September 2010.
+ 15. <u>ザニケエフ・マラット</u>, "ウェブアプリを学ぶためのウェブアプリ", 私立大学情報教育協会教育改革ICT戦略大会, No.E-14, 2010年9月.
+ 16. 孫麗花, 矢守恭子, <u>ザニケエフ・マラット</u>, 田中良明, "QoEから見たトラヒックエンジニアリングの評価", 2010年電子情報通信学会通信ソサイエティ大会, 通信講演論文集2, No.B-11-2, p.269, 2010年9月.
+ 17. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "How to Model Terminal Equipment in Simulation", IEICE Communications Society Conference, No.BS-7-34, p.S111-S112, September 2010.
+ 18. R.Leng, <u>M.Zhanikeev</u>, Y.Tanaka, "Problem of Probing Directionality", IEICE Communications Society Conference, No.BS-7-33, p.S109-S110, September 2010.
+ 19. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "Best Distribution Fitting for Terminal Equipment Performance", IEICE General Conference, No.BS-3-26, p.S74-S75, March 2010.
+ 20. J.O.Song, <u>M.Zhanikeev</u>, O.Yoshie, Y.Tanaka, "Packet Flow Based Scheduling Model by Evolutionary Algorithm", IEICE General Conference, No.BS-3-4, p.S30-S31, March 2010.
+ 21. W.Xie, <u>M.Zhanikeev</u>, Y.Tanaka, "IP Arrival Processes in Backbone Traffic", IEICE General Conference, No.BS-3-3, p.S28-S29, March 2010.
+ 22. <u>M.Zhanikeev</u> and Y.Tanaka, "Analogy between Video Bitstream and Traffic Monitoring", IEICE Communications Society Conference, No.BS-10-31, p.S125-S126, September 2009.
+ 23. D.Pham Van, <u>M.Zhanikeev</u> and Y.Tanaka, "Distributed Traffic Replay", IEICE Communications Society Conference, No.BS-10-2, p.S67-S68, September 2009.
+ 24. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "Analysis of Throughput Reliability in Complex Networks", IEICE Communications Society Conference, No.BS-10-1, p.S65-S66, September 2009.
+ 25. M.Yap, <u>M.Zhanikeev</u> and Y.Tanaka, "Evaluation of Active Probing Tools in Varying Traffic Conditions", IEICE General Conference, No.BS-4-21, p.S41-S42, March 2009.
+ 26. <u>M.Zhanikeev</u> and Y.Tanaka, "Directionality of Packet-Pair Active Probes in Practice", IEICE General Conference, No.BS-4-20, p.S39-S40, March 2009.
+ 27. D.Pham Van, <u>M.Zhanikeev</u> and Y.Tanaka, "Synthesis of Unobtrusive Flash Crowds in Traffic Traces", IEICE General Conference, No.BS-4-19, p.S37-S38, March 2009.
+ 28. <u>M.Zhanikeev</u> and Y.Tanaka, "Active Measurement in NGN Scenarios", IEICE Communications Society Conference, No.BT-3-2, p.SS35-SS36, September 2008.
+ 29. D.Van, <u>M.Zhanikeev</u> and Y.Tanaka, "Simplifying High-Speed Backbone Traffic for Replaying", IEICE Communications Society Conference, No.BS-12-33, p.S179-S180, September 2008.
+ 30. <u>M.Zhanikeev</u> and Y.Tanaka, "Accuracy in Overhead-Constrained Network Coordinate Systems", IEICE Communications Society Conference, No.BS-12-32, p.S177-S178, September 2008.
+ 31. M.Yap, <u>M.Zhanikeev</u> and Y.Tanaka, "Statistical Analysis of Active Probing Tools", IEICE Communications Society Conference, No.BS-12-31, p.S175-S176, September 2008.
+ 32. S.Terbish, <u>M.Zhanikeev</u> and Y.Tanaka, "Traffic Statistics of an ISP in Mongolia", IEICE Communications Society Conference, No.BS-12-30, p.S173-S174, September 2008.
+ 33. 岡田陽士朗, <u>ザニケエフ・マラット</u>, 田中良明, 柳澤政生, "測定遅延時間の多次元クラスタリングによるトポロジー推定", 2008年電子情報通信学会通信ソサイエティ大会, 通信講演論文集2, No.B-14-9, p.305, 2008年9月.
+ 34. <u>M.Zhanikeev</u> and Y.Tanaka, "Performance Analysis of Extra-Large Network Simulations", IEICE General Conference, No.BS-3-4, p.S17-S18, March 2008.
+ 35. Z.Lu, <u>M.Zhanikeev</u>, Y.Tanaka, "Sensitivity of Entropy-based Analysis to Detect Infected Hosts", IEICE General Conference, No.BS-3-3, p.S15-S16, March 2008.
+ 36. M.Yap, <u>M.Zhanikeev</u> and Y.Tanaka, "Time Series Analysis for Active Probing Results", IEICE General Conference, No.BS-3-2, p.S13-S14, March 2008.
+ 37. 岡田陽士朗, <u>ザニケエフ・マラット</u>, 田中良明, 柳澤政生, "広域ネットワークにおけるノード探索アルゴリズム", 2008年電子情報通信学会総合大会, 通信講演論文集2, No.B-14-8, p.481, 2008年3月.
+ 38. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Analyzing Web Server Source Distribution by Data Image", IEICE Communications Society Conference, No.BS-10-19, p.S138-S139, September 2007.
+ 39. <u>M.Zhanikeev</u> and Y.Tanaka, "Performance of Traffic Flow versus IP Space Analysis", IEICE Communications Society Conference, No.BS-10-6, p.S112-S113, September 2007.
+ 40. M.Yap, <u>M.Zhanikeev</u> and Y.Tanaka, "Verifying Quality of Active Measurement Results", IEICE Communications Society Conference, No.BS-10-5, p.S110-S111, September 2007.
+ 41. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Detecting Anomalies Using Flow Signature", IEICE General Conference, No.BS-10-9, p.S109-S110, March 2007.
+ 42. <u>M.Zhanikeev</u> and Y.Tanaka, "Robust Search Indices From Active Measurement Results", IEICE General Conference, No.BS-10-3, p.S97-S98, March 2007.
+ 43. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "End-to-End Available Bandwidth Prediction Using ABsnap and Neural Network", IEICE General Conference, No.BS-10-2, p.S95-S96, March 2007.
+ 44. 伊藤健, <u>ザニケエフ・マラット</u>, 田中良明, "IPアグリゲーションを用いた攻撃ホスト検出手法", 2007年電子情報通信学会総合大会, 通信講演論文集2, No.B-14-8, p.546, 2007年3月.
+ 45. <u>M.Zhanikeev</u>, S.Xu, Y.Tanaka, "Active Measurements in IP over WDM Environment", IEICE Communications Society Conference, No.BS-15-14, p.SE27-SE28, September 2006.
+ 46. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "Available Bandwidth Measurement Using Different Probing Patterns", IEICE Communications Society Conference, No.BS-15-13, p.SE25-SE26, September 2006.
+ 47. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Network Anomaly Detection and Identification", IEICE Communications Society Conference, No.BS-15-11, p.SE21-SE22, September 2006.
+ 48. 伊藤健, <u>ザニケエフ・マラット</u>, 田中良明, "Blaster.Cワームのパケット到着間隔の性質", 2006年電子情報通信学会通信ソサイエティ大会, 通信講演論文集2, No.B-14-3, p.348, 2006年9月.
+ 49. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Detection of Anomalies by Analysis of Traffic Components", IEICE General Conference, No.BS-8-18, p.SE35-SE36, March 2006.
+ 50. <u>M.Zhanikeev</u> and Y.Tanaka, "A Simple Paradigm for Many-to-Many Tomography", IEICE General Conference, No.BS-8-17, p.SE33-SE34, March 2006.
+ 51. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "An Active End-to-End Available Bandwidth Measurement Scheme", IEICE General Conference, No.BS-8-16, p.SE31-SE32, March 2006.
+ 52. J.McKeown, <u>M.Zhanikeev</u>, Y.Tanaka, "Detection of P2P Traffic at Packet Flow Level", IEICE Communications Society Conference, No.BS-10-12, p.SE33-SE34, September 2005.
+ 53. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "Lightweight Discrete Utilization Jitter Estimation", IEICE Communications Society Conference, No.BS-10-1, p.SE11-SE12, September 2005.
+ 54. <u>M.Zhanikeev</u>, J.McKeown, Y.Tanaka, "What Do Packet Trains Measure?", IEICE General Conference, No.BS-10-6, p.SE10-SE11, March 2005.
+ 55. 松友孝如, <u>ザニケエフ・マラット</u>, 田中良明, "共有トポロジー検出法の精度", 2005年電子情報通信学会総合大会, 通信講演論文集2, No.BS-8-5, p.S74-S75, 2005年3月.
+ 56. <u>M.Zhanikeev</u> and Y.Tanaka, "Variable SNMP Polls Based on Probing", IEICE Communications Society Conference, No.BS-9-7, p.SE13-SE14, September 2004.
+ 57. <u>M.Zhanikeev</u> and Y.Tanaka, "Validity Issues in Bottleneck Bandwidth Measurements", IEICE General Conference, No.B-14-12, p.597, March 2004.
+ 58. <u>M.Zhanikeev</u> and Y.Tanaka, "Variable Probing Parameters in Bandwidth Measurements", IEICE Communications Society Conference, No.SB-10-6, p.11-12, September 2003.
+ 59. <u>M.Zhanikeev</u> and Y.Tanaka, "Advantages of Dynamic End-to-End Bottleneck Probing", 2003 IEICE General Conference, No.SB-4-5, p.9-10, March 2003.
+ 60. <u>M.Zhanikeev</u> and Y.Tanaka, "A Tool for Dynamic Bottleneck Detection in Multi-Hop Inconsistent Networks", IEICE Communications Society Conference, No.SB-13-6, p.11-12, September 2002.
+
+<div style="height:10px;"></div>
+
+**Local Technical Meetings (newest first, no peer review)** 
+
+ 1. 匂阪優花, <u>ザニケエフ マラット</u>, "マイクロ支払いについて実データを用いたユーザ分類方法", 電子情報通信学会コミュニケーションクオリティ（CQ）研究会技術研究報告, vol. 118, no. 395, p.7-12, 2019年1月. 
+ 2. 久下奈美, <u>ザニケエフ マラット</u>, "タグを用いたファイル管理システムに向けて偽トレース生成方法", 電子情報通信学会コミュニケーションクオリティ（CQ）研究会技術研究報告, vol. 118, no. 395, p.1-6, 2019年1月. 
+ 3. <u>M.Zhanikeev</u>, "Dynamic Coding for Relative Positioning in Device Swarms using Sound", IEICE Technical Report on Sound Information Processing (SIP), vol.117, no.516, p.397-400, March 2018. 
+ 4. <u>M.Zhanikeev</u>, "On Performance Under Hotspots in Hadoop versus Bigdata Replay Platforms", IPSJ/SIG Technical Report on Database Systems (DBS), September 2017. 
+ 5. <u>M.Zhanikeev</u>, "Taking the Step from Software to Product Development when teaching PBL at a Business School", IPSJ Technical Report on Information Systems (IS), no.2017-IS-141(5), August 2017. 
+ 6. <u>M.Zhanikeev</u>, "Design and Implementation of a 3-Party Cloud-Backed Handshake for Secure Grouping of WiFi IoT Devices", IEICE Technical Meeting on Radio Communication Systems (RCS), vol.117, no.103, p.133-136, June 2017. 
+ 7. <u>M.Zhanikeev</u>, "On Random MultiChannel TX/RX 802.11 Beacons for Dense Wireless Spaces", IEICE Technical Report on Radio Communication Systems (RCS), vol.116, no.46, p.85-88, May 2016. 
+ 8. <u>M.Zhanikeev</u>, "On a Hybrid Packets-and-Circuits Switching Logic", IEICE Technical Report on Communication Systems (CS), vol.116, no.9, p.43-46, April 2016. 
+ 9. <u>M.Zhanikeev</u>, "Image-Related Uses for Roadside Infrastructure based on Wireless Beacons", IEICE Technical Report on Intelligent Transportation Systems (ITS), vol.115, no.458, p.7-10, February 2016. 
+ 10. <u>M.Zhanikeev</u>, "Complexity Resolution Control for Context Based on Metromaps", IEICE Technical Report on Life and Office Information Systems (LOIS), vol.115, no.410, p.59-62, January 2016. 
+ 11. <u>M.Zhanikeev</u>, "The Declarative-Coordinated Model for Self-Optimization of Service Networks", IEICE Technical Report on Network Systems (NS), vol.115, no.404, p.13-16, January 2016. 
+ 12. <u>M.Zhanikeev</u>, "3-Way Scripts as a Base Unit for Flexible Scale-Out Code", SIG Technical Report on Software Engineering (SE), vol.2015-SE-190, p.1-4, December 2015. 
+ 13. <u>M.Zhanikeev</u>, "A Streaming Algorithm on a Big Data Replay Engine is Best Written as a jQuery Script", IEICE Technical Report on Artificial Intelligence (AI), vol.115, no.337, p.57-60, December 2015. 
+ 14. <u>M.Zhanikeev</u>, "Towards Social Robotics on Smartphones with Simple XYZV Sensor Feedback", SIG Technical Report on Human-Computer Interactions (HCI), vol.2015-UBI-048, p.1-4, November 2015. 
+ 15. <u>M.Zhanikeev</u>, "Back to Rings but not Tokens: Physical and Logical Designs for Distributed Filesystems intended for Bulk Transfer over E2E Emulated Cut-Through Circuits", IEICE Technical Report on Information Networks (IN), vol.115, no.310, p.7-10, November 2015. 
+ 16. <u>M.Zhanikeev</u>, "Browser Visualization using PNGs Generated by HTML5 Workers on Multicore", IEICE Technical Report on Image Engineering (IE), vol.ITE-39, November 2015. 
+ 17. <u>M.Zhanikeev</u>, "Irregularity Countermeasures in Massively Parallel BigData Processors", IEICE Technical Report on Reliability (R), vol.115, no.254, p.7-14, October 2015. 
+ 18. <u>M.Zhanikeev</u>, "A Method for Dynamic Packing of Data Blocks for Over-the-Network Indexing", IPSJ Technical Report on Algorithms (AL), vol.2015-AL-154, no.3, p.1-4, September 2015. 
+ 19. <u>M.Zhanikeev</u>, "The All-In-One Package for Massively Multicore, Heterogeneous Jobs with Hotspots, and Data Streaming", Summer United Workshops on Parallel, Distributed, and Cooperative Processing (SWoPP), vol.2015-ARC-216, no.22, p.1-6, August 2015. 
+ 20. <u>M.Zhanikeev</u>, "Deep Learning vs Multidimensional Classification in Human-Guided Text Mining", IPSJ Technical Report on Game Informatics (GI), vol. 2015-GI-34, no.1, p.1-4, July 2015. 
+ 21. <u>M.Zhanikeev</u>, "How to Build a Generic Fog Cloud Box", IEICE Technical Report on Smart Info-Media Systems (SIS), vol.115, no.75, p.75-78, June 2015. 
+ 22. <u>M.Zhanikeev</u>, "Reliable Vehicle Groups as a Cloud Storage Service", IEICE Technical Report on Intelligent Transportation Systems (ITS), vol.115, no.73, p.7-10, June 2015. 
+ 23. <u>M.Zhanikeev</u>, "Clientside/Offline Lecture Player in a Web Browser", IPSJ Technical Report on Collaboration and Learning Environment (CLE), vol.2015-CLE-16, no.8, p.1-4, May 2015. 
+ 24. <u>M.Zhanikeev</u>, "Cut-Through Network Designs for High-Throughput E2E Networking", IPSJ Technical Meeting on High Performance Computing (HPC), vol.148(36), p.1-4, March 2015. 
+ 25. <u>M.Zhanikeev</u>, "YALMS : OtherAudio and Annotation.Voice2Page Utilities for Educational Multimedia Automation", IPSJ Technical Meeting on AudioVisual Multimedia (AVM), vol.88(4), p.1-6, February 2015. 
+ 26. <u>M.Zhanikeev</u>, "VM Visitation and Resource Micropayments as Practical Components towards Cloud Federations", 7th RICC Workshop, Feburary 2015. 
+ 27. <u>M.Zhanikeev</u>, "Metromaps as a Tool for Minimizing Human Interaction with Learning Bayesian Classifiers", IEICE Technical Report on Natural Computation (NC), vol.114, no.437, p.11-14, January 2015. 
+ 28. <u>M.Zhanikeev</u>, "Cloud Probing", IEICE Technical Report on Information Communication Management (ICM), vol.114, no.389, pp.33-36, p.33-36, January 2015. 
+ 29. 熊野修平、三牧麻美、諏訪将大、岩上翔、高見真, <u>ザニケエフ・マラット</u>, 小出 洋, "multiPaaS: 複数のPaaSを統合して目的に最適化したPaaSを実現するサービス", enPiT第3回シンポジウム、東京, 2014年12月. 
+ 30. 田坂祐太、岩嵜彩夏、塚本祟文、平田和也, <u>ザニケエフ・マラット</u>, 小出 洋, "Inst: 複数のクラウドストレージサービスを統合した大容量ストレージサービス", enPiT第3回シンポジウム、東京, 2014年12月. 
+ 31. <u>M.Zhanikeev</u>, "The Vobile Cloud : Cars are Better for Mobile Clouds and Group Connect", IEICE Technical Report on Intelligent Transportation Systems (ITS), vol.114, no.369, p.59-62, December 2014. 
+ 32. <u>M.Zhanikeev</u>, "Black Swan Disaster Scenarios", IEICE Technical Report on Pattern Recognization and Media Understanding (PRMU), vol.114, no.356, p.45-48, November 2014. 
+ 33. <u>M.Zhanikeev</u>, "A City Traffic Model for Optical Circuit Switching in Data Centers", IEICE Technical Report on Optical Circuit Switching (OCS), vol.114, no.281, p.113-116, October 2014. 
+ 34. <u>M.Zhanikeev</u>, "Circuit Emulation for Bulk Transfers in Distributed Storage and Clouds", 6th RICC Workshop, September 2014. 
+ 35. <u>M.Zhanikeev</u>, "Group Connect in a New Wireless University Campus", IEICE Technical Report on Smart Radio (SR), vol.114, no.165, p.27-30, July 2014. 
+ 36. <u>M.Zhanikeev</u>, "Can We Emulate Local Circuit Switching in Cloud Storage?", IEICE Technical Report on Network Systems (NS), vol.114, no.107, p.1-4, June 2014. 
+ 37. <u>M.Zhanikeev</u>, "Reverse Engineering Twitter Hashtag Algorithm", IEICE Technical Report on Natural Language Computing (NLC), vol.114, no.81, p.13-16, June 2014. 
+ 38. <u>M.Zhanikeev</u>, "Towards a Practical Method for Interactive Traffic Visualizations in Data Centers", IEICE Technical Report on Service Computing (SC), vol.114, no.50, p.1-4, May 2014. 
+ 39. <u>M.Zhanikeev</u>, "Efficiency Tricks for Hashing and Blooming in Streaming Algorithms", IEICE Technical Report on Information Theory (IT), vol.114, no.34, p.1-4, May 2014. 
+ 40. <u>M.Zhanikeev</u>, "High Availability Cloud Storage as a Software Package with Social Graph, Throughput Awareness, and Smart Distribution", IEICE Technical Report on Network Systems (NS), vol.114, no.6, p.23-26, April 2014. 
+ 41. <u>M.Zhanikeev</u>, "Is It Time to Go Global with Cloud Performance Management?", 4th RICC Workshop, March 2014. 
+ 42. <u>M.Zhanikeev</u>, "HomeBox Virtual: A New Paradigm for End-to-End Services Based on VM Visitation Platforms", IEICE Technical Report on Reliability (R), vol.113, no.437, p.31-34, February 2014. 
+ 43. <u>M.Zhanikeev</u>, "ReBot: a Recommendation Robot as a Fundamentally Distinct Approach towards Complexity", IEICE Technical Report on Cloud Network Robots (CNR), vol.113, no.432, p.51-54, February 2014. 
+ 44. <u>M.Zhanikeev</u>, H.Koide, "YALMS: A Data Structure for Storage and Replay of Multimedia Content in Digital Classes", IEICE Technical Report on Life Intelligence and Office Information Systems (LOIS), vol.113, no.381, p.25-28, January 2014. 
+ 45. <u>M.Zhanikeev</u>, "WiFi Direct with Delay-Optimized DTN is the Base Recipe for Applications in Location-Shared Wireless Networking Virtualization", IEICE Technical Report on Radio Communication Systems (RCS), vol.113, no.386, p.25-28, January 2014. 
+ 46. 中山一平，坂本智弘，篠崎翔明，<u>ザニケエフ・マラット</u>, 小出 洋, "TabiLog: A Cloud Application for Group Travel Lifelogs", enPiT第2回シンポジウム、東京, 2013年12月. 
+ 47. 齋藤暢郎，村上隆俊，井手太一, <u>ザニケエフ・マラット</u>, 小出 洋, "hrBizStore: High Availability Enterprise Data Store that Went to Live in Clouds", enPiT第2回シンポジウム、東京, 2013年12月. 
+ 48. <u>M.Zhanikeev</u>, "Maps2Graphs: A Socially Scalable Method for Generating High-Quality GIS Datasets Based on Google Maps API", IEICE Technical Report on Intelligent Transport Systems Technology (ITS), vol.113, no.337, p.73-76, December 2013. 
+ 49. <u>M.Zhanikeev</u>, H.Koide, "YALMS: A Group Drive API for Cloud-Based Classrooms", IEICE Technical Report on Information Network (IN), vol.113, no.303, p.19-22, November 2013. 
+ 50. <u>M.Zhanikeev</u>, "Improved Social Utility of P2P Streaming with a VBR-Based Substream Design", IEICE Technical Report on Network Systems (NS), vol.113, no.292, p.1-4, November 2013. 
+ 51. <u>M.Zhanikeev</u>, "MetroMaps versus Facets: What Exactly is the Ontological Context?", IEICE Technical Report on Artificial Intelligence (AI), vol.113, no.332, p.19-22, November 2013. 
+ 52. <u>M.Zhanikeev</u>, "Can We Benefit from Solid State Drives in Rich Multimedia Content Processing, Storage and Streaming?", ITE/IEICE Technical Report on Multimedia Storage (ITE-MMS), 2013. 
+ 53. <u>M.Zhanikeev</u>, "Black Swan Based VM Placement and Migration Optimizations in Clouds -- Towards Reliability Profiling of Multi-VM Applications, Data Centers, and Clouds", IEICE Technical Report on Reliability (R), vol.113, no.249, p.37-40, October 2013. 
+ 54. <u>M.Zhanikeev</u>, "NiceCover: A Serverless Webapp for Crowdsourcing Data Extraction and Knowledge Generation on Top of Scientific Portals", IEICE Technical Report on Life Intelligence and Office Information Systems (LOIS), vol.113, no.210, p.39-42, September 2013. 
+ 55. <u>M.Zhanikeev</u>, H.Koide, "Methods and Algorithms for Automatic Slicing of Screen Capture Video using Slide PDFs", IEICE Technical Report on Educational Technology (ET), vol.113, no.229, p.13-16, September 2013. 
+ 56. <u>M.Zhanikeev</u>, H.Koide, "YALMS: Yet Another Lecture Management System -- A New Process for Generating and Storing Knowledge in Class", IEICE Technical Report on Educational Technology (ET), vol.113, no.166, p.25-28, July 2013. 
+ 57. <u>M.Zhanikeev</u>, "Experiences from Measuring Per-Packet Cost of Software Defined Networking", IEICE Technical Report on Service Computing (SC), vol.113, no.86, p.31-34, June 2013. 
+ 58. <u>M.Zhanikeev</u>, "Black Swan Strategies for Performance Management of Large-Scale Clouds", IEICE Technical Report on Reliability (R), vol.113, no.80, p.13-16, June 2013. 
+ 59. <u>M.Zhanikeev</u>, "On the Possibility of Virtual Wireless Access as Part of a Practical Usecase -- Yet Another Practical Use for WiFi Hotspot and WiFi P2P Specs", IEICE Technical Report on Radio Communication Systems (RCS), vol.113, no.8, p.19-24, April 2013. 
+ 60. <u>M.Zhanikeev</u>, Y.Tanaka, "Control over Precision of Flow Volume Sampling using Random Batch Sampling", IEICE Technical Report on Network Systems (NS), vol.112, no.463, p.107-112, March 2013. 
+ 61. <u>M.Zhanikeev</u>, "A Link-Based Network Coordinate System for Mobility", IEICE Technical Report on Radio Communication Systems (RCS), vol.112, no.443, p.489-492, February 2013. 
+ 62. <u>M.Zhanikeev</u>, "Distance versus Time in Map Guidance", ITE Technical Report on Human Information (HI), vol.37, no.8, p.177-182, February 2013. 
+ 63. <u>M.Zhanikeev</u>, "Analysis of Multidimensional Dependencies as a Signal Processing Problem", IEICE Technical Report on Knowledge-based Software Engineering (KBSE), vol.112, no.419, p.25-28, January 2013. 
+ 64. 遠藤 登志聖, ザニケエフ･マラット, 渡邉 均, "電力取引組合せオークション最適化の社会的効用", 電子情報通信学会エネルギー技術研究会 (EE)研究会技術研究報告, vol.112, no.396, p.163-166, January 2013. 
+ 65. 迎 尚悟, ザニケエフ･マラット, 渡邉 均, "電気自動車(EV)バッテリー交換ステーションの配置とEV稼働率に関する解析", 電子情報通信学会エネルギー技術研究会 (EE)研究会技術研究報告, vol.112, no.396, p.159-162, January 2013. 
+ 66. 佐々木 亮, ザニケエフ･マラット, 渡邉 均, "BitTorrent におけるネットワーク座標システムの可能性に関する検討", 電子情報通信学会ネットワークシステム(NS)研究会技術研究報告, vol.112, no.392, p.129-132, January 2013. 
+ 67. 大山 晋, ザニケエフ･マラット, 渡邉 均, "バッテリの残り使用時間と充電状態を考慮したパス構築", 電子情報通信学会情報ネットワーク(IN)研究会技術研究報告, vol.112, no.393, p.5-9, January 2013. 
+ 68. 川口 誠矢, ザニケエフ･マラット, 渡邉 均, "複数コミュニティを踏まえた情報伝播モデルの構築", 電子情報通信学会情報ネットワーク(IN)研究会技術研究報告, vol.112, no.393, p.11-14, January 2013. 
+ 69. <u>M.Zhanikeev</u>, "Complexity as E2E Network Performance Estimator", IEICE Technical Report on Information Theory (IT), vol.112, no.382, p.37-40, January 2013. 
+ 70. <u>M.Zhanikeev</u>, Takahito Tomoto, Hitoshi Watanabe, "Time to Play to Know (T2P2K) : First Report on a Digital Classroom Project in Grades 4 through 6 of Elementary Schools", IEICE Technical Report on Educational Technology (ET), vol.112, no.374, p.37-42, January 2013. 
+ 71. <u>M.Zhanikeev</u>, "Random Graphs with Realistic Neighborhood Modeling Based on Online Surveys", IEICE Technical Report on Natural Language Understanding and Models of Communication (NLC), vol.112, no.367, p.19-22, December 2012. 
+ 72. <u>M.Zhanikeev</u>, "New Dataflow UML for Description and Modeling of Survey Data Processing", IEICE Technical Report on Natural Language Understanding and Models of Communication (NLC), vol.112, no.367, p.41-46, December 2012. 
+ 73. <u>M.Zhanikeev</u>, Y.Tanaka, "Randomness Optimizer for Trajectory Performance Sampling", IEICE Technical Report on Communication Quality, Vol.112, No.352, p.7-12, December 2012. 
+ 74. <u>M.Zhanikeev</u>, Y.Tanaka, "Popularity-Based Modeling of Flash Events in Synthetic Packet Traces", IEICE Technical Report on Communication Quality, Vol.112, No.288, p.1-6, November 2012. 
+ 75. <u>M.Zhanikeev</u>, Y.Tanaka, "Analytical Models for L2 versus L3 QoS Provisioning", IEICE Technical Report on Photonic Networks, Vol.112, No.276, p.13-18, November 2012. 
+ 76. <u>M.Zhanikeev</u>, Y.Tanaka, "Advances in HTML5 and P2P Video Streaming from the Viewpoint of Network Dependability and Availability", IEICE Technical Report on Dependable Computing, Vol.112, No.270, p.13-18, October 2012. 
+ 77. <u>M.Zhanikeev</u>, Y.Tanaka, "A Many-to-One Content Aggregation Model for Highly Heterogeneous Environments", IEICE Technical Report on Network System, Vol.112, No.231, p.13-18, October 2012. 
+ 78. <u>M.Zhanikeev</u>, H.Watanabe, "Realtime Content Delivery using Client-Side Aggregation", IEICE Technical Report on Communication Quality, Paper No.CQ2012-1, Vol.112, No.10, p.1-6, April 2012. 
+ 79. <u>M.Zhanikeev</u>, Y.Tanaka, "Fast Thresholds for Binary Clustering of Packet Traffic Properties", IEICE Technical Report on Information and Communication Management, Paper No.ICM2011-41, Vol.111, No.382, p.57-60, January 2012. 
+ 80. <u>M.Zhanikeev</u>, Y.Tanaka, "Practical Models for Multi-Hop End-to-End Network Paths", IEICE Technical Report on Information and Communication Management, Paper No.ICM2010-72, Vol.110, No.466, p.105-108, March 2011. 
+ 81. 孫麗花, 矢守恭子, <u>ザニケエフ・マラット</u>, 田中良明, "OSPFルーチングのQoS評価とQoE評価", 電子情報通信学会技術研究報告, Paper No.CQ2010-41, Vol.110, No.198, p.43-48, September 2010. 
+ 82. <u>M.Zhanikeev</u>, Y.Tanaka, "Effect of Incomplete Data on Delay Space Dimensionality", IEICE Technical Report on Information and Communication Management, Paper No.ICM2010-18, Vol.110, No.119, p.57-60, July 2010. 
+ 83. W.Xie, <u>M.Zhanikeev</u>, Y.Tanaka, "Comparison between Two Methods of IP Traffic Analysis", IEICE Technical Report on Information and Communication Management, Paper No.ICM2010-17, Vol.110, No.119, p.51-56, July 2010. 
+ 84. <u>M.Zhanikeev</u>, "Web Multimedia Throughput: Methodology and Analysis", IEICE Technical Report on Life and Office Information Systems, Paper No.LOIS2010-7, p.93-156, May 2010. 
+ 85. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "Things You Should Know about Your Terminal Equipment", IEICE Technical Report on Information and Communication Management, Paper No.ICM2009-71, Vol.109, No.463, p.151-156, March 2010. 
+ 86. <u>M.Zhanikeev</u>, Y.Okada and Y.Tanaka, "Valuable Properties in Spatial Clustering of End-to-End Delay Space", IEICE Technical Report on Information Networks, Paper No.IN2009-142, Vol.109, No.411, p.93-96, February 2010. 
+ 87. <u>M.Zhanikeev</u>, Y.Tanaka, "Sensing Patterns in One-To-Many End-to-End Delay Space", IEICE Technical Report on Information and Communication Management, Paper No.ICM2009-41, Vol.109, No.378, p.35-38, January 2010. 
+ 88. D.Pham Van, <u>M.Zhanikeev</u>, Y.Tanaka, "Practical Issues with Replay of High Throughput Traffic", IEICE Technical Report on Information and Communication Management, Paper No.ICM2009-23, Vol.109, No.120, p.55-60, July 2009. 
+ 89. 岡田陽士朗, <u>ザニケエフ・マラット</u>, 田中良明, "トポロジー不明網におけるマルチキャスト木構築法", 電子情報通信学会技術研究報告, Paper No.ICM2009-9, Vol.109, No.60, p.83-88, May 2009. 
+ 90. <u>M.Zhanikeev</u>, Y.Tanaka, "Directional Active Probing in Real Network Services", IEICE Technical Report on Information and Communication Management, Paper No.ICM2008-87, Vol.108, No.481, p.167-172, March 2009. 
+ 91. <u>M.Zhanikeev</u>, Y.Tanaka, "Network Positioning for Inter-ISP Services", IEICE Technical Report on Information and Communication Management, Paper No.ICM2008-47, Vol.108, No.288, p.45-48, November 2008. 
+ 92. Z.Lu, <u>M.Zhanikeev</u>, Y.Tanaka, "Entropy-based Analysis of User IP Space", IEICE Technical Report on Information Network, Paper No.IN2007-113, Vol.107, No.378, p.85-90, December 2007. 
+ 93. <u>M.Zhanikeev</u>, Y.Tanaka, "Applications of IP Aggregation for Network Anomaly Detection", IEICE Technical Report on Network System, Paper No.NS2007-33, Vol.107, No.88, p.23-28, June 2007. 
+ 94. <u>M.Zhanikeev</u>, Y.Tanaka, "Issues with Using Real Packet Traces in Simulated Environments", IEICE Technical Report on Telecommunication Management, Paper No.TM2006-67, Vol.106, No.600, p.35-40, March 2007. 
+ 95. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "Efficiency Issues in End-to-End Available Bandwidth Measurement Techniques", IEICE Technical Report on Telecommunication Management, Paper No.TM2006-66, Vol.106, No.600, p.31-34, March 2007. 
+ 96. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Characterizing Source Distribution in Web Server User Community", IEICE Technical Report on Telecommunication Management, Paper No.TM2006-61, Vol.106, No.600, p.1-6, March 2007. 
+ 97. 伊藤健, <u>ザニケエフ・マラット</u>, 田中良明, "IPアグリゲーションを用いた異常通信検知方式", 電子情報通信学会技術研究報告, Paper No.NS2006-232, Vol.106, No.577, p.387-390, March 2007. 
+ 98. 伊藤健, <u>ザニケエフ・マラット</u>, 田中良明, "IPアグリゲーションを用いたネットワーク攻撃検知手法", 電子情報通信学会技術研究報告, Paper No.NS2006-122, Vol.106, No.310, p.125-128, October 2006. 
+ 99. <u>M.Zhanikeev</u>, Y.Tanaka, "Short-Memory Properties in Traffic Analysis", IEICE Technical Report on Telecommunication Management, Paper No.TM2006-31, Vol.106, No.154, p.59-64, July 2006. 
+ 100. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "A New End-to-End Available Bandwidth Measurement Scheme Using Active Probing", IEICE Technical Report on Telecommunication Management, Paper No.TM2006-4, Vol.106, No.34, p.19-24, May 2006. 
+ 101. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Component Analysis in Traffic and Detection of Anomalies", IEICE Technical Report on Telecommunication Management, Paper No.TM2005-66, Vol.105, No.668, p.61-66, March 2006. 
+ 102. <u>M.Zhanikeev</u>, Y.Tanaka, "Can We Find Applications in Multiple-Source Flows?", IEICE Technical Report on Telecommunication Management, Paper No.TM2005-65, Vol.105, No.668, p.55-60, March 2006. 
+ 103. <u>M.Zhanikeev</u>, Y.Tanaka, "Certainty in Network Management Decisions", IEICE Technical Report on Telecommunication Management, Paper No.TM2005-25, Vol.105, No.163, p.39-44, July 2005. 
+ 104. <u>M.Zhanikeev</u>, Y.Tanaka, "Usability of Monitoring Data in Proactive Management", IEICE Technical Report on Telecommunication Management, Paper No.TM2004-108, Vol.104, No.707, p.37-42, March 2005. 
+ 105. <u>M.Zhanikeev</u>, Y.Tanaka, "Effective Detection of Network Performance Properties", IEICE Technical Report on Telecommunication Management, Paper No.TM2004-38, Vol.104, No.326, p.13-18, September 2004. 
+ 106. <u>M.Zhanikeev</u>, Y.Tanaka, "Lightweight Management in High-Speed Networks", IEICE Technical Report on Telecommunication Management, Paper No.TM2003-104, Vol.103, No.700, p.7-12, March 2004. 
+ 107. <u>M.Zhanikeev</u>, Y.Tanaka, "End-to-End Measurements versus MIB-based Data Pulling", IEICE Technical Report on Telecommunication Management, Paper No.TM2003-73, Vol.103, No.447, p.131-136, November 2003. 
+ 108. <u>M.Zhanikeev</u>, Y.Tanaka, "Dynamic Estimation of Bottleneck Bandwidth", IEICE Technical Report on Network System, Paper No.NS2002-191, Vol.102, No.512, p.37-40, February 2002. 
+
+<div style="height:10px;"></div>
+
+**Invided Talks**
+
+ 1. <u>M.Zhanikeev</u>, "Population Management in Clouds is a Do-It-Yourself Technology", Invited Talk at IETF Network Management Research Group (IETF94/NMRG) Meetings on Future Standardization, November 2015.
+ 2. <u>M.Zhanikeev</u>, "Squeezing Out the Best of End-to-End Performance", Invited Talk at IEICE Technical Meeting on Communication Quality, November 2010.
+ 3. <u>M.Zhanikeev</u>, "Between Active and Passive Approaches to Network Performance Analysis", Tutorial at Network Operation and Management Symposium (NOMS), Osaka, Japan, April 2010.
+ 4. <u>M.Zhanikeev</u>, "Active Measurement and its Place in Network Evolution", Special talk at 7th IEICE QoS Workshop, November 2009.
+ 5. <u>M.Zhanikeev</u>, "Active Measurements in NGN Scenarios", Tutorial at IEICE Communications Society Conference, September 2008.
+
+<div style="height:100px;"></div>
+
+
+
