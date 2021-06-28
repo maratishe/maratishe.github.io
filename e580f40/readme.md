@@ -1,6 +1,6 @@
 このページの[HTML版](./readme.html)は[Markdown版](./readme.md)から自動的に生成されている。
 
-<!-- -*- coding: UTF8 -*- -->
+<!-- -*- encoding: UTF8 -*- -->
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
 <style>
 code { font-weight: bold; color:#f00;border:0px;}
@@ -175,6 +175,71 @@ code { font-weight: bold; color:#f00;border:0px;}
 <div style="height:10px;"></div>
 
 **国内学会 (査読無し・最新順)**
+
+ 1. <u>M.Zhanikeev</u>, H.Koide, "Hardware and Software Design of a Mini Cloud for Experiments with Virtualization in Classes", 3th JSSST Conference, rePiT session, September 2013.
+ 2. <u>M.Zhanikeev</u>, Y.Tanaka, "VM Migration Avoidance based on Flow Workload Classification", IEICE Communications Society Conference, No.BS-1-50, p.S98-S99, March 2013.
+ 3. D.Wei, <u>M.Zhanikeev</u>, Y.Tanaka, "A New Optimization Method for Virtual Network Embedding", IEICE Communications Society Conference, No.BS-1-34, p.S66-S67, March 2013.
+ 4. <u>M.Zhanikeev</u>, "Cloud Weather System as a Futuristic Performance Model", IEICE Communications Society Conference, No.BS-1-25, p.S48-S49, March 2013.
+ 5. 川口誠矢, <u>ザニケエフ・マラット</u>, 渡邉　均, "複数コミュニティにおける使用パターンと内容の相関に関する検討", 電子情報通信学会通信ソサイエティ大会, 通信講演論文集2, No.B-7-20, p.99, 2012年9月.
+ 6. S.Ma, <u>M.Zhanikeev</u>, Y.Tanaka, "Accuracy of Streaming Media QoE Metrics", IEICE Communications Society Conference, No.BS-5-42, p.S108-S109, September 2012.
+ 7. <u>M.Zhanikeev</u>, Y.Tanaka, "Building a Media Player in Browser using HTML5 WebWorkers", IEICE Communications Society Conference, No.BS-5-9, p.S44-S45, September 2012.
+ 8. <u>M.Zhanikeev</u>, R.Yamamoto, Y.Tanaka, "On Why Distributed Monitoring Needs Distributed PASTA", IEICE Communications Society Conference, No.BS-4-5, p.S24-S26, September 2012.
+ 9. <u>M.Zhanikeev</u>, Y.Tanaka and R.Yamamoto, "Alternative Packet Sampling for Improved Fairness and Function", IEICE General Conference, No.BS-3-4, p.S7-S8, March 2012.
+ 10. <u>M.Zhanikeev</u>, R.Yamamoto and Y.Tanaka, "Capturing QoS Context by Alternative Flow Monitoring in Clouds", IEICE General Conference, No.BDS-1-2, p.S128-S129, March 2012.
+ 11. R.Leng, <u>M.Zhanikeev</u>, Y.Tanaka, "Disproportionality in Large-scale Distributed Services", 2011 IEICE Communications Society Conference, No.BS-6-14, p.S56-S57, September 2011.
+ 12. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "Influence of Probing Parameters on Terminal Equipment Performance", IEICE General Conference, No.BS-4-43, September 2010.
+ 13. H.Situmorang, <u>M.Zhanikeev</u>, Y.Tanaka, "QoS Call Setup for End-to-End QoS Provisioning: Top-Down Approach versus Bottom-Up Approach", IEICE Communications Society Conference, No.BS-7-39, p.S121-S122, September 2010.
+ 14. W.Xie, <u>M.Zhanikeev</u>, Y.Tanaka, "Processing Overhead in IP Traffic Analysis", IEICE Communications Society Conference, No.BS-7-36, p.S115-S116, September 2010.
+ 15. <u>ザニケエフ・マラット</u>, "ウェブアプリを学ぶためのウェブアプリ", 私立大学情報教育協会教育改革ICT戦略大会, No.E-14, 2010年9月.
+ 16. 孫麗花, 矢守恭子, <u>ザニケエフ・マラット</u>, 田中良明, "QoEから見たトラヒックエンジニアリングの評価", 2010年電子情報通信学会通信ソサイエティ大会, 通信講演論文集2, No.B-11-2, p.269, 2010年9月.
+ 17. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "How to Model Terminal Equipment in Simulation", IEICE Communications Society Conference, No.BS-7-34, p.S111-S112, September 2010.
+ 18. R.Leng, <u>M.Zhanikeev</u>, Y.Tanaka, "Problem of Probing Directionality", IEICE Communications Society Conference, No.BS-7-33, p.S109-S110, September 2010.
+ 19. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "Best Distribution Fitting for Terminal Equipment Performance", IEICE General Conference, No.BS-3-26, p.S74-S75, March 2010.
+ 20. J.O.Song, <u>M.Zhanikeev</u>, O.Yoshie, Y.Tanaka, "Packet Flow Based Scheduling Model by Evolutionary Algorithm", IEICE General Conference, No.BS-3-4, p.S30-S31, March 2010.
+ 21. W.Xie, <u>M.Zhanikeev</u>, Y.Tanaka, "IP Arrival Processes in Backbone Traffic", IEICE General Conference, No.BS-3-3, p.S28-S29, March 2010.
+ 22. <u>M.Zhanikeev</u> and Y.Tanaka, "Analogy between Video Bitstream and Traffic Monitoring", IEICE Communications Society Conference, No.BS-10-31, p.S125-S126, September 2009.
+ 23. D.Pham Van, <u>M.Zhanikeev</u> and Y.Tanaka, "Distributed Traffic Replay", IEICE Communications Society Conference, No.BS-10-2, p.S67-S68, September 2009.
+ 24. M.Randriamananjara, <u>M.Zhanikeev</u>, Y.Tanaka, "Analysis of Throughput Reliability in Complex Networks", IEICE Communications Society Conference, No.BS-10-1, p.S65-S66, September 2009.
+ 25. M.Yap, <u>M.Zhanikeev</u> and Y.Tanaka, "Evaluation of Active Probing Tools in Varying Traffic Conditions", IEICE General Conference, No.BS-4-21, p.S41-S42, March 2009.
+ 26. <u>M.Zhanikeev</u> and Y.Tanaka, "Directionality of Packet-Pair Active Probes in Practice", IEICE General Conference, No.BS-4-20, p.S39-S40, March 2009.
+ 27. D.Pham Van, <u>M.Zhanikeev</u> and Y.Tanaka, "Synthesis of Unobtrusive Flash Crowds in Traffic Traces", IEICE General Conference, No.BS-4-19, p.S37-S38, March 2009.
+ 28. <u>M.Zhanikeev</u> and Y.Tanaka, "Active Measurement in NGN Scenarios", IEICE Communications Society Conference, No.BT-3-2, p.SS35-SS36, September 2008.
+ 29. D.Van, <u>M.Zhanikeev</u> and Y.Tanaka, "Simplifying High-Speed Backbone Traffic for Replaying", IEICE Communications Society Conference, No.BS-12-33, p.S179-S180, September 2008.
+ 30. <u>M.Zhanikeev</u> and Y.Tanaka, "Accuracy in Overhead-Constrained Network Coordinate Systems", IEICE Communications Society Conference, No.BS-12-32, p.S177-S178, September 2008.
+ 31. M.Yap, <u>M.Zhanikeev</u> and Y.Tanaka, "Statistical Analysis of Active Probing Tools", IEICE Communications Society Conference, No.BS-12-31, p.S175-S176, September 2008.
+ 32. S.Terbish, <u>M.Zhanikeev</u> and Y.Tanaka, "Traffic Statistics of an ISP in Mongolia", IEICE Communications Society Conference, No.BS-12-30, p.S173-S174, September 2008.
+ 33. 岡田陽士朗, <u>ザニケエフ・マラット</u>, 田中良明, 柳澤政生, "測定遅延時間の多次元クラスタリングによるトポロジー推定", 2008年電子情報通信学会通信ソサイエティ大会, 通信講演論文集2, No.B-14-9, p.305, 2008年9月.
+ 34. <u>M.Zhanikeev</u> and Y.Tanaka, "Performance Analysis of Extra-Large Network Simulations", IEICE General Conference, No.BS-3-4, p.S17-S18, March 2008.
+ 35. Z.Lu, <u>M.Zhanikeev</u>, Y.Tanaka, "Sensitivity of Entropy-based Analysis to Detect Infected Hosts", IEICE General Conference, No.BS-3-3, p.S15-S16, March 2008.
+ 36. M.Yap, <u>M.Zhanikeev</u> and Y.Tanaka, "Time Series Analysis for Active Probing Results", IEICE General Conference, No.BS-3-2, p.S13-S14, March 2008.
+ 37. 岡田陽士朗, <u>ザニケエフ・マラット</u>, 田中良明, 柳澤政生, "広域ネットワークにおけるノード探索アルゴリズム", 2008年電子情報通信学会総合大会, 通信講演論文集2, No.B-14-8, p.481, 2008年3月.
+ 38. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Analyzing Web Server Source Distribution by Data Image", IEICE Communications Society Conference, No.BS-10-19, p.S138-S139, September 2007.
+ 39. <u>M.Zhanikeev</u> and Y.Tanaka, "Performance of Traffic Flow versus IP Space Analysis", IEICE Communications Society Conference, No.BS-10-6, p.S112-S113, September 2007.
+ 40. M.Yap, <u>M.Zhanikeev</u> and Y.Tanaka, "Verifying Quality of Active Measurement Results", IEICE Communications Society Conference, No.BS-10-5, p.S110-S111, September 2007.
+ 41. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Detecting Anomalies Using Flow Signature", IEICE General Conference, No.BS-10-9, p.S109-S110, March 2007.
+ 42. <u>M.Zhanikeev</u> and Y.Tanaka, "Robust Search Indices From Active Measurement Results", IEICE General Conference, No.BS-10-3, p.S97-S98, March 2007.
+ 43. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "End-to-End Available Bandwidth Prediction Using ABsnap and Neural Network", IEICE General Conference, No.BS-10-2, p.S95-S96, March 2007.
+ 44. 伊藤健, <u>ザニケエフ・マラット</u>, 田中良明, "IPアグリゲーションを用いた攻撃ホスト検出手法", 2007年電子情報通信学会総合大会, 通信講演論文集2, No.B-14-8, p.546, 2007年3月.
+ 45. <u>M.Zhanikeev</u>, S.Xu, Y.Tanaka, "Active Measurements in IP over WDM Environment", IEICE Communications Society Conference, No.BS-15-14, p.SE27-SE28, September 2006.
+ 46. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "Available Bandwidth Measurement Using Different Probing Patterns", IEICE Communications Society Conference, No.BS-15-13, p.SE25-SE26, September 2006.
+ 47. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Network Anomaly Detection and Identification", IEICE Communications Society Conference, No.BS-15-11, p.SE21-SE22, September 2006.
+ 48. 伊藤健, <u>ザニケエフ・マラット</u>, 田中良明, "Blaster.Cワームのパケット到着間隔の性質", 2006年電子情報通信学会通信ソサイエティ大会, 通信講演論文集2, No.B-14-3, p.348, 2006年9月.
+ 49. T.Q.Le, <u>M.Zhanikeev</u>, Y.Tanaka, "Detection of Anomalies by Analysis of Traffic Components", IEICE General Conference, No.BS-8-18, p.SE35-SE36, March 2006.
+ 50. <u>M.Zhanikeev</u> and Y.Tanaka, "A Simple Paradigm for Many-to-Many Tomography", IEICE General Conference, No.BS-8-17, p.SE33-SE34, March 2006.
+ 51. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "An Active End-to-End Available Bandwidth Measurement Scheme", IEICE General Conference, No.BS-8-16, p.SE31-SE32, March 2006.
+ 52. J.McKeown, <u>M.Zhanikeev</u>, Y.Tanaka, "Detection of P2P Traffic at Packet Flow Level", IEICE Communications Society Conference, No.BS-10-12, p.SE33-SE34, September 2005.
+ 53. W.Tan, <u>M.Zhanikeev</u>, Y.Tanaka, "Lightweight Discrete Utilization Jitter Estimation", IEICE Communications Society Conference, No.BS-10-1, p.SE11-SE12, September 2005.
+ 54. <u>M.Zhanikeev</u>, J.McKeown, Y.Tanaka, "What Do Packet Trains Measure?", IEICE General Conference, No.BS-10-6, p.SE10-SE11, March 2005.
+ 55. 松友孝如, <u>ザニケエフ・マラット</u>, 田中良明, "共有トポロジー検出法の精度", 2005年電子情報通信学会総合大会, 通信講演論文集2, No.BS-8-5, p.S74-S75, 2005年3月.
+ 56. <u>M.Zhanikeev</u> and Y.Tanaka, "Variable SNMP Polls Based on Probing", IEICE Communications Society Conference, No.BS-9-7, p.SE13-SE14, September 2004.
+ 57. <u>M.Zhanikeev</u> and Y.Tanaka, "Validity Issues in Bottleneck Bandwidth Measurements", IEICE General Conference, No.B-14-12, p.597, March 2004.
+ 58. <u>M.Zhanikeev</u> and Y.Tanaka, "Variable Probing Parameters in Bandwidth Measurements", IEICE Communications Society Conference, No.SB-10-6, p.11-12, September 2003.
+ 59. <u>M.Zhanikeev</u> and Y.Tanaka, "Advantages of Dynamic End-to-End Bottleneck Probing", 2003 IEICE General Conference, No.SB-4-5, p.9-10, March 2003.
+ 60. <u>M.Zhanikeev</u> and Y.Tanaka, "A Tool for Dynamic Bottleneck Detection in Multi-Hop Inconsistent Networks", IEICE Communications Society Conference, No.SB-13-6, p.11-12, September 2002.
+
+<div style="height:10px;"></div>
+
+**国内研究会 (査読無し・最新順)**       
 
  1. 匂阪優花, <u>ザニケエフ マラット</u>, "マイクロ支払いについて実データを用いたユーザ分類方法", 電子情報通信学会コミュニケーションクオリティ（CQ）研究会技術研究報告, vol. 118, no. 395, p.7-12, 2019年1月. 
  2. 久下奈美, <u>ザニケエフ マラット</u>, "タグを用いたファイル管理システムに向けて偽トレース生成方法", 電子情報通信学会コミュニケーションクオリティ（CQ）研究会技術研究報告, vol. 118, no. 395, p.1-6, 2019年1月. 
