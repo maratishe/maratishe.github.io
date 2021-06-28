@@ -18,7 +18,7 @@ code { font-weight: bold; color:#f00;border:0px;}
 [Github pages](http://maratishe.github.io/) ※このページのホスティング<br>
           
 [これまでの研究の概要 (PDF)](./researchbefore.pdf)<br>
-[現在の研究活動 (PDF)](./researchafter.pdf)<br>
+[現在の研究活動 (PDF)](./researchafter.pdf)<br>                                                         
 [CV (PDF・4ページ)](./cv.pdf) `※そのQRコードがこのページを指している`
 
 <div style="height:30px;"></div>
