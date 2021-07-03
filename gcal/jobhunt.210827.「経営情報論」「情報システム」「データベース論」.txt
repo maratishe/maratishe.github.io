@@ -1,0 +1,10 @@
+no : 13
+id : D121061189 
+update : 2021年06月23日
+univ : 鹿児島国際大学
+title : 専任教員（講師以上）　「経営情報論」「情報システム」「データベース論」及び共通教育科目「情報処理」「確率と統計Ⅰ・Ⅱ」を担当できる方
+field : 社会科学 - 経営学
+post : 准教授・常勤専任講師相当 -- 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月27日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061189&ln_jor=0&top_btn=1

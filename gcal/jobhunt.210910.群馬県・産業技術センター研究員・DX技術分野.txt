@@ -1,0 +1,10 @@
+no : 23
+id : D121061171 
+update : 2021年06月22日
+univ : 群馬県・産業技術センター研究員・DX技術分野
+title : 群馬県職員募集（産業技術センター研究員・DX技術分野）
+field : 情報学 - 計算基盤 -- 総合理工 - 計算科学 -- 情報学 - 情報学基礎
+post : 研究員・ポスドク相当
+tenure : 常勤 (任期なし)
+deadline : 2021年09月10日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061171&ln_jor=0&top_btn=1

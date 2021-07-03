@@ -1,0 +1,10 @@
+no : 41
+id : D121060443 
+update : 2021年06月16日
+univ : 宮崎公立大学・データサイエンス
+title : 宮崎公立大学専任教員(データサイエンス）の公募について
+field : 人文学 - 言語学 -- 総合理工 - 計算科学 -- 情報学 - 情報学基礎
+post : 准教授・常勤専任講師相当 -- 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年07月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121060443&ln_jor=0&top_btn=1

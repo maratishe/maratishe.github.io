@@ -1,0 +1,10 @@
+no : 10
+id : D121061040 
+update : 2021年06月18日
+univ : 岡山大学・知能機械システム学講座
+title : 教授の公募（大学院自然科学研究科 産業創成工学専攻 知能機械システム学講座 適応学習システム制御学）
+field : 工学 - 機械工学 -- 情報学 - 人間情報学
+post : 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月23日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061040&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 44
+id : D121061575 
+update : 2021年06月23日
+univ : 横浜市立大学・データサイエンス関連分野
+title : 公立大学法人横浜市立大学の専任教員公募(データサイエンス関連分野　教授または准教授）
+field : 情報学 - 情報学基礎 -- 情報学 - 計算基盤 -- 総合理工 - 計算科学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061575&ln_jor=0&top_btn=1

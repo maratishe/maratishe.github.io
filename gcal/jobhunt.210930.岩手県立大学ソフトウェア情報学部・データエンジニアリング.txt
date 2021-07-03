@@ -1,0 +1,21 @@
+no : 21
+id : D121061809 
+update : 2021年06月25日
+univ : 岩手県立大学
+title : 岩手県立大学ソフトウェア情報学部・データエンジニアリング（准教授または講師）募集（データエンジニアリング）
+field : 情報学 - 人間情報学 -- 情報学 - 情報学基礎 -- 情報学 - 計算基盤
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年09月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061809&ln_jor=0&top_btn=1
+
+no : 26
+id : D121061806 
+update : 2021年06月25日
+univ : 岩手県立大学
+title : 岩手県立大学ソフトウェア情報学部（准教授または講師）募集（データサイエンス）
+field : 情報学 - 人間情報学 -- 情報学 - 情報学基礎 -- 情報学 - 計算基盤
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年09月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061806&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 65
+id : D121061567 
+update : 2021年06月23日
+univ : 東京理科大学・通信・情報ネットワーク分野                             
+title : 東京理科大学 工学部 電気工学科 准教授又は講師の募集 （通信・情報ネットワーク分野）
+field : 工学 - 電気電子工学 -- 工学 - 総合工学
+post : 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月27日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061567&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 29
+id : D121061188 
+update : 2021年06月19日
+univ : 公立はこだて未来大学・情報システム分野
+title : 公立はこだて未来大学教員募集(准教授または教授 情報システム分野）
+field : 情報学 - 全て
+post : 准教授・常勤専任講師相当 -- 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年09月06日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061188&ln_jor=0&top_btn=1

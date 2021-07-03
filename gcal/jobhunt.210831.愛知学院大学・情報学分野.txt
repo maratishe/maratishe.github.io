@@ -1,0 +1,10 @@
+no : 42
+id : D121061664 
+update : 2021年06月29日
+univ : 愛知学院大学・情報学分野
+title : 教授または、准教授、講師の公募（情報学分野）
+field : 情報学 - 情報システム論、情報インターフェース論が担当できる方
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月31日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061664&ln_jor=0&top_btn=1

@@ -1,0 +1,10 @@
+no : 31
+id : D121061399 
+update : 2021年06月23日
+univ : 龍谷大学・データサイエンス入門
+title : 龍谷大学経済学部・専任教育職員（教授、准教授または講師）「データサイエンス入門」
+field : 社会科学 - 経済学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年09月17日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061399&ln_jor=0&top_btn=1

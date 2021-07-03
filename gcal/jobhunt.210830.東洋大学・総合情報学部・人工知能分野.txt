@@ -1,0 +1,10 @@
+no : 69
+id : D121061616 
+update : 2021年06月24日
+univ : 東洋大学・総合情報学部・人工知能分野
+title : 総合情報学部 総合情報学科 専任教員の公募（人工知能分野）
+field : 情報学 - 人間情報学
+post : 教授相当 -- 准教授・常勤専任講師相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月30日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121061616&ln_jor=0&top_btn=1

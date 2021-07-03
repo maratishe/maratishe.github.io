@@ -1,0 +1,10 @@
+no : 35
+id : D121060931 
+update : 2021年06月15日
+univ : 大阪産業大学・情報学分野
+title : 講師，准教授または教授の公募（情報学分野）
+field : 工学 - 土木工学 -- 情報学 - 全て -- 総合理工 - 計算科学
+post : 准教授・常勤専任講師相当 -- 教授相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月02日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121060931&ln_jor=0&top_btn=1

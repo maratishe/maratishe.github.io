@@ -1,0 +1,10 @@
+no : 49
+id : D121060572 
+update : 2021年06月16日
+univ : 弘前大学・情報系分野助教の公募
+title : 情報系分野助教の公募
+field : 情報学 - 全て
+post : 助教相当
+tenure : 常勤 (任期なし)
+deadline : 2021年08月27日
+url : https://jrecin.jst.go.jp/seek/SeekJorDetail?fn=4&id=D121060572&ln_jor=0&top_btn=1
