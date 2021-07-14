@@ -1,5 +1,11 @@
 このページの[HTML版](./readme.html)は[Markdown版](./readme.md)から自動的に生成されている。
 
+また、この原稿に
+[英語版](http://maratishe.github.io/5dae7e21/) 
+と 
+[日本語版](http://maratishe.github.io/e580f40/readme.html) 、
+両方がある。
+
 <!-- -*- encoding: UTF8 -*- -->
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
 <style>

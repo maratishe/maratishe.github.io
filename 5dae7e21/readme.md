@@ -1,4 +1,10 @@
-the [HTML version](./readme.html) of this page is generated automatically from the [Markdown version](./readme.md).
+The [HTML version](./readme.html) of this page is generated automatically from the [Markdown version](./readme.md).
+
+There are also 
+[English](http://maratishe.github.io/5dae7e21/) 
+and 
+[Japanese](http://maratishe.github.io/e580f40/readme.html) 
+versions of this document. 
 
 <!-- -*- encoding: UTF8 -*- -->
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF8">
