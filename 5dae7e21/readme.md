@@ -12,7 +12,7 @@ versions of this document.
 code { font-weight: bold; color:#f00;border:0px;}
 </style>
 
-updated: 2021-06-27
+updated: 2022-09-01
 
 ## Marat Zhanikeev (extra material to the CV)
 
