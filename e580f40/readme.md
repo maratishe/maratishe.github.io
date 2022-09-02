@@ -12,7 +12,7 @@
 code { font-weight: bold; color:#f00;border:0px;}
 </style>
 
-2021-06-27更新
+2022-09-01更新
 
 ## Marat Zhanikeev (<u>ザニケエフ・マラット</u>) (履歴書への補足資料）
 
